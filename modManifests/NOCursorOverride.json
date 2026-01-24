@@ -1,16 +1,17 @@
 {
     "name":  "NOCursorOverride",
     "description":  "Custom Cursor Override Plugin",
-    "info_url":  "https://github.com/KopterBuzz/NOCursorOverride",
+    "infoUrl":  "https://github.com/KopterBuzz/NOCursorOverride",
     "supportedVersion" : "0.32",
     "authors": ["KopterBuzz"],
     "dependencies" :
     [],
     "artifacts" :
     [
-        {        
+        {   
+            "fileName": "NOCursorOverride-0.0.2.zip",
             "version":  "0.0.2",
-            "artifact_url":  "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
+            "artifactUrl":  "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
             "hash": "",
             "extends" :
             []

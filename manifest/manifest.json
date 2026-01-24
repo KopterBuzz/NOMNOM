@@ -18,7 +18,7 @@
         "fileName": "NOTT_PR_0.6.0.zip",
         "version": "0.6.0",
         "artifactUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0/NOTT_PR_0.6.0.zip",
-        "hash": "",
+        "hash": "sha256:3d58c9987603c4285291ddf18b26525c70c96253eb88666200c298712bddade9",
         "extends": []
       }
     ]
@@ -56,7 +56,7 @@
         "fileName": "NOBlackBox-0.3.8.2.zip",
         "version": "0.3.8.2",
         "artifactUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
-        "hash": "",
+        "hash": "4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
         "extends": []
       },
       {
@@ -71,7 +71,7 @@
   {
     "name": "NOCursorOverride",
     "description": "Custom Cursor Override Plugin",
-    "info_url": "https://github.com/KopterBuzz/NOCursorOverride",
+    "infoUrl": "https://github.com/KopterBuzz/NOCursorOverride",
     "supportedVersion": "0.32",
     "authors": [
       "KopterBuzz"
@@ -79,8 +79,9 @@
     "dependencies": [],
     "artifacts": [
       {
+        "fileName": "NOCursorOverride-0.0.2.zip",
         "version": "0.0.2",
-        "artifact_url": "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
+        "artifactUrl": "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
         "hash": "",
         "extends": []
       }
@@ -97,8 +98,9 @@
     "dependencies": [],
     "artifacts": [
       {
+        "fileName": "NOFrameLimiter-0.0.2.zip",
         "version": "0.0.2",
-        "artifact_url": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
+        "artifactUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
         "hash": "",
         "extends": []
       }

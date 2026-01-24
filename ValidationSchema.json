@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["name", "authors", "dependencies", "artifacts"],
+  "properties": {
+    "name": { "type": "string" },
+    "description": { "type": "string" },
+    "infoUrl": { "type": "string", "format": "uri" },
+    "supportedVersion": { "type": "string" },
+    "authors": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "dependencies": {
+      "type": "array",
+      "items": {}
+    },
+    "artifacts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["fileName", "version", "artifactUrl"],
+        "properties": {
+          "fileName": { "type": "string" },
+          "version": { "type": "string" },
+          "artifactUrl": { "type": "string", "format": "uri" },
+          "hash": { "type": "string" },
+          "extends": {
+            "type": "array",
+            "items": {}
+          }
+        }
+      }
+    }
+  }
+}
