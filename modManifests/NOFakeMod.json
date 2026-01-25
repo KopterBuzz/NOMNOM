@@ -1,0 +1,30 @@
+{
+    "name":  "NOFakeMod_1",
+    "description":  "FakeMod_1 for Testing",
+    "infoUrl":  "https://github.com/KopterBuzz/NOFakeMod_1",
+    "supportedVersion" : "0.32",
+    "authors": ["KopterBuzz"],
+    "dependencies" :
+    [
+                {
+                    "name" : "NOBlackBox",
+                    "minimumVersion" : "0.3.8.2"
+                }  
+    ],
+    "artifacts" :
+    [
+        {
+            "fileName" : "NOFakeMod_1-1.0.0.0.zip",        
+            "version":  "0.3.8.2",
+            "artifactUrl":  "https://github.com/KopterBuzz/NOFakeMod_1/releases/download/1.0.0.0/NOBlackBox-1.0.0.0.zip",
+            "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+            "extends" :
+            [
+                {
+                    "name" : "NOBlackBox",
+                    "minimumVersion" : "0.3.8.2"
+                }            
+            ]
+        }
+    ]
+}
