@@ -1,33 +1,62 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
-  "required": ["name", "authors", "dependencies", "artifacts"],
+  "required": ["id","displayName", "description", "authors", "artifacts", "infoUrl"],
   "properties": {
-    "name": { "type": "string" },
+    "id" : {"type": "string" },
+    "displayName": { "type": "string" },
     "description": { "type": "string" },
+    "tags" : {
+      "type" : "array",
+      "items" : {"type" : "string"}
+    },
     "infoUrl": { "type": "string", "format": "uri" },
-    "supportedVersion": { "type": "string" },
     "authors": {
       "type": "array",
       "items": { "type": "string" }
-    },
-    "dependencies": {
-      "type": "array",
-      "items": {}
     },
     "artifacts": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["fileName", "version", "artifactUrl"],
+        "required": ["fileName", "version", "downloadUrl", "category", "type"],
         "properties": {
           "fileName": { "type": "string" },
           "version": { "type": "string" },
-          "artifactUrl": { "type": "string", "format": "uri" },
+          "category": { "type": "string"},
+          "type": { "type": "string"},
+          "gameVersion": { "type": "string" },
+          "downloadUrl": { "type": "string", "format": "uri" },
           "hash": { "type": "string" },
           "extends": {
+            "type": "object",
+            "required" : ["id","version"],
+            "properties": {
+              "id" : { "type": "string" },
+              "version": { "type": "string" }
+            }
+          },
+          "dependencies": { 
             "type": "array",
-            "items": {}
+            "items": {
+              "type": "object",
+              "required" : ["id","version"],
+              "properties": {
+                "id" : { "type": "string" },
+                "version": { "type": "string" }
+              }
+            }
+          },
+          "incompatibilities": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required" : ["id","version"],
+              "properties": {
+                "id" : { "type": "string" },
+                "version": { "type": "string" }
+              }
+            }
           }
         }
       }
