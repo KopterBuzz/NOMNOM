@@ -25,7 +25,7 @@ jobs:
         uses: tj-actions/changed-files@v45 
         with:
           files: |
-             **/*.json
+             **/modManifests/*.json
 
       - name: Run Script on Changed Files
         if: steps.changed-files.outputs.any_changed == 'true'
