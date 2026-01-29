@@ -17,6 +17,8 @@ This structure allows forming the following relationships:
 - Incompatibility Flags
 - Add-On-Mod Relationships (such as Voice Packs for WSO Yappinator, or Tacview Asset Packs for modded content, for example)
 
+To contribute your own Mod Manifests, please see [HOW TO CONTRIBUTE MOD MANIFESTS](#how-to-contribute-mod-manifests)
+
 For a raw overview of the Schema, please check [Validation Schema.](./ValidationSchema.json)
 
 For full detailed overview of the Schema, please continue reading.
