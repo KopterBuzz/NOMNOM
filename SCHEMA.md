@@ -151,7 +151,7 @@ version must be the latest known version this mod is incompatible with
 1. Fork the repository (check fork all branches)
 2. Check out the ```Staging``` branch to make sure you are working on the correct branch
 
-    (branch protection rules will prevent you to submit PRs to main)
+    (branch protection rules will prevent you from submitting PRs directly to main, or otherwise denied from merging)
 
 3. Create your own mod manifest(s) based on the schema described above
 4. Submit a pull request to the staging branch
