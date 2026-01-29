@@ -109,8 +109,11 @@ For full detailed overview of the Schema, please continue reading.
 
 - REQUIRED IF
     - CATEGORY IS addOn
-- Format: Mod id as string
-- This should match the known manifest id of the mod this artifact extends
+- Format: Object
+```
+id : Mod id as string
+version : Mod version as string
+```
 
 ### dependencies
 
