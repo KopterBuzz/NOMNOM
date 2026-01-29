@@ -52,18 +52,18 @@ For full detailed overview of the Schema, please continue reading.
 
 ### tags
 
-- format: array of strings
+- Format: array of strings
 - different tags, sucha as "QoL","Art","Aircraft","Terrain","Flavor","Server"
 
 ### infoUrl
 
 - REQUIRED
-- format: URI
-- This should be a link to a site where more information is available about the mod e.g. a GitHub Page, or similar.
+- Format: URI
+- This should be a link to a site where more inFormation is available about the mod e.g. a GitHub Page, or similar.
 
 ### authors
 
-- format: array of strings
+- Format: array of strings
 - this should be a list of authors who created the Mod
 
 ## Artifact Object Properties
@@ -85,7 +85,7 @@ For full detailed overview of the Schema, please continue reading.
 ### hash
 
 - REQUIRED
-- format: sha256 hash string, as copy-pastable from GitHub Releases: ```sha256:yourfilehashgoeshere```
+- Format: sha256 hash string, as copy-pastable from GitHub Releases: ```sha256:yourfilehashgoeshere```
 - sha256 hash of the aforementioned downloadable content file
 
 ### gameVersion
@@ -149,11 +149,17 @@ version must be the latest known version this mod is incompatible with
 ## HOW TO CONTRIBUTE MOD MANIFESTS
 
 1. Fork the repository (check fork all branches)
-2. Check out the ```Staging``` branch to make sure you are working on the correct branch
+2. Check out the ```staging``` branch to make sure you are working on the correct branch
 
     (branch protection rules will prevent you from submitting PRs directly to main, or otherwise denied from merging)
 
 3. Create your own mod manifest(s) based on the schema described above
-4. Submit a pull request to the staging branch
-5. Github Actions Workflow will validate the Schema and Content, then declare the PR allowed to merge if successful
+4. Submit a Pull Request to the staging branch
+5. Github Actions Workflow will validate the Schema and Content, then declare the Pull Request allowed to merge if successful
 6. A Human will review and approve the merge is no issues found
+
+## HOW TO CONTRIBUTE ANYTHING ELSE
+1. Fork the repository (check fork all branches)
+2. Check out the ```dev``` branch to make sure you are working on the correct branch
+3. Submit a Pull Request WITH DETAILED EXPLANATION of your changes to the dev branch
+4. Your Pull Request will be discussed and approved to merge if appropriate
