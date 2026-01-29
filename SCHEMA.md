@@ -19,6 +19,8 @@ This structure allows forming the following relationships:
 
 To contribute your own Mod Manifests, please see [HOW TO CONTRIBUTE MOD MANIFESTS](#how-to-contribute-mod-manifests)
 
+To otherwise contribute to the project, please see [HOW TO CONTRIBUTE ANYTHING ELSE](#how-to-contribute-anything-else)
+
 For a raw overview of the Schema, please check [Validation Schema.](./ValidationSchema.json)
 
 For full detailed overview of the Schema, please continue reading.
