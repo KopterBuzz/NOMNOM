@@ -351,6 +351,30 @@
     ]
   },
   {
+    "id": "RuntimeUnityEditor",
+    "displayName": "RuntimeUnityEditor",
+    "description": "In-game inspector and debugging tools for applications made with Unity3D game engine",
+    "tags": [
+      "mod",
+      "devtools"
+    ],
+    "infoUrl": "https://github.com/ManlyMarco/RuntimeUnityEditor",
+    "authors": [
+      "ManlyMarco"
+    ],
+    "artifacts": [
+      {
+        "fileName": "RuntimeUnityEditor.Bepin5_v6.3.zip",
+        "version": "6.3",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/ManlyMarco/RuntimeUnityEditor/releases/download/v6.3/RuntimeUnityEditor.Bepin5_v6.3.zip",
+        "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
+      }
+    ]
+  },
+  {
     "id": "skyeye_voice",
     "displayName": "AWACS Sky Eye",
     "description": "[Voice Pack] Custom AWACS dialogue lines for Sky Eye.",
