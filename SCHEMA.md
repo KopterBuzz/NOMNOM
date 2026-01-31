@@ -158,7 +158,7 @@ version must be the latest known version this mod is incompatible with
 3. Create your own mod manifest(s) based on the schema described above
 4. Submit a Pull Request to the staging branch
 5. Github Actions Workflow will validate the Schema and Content, then declare the Pull Request allowed to merge if successful
-6. A Human will review and approve the merge is no issues found
+6. A Human will review and approve the merge if no issues found
 
 ## HOW TO CONTRIBUTE ANYTHING ELSE
 1. Fork the repository (check fork all branches)

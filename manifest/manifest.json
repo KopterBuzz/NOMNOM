@@ -143,7 +143,7 @@
   },
   {
     "id": "no-autopilot-mod",
-    "displayName": "Livery Plus",
+    "displayName": "NOAutopilot",
     "description": "autopilot mod for nuclear option",
     "tags": [
       "mod",
@@ -155,7 +155,7 @@
     ],
     "artifacts": [
       {
-        "fileName": "LiveryPlusBepInEx.zip",
+        "fileName": "com.qwerty1423.NOAutopilot-4.13.9.zip",
         "version": "4.13.9",
         "category": "release",
         "type": "plugin",
@@ -256,7 +256,7 @@
         "type": "plugin",
         "gameVersion": "0.32",
         "downloadUrl": "https://github.com/nikkorap/NOLiveryPlus/releases/download/BepinexMod/LiveryPlusBepInEx.zip",
-        "hash": "sha256:8fc8c1676aeb314adcdaa2b4c1eb2c4245bbfc030de0e046f00afd7b23921940"
+        "hash": "sha256:8ec3f19aeeda9e622dbf115e36067a337c99e091019bf0649aeb0f3c705c9acd"
       }
     ]
   },

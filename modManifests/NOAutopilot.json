@@ -1,20 +1,24 @@
-{
+  {
     "id": "no-autopilot-mod",
-    "displayName":  "Livery Plus",
-    "description":  "autopilot mod for nuclear option",
-    "tags":["mod","QoL"],
-    "infoUrl":  "https://github.com/qwerty1423/no-autopilot-mod",
-    "authors": ["qwerty1423"],
-    "artifacts" :
-    [
-        {
-            "fileName" : "LiveryPlusBepInEx.zip",        
-            "version":  "4.13.9",
-            "category": "release",
-            "type": "plugin",
-            "gameVersion": "0.32",
-            "downloadUrl":  "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.13.9/com.qwerty1423.NOAutopilot-4.13.9.zip",
-            "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
-        }
+    "displayName": "NOAutopilot",
+    "description": "autopilot mod for nuclear option",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "infoUrl": "https://github.com/qwerty1423/no-autopilot-mod",
+    "authors": [
+      "qwerty1423"
+    ],
+    "artifacts": [
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.13.9.zip",
+        "version": "4.13.9",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.13.9/com.qwerty1423.NOAutopilot-4.13.9.zip",
+        "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
+      }
     ]
-}
+  }
