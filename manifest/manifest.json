@@ -1,5 +1,29 @@
 [
   {
+    "id": "BepInEx.ConfigurationManager",
+    "displayName": "BepInEx Configuration Manager",
+    "description": "Plugin configuration manager for BepInEx",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "infoUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
+    "authors": [
+      "BepInEx"
+    ],
+    "artifacts": [
+      {
+        "fileName": "BepInEx.ConfigurationManager_BepInEx5_v18.4.1.zip",
+        "version": "18.4.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v18.4.1/BepInEx.ConfigurationManager_BepInEx5_v18.4.1.zip",
+        "hash": "sha256:9eb19791508a2acb973dfb2bcd196c631fb53cf041c462d69d889e515115aa53"
+      }
+    ]
+  },
+  {
     "id": "galaxy2_voice",
     "displayName": "Galaxy 2",
     "description": "[Voice Pack] Expanded AWACS Galaxy dialogue pack.",
@@ -136,6 +160,10 @@
           {
             "id": "no-autopilot-mod",
             "version": "4.13.9"
+          },
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
           }
         ]
       }
@@ -185,7 +213,13 @@
         "type": "plugin",
         "gameVersion": "0.32",
         "downloadUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
-        "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf"
+        "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
       }
     ]
   },

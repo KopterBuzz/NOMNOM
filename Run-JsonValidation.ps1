@@ -15,4 +15,19 @@ foreach ($mod in $modManifestFiles)
     }
 
 }
+try {
+    $newManifestData = @()
+    foreach ($mod in $modManifestFiles)
+    {
+        $data = Get-Content $mod | ConvertFrom-Json -Depth 1000
+        $newManifestData+=$data
+        Clear-Variable data
+    }
+    $newManifestData | ConvertTo-Json -Depth 100 | Set-Content -Path ".\manifest\test.json" -Encoding utf8NoBOM
+}
+catch 
+{
+    Write-Error "Failed to generate new manifest"
+    Exit 1
+}
 Exit 0

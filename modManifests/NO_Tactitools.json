@@ -20,6 +20,10 @@
                 {
                     "id": "no-autopilot-mod",
                     "version": "4.13.9"
+                },
+                {
+                    "id": "BepInEx.ConfigurationManager",
+                    "version": "18.4.1"
                 }
             ]
         }

@@ -15,7 +15,7 @@
             "gameVersion": "0.32",
             "downloadUrl":  "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
             "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
-            "dependencies": 
+            "dependencies":
             [
                 {
                     "id": "BepInEx.ConfigurationManager",
