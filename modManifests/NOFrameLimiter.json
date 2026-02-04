@@ -21,8 +21,16 @@
       "type": "plugin",
       "gameVersion": "0.32",
       "downloadUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
-      "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793"
+      "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793",
+      "dependencies" :
+      [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
     }
   ],
-  "downloadCount": 79
+  "downloadCount": 71
 }
+
