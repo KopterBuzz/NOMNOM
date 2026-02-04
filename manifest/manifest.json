@@ -24,7 +24,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 31
+    "downloadCount": 36
   },
   {
     "id": "bepinex-soundmod",
@@ -51,7 +51,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 80
+    "downloadCount": 90
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -222,7 +222,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 118
+    "downloadCount": 124
   },
   {
     "id": "NO_Tactitools",
@@ -279,7 +279,7 @@
         ]
       }
     ],
-    "downloadCount": 1584
+    "downloadCount": 1606
   },
   {
     "id": "no-autopilot-mod",
@@ -298,9 +298,19 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "com.qwerty1423.NOAutopilot-4.14.0.zip",
+        "version": "4.14.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.14.0/com.qwerty1423.NOAutopilot-4.14.0.zip",
+        "hash": null
+      },
+      {
         "fileName": "com.qwerty1423.NOAutopilot-4.13.13.zip",
         "version": "4.13.13",
         "category": "release",
+        "type": "plugin",
         "gameVersion": "0.32",
         "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.13.13/com.qwerty1423.NOAutopilot-4.13.13.zip",
         "hash": null
@@ -315,7 +325,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 638
+    "downloadCount": 658
   },
   {
     "id": "NOBlackBox",
@@ -349,7 +359,7 @@
         ]
       }
     ],
-    "downloadCount": 1558
+    "downloadCount": 1390
   },
   {
     "id": "NOCursorOverride",
@@ -376,7 +386,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 56
+    "downloadCount": 7
   },
   {
     "id": "NOFrameLimiter",
@@ -404,7 +414,7 @@
         "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793"
       }
     ],
-    "downloadCount": 71
+    "downloadCount": 79
   },
   {
     "id": "NOLiveryPlus",
@@ -460,7 +470,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 44
+    "downloadCount": 49
   },
   {
     "id": "pixy_voice",
@@ -546,7 +556,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 114981
+    "downloadCount": 115011
   },
   {
     "id": "skyeye_voice",
@@ -603,7 +613,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 387
+    "downloadCount": 390
   },
   {
     "id": "YawOnMouse",
@@ -630,6 +640,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 165
+    "downloadCount": 171
   }
 ]
