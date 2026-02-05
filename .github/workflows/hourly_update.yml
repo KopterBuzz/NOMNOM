@@ -28,7 +28,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          .\Run-AutoUpdate.ps1 -Token $env:GITHUB_TOKEN
+          Write-Host "Current directory: $(Get-Location)"
+          get-childitem .
+          .\Run-AutoUpdates.ps1 -Token $env:GITHUB_TOKEN
           if (!$LASTEXITCODE -eq 0)
           {
             EXIT 1
