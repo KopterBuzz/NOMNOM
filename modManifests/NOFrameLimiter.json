@@ -6,7 +6,12 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": [{"name":"info","url":"https://github.com/KopterBuzz/NOFrameLimiter"}],
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/KopterBuzz/NOFrameLimiter"
+    }
+  ],
   "authors": [
     "KopterBuzz"
   ],
@@ -22,14 +27,10 @@
       "gameVersion": "0.32",
       "downloadUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
       "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793",
-      "dependencies" :
-      [
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
+      "dependencies": [
+        null
       ]
     }
   ],
-  "downloadCount": 71
+  "downloadCount": 89
 }
