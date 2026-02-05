@@ -5,7 +5,12 @@
   "tags": [
     "mod"
   ],
-  "infoUrl": [{"name":"info","url":"https://github.com/Ol1vver/bepinex-soundmod"}],
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/Ol1vver/bepinex-soundmod"
+    }
+  ],
   "authors": [
     "Ol1vver"
   ],
@@ -23,5 +28,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 80
+  "downloadCount": 132
 }

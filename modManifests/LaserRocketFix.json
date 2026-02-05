@@ -5,7 +5,12 @@
   "tags": [
     "mod"
   ],
-  "infoUrl": [{"name":"info","url":"https://github.com/downloadpizza/LaserRocketFix/"}],
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/downloadpizza/LaserRocketFix/"
+    }
+  ],
   "authors": [
     "downloadpizza"
   ],
@@ -23,5 +28,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 118
+  "downloadCount": 134
 }

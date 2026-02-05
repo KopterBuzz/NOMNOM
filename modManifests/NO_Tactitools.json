@@ -6,7 +6,12 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": [{"name":"info","url":"https://github.com/clumzy/NO_Tactitools"}],
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/clumzy/NO_Tactitools"
+    }
+  ],
   "authors": [
     "\"George\""
   ],
@@ -23,14 +28,8 @@
       "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0.2/NOTT_PR_0.6.0.2.zip",
       "hash": null,
       "dependencies": [
-        {
-          "id": "no-autopilot-mod",
-          "version": "4.13.9"
-        },
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
+        null,
+        null
       ]
     },
     {
@@ -53,5 +52,5 @@
       ]
     }
   ],
-  "downloadCount": 1584
+  "downloadCount": 1667
 }

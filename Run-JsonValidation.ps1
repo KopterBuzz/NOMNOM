@@ -24,7 +24,8 @@ try {
         $newManifestData+=$data
         Clear-Variable data
     }
-    $newManifestData | ConvertTo-Json -Depth 100 | Set-Content -Path ".\manifest\test.json" -Encoding utf8NoBOM
+    $newManifestData | ConvertTo-Json -Depth 100 | Set-Content -Path ".\manifest\manifest.json" -Encoding utf8NoBOM
+    Write-Host ALL VALIDATIONS CHECKS SUCCEEDED! -ForegroundColor Green
 }
 catch 
 {

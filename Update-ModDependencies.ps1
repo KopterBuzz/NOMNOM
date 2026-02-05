@@ -1,4 +1,18 @@
-param($mod,$allModsHashTable,$test)
+param($modPath="C:\code\NOModManifestTesting\modManifests\NO_Tactitools.json",$allModsHashTable=$(((Get-ChildItem ".\test\" -Filter "*.json").FullName | foreach {Get-Content $_ | ConvertFrom-Json -Depth 100}) | group id -AsHashTable),$test=$true)
+
+$mod = $null
+try {
+    $mod = get-content $modPath | ConvertFrom-Json
+} catch {
+    $error[0]
+    Exit 1
+}
+
+if (!$mod)
+{
+    Write-Host $modPath not found!
+    Exit 1
+}
 
 Function SaveAndClose($mod_,[bool]$test_)
 {
@@ -24,15 +38,17 @@ $newDeps = @()
 if ($mod.artifacts[0].dependencies)
 {   
     foreach ($dependency in $mod.artifacts[0].dependencies)
-    {
+    {       
         $dep = [PSCustomObject]@{
-            id = $($allMods[$dependency.id]).id
-            version = @($allMods[$dependency.id]).artifacts[0].version
+            id = $($allModsHashTable[$dependency.id]).id
+            version = @($allModsHashTable[$dependency.id]).artifacts[0].version
         }
         $newDeps+=$dep
         Remove-Variable dep
+        
     }
+    $mod.artifacts[0].dependencies = @($newDeps)
 }
-$mod.artifacts[0].dependencies = @($newDeps)
+
 
 SaveAndClose -mod_ $mod -test_ $test

@@ -1,4 +1,4 @@
-param($mod,$gitHubToken = $(Get-Content ".\testing_gitignore.token"), [bool]$test)
+param($modPath,$gitHubToken = $(Get-Content ".\testing_gitignore.token"), [bool]$test)
 . .\Get-GitHubReleases.ps1
 Function SaveAndClose($mod_,[bool]$test_)
 {
@@ -34,6 +34,20 @@ Function SortByVersion($artifacts_)
         remove-variable obj
     }
     return ($output | sort version -Descending | select -ExpandProperty artifact)
+}
+
+$mod = $null
+try {
+    $mod = get-content $modPath | ConvertFrom-Json
+} catch {
+    $error[0]
+    Exit 1
+}
+
+if (!$mod)
+{
+    Write-Host $modPath not found!
+    Exit 1
 }
 
 $downloadCount = 0

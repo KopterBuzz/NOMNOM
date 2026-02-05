@@ -6,7 +6,12 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": [{"name":"info","url":"https://github.com/TYKUHN2/NuclearVOIP"}],
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/TYKUHN2/NuclearVOIP"
+    }
+  ],
   "authors": [
     "TYKUHN2"
   ],
@@ -24,5 +29,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 44
+  "downloadCount": 54
 }
