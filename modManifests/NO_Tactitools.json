@@ -28,8 +28,14 @@
       "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0.2/NOTT_PR_0.6.0.2.zip",
       "hash": null,
       "dependencies": [
-        null,
-        null
+        {
+          "id": "no-autopilot-mod",
+          "version": "4.15.1"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
       ]
     },
     {

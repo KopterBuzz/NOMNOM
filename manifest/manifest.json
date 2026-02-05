@@ -294,8 +294,14 @@
         "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0.2/NOTT_PR_0.6.0.2.zip",
         "hash": null,
         "dependencies": [
-          null,
-          null
+          {
+            "id": "no-autopilot-mod",
+            "version": "4.15.1"
+          },
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
         ]
       },
       {
@@ -419,7 +425,10 @@
         "downloadUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
         "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
         "dependencies": [
-          null
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
         ]
       }
     ],
@@ -487,7 +496,10 @@
         "downloadUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
         "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793",
         "dependencies": [
-          null
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
         ]
       }
     ],
