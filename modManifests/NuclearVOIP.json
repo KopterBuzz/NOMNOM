@@ -6,7 +6,7 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": ["info,https://github.com/TYKUHN2/NuclearVOIP"],
+  "infoUrl": [{"name":"info","url":"https://github.com/TYKUHN2/NuclearVOIP"}],
   "authors": [
     "TYKUHN2"
   ],

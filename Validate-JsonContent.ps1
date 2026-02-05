@@ -31,13 +31,7 @@ function Validate-InfoURLs
     Param($infoURLs)
     foreach ($url in $infoURLs)
     {
-        $split = $url -split ","
-        if (!$split[1])
-        {
-            LogError("$url failed URL validation!")
-            return $false
-        }
-        $isURL = [uri]::IsWellFormedUriString($split[1], 'Absolute') -and ([uri]$split[1]).Scheme -eq 'https'
+        $isURL = [uri]::IsWellFormedUriString($url.url, 'Absolute') -and ([uri]$url.url).Scheme -eq 'https'
         if (!$isURL)
         {
             LogError("$URL failed URL validation!")

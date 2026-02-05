@@ -6,7 +6,7 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": ["info,https://github.com/clumzy/NO_Tactitools"],
+  "infoUrl": [{"name":"info","url":"https://github.com/clumzy/NO_Tactitools"}],
   "authors": [
     "\"George\""
   ],

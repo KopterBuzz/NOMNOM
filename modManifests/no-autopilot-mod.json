@@ -6,7 +6,7 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": ["info,https://github.com/qwerty1423/no-autopilot-mod"],
+  "infoUrl": [{"name":"info","url":"https://github.com/qwerty1423/no-autopilot-mod"}],
   "authors": [
     "qwerty1423"
   ],

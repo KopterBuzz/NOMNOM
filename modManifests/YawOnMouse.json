@@ -5,7 +5,7 @@
   "tags": [
     "mod"
   ],
-  "infoUrl": ["info,https://github.com/muji2498/YawOnMouse/"],
+  "infoUrl": [{"name":"info","url":"https://github.com/muji2498/YawOnMouse/"}],
   "authors": [
     "muji2498"
   ],
