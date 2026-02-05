@@ -1,15 +1,16 @@
+Param($token)
 $modManifestFiles = Get-ChildItem ".\modManifests" -Filter "*.json"
 
 
 foreach ($mod in $modManifestFiles)
 {
-    .\Update-ModArtifact.ps1 -modPath $mod -gitHubToken $(Get-Content ".\testing_gitignore.token") -test $false
+    .\Update-ModArtifact.ps1 -modPath $mod -gitHubToken $token -test $false
 }
 
 $allModsHashTable = ((Get-ChildItem ".\modManifests\" -Filter "*.json").FullName | foreach {Get-Content $_ | ConvertFrom-Json -Depth 100}) | group id -AsHashTable
 foreach ($mod in $modManifestFiles)
 {
-    .\Update-ModDependencies.ps1 -modPath $mod -allModsHashTable $allModsHashTable -gitHubToken $(Get-Content ".\testing_gitignore.token") -test $false
+    .\Update-ModDependencies.ps1 -modPath $mod -allModsHashTable $allModsHashTable -gitHubToken $token -test $false
 }
 
 
