@@ -5,7 +5,7 @@
   "tags": [
     "mod"
   ],
-  "infoUrl": ["info,https://github.com/Ol1vver/bepinex-soundmod"],
+  "infoUrl": [{"name":"info","url":"https://github.com/Ol1vver/bepinex-soundmod"}],
   "authors": [
     "Ol1vver"
   ],

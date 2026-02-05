@@ -5,7 +5,7 @@
   "tags": [
     "QoL"
   ],
-  "infoUrl": ["info,https://github.com/KopterBuzz/NOCursorOverride"],
+  "infoUrl": [{"name":"info","url":"https://github.com/KopterBuzz/NOCursorOverride"}],
   "authors": [
     "KopterBuzz"
   ],
