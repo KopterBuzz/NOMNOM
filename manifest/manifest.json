@@ -199,7 +199,7 @@
   },
   {
     "id": "LaserRocketFix",
-    "displayName": "Yaw On Mouse",
+    "displayName": "LaserRocketFix",
     "description": "This mod disables firing laser guided rockets at unlased targets. So for example chicane will only ever fire at a maximum of 4 targets, and only at those that it actually has line of sight to.",
     "tags": [
       "mod"
