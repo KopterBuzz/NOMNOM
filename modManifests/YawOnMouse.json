@@ -1,16 +1,11 @@
 {
   "id": "YawOnMouse",
   "displayName": "Yaw On Mouse",
-  "description": "Yaw On Mouse allows you to control the Yaw axis instead of the Roll axis with the Mouse",
+  "description": "QoL mod which should benefit colourblind players, plus the ability to toggle player names on and off. (Player names appear above the aircraft triangle symbol in online matches, for better situational awareness of who is who.)",
   "tags": [
     "mod"
   ],
-  "urls": [
-    {
-      "name": "info",
-      "url": "https://github.com/muji2498/YawOnMouse/"
-    }
-  ],
+  "infoUrl": ["info,https://github.com/muji2498/YawOnMouse/"],
   "authors": [
     "muji2498"
   ],
@@ -18,42 +13,6 @@
   "githubRepoName": "YawOnMouse",
   "autoUpdateArtifacts": "True",
   "artifacts": [
-    {
-      "fileName": "YawOnMouse.dll",
-      "version": "2.1.0",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/muji2498/YawOnMouse/releases/download/2.1.0/YawOnMouse.dll",
-      "hash": "sha256:4e1895fd6182e668cc6e20a91dd428641024602a5881955ab2e1e40c8be01e63"
-    },
-    {
-      "fileName": "YawOnMouse.dll",
-      "version": "2.0.0",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/muji2498/YawOnMouse/releases/download/2.0.0/YawOnMouse.dll",
-      "hash": "sha256:05acd15adf2b2aa455005bd045065a6ff2ca55bc3f5995ad3534bd69439055e5"
-    },
-    {
-      "fileName": "YawOnMouse.dll",
-      "version": "1.1.1",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/muji2498/YawOnMouse/releases/download/1.1.1/YawOnMouse.dll",
-      "hash": null
-    },
-    {
-      "fileName": "YawOnMouse.dll",
-      "version": "1.1.0",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/muji2498/YawOnMouse/releases/download/1.1.0/YawOnMouse.dll",
-      "hash": null
-    },
     {
       "fileName": "YawOnMouse.dll",
       "version": "1.0.0",
@@ -64,5 +23,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 927
+  "downloadCount": 165
 }

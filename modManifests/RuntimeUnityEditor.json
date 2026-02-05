@@ -6,12 +6,7 @@
     "mod",
     "devtools"
   ],
-  "urls": [
-    {
-      "name": "info",
-      "url": "https://github.com/ManlyMarco/RuntimeUnityEditor"
-    }
-  ],
+  "infoUrl": ["info,https://github.com/ManlyMarco/RuntimeUnityEditor"],
   "authors": [
     "ManlyMarco"
   ],
@@ -24,10 +19,10 @@
       "version": "6.3",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.33",
+      "gameVersion": "0.32",
       "downloadUrl": "https://github.com/ManlyMarco/RuntimeUnityEditor/releases/download/v6.3/RuntimeUnityEditor.Bepin5_v6.3.zip",
       "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
     }
   ],
-  "downloadCount": 123804
+  "downloadCount": 114981
 }

@@ -6,12 +6,7 @@
     "mod",
     "QoL"
   ],
-  "urls": [
-    {
-      "name": "info",
-      "url": "https://github.com/BepInEx/BepInEx.ConfigurationManager"
-    }
-  ],
+  "infoUrl": ["info,https://github.com/BepInEx/BepInEx.ConfigurationManager"],
   "authors": [
     "BepInEx"
   ],
@@ -24,7 +19,7 @@
       "version": "18.4.1",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.33",
+      "gameVersion": "0.32",
       "downloadUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v18.4.1/BepInEx.ConfigurationManager_BepInEx5_v18.4.1.zip",
       "hash": "sha256:9eb19791508a2acb973dfb2bcd196c631fb53cf041c462d69d889e515115aa53"
     }

@@ -6,12 +6,7 @@
     "mod",
     "QoL"
   ],
-  "urls": [
-    {
-      "name": "info",
-      "url": "https://github.com/clumzy/NO_Tactitools"
-    }
-  ],
+  "infoUrl": ["info,https://github.com/clumzy/NO_Tactitools"],
   "authors": [
     "\"George\""
   ],
@@ -19,139 +14,6 @@
   "githubRepoName": "NO_Tactitools",
   "autoUpdateArtifacts": "True",
   "artifacts": [
-    {
-      "fileName": "NOTT_PR_0.7.2.zip",
-      "version": "0.7.2",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.2/NOTT_PR_0.7.2.zip",
-      "hash": "sha256:a3dcb931850d638d14a7b147ee24ed2dfc4d90c8a19997cd68ae114fb0fa230e",
-      "dependencies": [
-        {
-          "id": "no-autopilot-mod",
-          "version": "5.4.0"
-        },
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
-      ]
-    },
-    {
-      "fileName": "NOTT_PR_0.7.1.1.zip",
-      "version": "0.7.1.1",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.1.1/NOTT_PR_0.7.1.1.zip",
-      "hash": null,
-      "dependencies": [
-        {
-          "id": "no-autopilot-mod",
-          "version": "5.4.0"
-        },
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
-      ]
-    },
-    {
-      "fileName": "NOTT_PR_0.7.1.zip",
-      "version": "0.7.1",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.1/NOTT_PR_0.7.1.zip",
-      "hash": null,
-      "dependencies": [
-        {
-          "id": "no-autopilot-mod",
-          "version": "5.0.0"
-        },
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
-      ]
-    },
-    {
-      "fileName": "NOTT_PR_0.7.0.3.zip",
-      "version": "0.7.0.3",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0.3/NOTT_PR_0.7.0.3.zip",
-      "hash": null,
-      "dependencies": [
-        {
-          "id": "no-autopilot-mod",
-          "version": "4.17.4"
-        },
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
-      ]
-    },
-    {
-      "fileName": "NOTT_PR_0.7.0.2.zip",
-      "version": "0.7.0.2",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0.2/NOTT_PR_0.7.0.2.zip",
-      "hash": null,
-      "dependencies": [
-        {
-          "id": "no-autopilot-mod",
-          "version": "4.17.3"
-        },
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
-      ]
-    },
-    {
-      "fileName": "NOTT_PR_0.7.0.1.zip",
-      "version": "0.7.0.1",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0.1/NOTT_PR_0.7.0.1.zip",
-      "hash": null,
-      "dependencies": [
-        {
-          "id": "no-autopilot-mod",
-          "version": "4.17.2"
-        },
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
-      ]
-    },
-    {
-      "fileName": "NOTT_PR_0.7.0.zip",
-      "version": "0.7.0",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0/NOTT_PR_0.7.0.zip",
-      "hash": null,
-      "dependencies": [
-        {
-          "id": "no-autopilot-mod",
-          "version": "4.17.2"
-        },
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
-      ]
-    },
     {
       "fileName": "NOTT_PR_0.6.0.2.zip",
       "version": "0.6.0.2",
@@ -163,7 +25,7 @@
       "dependencies": [
         {
           "id": "no-autopilot-mod",
-          "version": "4.17.1"
+          "version": "4.13.9"
         },
         {
           "id": "BepInEx.ConfigurationManager",
@@ -191,5 +53,5 @@
       ]
     }
   ],
-  "downloadCount": 13767
+  "downloadCount": 1584
 }

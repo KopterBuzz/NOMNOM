@@ -6,12 +6,7 @@
     "voicepack",
     "QoL"
   ],
-  "urls": [
-    {
-      "name": "info",
-      "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
-    }
-  ],
+  "infoUrl": ["info,https://github.com/nikkorap/NO-WSO-Yappinator"],
   "authors": [
     "Nikkorap"
   ],

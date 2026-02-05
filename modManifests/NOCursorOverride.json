@@ -5,12 +5,7 @@
   "tags": [
     "QoL"
   ],
-  "urls": [
-    {
-      "name": "info",
-      "url": "https://github.com/KopterBuzz/NOCursorOverride"
-    }
-  ],
+  "infoUrl": ["info,https://github.com/KopterBuzz/NOCursorOverride"],
   "authors": [
     "KopterBuzz"
   ],
@@ -23,10 +18,10 @@
       "version": "0.0.2",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.33",
+      "gameVersion": "0.32",
       "downloadUrl": "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
-      "hash": "sha256:0af5bd580d11285c5723828da014cf99f00e784dd14b7b40ea700a63e127449b"
+      "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
     }
   ],
-  "downloadCount": 529
+  "downloadCount": 56
 }
