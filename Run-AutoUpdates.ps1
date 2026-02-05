@@ -21,7 +21,7 @@ try {
         $newManifestData+=$data
         Clear-Variable data
     }
-    $newManifestData | ConvertTo-Json -Depth 100 | Set-Content -Path ".\manifest\manifest.json" -Encoding utf8NoBOM -Force
+    #$newManifestData | ConvertTo-Json -Depth 100 | Set-Content -Path ".\manifest\manifest.json" -Encoding utf8NoBOM -Force
     Write-Host AUTO UPDATE SUCCEEDED SUCCEEDED! -ForegroundColor Green
 }
 catch 
@@ -29,7 +29,5 @@ catch
     Write-Error "Failed to generate new manifest"
     Exit 1
 }
-
-.\Increment-ManifestVersion.ps1
 
 Exit 0

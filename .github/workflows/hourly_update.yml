@@ -6,15 +6,12 @@ name: Hourly Update
 on:
   schedule:
     # Runs every hour at minute 0
-    - cron: '22 * * * *'
+    - cron: '0 * * * *'
   # Optional: allows manual triggering from Actions tab
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-permissions:
-  contents: write
-  
 jobs:
   update-files:
     runs-on: windows-latest
@@ -23,32 +20,25 @@ jobs:
       - name: Checkout specific branch
         uses: actions/checkout@v4
         with:
-          ref: main  # Replace with your branch name
+          ref: dev  # Replace with your branch name
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Run Validation
         shell: pwsh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          get-childitem .
-          .\Run-AutoUpdates.ps1 -Token $env:GITHUB_TOKEN
+          .\Run-AutoUpdate.ps1
           if (!$LASTEXITCODE -eq 0)
           {
-            $error
             EXIT 1
           }
           .\Run-JsonValidation.ps1
           if (!$LASTEXITCODE -eq 0)
           {
-            $error
             EXIT 1
           }
           .\Increment-ManifestVersion.ps1
       - name: Commit and push changes
         shell: pwsh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
