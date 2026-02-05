@@ -19,3 +19,7 @@ However, there are some basic requirements in order for NOMNOM to keep itself up
 
  This is not directly related to the above, but at the moment Mod Manager software that depends on NOMNOM expects the following criteria also:
  - your Mod(s) must work with BepInEx 5
+
+ To make NOMNOM aware of a new Mod, follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
+
+ If you would like to help improving NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-anything-else)
