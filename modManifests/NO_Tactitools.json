@@ -30,7 +30,7 @@
       "dependencies": [
         {
           "id": "no-autopilot-mod",
-          "version": "4.15.1"
+          "version": "4.15.2"
         },
         {
           "id": "BepInEx.ConfigurationManager",
@@ -58,5 +58,5 @@
       ]
     }
   ],
-  "downloadCount": 1670
+  "downloadCount": 1671
 }
