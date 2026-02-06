@@ -1,4 +1,4 @@
-# Nuclear Option Mod Package Management Manifest Schema
+# NOMNOM Schema
 
 The manifest items consist of two main models:
 - Mod
@@ -57,16 +57,42 @@ For full detailed overview of the Schema, please continue reading.
 - Format: array of strings
 - different tags, sucha as "QoL","Art","Aircraft","Terrain","Flavor","Server"
 
-### infoUrl
+### urls
 
 - REQUIRED
-- Format: URI
-- This should be a link to a site where more inFormation is available about the mod e.g. a GitHub Page, or similar.
+- Format: Array of Objects
+```
+name : category of the url. an "info" url is mandatory, other arbitrary category names can be added
+url : the actual URL
+```
+- You can attach urls relevant to your mod or yourself as the author.
+
 
 ### authors
 
 - Format: array of strings
 - this should be a list of authors who created the Mod
+
+### githubOwner
+
+- REQUIRED IF:
+     YOU WANT YOUR MOD MANIFEST TO BE AUTO-UPDATED BY NOMNOM
+- Format: string
+- the name of GitHub Account or GitHub Organization that owns the repository where Releases are published
+
+### githubRepoName
+
+- REQUIRED IF:
+     YOU WANT YOUR MOD MANIFEST TO BE AUTO-UPDATED BY NOMNOM
+- Format: string
+- the name of GitHub repository where Releases are published
+
+### autoUpdateArtifacts
+
+- REQUIRED IF:
+     YOU WANT YOUR MOD MANIFEST TO BE AUTO-UPDATED BY NOMNOM
+- Format: string
+- "True" if you want Auto Updates Enabled, "False" if Disabled
 
 ## Artifact Object Properties
 
@@ -77,18 +103,12 @@ For full detailed overview of the Schema, please continue reading.
 - type of Mod. currently considering following types to be supported:
     - plugin: BepInEx Plugin
     - addOn: Add-On or extension for another Mod, such as a voice or texture pack etc.
-    - utility: anything that extends the game but runs as a separate process, outside the application's domain
 
 ### fileName
 
 - REQUIRED
 - Format: string
 - name of the actual downloadable content file. Should be an archive, such as zip, rar, 7z.
-### hash
-
-- REQUIRED
-- Format: sha256 hash string, as copy-pastable from GitHub Releases: ```sha256:yourfilehashgoeshere```
-- sha256 hash of the aforementioned downloadable content file
 
 ### gameVersion
 
@@ -150,18 +170,16 @@ version must be the latest known version this mod is incompatible with
 
 ## HOW TO CONTRIBUTE MOD MANIFESTS
 
-1. Fork the repository (check fork all branches)
-2. Check out the ```staging``` branch to make sure you are working on the correct branch
+Before you proceed, please ensure you familiarize yourself with the [manifest structure](#nomnom-schema), including [mod](#mod-object-properties) and [artifact](#artifact-object-properties) object properties.
 
-    (branch protection rules will prevent you from submitting PRs directly to main, or otherwise denied from merging)
-
-3. Create your own mod manifest(s) based on the schema described above
-4. Submit a Pull Request to the staging branch
-5. Github Actions Workflow will validate the Schema and Content, then declare the Pull Request allowed to merge if successful
-6. A Human will review and approve the merge if no issues found
+1. Fork the repository
+2. Create your own mod manifest(s) based on the schema described above
+3. Submit a Pull Request to ```main``` branch
+4. Github Actions Workflow will validate the Schema and Content, then declare the Pull Request allowed to merge if successful
+5. A Human will review and approve the merge if no additional issues found
 
 ## HOW TO CONTRIBUTE ANYTHING ELSE
 1. Fork the repository (check fork all branches)
 2. Check out the ```dev``` branch to make sure you are working on the correct branch
-3. Submit a Pull Request WITH DETAILED EXPLANATION of your changes to the dev branch
+3. Submit a Pull Request WITH DETAILED EXPLANATION of your changes to the ```dev``` branch
 4. Your Pull Request will be discussed and approved to merge if appropriate
