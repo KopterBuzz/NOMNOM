@@ -27,11 +27,13 @@ For full detailed overview of the Schema, please continue reading.
 
 ## Mod Object Properties
 
+
 ### id
 
 - REQUIRED
 - Format: string
 - IDEALLY, This should be the AssemblyName of the BepInEx Plugin DLL
+- The name of your JSON file should also match the value of this property
 - If the Mod is not a BepInEx Plugin, but rather a content or utility, it should conform to this structure:
 
     ```"ModAssemblyName.UniqueRelevantString"```
