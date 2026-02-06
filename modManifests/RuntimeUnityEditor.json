@@ -6,7 +6,7 @@
     "mod",
     "devtools"
   ],
-  "infoUrl": [
+  "urls": [
     {
       "name": "info",
       "url": "https://github.com/ManlyMarco/RuntimeUnityEditor"

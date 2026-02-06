@@ -6,7 +6,7 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/TYKUHN2/AtomicFramework"
@@ -38,7 +38,7 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/Ol1vver/bepinex-soundmod"
@@ -71,7 +71,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/BepInEx/BepInEx.ConfigurationManager"
@@ -104,7 +104,7 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -138,7 +138,7 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -172,7 +172,7 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -206,7 +206,7 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -239,7 +239,7 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/downloadpizza/LaserRocketFix/"
@@ -272,7 +272,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/clumzy/NO_Tactitools"
@@ -334,7 +334,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/qwerty1423/no-autopilot-mod"
@@ -439,7 +439,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/KopterBuzz/NOBlackBox"
@@ -477,7 +477,7 @@
     "tags": [
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/KopterBuzz/NOCursorOverride"
@@ -510,7 +510,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/KopterBuzz/NOFrameLimiter"
@@ -549,7 +549,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NOLiveryPlus"
@@ -582,7 +582,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/OverlordMIke/Nuclear-Option-Mod-WingmanVisual"
@@ -615,7 +615,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/TYKUHN2/NuclearVOIP"
@@ -648,7 +648,7 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -682,7 +682,7 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -716,7 +716,7 @@
       "mod",
       "devtools"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/ManlyMarco/RuntimeUnityEditor"
@@ -749,7 +749,7 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -783,7 +783,7 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -815,7 +815,7 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": [
+    "urls": [
       {
         "name": "info",
         "url": "https://github.com/muji2498/YawOnMouse/"

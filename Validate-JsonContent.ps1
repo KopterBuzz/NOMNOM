@@ -26,10 +26,10 @@ function Validate-ArtifactURL
     return $false
 }
 
-function Validate-InfoURLs
+function Validate-urls
 {
-    Param($infoURLs)
-    foreach ($url in $infoURLs)
+    Param($urls)
+    foreach ($url in $urls)
     {
         $isURL = [uri]::IsWellFormedUriString($url.url, 'Absolute') -and ([uri]$url.url).Scheme -eq 'https'
         if (!$isURL)
@@ -125,7 +125,7 @@ try
     Write-Host "Validating $($parsedMod.id)..."
     #$parsedMod
 
-    Write-Host "Validating infoUrls $($parsedMod.infoURL): $(Validate-InfoURLs -InfoURLs $parsedMod.infoURL)"
+    Write-Host "Validating urlss $($parsedMod.urls): $(Validate-urlss -urlss $parsedMod.urls)"
     Write-Host "Validating dependencies..."
 
     Write-Host "Validating artifacts..."
