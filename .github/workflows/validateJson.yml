@@ -1,10 +1,6 @@
 name: Process Modified JSON Files (Windows)
 
 on:
-  push:
-    branches: [dev,staging]
-    paths:
-      - '**/modManifests/*.json'   
   pull_request:
     branches: [main,dev,staging]
     paths:
