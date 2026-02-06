@@ -262,7 +262,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 136
+    "downloadCount": 138
   },
   {
     "id": "NO_Tactitools",
@@ -324,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1681
+    "downloadCount": 1683
   },
   {
     "id": "no-autopilot-mod",
@@ -429,7 +429,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 767
+    "downloadCount": 769
   },
   {
     "id": "NOBlackBox",
@@ -468,7 +468,7 @@
         ]
       }
     ],
-    "downloadCount": 1409
+    "downloadCount": 1411
   },
   {
     "id": "NOCursorOverride",
@@ -500,7 +500,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 14
+    "downloadCount": 16
   },
   {
     "id": "NOFrameLimiter",
@@ -638,7 +638,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 56
+    "downloadCount": 57
   },
   {
     "id": "pixy_voice",
