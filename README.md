@@ -13,7 +13,9 @@ NOMNOM can also register mod dependencies, incompatibilities, and add-ons to oth
 
 ### How to Add your Nuclear Option Mod to NOMNOM
 
-NOMNOM is able to automatically pick up new releases for Mods that it already knows about.
+To make NOMNOM aware of a new Mod, create an Issue on the [NOMNOM repository](https://github.com/KopterBuzz/NOModManifestTesting/issues) with the Mod's Details, or follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
+
+NOMNOM can self-update its registry, so it is able to automatically pick up new releases for Mods that it already knows about.
 
 However, there are some basic requirements in order for NOMNOM to keep itself up to date in regards to the latest available versions of your Mod(s):
  - your Mod Release(s) must be available as GitHub Repository Release Package(s)
@@ -23,6 +25,4 @@ However, there are some basic requirements in order for NOMNOM to keep itself up
  This is not directly related to the above, but at the moment Mod Manager software that depends on NOMNOM expects the following criteria also:
  - your Mod(s) must work with BepInEx 5
 
- To make NOMNOM aware of a new Mod, create an Issue on the [NOMNOM repository](https://github.com/KopterBuzz/NOModManifestTesting/issues) with the Mod's Details, or follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
-
- If you would like to help improving NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-anything-else)
+If you would like to help improving NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-anything-else)
