@@ -35,4 +35,5 @@ jobs:
               
               # If your script is a PowerShell script (.ps1):
               .\Validate-JsonSchema.ps1 -JsonPath "$file" -SchemaPath .\ValidationSchema.json
+              .\Validate-JsonContent.ps1 -Path "$file" -ModManifestHashTable $currentManifest
           }
