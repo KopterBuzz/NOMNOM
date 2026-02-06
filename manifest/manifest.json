@@ -324,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1705
+    "downloadCount": 1709
   },
   {
     "id": "no-autopilot-mod",
@@ -429,7 +429,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 801
+    "downloadCount": 803
   },
   {
     "id": "NOBlackBox",
@@ -468,7 +468,7 @@
         ]
       }
     ],
-    "downloadCount": 1421
+    "downloadCount": 1422
   },
   {
     "id": "NOCursorOverride",
@@ -626,7 +626,7 @@
         ]
       }
     ],
-    "downloadCount": 35
+    "downloadCount": 37
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -659,7 +659,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 35
+    "downloadCount": 36
   },
   {
     "id": "NuclearVOIP",
@@ -793,7 +793,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115135
+    "downloadCount": 115138
   },
   {
     "id": "skyeye_voice",
@@ -860,12 +860,12 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 406
+    "downloadCount": 407
   },
   {
     "id": "YawOnMouse",
     "displayName": "Yaw On Mouse",
-    "description": "QoL mod which should benefit colourblind players, plus the ability to toggle player names on and off. (Player names appear above the aircraft triangle symbol in online matches, for better situational awareness of who is who.)",
+    "description": "Yaw On Mouse allows you to control the Yaw axis instead of the Roll axis with the Mouse",
     "tags": [
       "mod"
     ],
