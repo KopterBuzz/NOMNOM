@@ -1,38 +1,39 @@
 {
-    "id": "NOX",
-    "displayName": "Nuclear Option eXtensions",
-    "description": "Various additions to Nuclear Option including marking Steam friends and a dedicated RWR display.",
-    "tags": [
-        "mod",
-        "QoL"
-    ],
-    "urls": [
+  "id": "NOX",
+  "displayName": "Nuclear Option eXtensions",
+  "description": "Various additions to Nuclear Option including marking Steam friends and a dedicated RWR display.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions"
+    }
+  ],
+  "authors": [
+    "S.A.M."
+  ],
+  "githubOwner": "lunaboards-dev",
+  "githubRepoName": "Nuclear-Option-Extensions",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOX.7z",
+      "version": "0.1.3",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.1.3/NOX.7z",
+      "hash": null,
+      "dependencies": [
         {
-            "name": "info",
-            "url": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions"
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
         }
-    ],
-    "authors": [
-        "S.A.M."
-    ],
-    "githubOwner": "lunaboards-dev",
-    "githubRepoName": "Nuclear-Option-Extensions",
-    "autoUpdateArtifacts": "True",
-    "artifacts": [
-        {
-            "fileName": "NOX.7z",
-            "version": "0.1.3",
-            "category": "preRelease",
-            "type": "plugin",
-            "gameVersion": "0.32",
-            "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.1.3/NOX.7z",
-            "hash": null,
-            "dependencies": [
-                {
-                    "id": "BepInEx.ConfigurationManager",
-                    "version": "18.4.1"
-                }
-            ]
-        }
-    ]
+      ]
+    }
+  ],
+  "downloadCount": 8
 }
