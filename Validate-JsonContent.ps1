@@ -125,7 +125,7 @@ try
     Write-Host "Validating $($parsedMod.id)..."
     #$parsedMod
 
-    Write-Host "Validating urlss $($parsedMod.urls): $(Validate-urlss -urlss $parsedMod.urls)"
+    Write-Host "Validating urls $($parsedMod.urls): $(Validate-urls -urls $parsedMod.urls)"
     Write-Host "Validating dependencies..."
 
     Write-Host "Validating artifacts..."
