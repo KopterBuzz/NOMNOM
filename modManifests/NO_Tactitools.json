@@ -6,7 +6,12 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": "https://github.com/clumzy/NO_Tactitools",
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/clumzy/NO_Tactitools"
+    }
+  ],
   "authors": [
     "\"George\""
   ],
@@ -25,7 +30,7 @@
       "dependencies": [
         {
           "id": "no-autopilot-mod",
-          "version": "4.13.9"
+          "version": "4.15.3"
         },
         {
           "id": "BepInEx.ConfigurationManager",
@@ -53,5 +58,5 @@
       ]
     }
   ],
-  "downloadCount": 1606
+  "downloadCount": 1681
 }

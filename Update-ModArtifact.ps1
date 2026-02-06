@@ -1,4 +1,4 @@
-param($mod,$gitHubToken = $(Get-Content ".\testing_gitignore.token"), [bool]$test)
+param($modPath,$gitHubToken = $(Get-Content ".\testing_gitignore.token"), [bool]$test)
 . .\Get-GitHubReleases.ps1
 Function SaveAndClose($mod_,[bool]$test_)
 {
@@ -36,6 +36,20 @@ Function SortByVersion($artifacts_)
     return ($output | sort version -Descending | select -ExpandProperty artifact)
 }
 
+$mod = $null
+try {
+    $mod = get-content $modPath | ConvertFrom-Json
+} catch {
+    $error[0]
+    Exit 1
+}
+
+if (!$mod)
+{
+    Write-Host $modPath not found!
+    Exit 1
+}
+
 $downloadCount = 0
 
 if ($($mod.autoUpdateArtifacts) -ne "True") {
@@ -71,7 +85,9 @@ if ($releases)
 {
     foreach ($release in $releases)
     {
+        $ErrorActionPreference = 'SilentlyContinue'
         if ($release.IsDraft){continue}
+        
         $version = [version]($release.TagName -replace "v|\-pre|_IL2CPP","")
         if (($version -gt [version]($artifacts[0].version) -and $($mod.autoUpdateArtifacts) -eq "True") -or !$artifacts)
         {
@@ -102,6 +118,7 @@ if ($releases)
 
         $downloadCount+=$release.Assets[0].downloadCount
     }
+    $ErrorActionPreference = 'Continue'
     $mod.artifacts = @(SortByVersion -artifacts_ $artifacts)
 }
 if ($mod.downloadCount) {

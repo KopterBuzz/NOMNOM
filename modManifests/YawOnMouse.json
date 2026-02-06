@@ -5,7 +5,12 @@
   "tags": [
     "mod"
   ],
-  "infoUrl": "https://github.com/muji2498/YawOnMouse/",
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/muji2498/YawOnMouse/"
+    }
+  ],
   "authors": [
     "muji2498"
   ],
@@ -23,5 +28,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 171
+  "downloadCount": 176
 }

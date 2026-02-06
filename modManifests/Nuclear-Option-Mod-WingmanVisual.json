@@ -1,0 +1,33 @@
+{
+  "id": "Nuclear-Option-Mod-WingmanVisual",
+  "displayName": "WingmanVisual",
+  "description": "A client-side mod that adds wingman highlighting in Nuclear Option.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/OverlordMIke/Nuclear-Option-Mod-WingmanVisual"
+    }
+  ],
+  "authors": [
+    "OverlordMIke"
+  ],
+  "githubOwner": "OverlordMIke",
+  "githubRepoName": "Nuclear-Option-Mod-WingmanVisual",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "WingmanVisual_v1_1_0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/OverlordMIke/Nuclear-Option-Mod-WingmanVisual/releases/download/v1.1.0/WingmanVisual_v1_1_0.zip",
+      "hash": null
+    }
+  ],
+  "downloadCount": 20
+}

@@ -6,7 +6,12 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": "https://github.com/KopterBuzz/NOBlackBox",
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/KopterBuzz/NOBlackBox"
+    }
+  ],
   "authors": [
     "KopterBuzz"
   ],
@@ -30,5 +35,5 @@
       ]
     }
   ],
-  "downloadCount": 1390
+  "downloadCount": 1409
 }

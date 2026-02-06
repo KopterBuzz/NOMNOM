@@ -10,7 +10,17 @@
       "type" : "array",
       "items" : {"type" : "string"}
     },
-    "infoUrl": { "type": "string", "format": "uri" },
+    "infoUrl": { 
+      "type": "array",
+      "items": {
+        "type" : "object",
+        "required": ["name","url"],    
+        "properties": {
+          "name" : {"type": "string"},
+          "url" : {"type": "string", "format" : "uri"}
+        }    
+      }
+    },
     "authors": {
       "type": "array",
       "items": { "type": "string" }

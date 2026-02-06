@@ -12,25 +12,33 @@ function LogError()
     Write-Error $errorString
     Exit 1
 }
-function Validate-URL
+function Validate-ArtifactURL
 {
-    Param([string]$URL,[bool]$artifact)
+    Param([string]$URL)
     $isURL = [uri]::IsWellFormedUriString($URL, 'Absolute') -and ([uri] $URL).Scheme -eq 'https'
-    if ($artifact) {
-        $isSupportedArchive = $URL -match ".zip\z|.rar\z|.7z\z|.dll\z"
-        if ($isURL -and $isSupportedArchive)
-        {
-            return $true
-        }
-        LogError("Artifact $URL failed URL validation!")
-        return $false
-    }
-    if ($isURL)
+
+    $isSupportedArchive = $URL -match ".zip\z|.rar\z|.7z\z|.dll\z"
+    if ($isURL -and $isSupportedArchive)
     {
         return $true
     }
-    LogError("$URL failed URL validation!")
+    LogError("Artifact $URL failed URL validation!")
     return $false
+}
+
+function Validate-InfoURLs
+{
+    Param($infoURLs)
+    foreach ($url in $infoURLs)
+    {
+        $isURL = [uri]::IsWellFormedUriString($url.url, 'Absolute') -and ([uri]$url.url).Scheme -eq 'https'
+        if (!$isURL)
+        {
+            LogError("$URL failed URL validation!")
+            return $false
+        }
+    }
+    return $true
 }
 function Validate-FileName
 {
@@ -115,9 +123,9 @@ try
 {
     $parsedMod = Get-Content $Path | ConvertFrom-Json
     Write-Host "Validating $($parsedMod.id)..."
-    $parsedMod
+    #$parsedMod
 
-    Write-Host "Validating infoUrl $($parsedMod.infoURL): $(Validate-URL -URL $parsedMod.infoURL -artifact $false)"
+    Write-Host "Validating infoUrls $($parsedMod.infoURL): $(Validate-InfoURLs -InfoURLs $parsedMod.infoURL)"
     Write-Host "Validating dependencies..."
 
     Write-Host "Validating artifacts..."
@@ -126,7 +134,7 @@ try
         Write-Host "Validating $($parsedMod.id) artifact version $($artifact.version)"
         $artifact
         Write-Host "Validating fileName: $(Validate-FileName -fileName $artifact.fileName)"
-        Write-Host "Validating artifactUrl: $(Validate-URL -URL $artifact.downloadUrl -artifact $true)"
+        Write-Host "Validating artifactUrl: $(Validate-ArtifactURL -URL $artifact.downloadUrl)"
         #Write-Host "Validating fileHash: $(Validate-FileHashFormat -hashString $artifact.hash)"
         Write-Host "Validating version: $(Validate-Version -versionString $artifact.version)"
         Write-Host "Validating gameVersion: $(Validate-Version -versionString $artifact.gameVersion)"

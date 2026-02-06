@@ -6,7 +6,12 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": "https://github.com/nikkorap/NOLiveryPlus",
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NOLiveryPlus"
+    }
+  ],
   "authors": [
     "nikkorap"
   ],

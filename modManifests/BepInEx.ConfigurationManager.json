@@ -6,7 +6,12 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/BepInEx/BepInEx.ConfigurationManager"
+    }
+  ],
   "authors": [
     "BepInEx"
   ],

@@ -8,7 +8,7 @@ param(
 
 $json = Get-Content $JsonPath -Raw
 $schema = Get-Content $SchemaPath -Raw
-
+write-host $JsonPath
 try {
     $result = Test-Json -Json $json -Schema $schema -ErrorAction Stop
     if ($result) {

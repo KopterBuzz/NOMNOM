@@ -6,7 +6,12 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": "https://github.com/TYKUHN2/AtomicFramework",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/TYKUHN2/AtomicFramework"
+      }
+    ],
     "authors": [
       "TYKUHN2"
     ],
@@ -24,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 36
+    "downloadCount": 72
   },
   {
     "id": "bepinex-soundmod",
@@ -33,7 +38,12 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": "https://github.com/Ol1vver/bepinex-soundmod",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/Ol1vver/bepinex-soundmod"
+      }
+    ],
     "authors": [
       "Ol1vver"
     ],
@@ -51,7 +61,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 90
+    "downloadCount": 133
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -61,7 +71,12 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/BepInEx/BepInEx.ConfigurationManager"
+      }
+    ],
     "authors": [
       "BepInEx"
     ],
@@ -89,7 +104,12 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+      }
+    ],
     "authors": [
       "Nikkorap"
     ],
@@ -118,7 +138,12 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+      }
+    ],
     "authors": [
       "giorno0075"
     ],
@@ -147,7 +172,12 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+      }
+    ],
     "authors": [
       "lazy1lol"
     ],
@@ -176,7 +206,12 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+      }
+    ],
     "authors": [
       "Klawifiantix"
     ],
@@ -204,7 +239,12 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": "https://github.com/downloadpizza/LaserRocketFix/",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/downloadpizza/LaserRocketFix/"
+      }
+    ],
     "authors": [
       "downloadpizza"
     ],
@@ -222,7 +262,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 124
+    "downloadCount": 136
   },
   {
     "id": "NO_Tactitools",
@@ -232,7 +272,12 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/clumzy/NO_Tactitools",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/clumzy/NO_Tactitools"
+      }
+    ],
     "authors": [
       "\"George\""
     ],
@@ -251,7 +296,7 @@
         "dependencies": [
           {
             "id": "no-autopilot-mod",
-            "version": "4.13.9"
+            "version": "4.15.3"
           },
           {
             "id": "BepInEx.ConfigurationManager",
@@ -279,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1606
+    "downloadCount": 1681
   },
   {
     "id": "no-autopilot-mod",
@@ -289,7 +334,12 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/qwerty1423/no-autopilot-mod",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/qwerty1423/no-autopilot-mod"
+      }
+    ],
     "authors": [
       "qwerty1423"
     ],
@@ -297,6 +347,60 @@
     "githubRepoName": "no-autopilot-mod",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.15.3.zip",
+        "version": "4.15.3",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.3/com.qwerty1423.NOAutopilot-4.15.3.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.15.2.zip",
+        "version": "4.15.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.2/com.qwerty1423.NOAutopilot-4.15.2.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.15.1.zip",
+        "version": "4.15.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.1/com.qwerty1423.NOAutopilot-4.15.1.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.15.0.zip",
+        "version": "4.15.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.0/com.qwerty1423.NOAutopilot-4.15.0.zip",
+        "hash": null
+      },
       {
         "fileName": "com.qwerty1423.NOAutopilot-4.14.0.zip",
         "version": "4.14.0",
@@ -325,7 +429,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 658
+    "downloadCount": 767
   },
   {
     "id": "NOBlackBox",
@@ -335,7 +439,12 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/KopterBuzz/NOBlackBox",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/KopterBuzz/NOBlackBox"
+      }
+    ],
     "authors": [
       "KopterBuzz"
     ],
@@ -359,7 +468,7 @@
         ]
       }
     ],
-    "downloadCount": 1390
+    "downloadCount": 1409
   },
   {
     "id": "NOCursorOverride",
@@ -368,7 +477,12 @@
     "tags": [
       "QoL"
     ],
-    "infoUrl": "https://github.com/KopterBuzz/NOCursorOverride",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/KopterBuzz/NOCursorOverride"
+      }
+    ],
     "authors": [
       "KopterBuzz"
     ],
@@ -386,43 +500,47 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 7
+    "downloadCount": 14
   },
-{
-  "id": "NOFrameLimiter",
-  "displayName": "NOFrameLimiter",
-  "description": "Global FPS limiter for improved performance stability.",
-  "tags": [
-    "mod",
-    "QoL"
-  ],
-  "infoUrl": "https://github.com/KopterBuzz/NOFrameLimiter",
-  "authors": [
-    "KopterBuzz"
-  ],
-  "githubOwner": "KopterBuzz",
-  "githubRepoName": "NOFrameLimiter",
-  "autoUpdateArtifacts": "True",
-  "artifacts": [
-    {
-      "fileName": "NOFrameLimiter-0.0.2.zip",
-      "version": "0.0.2",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
-      "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793",
-      "dependencies" :
-      [
-        {
-          "id": "BepInEx.ConfigurationManager",
-          "version": "18.4.1"
-        }
-      ]
-    }
-  ],
-  "downloadCount": 71
-},
+  {
+    "id": "NOFrameLimiter",
+    "displayName": "NOFrameLimiter",
+    "description": "Global FPS limiter for improved performance stability.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/KopterBuzz/NOFrameLimiter"
+      }
+    ],
+    "authors": [
+      "KopterBuzz"
+    ],
+    "githubOwner": "KopterBuzz",
+    "githubRepoName": "NOFrameLimiter",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NOFrameLimiter-0.0.2.zip",
+        "version": "0.0.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
+        "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 92
+  },
   {
     "id": "NOLiveryPlus",
     "displayName": "Livery Plus",
@@ -431,7 +549,12 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NOLiveryPlus",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NOLiveryPlus"
+      }
+    ],
     "authors": [
       "nikkorap"
     ],
@@ -452,6 +575,39 @@
     "downloadCount": 386
   },
   {
+    "id": "Nuclear-Option-Mod-WingmanVisual",
+    "displayName": "WingmanVisual",
+    "description": "A client-side mod that adds wingman highlighting in Nuclear Option.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/OverlordMIke/Nuclear-Option-Mod-WingmanVisual"
+      }
+    ],
+    "authors": [
+      "OverlordMIke"
+    ],
+    "githubOwner": "OverlordMIke",
+    "githubRepoName": "Nuclear-Option-Mod-WingmanVisual",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "WingmanVisual_v1_1_0.zip",
+        "version": "1.1.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/OverlordMIke/Nuclear-Option-Mod-WingmanVisual/releases/download/v1.1.0/WingmanVisual_v1_1_0.zip",
+        "hash": null
+      }
+    ],
+    "downloadCount": 20
+  },
+  {
     "id": "NuclearVOIP",
     "displayName": "NuclearVOIP",
     "description": "VOIP features for Nuclear Option",
@@ -459,7 +615,12 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/TYKUHN2/NuclearVOIP",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/TYKUHN2/NuclearVOIP"
+      }
+    ],
     "authors": [
       "TYKUHN2"
     ],
@@ -477,7 +638,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 49
+    "downloadCount": 56
   },
   {
     "id": "pixy_voice",
@@ -487,7 +648,12 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+      }
+    ],
     "authors": [
       "Littlesneez"
     ],
@@ -516,7 +682,12 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+      }
+    ],
     "authors": [
       "nikkorap"
     ],
@@ -545,7 +716,12 @@
       "mod",
       "devtools"
     ],
-    "infoUrl": "https://github.com/ManlyMarco/RuntimeUnityEditor",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/ManlyMarco/RuntimeUnityEditor"
+      }
+    ],
     "authors": [
       "ManlyMarco"
     ],
@@ -563,7 +739,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115011
+    "downloadCount": 115105
   },
   {
     "id": "skyeye_voice",
@@ -573,7 +749,12 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+      }
+    ],
     "authors": [
       "Littlesneez"
     ],
@@ -602,7 +783,12 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+      }
+    ],
     "authors": [
       "nikkorap"
     ],
@@ -620,7 +806,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 390
+    "downloadCount": 399
   },
   {
     "id": "YawOnMouse",
@@ -629,7 +815,12 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": "https://github.com/muji2498/YawOnMouse/",
+    "infoUrl": [
+      {
+        "name": "info",
+        "url": "https://github.com/muji2498/YawOnMouse/"
+      }
+    ],
     "authors": [
       "muji2498"
     ],
@@ -647,6 +838,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 171
+    "downloadCount": 176
   }
 ]

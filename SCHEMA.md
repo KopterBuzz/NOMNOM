@@ -155,7 +155,7 @@ version must be the latest known version this mod is incompatible with
 
     (branch protection rules will prevent you from submitting PRs directly to main, or otherwise denied from merging)
 
-3. Create your own mod manifest(s) based on the schema described above, and put them in the [modManifests](./modManifests) directory inside the repository
+3. Create your own mod manifest(s) based on the schema described above
 4. Submit a Pull Request to the staging branch
 5. Github Actions Workflow will validate the Schema and Content, then declare the Pull Request allowed to merge if successful
 6. A Human will review and approve the merge if no issues found

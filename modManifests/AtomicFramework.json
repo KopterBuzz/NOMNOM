@@ -5,7 +5,12 @@
   "tags": [
     "mod"
   ],
-  "infoUrl": "https://github.com/TYKUHN2/AtomicFramework",
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/TYKUHN2/AtomicFramework"
+    }
+  ],
   "authors": [
     "TYKUHN2"
   ],
@@ -23,5 +28,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 36
+  "downloadCount": 72
 }

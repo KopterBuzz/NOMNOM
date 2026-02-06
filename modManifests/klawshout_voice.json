@@ -6,7 +6,12 @@
     "voicepack",
     "QoL"
   ],
-  "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+  "infoUrl": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
+    }
+  ],
   "authors": [
     "Klawifiantix"
   ],
