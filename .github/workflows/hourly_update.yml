@@ -23,7 +23,7 @@ jobs:
       - name: Checkout specific branch
         uses: actions/checkout@v4
         with:
-          ref: dev  # Replace with your branch name
+          ref: main  # Replace with your branch name
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Run Validation
