@@ -17,6 +17,7 @@
     ],
     "githubOwner": "lunaboards-dev",
     "githubRepoName": "Nuclear-Option-Extensions",
+    "autoUpdateArtifacts": "True",
     "artifacts": [
         {
             "fileName": "NOX.7z",
@@ -24,7 +25,7 @@
             "category": "preRelease",
             "type": "plugin",
             "gameVersion": "0.32",
-            "downloadURL": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.1.3/NOX.7z",
+            "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.1.3/NOX.7z",
             "hash": null,
             "dependencies": [
                 {
