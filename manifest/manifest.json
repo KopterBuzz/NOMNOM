@@ -61,7 +61,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 138
+    "downloadCount": 141
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -262,7 +262,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 154
+    "downloadCount": 155
   },
   {
     "id": "NO_Tactitools",
@@ -324,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1722
+    "downloadCount": 1723
   },
   {
     "id": "no-autopilot-mod",
@@ -656,7 +656,7 @@
         ]
       }
     ],
-    "downloadCount": 53
+    "downloadCount": 57
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -679,6 +679,15 @@
     "githubRepoName": "Nuclear-Option-Mod-WingmanVisual",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "WingmanVisual_v1.1.2.zip",
+        "version": "1.1.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/OverlordMIke/Nuclear-Option-Mod-WingmanVisual/releases/download/v1.1.2/WingmanVisual_v1.1.2.zip",
+        "hash": null
+      },
       {
         "fileName": "WingmanVisual_v1_1_1.zip",
         "version": "1.1.1",
@@ -832,7 +841,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115155
+    "downloadCount": 115159
   },
   {
     "id": "skyeye_voice",
@@ -899,7 +908,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 410
+    "downloadCount": 411
   },
   {
     "id": "YawOnMouse",
