@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 166
+    "downloadCount": 168
   },
   {
     "id": "NO_Tactitools",
@@ -292,7 +292,7 @@
         ]
       }
     ],
-    "downloadCount": 1743
+    "downloadCount": 1745
   },
   {
     "id": "no-autopilot-mod",
@@ -427,7 +427,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 848
+    "downloadCount": 850
   },
   {
     "id": "NOBlackBox",
@@ -466,7 +466,7 @@
         ]
       }
     ],
-    "downloadCount": 1439
+    "downloadCount": 1440
   },
   {
     "id": "NOCursorOverride",
@@ -498,7 +498,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 25
+    "downloadCount": 26
   },
   {
     "id": "NOFrameLimiter",
@@ -624,7 +624,7 @@
         ]
       }
     ],
-    "downloadCount": 85
+    "downloadCount": 87
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -675,7 +675,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 61
+    "downloadCount": 62
   },
   {
     "id": "pixy_voice",
@@ -843,7 +843,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 415
+    "downloadCount": 416
   },
   {
     "id": "YawOnMouse",
