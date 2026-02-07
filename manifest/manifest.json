@@ -262,7 +262,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 151
+    "downloadCount": 154
   },
   {
     "id": "NO_Tactitools",
@@ -324,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1716
+    "downloadCount": 1721
   },
   {
     "id": "no-autopilot-mod",
@@ -459,7 +459,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 810
+    "downloadCount": 816
   },
   {
     "id": "NOBlackBox",
@@ -498,7 +498,7 @@
         ]
       }
     ],
-    "downloadCount": 1432
+    "downloadCount": 1433
   },
   {
     "id": "NOCursorOverride",
@@ -530,7 +530,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 20
+    "downloadCount": 21
   },
   {
     "id": "NOFrameLimiter",
@@ -656,7 +656,7 @@
         ]
       }
     ],
-    "downloadCount": 49
+    "downloadCount": 52
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -680,6 +680,15 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "WingmanVisual_v1_1_1.zip",
+        "version": "1.1.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/OverlordMIke/Nuclear-Option-Mod-WingmanVisual/releases/download/v1.1.1/WingmanVisual_v1_1_1.zip",
+        "hash": null
+      },
+      {
         "fileName": "WingmanVisual_v1_1_0.zip",
         "version": "1.1.0",
         "category": "release",
@@ -689,7 +698,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 46
+    "downloadCount": 47
   },
   {
     "id": "NuclearVOIP",
