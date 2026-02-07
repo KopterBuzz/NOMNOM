@@ -61,7 +61,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 137
+    "downloadCount": 138
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -262,7 +262,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 145
+    "downloadCount": 149
   },
   {
     "id": "NO_Tactitools",
@@ -296,7 +296,7 @@
         "dependencies": [
           {
             "id": "no-autopilot-mod",
-            "version": "4.15.3"
+            "version": "4.15.5"
           },
           {
             "id": "BepInEx.ConfigurationManager",
@@ -324,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1710
+    "downloadCount": 1713
   },
   {
     "id": "no-autopilot-mod",
@@ -347,6 +347,36 @@
     "githubRepoName": "no-autopilot-mod",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.15.5.zip",
+        "version": "4.15.5",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.5/com.qwerty1423.NOAutopilot-4.15.5.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.15.4.zip",
+        "version": "4.15.4",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.4/com.qwerty1423.NOAutopilot-4.15.4.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
       {
         "fileName": "com.qwerty1423.NOAutopilot-4.15.3.zip",
         "version": "4.15.3",
@@ -429,7 +459,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 804
+    "downloadCount": 808
   },
   {
     "id": "NOBlackBox",
@@ -468,7 +498,7 @@
         ]
       }
     ],
-    "downloadCount": 1425
+    "downloadCount": 1427
   },
   {
     "id": "NOCursorOverride",
@@ -626,7 +656,7 @@
         ]
       }
     ],
-    "downloadCount": 40
+    "downloadCount": 46
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -659,7 +689,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 36
+    "downloadCount": 40
   },
   {
     "id": "NuclearVOIP",
@@ -793,7 +823,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115139
+    "downloadCount": 115147
   },
   {
     "id": "skyeye_voice",
@@ -860,7 +890,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 407
+    "downloadCount": 408
   },
   {
     "id": "YawOnMouse",

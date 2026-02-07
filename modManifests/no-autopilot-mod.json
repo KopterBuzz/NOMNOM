@@ -20,6 +20,36 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "com.qwerty1423.NOAutopilot-4.15.5.zip",
+      "version": "4.15.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.5/com.qwerty1423.NOAutopilot-4.15.5.zip",
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "com.qwerty1423.NOAutopilot-4.15.4.zip",
+      "version": "4.15.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.4/com.qwerty1423.NOAutopilot-4.15.4.zip",
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "com.qwerty1423.NOAutopilot-4.15.3.zip",
       "version": "4.15.3",
       "category": "release",
@@ -101,5 +131,5 @@
       "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
     }
   ],
-  "downloadCount": 804
+  "downloadCount": 808
 }
