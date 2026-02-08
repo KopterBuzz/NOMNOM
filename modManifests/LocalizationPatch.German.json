@@ -1,0 +1,38 @@
+{
+  "id": "LocalizationPatch.German",
+  "displayName": "German Localization Patch",
+  "description": "German (Deutsch) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+  "tags": [
+    "mod",
+    "Localization"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-GermanPatch"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-GermanPatch",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "LocalizationPatch_de.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-GermanPatch/releases/download/v1.0.0/LocalizationPatch_de.zip",
+      "hash": "sha256:a26188459cc00e5766878611f9e0ab04d768479856a1b46d4f897f9b226a14c7",
+      "incompatibilities": [
+        { "id": "LocalizationPatch.Korean", "version": "1.0.0" },
+        { "id": "LocalizationPatch.Russian", "version": "1.0.0" },
+        { "id": "LocalizationPatch.Spanish", "version": "1.0.0" },
+        { "id": "LocalizationPatch.French", "version": "1.0.0" }
+      ]
+    }
+  ]
+}
