@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 153
+    "downloadCount": 154
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -233,6 +233,261 @@
     "downloadCount": 174
   },
   {
+    "id": "LocalizationPatch.French",
+    "displayName": "French Localization Patch",
+    "description": "French (Français) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+    "tags": [
+      "mod",
+      "Localization"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-FrenchPatch"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-FrenchPatch",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "LocalizationPatch_fr.zip",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-FrenchPatch/releases/download/v1.0.0/LocalizationPatch_fr.zip",
+        "hash": "sha256:1815c458aee9755bc52c1a6ea1d51e07bda1ae58c2f4b5b4cb0e27a9fa43d089",
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Russian",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 1
+  },
+  {
+    "id": "LocalizationPatch.German",
+    "displayName": "German Localization Patch",
+    "description": "German (Deutsch) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+    "tags": [
+      "mod",
+      "Localization"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-GermanPatch"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-GermanPatch",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "LocalizationPatch_de.zip",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-GermanPatch/releases/download/v1.0.0/LocalizationPatch_de.zip",
+        "hash": "sha256:a26188459cc00e5766878611f9e0ab04d768479856a1b46d4f897f9b226a14c7",
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Russian",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 1
+  },
+  {
+    "id": "LocalizationPatch.Korean",
+    "displayName": "Korean Localization Patch",
+    "description": "Korean (한국어) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+    "tags": [
+      "mod",
+      "Localization"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-KoreanPatch"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-KoreanPatch",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "LocalizationPatch_ko.zip",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-KoreanPatch/releases/download/v1.0.0/LocalizationPatch_ko.zip",
+        "hash": "sha256:1a9715f750c465c46a03366208b881ffd45afe282dee5f591676f2522cf4c4ce",
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Russian",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 1
+  },
+  {
+    "id": "LocalizationPatch.Russian",
+    "displayName": "Russian Localization Patch",
+    "description": "Russian (Русский) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+    "tags": [
+      "mod",
+      "Localization"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-RussianPatch"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-RussianPatch",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "LocalizationPatch_ru.zip",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-RussianPatch/releases/download/v1.0.0/LocalizationPatch_ru.zip",
+        "hash": "sha256:f58e3f9891139f021c863c4aeb51525cc09e24e27b63f4a83aa4e0d754b0c4e9",
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 2
+  },
+  {
+    "id": "LocalizationPatch.Spanish",
+    "displayName": "Spanish Localization Patch",
+    "description": "Spanish (Español) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+    "tags": [
+      "mod",
+      "Localization"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-SpanishPatch"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-SpanishPatch",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "LocalizationPatch_es.zip",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-SpanishPatch/releases/download/v1.0.0/LocalizationPatch_es.zip",
+        "hash": "sha256:e81a713aece7d737039ebc264cbc706dd7f1b68588a137e518e4031627504843",
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Russian",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 1
+  },
+  {
     "id": "NO_Tactitools",
     "displayName": "NO TactiTools",
     "description": "Nuclear Option Tactical Tools is an immersion and QoL focused gameplay mod.",
@@ -292,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 1770
+    "downloadCount": 1772
   },
   {
     "id": "no-autopilot-mod",
@@ -624,7 +879,7 @@
         ]
       }
     ],
-    "downloadCount": 107
+    "downloadCount": 109
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",

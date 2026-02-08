@@ -28,11 +28,24 @@
       "downloadUrl": "https://github.com/9138noms/NuclearOption-KoreanPatch/releases/download/v1.0.0/LocalizationPatch_ko.zip",
       "hash": "sha256:1a9715f750c465c46a03366208b881ffd45afe282dee5f591676f2522cf4c4ce",
       "incompatibilities": [
-        { "id": "LocalizationPatch.German", "version": "1.0.0" },
-        { "id": "LocalizationPatch.Russian", "version": "1.0.0" },
-        { "id": "LocalizationPatch.Spanish", "version": "1.0.0" },
-        { "id": "LocalizationPatch.French", "version": "1.0.0" }
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
       ]
     }
-  ]
+  ],
+  "downloadCount": 1
 }

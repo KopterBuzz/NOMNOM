@@ -28,11 +28,24 @@
       "downloadUrl": "https://github.com/9138noms/NuclearOption-FrenchPatch/releases/download/v1.0.0/LocalizationPatch_fr.zip",
       "hash": "sha256:1815c458aee9755bc52c1a6ea1d51e07bda1ae58c2f4b5b4cb0e27a9fa43d089",
       "incompatibilities": [
-        { "id": "LocalizationPatch.Korean", "version": "1.0.0" },
-        { "id": "LocalizationPatch.German", "version": "1.0.0" },
-        { "id": "LocalizationPatch.Russian", "version": "1.0.0" },
-        { "id": "LocalizationPatch.Spanish", "version": "1.0.0" }
+        {
+          "id": "LocalizationPatch.Korean",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        }
       ]
     }
-  ]
+  ],
+  "downloadCount": 1
 }

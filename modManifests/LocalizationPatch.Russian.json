@@ -28,11 +28,24 @@
       "downloadUrl": "https://github.com/9138noms/NuclearOption-RussianPatch/releases/download/v1.0.0/LocalizationPatch_ru.zip",
       "hash": "sha256:f58e3f9891139f021c863c4aeb51525cc09e24e27b63f4a83aa4e0d754b0c4e9",
       "incompatibilities": [
-        { "id": "LocalizationPatch.Korean", "version": "1.0.0" },
-        { "id": "LocalizationPatch.German", "version": "1.0.0" },
-        { "id": "LocalizationPatch.Spanish", "version": "1.0.0" },
-        { "id": "LocalizationPatch.French", "version": "1.0.0" }
+        {
+          "id": "LocalizationPatch.Korean",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
       ]
     }
-  ]
+  ],
+  "downloadCount": 2
 }

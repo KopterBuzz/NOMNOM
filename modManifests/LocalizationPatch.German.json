@@ -28,11 +28,24 @@
       "downloadUrl": "https://github.com/9138noms/NuclearOption-GermanPatch/releases/download/v1.0.0/LocalizationPatch_de.zip",
       "hash": "sha256:a26188459cc00e5766878611f9e0ab04d768479856a1b46d4f897f9b226a14c7",
       "incompatibilities": [
-        { "id": "LocalizationPatch.Korean", "version": "1.0.0" },
-        { "id": "LocalizationPatch.Russian", "version": "1.0.0" },
-        { "id": "LocalizationPatch.Spanish", "version": "1.0.0" },
-        { "id": "LocalizationPatch.French", "version": "1.0.0" }
+        {
+          "id": "LocalizationPatch.Korean",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
       ]
     }
-  ]
+  ],
+  "downloadCount": 1
 }
