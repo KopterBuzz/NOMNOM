@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 163
+    "downloadCount": 167
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 183
+    "downloadCount": 185
   },
   {
     "id": "LocalizationPatch.French",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 1812
+    "downloadCount": 1829
   },
   {
     "id": "no-autopilot-mod",
@@ -682,7 +682,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 916
+    "downloadCount": 931
   },
   {
     "id": "NOBlackBox",
@@ -721,7 +721,7 @@
         ]
       }
     ],
-    "downloadCount": 1482
+    "downloadCount": 1486
   },
   {
     "id": "NOCursorOverride",
@@ -753,7 +753,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 30
+    "downloadCount": 31
   },
   {
     "id": "NOFrameLimiter",
@@ -792,7 +792,7 @@
         ]
       }
     ],
-    "downloadCount": 112
+    "downloadCount": 113
   },
   {
     "id": "NOLiveryPlus",
@@ -879,7 +879,7 @@
         ]
       }
     ],
-    "downloadCount": 130
+    "downloadCount": 138
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -930,7 +930,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 90
+    "downloadCount": 92
   },
   {
     "id": "pixy_voice",
@@ -1031,7 +1031,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115304
+    "downloadCount": 115308
   },
   {
     "id": "skyeye_voice",
