@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 187
+    "downloadCount": 189
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 200
+    "downloadCount": 204
   },
   {
     "id": "LocalizationPatch.French",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 1931
+    "downloadCount": 1949
   },
   {
     "id": "no-autopilot-mod",
@@ -682,7 +682,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1014
+    "downloadCount": 1029
   },
   {
     "id": "NOBlackBox",
@@ -721,7 +721,7 @@
         ]
       }
     ],
-    "downloadCount": 1509
+    "downloadCount": 1511
   },
   {
     "id": "NOCursorOverride",
@@ -753,7 +753,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 45
+    "downloadCount": 46
   },
   {
     "id": "NOFrameLimiter",
@@ -792,7 +792,7 @@
         ]
       }
     ],
-    "downloadCount": 134
+    "downloadCount": 136
   },
   {
     "id": "NOLiveryPlus",
@@ -879,7 +879,7 @@
         ]
       }
     ],
-    "downloadCount": 168
+    "downloadCount": 173
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -930,7 +930,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 112
+    "downloadCount": 115
   },
   {
     "id": "pixy_voice",
@@ -1031,7 +1031,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115348
+    "downloadCount": 115362
   },
   {
     "id": "skyeye_voice",
@@ -1098,7 +1098,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 450
+    "downloadCount": 454
   },
   {
     "id": "YawOnMouse",
@@ -1130,6 +1130,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 196
+    "downloadCount": 198
   }
 ]
