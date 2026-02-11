@@ -1,0 +1,39 @@
+{
+  "id": "NOFFB",
+  "displayName": "NOFFB",
+  "description": "Force Feedback Plugin for Nuclear Option",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/KopterBuzz/NOFFB"
+    }
+  ],
+  "authors": [
+    "KopterBuzz"
+  ],
+  "githubOwner": "KopterBuzz",
+  "githubRepoName": "NOFFB",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOFFB-0.1.zip",
+      "version": "0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/KopterBuzz/NOFFB/releases/download/0.1/NOFFB-0.1.zip",
+      "hash": "sha256:a102fc40594ca5affd8911346ead9fd2d950892f2634b5cc4d460a21adebf956",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 0
+}
