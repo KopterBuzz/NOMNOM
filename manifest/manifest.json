@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 197
+    "downloadCount": 200
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 220
+    "downloadCount": 223
   },
   {
     "id": "LocalizationPatch.French",
@@ -281,7 +281,7 @@
         ]
       }
     ],
-    "downloadCount": 10
+    "downloadCount": 11
   },
   {
     "id": "LocalizationPatch.German",
@@ -434,7 +434,7 @@
         ]
       }
     ],
-    "downloadCount": 17
+    "downloadCount": 19
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 2018
+    "downloadCount": 2047
   },
   {
     "id": "no-autopilot-mod",
@@ -697,7 +697,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1084
+    "downloadCount": 1108
   },
   {
     "id": "NOBlackBox",
@@ -736,7 +736,7 @@
         ]
       }
     ],
-    "downloadCount": 1521
+    "downloadCount": 1523
   },
   {
     "id": "NOCursorOverride",
@@ -768,7 +768,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 49
+    "downloadCount": 51
   },
   {
     "id": "NOFrameLimiter",
@@ -807,7 +807,7 @@
         ]
       }
     ],
-    "downloadCount": 147
+    "downloadCount": 149
   },
   {
     "id": "NOLiveryPlus",
@@ -894,7 +894,7 @@
         ]
       }
     ],
-    "downloadCount": 194
+    "downloadCount": 197
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -945,7 +945,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 120
+    "downloadCount": 132
   },
   {
     "id": "pixy_voice",
@@ -1046,7 +1046,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115392
+    "downloadCount": 115404
   },
   {
     "id": "skyeye_voice",
@@ -1113,7 +1113,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 460
+    "downloadCount": 462
   },
   {
     "id": "YawOnMouse",
@@ -1145,6 +1145,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 200
+    "downloadCount": 201
   }
 ]
