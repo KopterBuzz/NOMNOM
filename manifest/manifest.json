@@ -332,7 +332,7 @@
         ]
       }
     ],
-    "downloadCount": 13
+    "downloadCount": 14
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 2166
+    "downloadCount": 2170
   },
   {
     "id": "no-autopilot-mod",
@@ -697,7 +697,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1201
+    "downloadCount": 1207
   },
   {
     "id": "NOBlackBox",
@@ -736,7 +736,7 @@
         ]
       }
     ],
-    "downloadCount": 1545
+    "downloadCount": 1550
   },
   {
     "id": "NOCursorOverride",
@@ -846,7 +846,7 @@
         ]
       }
     ],
-    "downloadCount": 164
+    "downloadCount": 165
   },
   {
     "id": "NOLiveryPlus",
@@ -984,7 +984,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 150
+    "downloadCount": 153
   },
   {
     "id": "pixy_voice",
@@ -1085,7 +1085,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115467
+    "downloadCount": 115472
   },
   {
     "id": "skyeye_voice",
