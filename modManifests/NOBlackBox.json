@@ -20,6 +20,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NOBlackBox-0.3.8.3-pre.zip",
+      "version": "0.3.8.3",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.3/NOBlackBox-0.3.8.3-pre.zip",
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "NOBlackBox-0.3.8.2.zip",
       "version": "0.3.8.2",
       "category": "release",
@@ -35,5 +50,5 @@
       ]
     }
   ],
-  "downloadCount": 1559
+  "downloadCount": 1561
 }
