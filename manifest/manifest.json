@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 226
+    "downloadCount": 231
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 269
+    "downloadCount": 274
   },
   {
     "id": "LocalizationPatch.French",
@@ -281,7 +281,7 @@
         ]
       }
     ],
-    "downloadCount": 20
+    "downloadCount": 22
   },
   {
     "id": "LocalizationPatch.German",
@@ -332,7 +332,7 @@
         ]
       }
     ],
-    "downloadCount": 18
+    "downloadCount": 20
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "downloadCount": 16
+    "downloadCount": 18
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -434,7 +434,7 @@
         ]
       }
     ],
-    "downloadCount": 34
+    "downloadCount": 35
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 2218
+    "downloadCount": 2233
   },
   {
     "id": "no-autopilot-mod",
@@ -697,7 +697,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1267
+    "downloadCount": 1279
   },
   {
     "id": "NOBlackBox",
@@ -751,7 +751,7 @@
         ]
       }
     ],
-    "downloadCount": 1564
+    "downloadCount": 1568
   },
   {
     "id": "NOCursorOverride",
@@ -783,7 +783,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 66
+    "downloadCount": 68
   },
   {
     "id": "NOFFB",
@@ -822,7 +822,7 @@
         ]
       }
     ],
-    "downloadCount": 6
+    "downloadCount": 8
   },
   {
     "id": "NOFrameLimiter",
@@ -861,7 +861,7 @@
         ]
       }
     ],
-    "downloadCount": 172
+    "downloadCount": 175
   },
   {
     "id": "NOLiveryPlus",
@@ -919,6 +919,21 @@
     "artifacts": [
       {
         "fileName": "NOX.7z",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.2.0/NOX.7z",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "fileName": "NOX.7z",
         "version": "0.1.4",
         "category": "preRelease",
         "type": "plugin",
@@ -948,7 +963,7 @@
         ]
       }
     ],
-    "downloadCount": 248
+    "downloadCount": 255
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -999,7 +1014,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 174
+    "downloadCount": 175
   },
   {
     "id": "pixy_voice",
@@ -1100,7 +1115,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115495
+    "downloadCount": 115503
   },
   {
     "id": "skyeye_voice",
@@ -1167,7 +1182,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 489
+    "downloadCount": 492
   },
   {
     "id": "YawOnMouse",
@@ -1199,6 +1214,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 209
+    "downloadCount": 211
   }
 ]
