@@ -44,7 +44,7 @@ function Validate-FileName
 {
     Param([string]$fileName)
 
-    $isSupportedArchive = $fileName -match ".zip\z|.rar\z|.7z\z|.dll\z"
+    $isSupportedArchive = $fileName -match ".zip\z|.rar\z|.7z\z|.dll\z|.tar.gz\z"
     if ($isSupportedArchive)
     {
         return $true
