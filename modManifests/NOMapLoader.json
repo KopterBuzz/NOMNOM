@@ -1,0 +1,32 @@
+{
+  "id": "NOMapLoader",
+  "displayName": "NOMapLoader",
+  "description": "Nuclear option map loader",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/MinecrackTyler/NOMapLoader"
+    }
+  ],
+  "authors": [
+    "MinecrackTyler"
+  ],
+  "githubOwner": "MinecrackTyler",
+  "githubRepoName": "NOMapLoader",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOMapLoader.tar.gz",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/MinecrackTyler/NOMapLoader/releases/download/v1.0.1/NOMapLoader.tar.gz",
+      "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
+    }
+  ]
+}
