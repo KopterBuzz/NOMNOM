@@ -434,7 +434,7 @@
         ]
       }
     ],
-    "downloadCount": 39
+    "downloadCount": 40
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 2265
+    "downloadCount": 2267
   },
   {
     "id": "no-autopilot-mod",
@@ -697,7 +697,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1302
+    "downloadCount": 1305
   },
   {
     "id": "NOBlackBox",
@@ -963,7 +963,7 @@
         ]
       }
     ],
-    "downloadCount": 273
+    "downloadCount": 276
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1014,7 +1014,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 179
+    "downloadCount": 181
   },
   {
     "id": "pixy_voice",
@@ -1115,7 +1115,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115523
+    "downloadCount": 115525
   },
   {
     "id": "skyeye_voice",
