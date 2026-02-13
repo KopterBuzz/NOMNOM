@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 267
+    "downloadCount": 268
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -682,7 +682,7 @@
         ]
       }
     ],
-    "downloadCount": 2374
+    "downloadCount": 2375
   },
   {
     "id": "no-autopilot-mod",
@@ -847,7 +847,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1419
+    "downloadCount": 1422
   },
   {
     "id": "NOBlackBox",
@@ -1011,7 +1011,7 @@
         ]
       }
     ],
-    "downloadCount": 211
+    "downloadCount": 212
   },
   {
     "id": "NOLiveryPlus",
@@ -1146,7 +1146,7 @@
         ]
       }
     ],
-    "downloadCount": 329
+    "downloadCount": 330
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1397,6 +1397,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 221
+    "downloadCount": 222
   }
 ]
