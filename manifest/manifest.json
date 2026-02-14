@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 312
+    "downloadCount": 313
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -542,7 +542,7 @@
         ]
       }
     ],
-    "downloadCount": 74
+    "downloadCount": 75
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -682,7 +682,7 @@
         ]
       }
     ],
-    "downloadCount": 2514
+    "downloadCount": 2517
   },
   {
     "id": "no-autopilot-mod",
@@ -847,7 +847,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1564
+    "downloadCount": 1567
   },
   {
     "id": "NOBlackBox",
@@ -901,7 +901,7 @@
         ]
       }
     ],
-    "downloadCount": 1660
+    "downloadCount": 1661
   },
   {
     "id": "NOCursorOverride",
@@ -1146,7 +1146,7 @@
         ]
       }
     ],
-    "downloadCount": 418
+    "downloadCount": 420
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1365,7 +1365,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 555
+    "downloadCount": 556
   },
   {
     "id": "YawOnMouse",
