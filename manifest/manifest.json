@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 366
+    "downloadCount": 368
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -542,7 +542,7 @@
         ]
       }
     ],
-    "downloadCount": 106
+    "downloadCount": 108
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -682,7 +682,7 @@
         ]
       }
     ],
-    "downloadCount": 2686
+    "downloadCount": 2691
   },
   {
     "id": "no-autopilot-mod",
@@ -847,7 +847,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1737
+    "downloadCount": 1743
   },
   {
     "id": "NOBlackBox",
@@ -1307,7 +1307,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115771
+    "downloadCount": 115772
   },
   {
     "id": "skyeye_voice",
