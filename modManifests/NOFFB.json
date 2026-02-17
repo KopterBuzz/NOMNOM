@@ -20,6 +20,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NOFFB-0.3.zip",
+      "version": "0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/KopterBuzz/NOFFB/releases/download/0.3/NOFFB-0.3.zip",
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "NOFFB-0.1.zip",
       "version": "0.1",
       "category": "release",
