@@ -62,7 +62,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 480
+    "downloadCount": 481
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -263,7 +263,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 530
+    "downloadCount": 531
   },
   {
     "id": "LocalizationPatch.French",
@@ -818,7 +818,7 @@
         ]
       }
     ],
-    "downloadCount": 156
+    "downloadCount": 157
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 2977
+    "downloadCount": 2981
   },
   {
     "id": "no-autopilot-mod",
@@ -1177,7 +1177,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2040
+    "downloadCount": 2043
   },
   {
     "id": "NOBlackBox",
@@ -1231,7 +1231,7 @@
         ]
       }
     ],
-    "downloadCount": 1828
+    "downloadCount": 1829
   },
   {
     "id": "NOCursorOverride",
@@ -1263,7 +1263,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 174
+    "downloadCount": 175
   },
   {
     "id": "NOFFB",
@@ -1356,7 +1356,7 @@
         ]
       }
     ],
-    "downloadCount": 369
+    "downloadCount": 370
   },
   {
     "id": "NOLiveryPlus",
@@ -1500,7 +1500,7 @@
         ]
       }
     ],
-    "downloadCount": 673
+    "downloadCount": 678
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1551,7 +1551,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 336
+    "downloadCount": 337
   },
   {
     "id": "pixy_voice",
@@ -1652,7 +1652,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116088
+    "downloadCount": 116094
   },
   {
     "id": "skyeye_voice",
@@ -1719,7 +1719,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 671
+    "downloadCount": 672
   },
   {
     "id": "YawOnMouse",
