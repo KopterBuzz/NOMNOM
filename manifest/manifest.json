@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 169
+    "downloadCount": 170
   },
   {
     "id": "bepinex-soundmod",
@@ -62,7 +62,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 499
+    "downloadCount": 501
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -263,7 +263,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 554
+    "downloadCount": 555
   },
   {
     "id": "LocalizationPatch.French",
@@ -818,7 +818,7 @@
         ]
       }
     ],
-    "downloadCount": 166
+    "downloadCount": 168
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 3068
+    "downloadCount": 3070
   },
   {
     "id": "no-autopilot-mod",
@@ -1177,7 +1177,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2107
+    "downloadCount": 2108
   },
   {
     "id": "NOBlackBox",
@@ -1356,7 +1356,7 @@
         ]
       }
     ],
-    "downloadCount": 380
+    "downloadCount": 381
   },
   {
     "id": "NOLiveryPlus",
@@ -1431,7 +1431,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 98
+    "downloadCount": 99
   },
   {
     "id": "NOX",
@@ -1581,7 +1581,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 358
+    "downloadCount": 359
   },
   {
     "id": "pixy_voice",
@@ -1682,7 +1682,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116201
+    "downloadCount": 116206
   },
   {
     "id": "skyeye_voice",
@@ -1790,6 +1790,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 274
+    "downloadCount": 277
   }
 ]
