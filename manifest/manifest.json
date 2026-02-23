@@ -818,7 +818,7 @@
         ]
       }
     ],
-    "downloadCount": 165
+    "downloadCount": 166
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 3066
+    "downloadCount": 3068
   },
   {
     "id": "no-autopilot-mod",
@@ -1682,7 +1682,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116197
+    "downloadCount": 116201
   },
   {
     "id": "skyeye_voice",
@@ -1790,6 +1790,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 272
+    "downloadCount": 274
   }
 ]
