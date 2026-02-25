@@ -266,6 +266,36 @@
     "downloadCount": 584
   },
   {
+    "id": "LiveryManager",
+    "displayName": "Livery Manager",
+    "description": "Tiny clientside mod to make dealing with lots of liveries a little less horrible.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://codeberg.org/maevi/nuclear-option-mods/src/branch/main/livery-manager"
+      }
+    ],
+    "authors": [
+      "maevii"
+    ],
+    "autoUpdateArtifacts": "False",
+    "artifacts": [
+      {
+        "fileName": "livery-manager-1.0.0.zip",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://codeberg.org/maevi/nuclear-option-mods/releases/download/livery-manager-1.0.0/livery-manager-1.0.0.zip",
+        "hash": "sha256:af443d939b0279d83113e3b966821388175f5bc24514d4e4c88414102f143b2e"
+      }
+    ]
+  },
+  {
     "id": "LocalizationPatch.French",
     "displayName": "French Localization Patch",
     "description": "French (Français) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
@@ -1012,7 +1042,7 @@
         ]
       }
     ],
-    "downloadCount": 3171
+    "downloadCount": 3172
   },
   {
     "id": "no-autopilot-mod",
@@ -1560,7 +1590,7 @@
         ]
       }
     ],
-    "downloadCount": 857
+    "downloadCount": 858
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1712,7 +1742,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116320
+    "downloadCount": 116326
   },
   {
     "id": "skyeye_voice",
@@ -1779,7 +1809,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 708
+    "downloadCount": 709
   },
   {
     "id": "YawOnMouse",
