@@ -2,18 +2,30 @@
   "id": "FrontlineMap",
   "displayName": "Frontline Map",
   "description": "Real-time frontline visualization on the map. Shows faction-colored territory control and battle lines.",
-  "tags": ["QoL"],
-  "urls": [{"name": "info", "url": "https://github.com/9138noms/FrontlineMap"}],
-  "authors": ["9138noms"],
+  "tags": [
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/FrontlineMap"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
   "githubOwner": "9138noms",
   "githubRepoName": "FrontlineMap",
   "autoUpdateArtifacts": "True",
-  "artifacts": [{
-    "fileName": "FrontlineMap.dll",
-    "version": "1.2.1",
-    "category": "release",
-    "type": "plugin",
-    "gameVersion": "0.32",
-    "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
-  }]
+  "artifacts": [
+    {
+      "fileName": "FrontlineMap.dll",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
+    }
+  ],
+  "downloadCount": 46
 }

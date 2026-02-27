@@ -2,18 +2,30 @@
   "id": "WeatherController",
   "displayName": "Weather Controller",
   "description": "Comprehensive weather control system. Adjust time of day, wind, clouds, and dynamic weather conditions.",
-  "tags": ["QoL"],
-  "urls": [{"name": "info", "url": "https://github.com/9138noms/NuclearOption-WeatherController"}],
-  "authors": ["9138noms"],
+  "tags": [
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-WeatherController"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
   "githubOwner": "9138noms",
   "githubRepoName": "NuclearOption-WeatherController",
   "autoUpdateArtifacts": "True",
-  "artifacts": [{
-    "fileName": "WeatherController_v3.0.0.zip",
-    "version": "3.0.0",
-    "category": "release",
-    "type": "plugin",
-    "gameVersion": "0.32",
-    "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
-  }]
+  "artifacts": [
+    {
+      "fileName": "WeatherController_v3.0.0.zip",
+      "version": "3.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
+    }
+  ],
+  "downloadCount": 23
 }

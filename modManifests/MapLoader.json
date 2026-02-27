@@ -2,18 +2,30 @@
   "id": "MapLoader",
   "displayName": "Custom Map Loader",
   "description": "Load custom terrain and maps via AssetBundles. Create and share custom battle environments.",
-  "tags": ["Terrain"],
-  "urls": [{"name": "info", "url": "https://github.com/9138noms/NuclearOption-CustomMapLoader"}],
-  "authors": ["9138noms"],
+  "tags": [
+    "Terrain"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-CustomMapLoader"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
   "githubOwner": "9138noms",
   "githubRepoName": "NuclearOption-CustomMapLoader",
   "autoUpdateArtifacts": "True",
-  "artifacts": [{
-    "fileName": "MapLoader_v3.0.0.zip",
-    "version": "3.0.0",
-    "category": "release",
-    "type": "plugin",
-    "gameVersion": "0.32",
-    "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
-  }]
+  "artifacts": [
+    {
+      "fileName": "MapLoader_v3.0.0.zip",
+      "version": "3.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
+    }
+  ],
+  "downloadCount": 10
 }

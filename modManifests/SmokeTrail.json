@@ -2,18 +2,31 @@
   "id": "SmokeTrail",
   "displayName": "Smoke Trail",
   "description": "Airshow smoke trail effects for aircraft. Network-synchronized with in-game keybind and HOTAS support.",
-  "tags": ["Flavor", "Aircraft"],
-  "urls": [{"name": "info", "url": "https://github.com/9138noms/NuclearOption-SmokeTrail"}],
-  "authors": ["9138noms"],
+  "tags": [
+    "Flavor",
+    "Aircraft"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-SmokeTrail"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
   "githubOwner": "9138noms",
   "githubRepoName": "NuclearOption-SmokeTrail",
   "autoUpdateArtifacts": "True",
-  "artifacts": [{
-    "fileName": "SmokeTrail.dll",
-    "version": "2.1.0",
-    "category": "release",
-    "type": "plugin",
-    "gameVersion": "0.32",
-    "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
-  }]
+  "artifacts": [
+    {
+      "fileName": "SmokeTrail.dll",
+      "version": "2.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
+    }
+  ],
+  "downloadCount": 34
 }

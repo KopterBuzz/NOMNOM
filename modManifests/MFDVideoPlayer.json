@@ -2,18 +2,30 @@
   "id": "MFDVideoPlayer",
   "displayName": "MFD Video Player",
   "description": "Play custom videos on the MFD display in-game. Supports YouTube and Twitch streaming via yt-dlp.",
-  "tags": ["Flavor"],
-  "urls": [{"name": "info", "url": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer"}],
-  "authors": ["9138noms"],
+  "tags": [
+    "Flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
   "githubOwner": "9138noms",
   "githubRepoName": "NuclearOption-MFDVideoPlayer",
   "autoUpdateArtifacts": "True",
-  "artifacts": [{
-    "fileName": "MFDVideoPlayer.dll",
-    "version": "2.0.0",
-    "category": "release",
-    "type": "plugin",
-    "gameVersion": "0.32",
-    "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
-  }]
+  "artifacts": [
+    {
+      "fileName": "MFDVideoPlayer.dll",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
+    }
+  ],
+  "downloadCount": 58
 }
