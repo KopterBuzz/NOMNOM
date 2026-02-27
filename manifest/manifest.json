@@ -158,7 +158,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 46
+    "downloadCount": 47
   },
   {
     "id": "galaxy2_voice",
@@ -1422,7 +1422,7 @@
         ]
       }
     ],
-    "downloadCount": 1909
+    "downloadCount": 1910
   },
   {
     "id": "NOCursorOverride",
@@ -2047,7 +2047,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 277
+    "downloadCount": 279
   },
   {
     "id": "WeatherController",
@@ -2161,6 +2161,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 286
+    "downloadCount": 287
   }
 ]
