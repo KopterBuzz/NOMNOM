@@ -1,0 +1,19 @@
+{
+  "id": "VehicleControl",
+  "displayName": "Vehicle Control",
+  "description": "Possess and directly control ground vehicles, ships, and other units. Includes camera system and targeting.",
+  "tags": ["QoL"],
+  "urls": [{"name": "info", "url": "https://github.com/9138noms/NuclearOption-VehicleControl"}],
+  "authors": ["9138noms"],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-VehicleControl",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [{
+    "fileName": "VehicleControl.zip",
+    "version": "2.3.2",
+    "category": "release",
+    "type": "plugin",
+    "gameVersion": "0.32",
+    "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
+  }]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "AircraftWaypoints",
+  "displayName": "Aircraft Waypoints + Camera Trail",
+  "description": "Waypoint navigation system for aircraft with camera trail visualization. Create, save, and follow flight paths in the mission editor.",
+  "tags": ["QoL", "Aircraft"],
+  "urls": [{"name": "info", "url": "https://github.com/9138noms/NuclearOption-AircraftWaypoints"}],
+  "authors": ["9138noms"],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-AircraftWaypoints",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [{
+    "fileName": "AircraftWaypoints.zip",
+    "version": "2.1.0",
+    "category": "release",
+    "type": "plugin",
+    "gameVersion": "0.32",
+    "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
+  }]
+}

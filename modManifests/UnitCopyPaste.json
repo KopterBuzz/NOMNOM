@@ -1,0 +1,19 @@
+{
+  "id": "UnitCopyPaste",
+  "displayName": "Unit Copy Paste",
+  "description": "Group copy/paste for units in the mission editor. Ctrl+C to copy, Ctrl+V to paste at cursor, Ctrl+D to duplicate in place.",
+  "tags": ["QoL"],
+  "urls": [{"name": "info", "url": "https://github.com/9138noms/UnitCopyPaste"}],
+  "authors": ["9138noms"],
+  "githubOwner": "9138noms",
+  "githubRepoName": "UnitCopyPaste",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [{
+    "fileName": "UnitCopyPaste.dll",
+    "version": "1.0.0",
+    "category": "release",
+    "type": "plugin",
+    "gameVersion": "0.32",
+    "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
+  }]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "RepairProgress",
+  "displayName": "Repair Progress",
+  "description": "Visualize building damage and repair status with health bars. See repair progress in real-time.",
+  "tags": ["QoL"],
+  "urls": [{"name": "info", "url": "https://github.com/9138noms/NuclearOption-RepairProgress"}],
+  "authors": ["9138noms"],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-RepairProgress",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [{
+    "fileName": "RepairProgress.zip",
+    "version": "1.0.0",
+    "category": "release",
+    "type": "plugin",
+    "gameVersion": "0.32",
+    "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
+  }]
+}
