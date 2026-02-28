@@ -1145,7 +1145,7 @@
         "dependencies": [
           {
             "id": "no-autopilot-mod",
-            "version": "4.17.1"
+            "version": "4.17.2"
           },
           {
             "id": "BepInEx.ConfigurationManager",
@@ -1192,7 +1192,7 @@
         ]
       }
     ],
-    "downloadCount": 3311
+    "downloadCount": 3313
   },
   {
     "id": "no-autopilot-mod",
@@ -1215,6 +1215,21 @@
     "githubRepoName": "no-autopilot-mod",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.17.2.7z",
+        "version": "4.17.2",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.17.2/com.qwerty1423.NOAutopilot-4.17.2.7z",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
       {
         "fileName": "com.qwerty1423.NOAutopilot-4.17.1.7z",
         "version": "4.17.1",
@@ -1387,7 +1402,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2334
+    "downloadCount": 2335
   },
   {
     "id": "NOBlackBox",
@@ -1755,7 +1770,7 @@
         ]
       }
     ],
-    "downloadCount": 922
+    "downloadCount": 923
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1938,7 +1953,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116468
+    "downloadCount": 116471
   },
   {
     "id": "skyeye_voice",
