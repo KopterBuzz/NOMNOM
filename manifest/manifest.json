@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 545
+    "downloadCount": 546
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 79
+    "downloadCount": 84
   },
   {
     "id": "galaxy2_voice",
@@ -926,7 +926,7 @@
         ]
       }
     ],
-    "downloadCount": 182
+    "downloadCount": 183
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1201,7 +1201,7 @@
         ]
       }
     ],
-    "downloadCount": 3335
+    "downloadCount": 3340
   },
   {
     "id": "no-autopilot-mod",
@@ -1411,7 +1411,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2345
+    "downloadCount": 2351
   },
   {
     "id": "NOBlackBox",
@@ -1465,7 +1465,7 @@
         ]
       }
     ],
-    "downloadCount": 1919
+    "downloadCount": 1922
   },
   {
     "id": "NOCursorOverride",
@@ -1590,7 +1590,7 @@
         ]
       }
     ],
-    "downloadCount": 422
+    "downloadCount": 424
   },
   {
     "id": "NOLiveryPlus",
@@ -1962,7 +1962,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116476
+    "downloadCount": 116478
   },
   {
     "id": "skyeye_voice",
@@ -2059,7 +2059,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 1
+    "downloadCount": 2
   },
   {
     "id": "VehicleControl",
@@ -2121,7 +2121,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 28
+    "downloadCount": 29
   },
   {
     "id": "WSOYappinator",
