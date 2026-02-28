@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 217
+    "downloadCount": 218
   },
   {
     "id": "AircraftWaypoints",
@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 543
+    "downloadCount": 544
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -158,7 +158,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 70
+    "downloadCount": 71
   },
   {
     "id": "galaxy2_voice",
@@ -1111,7 +1111,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 65
+    "downloadCount": 66
   },
   {
     "id": "NO_Tactitools",
@@ -1134,6 +1134,25 @@
     "githubRepoName": "NO_Tactitools",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "NOTT_PR_0.7.0.zip",
+        "version": "0.7.0",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0/NOTT_PR_0.7.0.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "no-autopilot-mod",
+            "version": "4.17.1"
+          },
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
       {
         "fileName": "NOTT_PR_0.6.0.2.zip",
         "version": "0.6.0.2",
@@ -1173,7 +1192,7 @@
         ]
       }
     ],
-    "downloadCount": 3289
+    "downloadCount": 3291
   },
   {
     "id": "no-autopilot-mod",
@@ -1368,7 +1387,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2328
+    "downloadCount": 2329
   },
   {
     "id": "NOBlackBox",
@@ -1422,7 +1441,7 @@
         ]
       }
     ],
-    "downloadCount": 1917
+    "downloadCount": 1918
   },
   {
     "id": "NOCursorOverride",
@@ -1787,7 +1806,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 412
+    "downloadCount": 413
   },
   {
     "id": "pixy_voice",
@@ -1919,7 +1938,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116455
+    "downloadCount": 116458
   },
   {
     "id": "skyeye_voice",
@@ -2016,7 +2035,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 12
+    "downloadCount": 14
   },
   {
     "id": "VehicleControl",
