@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 546
+    "downloadCount": 547
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 93
+    "downloadCount": 96
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 610
+    "downloadCount": 611
   },
   {
     "id": "LiveryManager",
@@ -1201,7 +1201,7 @@
         ]
       }
     ],
-    "downloadCount": 3348
+    "downloadCount": 3354
   },
   {
     "id": "no-autopilot-mod",
@@ -1411,7 +1411,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2358
+    "downloadCount": 2364
   },
   {
     "id": "NOBlackBox",
@@ -1779,7 +1779,7 @@
         ]
       }
     ],
-    "downloadCount": 928
+    "downloadCount": 933
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1929,7 +1929,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 97
+    "downloadCount": 98
   },
   {
     "id": "RuntimeUnityEditor",
@@ -1962,7 +1962,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116481
+    "downloadCount": 116483
   },
   {
     "id": "skyeye_voice",
@@ -2059,7 +2059,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 4
+    "downloadCount": 7
   },
   {
     "id": "VehicleControl",
@@ -2090,7 +2090,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 303
+    "downloadCount": 304
   },
   {
     "id": "WeatherController",
@@ -2154,7 +2154,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 725
+    "downloadCount": 726
   },
   {
     "id": "YawOnMouse",
@@ -2204,6 +2204,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 287
+    "downloadCount": 288
   }
 ]
