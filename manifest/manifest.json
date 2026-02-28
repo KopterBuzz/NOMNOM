@@ -151,6 +151,15 @@
     "artifacts": [
       {
         "fileName": "FrontlineMap.dll",
+        "version": "1.3.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.3.0/FrontlineMap.dll",
+        "hash": null
+      },
+      {
+        "fileName": "FrontlineMap.dll",
         "version": "1.2.1",
         "category": "release",
         "type": "plugin",
@@ -158,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 77
+    "downloadCount": 79
   },
   {
     "id": "galaxy2_voice",
@@ -1192,7 +1201,7 @@
         ]
       }
     ],
-    "downloadCount": 3329
+    "downloadCount": 3335
   },
   {
     "id": "no-autopilot-mod",
@@ -1402,7 +1411,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2341
+    "downloadCount": 2345
   },
   {
     "id": "NOBlackBox",
@@ -1770,7 +1779,7 @@
         ]
       }
     ],
-    "downloadCount": 923
+    "downloadCount": 925
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1821,7 +1830,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 414
+    "downloadCount": 415
   },
   {
     "id": "pixy_voice",
@@ -1953,7 +1962,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116474
+    "downloadCount": 116476
   },
   {
     "id": "skyeye_voice",
@@ -2050,7 +2059,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 15
+    "downloadCount": 1
   },
   {
     "id": "VehicleControl",
@@ -2081,7 +2090,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 300
+    "downloadCount": 301
   },
   {
     "id": "WeatherController",
@@ -2145,7 +2154,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 722
+    "downloadCount": 723
   },
   {
     "id": "YawOnMouse",
