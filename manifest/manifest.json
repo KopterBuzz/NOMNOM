@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 224
+    "downloadCount": 225
   },
   {
     "id": "AircraftWaypoints",
@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 555
+    "downloadCount": 557
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 124
+    "downloadCount": 127
   },
   {
     "id": "galaxy2_voice",
@@ -1144,6 +1144,25 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "NOTT_PR_0.7.0.1.zip",
+        "version": "0.7.0.1",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0.1/NOTT_PR_0.7.0.1.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "no-autopilot-mod",
+            "version": "4.17.2"
+          },
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
         "fileName": "NOTT_PR_0.7.0.zip",
         "version": "0.7.0",
         "category": "preRelease",
@@ -1201,7 +1220,7 @@
         ]
       }
     ],
-    "downloadCount": 3397
+    "downloadCount": 3405
   },
   {
     "id": "no-autopilot-mod",
@@ -1411,7 +1430,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2389
+    "downloadCount": 2395
   },
   {
     "id": "NOBlackBox",
@@ -1779,7 +1798,7 @@
         ]
       }
     ],
-    "downloadCount": 949
+    "downloadCount": 951
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1830,7 +1849,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 419
+    "downloadCount": 420
   },
   {
     "id": "pixy_voice",
@@ -1962,7 +1981,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116493
+    "downloadCount": 116495
   },
   {
     "id": "skyeye_voice",
@@ -2059,7 +2078,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 9
+    "downloadCount": 10
   },
   {
     "id": "VehicleControl",
@@ -2090,7 +2109,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 319
+    "downloadCount": 322
   },
   {
     "id": "WeatherController",
