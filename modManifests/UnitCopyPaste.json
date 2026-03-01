@@ -20,6 +20,15 @@
   "artifacts": [
     {
       "fileName": "UnitCopyPaste.dll",
+      "version": "2.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v2.1.0/UnitCopyPaste.dll",
+      "hash": null
+    },
+    {
+      "fileName": "UnitCopyPaste.dll",
       "version": "1.0.0",
       "category": "release",
       "type": "plugin",
