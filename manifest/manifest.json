@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 209
+    "downloadCount": 211
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 655
+    "downloadCount": 656
   },
   {
     "id": "LiveryManager",
@@ -1239,7 +1239,7 @@
         ]
       }
     ],
-    "downloadCount": 3605
+    "downloadCount": 3609
   },
   {
     "id": "no-autopilot-mod",
@@ -1464,7 +1464,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2542
+    "downloadCount": 2545
   },
   {
     "id": "NOBlackBox",
@@ -1518,7 +1518,7 @@
         ]
       }
     ],
-    "downloadCount": 1956
+    "downloadCount": 1957
   },
   {
     "id": "NOCursorOverride",
@@ -1832,7 +1832,7 @@
         ]
       }
     ],
-    "downloadCount": 1009
+    "downloadCount": 1011
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1982,7 +1982,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 139
+    "downloadCount": 140
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2015,7 +2015,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116603
+    "downloadCount": 116605
   },
   {
     "id": "skyeye_voice",
@@ -2121,7 +2121,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 21
+    "downloadCount": 22
   },
   {
     "id": "VehicleControl",
@@ -2152,7 +2152,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 362
+    "downloadCount": 364
   },
   {
     "id": "WeatherController",
@@ -2266,6 +2266,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 293
+    "downloadCount": 294
   }
 ]
