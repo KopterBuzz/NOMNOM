@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 240
+    "downloadCount": 243
   },
   {
     "id": "AircraftWaypoints",
@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 66
+    "downloadCount": 68
   },
   {
     "id": "bepinex-soundmod",
@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 575
+    "downloadCount": 576
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 189
+    "downloadCount": 192
   },
   {
     "id": "galaxy2_voice",
@@ -1239,7 +1239,7 @@
         ]
       }
     ],
-    "downloadCount": 3563
+    "downloadCount": 3566
   },
   {
     "id": "no-autopilot-mod",
@@ -1464,7 +1464,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2525
+    "downloadCount": 2526
   },
   {
     "id": "NOBlackBox",
@@ -1550,7 +1550,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 193
+    "downloadCount": 194
   },
   {
     "id": "NOFFB",
@@ -1604,7 +1604,7 @@
         ]
       }
     ],
-    "downloadCount": 135
+    "downloadCount": 136
   },
   {
     "id": "NOFrameLimiter",
@@ -1883,7 +1883,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 435
+    "downloadCount": 436
   },
   {
     "id": "pixy_voice",
@@ -2015,7 +2015,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116589
+    "downloadCount": 116591
   },
   {
     "id": "skyeye_voice",
@@ -2152,7 +2152,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 354
+    "downloadCount": 355
   },
   {
     "id": "WeatherController",
