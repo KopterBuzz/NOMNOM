@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 320
+    "downloadCount": 321
   },
   {
     "id": "AircraftWaypoints",
@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 114
+    "downloadCount": 115
   },
   {
     "id": "AtomicFramework",
@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 633
+    "downloadCount": 635
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 346
+    "downloadCount": 349
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 726
+    "downloadCount": 727
   },
   {
     "id": "LiveryManager",
@@ -1130,7 +1130,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 60
+    "downloadCount": 61
   },
   {
     "id": "MFDVideoPlayer",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 3946
+    "downloadCount": 3948
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2795
+    "downloadCount": 2797
   },
   {
     "id": "NOBlackBox",
@@ -1718,7 +1718,7 @@
         ]
       }
     ],
-    "downloadCount": 496
+    "downloadCount": 497
   },
   {
     "id": "NOLiveryPlus",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1136
+    "downloadCount": 1137
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 16
+    "downloadCount": 18
   },
   {
     "id": "RepairProgress",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116779
+    "downloadCount": 116782
   },
   {
     "id": "skyeye_voice",
@@ -2373,7 +2373,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 792
+    "downloadCount": 793
   },
   {
     "id": "YawOnMouse",
