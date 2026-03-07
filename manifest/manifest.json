@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 319
+    "downloadCount": 320
   },
   {
     "id": "AircraftWaypoints",
@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 113
+    "downloadCount": 114
   },
   {
     "id": "AtomicFramework",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 344
+    "downloadCount": 345
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 722
+    "downloadCount": 723
   },
   {
     "id": "LiveryManager",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 3944
+    "downloadCount": 3945
   },
   {
     "id": "no-autopilot-mod",
@@ -1718,7 +1718,7 @@
         ]
       }
     ],
-    "downloadCount": 494
+    "downloadCount": 495
   },
   {
     "id": "NOLiveryPlus",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1133
+    "downloadCount": 1136
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 11
+    "downloadCount": 12
   },
   {
     "id": "RepairProgress",
@@ -2139,7 +2139,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 200
+    "downloadCount": 201
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116778
+    "downloadCount": 116779
   },
   {
     "id": "skyeye_voice",
@@ -2278,7 +2278,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 42
+    "downloadCount": 45
   },
   {
     "id": "VehicleControl",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 457
+    "downloadCount": 458
   },
   {
     "id": "WeatherController",
@@ -2340,7 +2340,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 68
+    "downloadCount": 69
   },
   {
     "id": "WSOYappinator",
