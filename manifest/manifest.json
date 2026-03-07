@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 345
+    "downloadCount": 346
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 723
+    "downloadCount": 726
   },
   {
     "id": "LiveryManager",
@@ -676,7 +676,7 @@
         ]
       }
     ],
-    "downloadCount": 149
+    "downloadCount": 150
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 3945
+    "downloadCount": 3946
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2793
+    "downloadCount": 2795
   },
   {
     "id": "NOBlackBox",
@@ -1718,7 +1718,7 @@
         ]
       }
     ],
-    "downloadCount": 495
+    "downloadCount": 496
   },
   {
     "id": "NOLiveryPlus",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 12
+    "downloadCount": 16
   },
   {
     "id": "RepairProgress",
@@ -2139,7 +2139,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 201
+    "downloadCount": 202
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2238,7 +2238,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 67
+    "downloadCount": 68
   },
   {
     "id": "UnitCopyPaste",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 458
+    "downloadCount": 461
   },
   {
     "id": "WeatherController",
@@ -2340,7 +2340,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 69
+    "downloadCount": 70
   },
   {
     "id": "WSOYappinator",
