@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 701
+    "downloadCount": 703
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 489
+    "downloadCount": 490
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 797
+    "downloadCount": 799
   },
   {
     "id": "LiveryManager",
@@ -1265,7 +1265,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 93
+    "downloadCount": 94
   },
   {
     "id": "MFDVideoPlayer",
@@ -1434,7 +1434,7 @@
         ]
       }
     ],
-    "downloadCount": 4200
+    "downloadCount": 4203
   },
   {
     "id": "no-autopilot-mod",
@@ -1674,7 +1674,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3024
+    "downloadCount": 3025
   },
   {
     "id": "NOBlackBox",
@@ -2042,7 +2042,7 @@
         ]
       }
     ],
-    "downloadCount": 1242
+    "downloadCount": 1243
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2243,7 +2243,7 @@
         ]
       }
     ],
-    "downloadCount": 207
+    "downloadCount": 208
   },
   {
     "id": "RepairProgress",
@@ -2274,7 +2274,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 271
+    "downloadCount": 272
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2307,7 +2307,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116956
+    "downloadCount": 116960
   },
   {
     "id": "skyeye_voice",
@@ -2412,7 +2412,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 30
+    "downloadCount": 32
   },
   {
     "id": "UnitCopyPaste",
