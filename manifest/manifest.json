@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 697
+    "downloadCount": 698
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -1434,7 +1434,7 @@
         ]
       }
     ],
-    "downloadCount": 4191
+    "downloadCount": 4194
   },
   {
     "id": "no-autopilot-mod",
@@ -2042,7 +2042,7 @@
         ]
       }
     ],
-    "downloadCount": 1240
+    "downloadCount": 1242
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2243,7 +2243,7 @@
         ]
       }
     ],
-    "downloadCount": 202
+    "downloadCount": 203
   },
   {
     "id": "RepairProgress",
@@ -2412,7 +2412,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 24
+    "downloadCount": 27
   },
   {
     "id": "UnitCopyPaste",
@@ -2483,7 +2483,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 558
+    "downloadCount": 559
   },
   {
     "id": "WeatherController",
@@ -2514,7 +2514,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 106
+    "downloadCount": 107
   },
   {
     "id": "WSOYappinator",
