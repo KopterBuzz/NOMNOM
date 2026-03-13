@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 162
+    "downloadCount": 163
   },
   {
     "id": "AtomicFramework",
@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 720
+    "downloadCount": 721
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 814
+    "downloadCount": 815
   },
   {
     "id": "LiveryManager",
@@ -1434,7 +1434,7 @@
         ]
       }
     ],
-    "downloadCount": 4242
+    "downloadCount": 4243
   },
   {
     "id": "no-autopilot-mod",
@@ -1674,7 +1674,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3054
+    "downloadCount": 3056
   },
   {
     "id": "NOBlackBox",
@@ -1728,7 +1728,7 @@
         ]
       }
     ],
-    "downloadCount": 2117
+    "downloadCount": 2118
   },
   {
     "id": "NOCursorOverride",
@@ -1853,7 +1853,7 @@
         ]
       }
     ],
-    "downloadCount": 561
+    "downloadCount": 562
   },
   {
     "id": "NOLiveryPlus",
@@ -2042,7 +2042,7 @@
         ]
       }
     ],
-    "downloadCount": 1258
+    "downloadCount": 1260
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2093,7 +2093,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 529
+    "downloadCount": 530
   },
   {
     "id": "NuclearVOIP",
@@ -2243,7 +2243,7 @@
         ]
       }
     ],
-    "downloadCount": 235
+    "downloadCount": 236
   },
   {
     "id": "RepairProgress",
@@ -2274,7 +2274,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 282
+    "downloadCount": 283
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2307,7 +2307,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116975
+    "downloadCount": 116977
   },
   {
     "id": "skyeye_voice",
@@ -2412,7 +2412,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 41
+    "downloadCount": 42
   },
   {
     "id": "UnitCopyPaste",
@@ -2452,7 +2452,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 65
+    "downloadCount": 66
   },
   {
     "id": "VehicleControl",
