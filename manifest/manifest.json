@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 514
+    "downloadCount": 515
   },
   {
     "id": "galaxy2_voice",
@@ -914,6 +914,33 @@
     "artifacts": [
       {
         "fileName": "LocalizationPatch_ru.zip",
+        "version": "2.5.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-RussianPatch/releases/download/v2.5.1/LocalizationPatch_ru.zip",
+        "hash": null,
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      },
+      {
+        "fileName": "LocalizationPatch_ru.zip",
         "version": "2.4.0",
         "category": "release",
         "type": "plugin",
@@ -1434,7 +1461,7 @@
         ]
       }
     ],
-    "downloadCount": 4248
+    "downloadCount": 4249
   },
   {
     "id": "no-autopilot-mod",
@@ -2243,7 +2270,7 @@
         ]
       }
     ],
-    "downloadCount": 241
+    "downloadCount": 242
   },
   {
     "id": "RepairProgress",
@@ -2483,7 +2510,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 581
+    "downloadCount": 582
   },
   {
     "id": "WeatherController",
