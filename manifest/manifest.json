@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 523
+    "downloadCount": 524
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 823
+    "downloadCount": 825
   },
   {
     "id": "LiveryManager",
@@ -435,6 +435,33 @@
     "githubRepoName": "NuclearOption-FrenchPatch",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "LocalizationPatch_fr.zip",
+        "version": "2.6.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-FrenchPatch/releases/download/v2.6.0/LocalizationPatch_fr.zip",
+        "hash": null,
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Russian",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          }
+        ]
+      },
       {
         "fileName": "LocalizationPatch_fr.zip",
         "version": "2.4.0",
@@ -571,7 +598,7 @@
         ]
       }
     ],
-    "downloadCount": 175
+    "downloadCount": 169
   },
   {
     "id": "LocalizationPatch.German",
@@ -594,6 +621,33 @@
     "githubRepoName": "NuclearOption-GermanPatch",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "LocalizationPatch_de.zip",
+        "version": "2.6.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-GermanPatch/releases/download/v2.6.0/LocalizationPatch_de.zip",
+        "hash": null,
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Russian",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      },
       {
         "fileName": "LocalizationPatch_de.zip",
         "version": "2.4.0",
@@ -730,7 +784,7 @@
         ]
       }
     ],
-    "downloadCount": 173
+    "downloadCount": 167
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -753,6 +807,33 @@
     "githubRepoName": "NuclearOption-KoreanPatch",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "LocalizationPatch_ko.zip",
+        "version": "2.6.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-KoreanPatch/releases/download/v2.6.0/LocalizationPatch_ko.zip",
+        "hash": null,
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Russian",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      },
       {
         "fileName": "LocalizationPatch_ko.zip",
         "version": "2.4.0",
@@ -889,7 +970,7 @@
         ]
       }
     ],
-    "downloadCount": 163
+    "downloadCount": 156
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -912,6 +993,33 @@
     "githubRepoName": "NuclearOption-RussianPatch",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "LocalizationPatch_ru.zip",
+        "version": "2.6.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-RussianPatch/releases/download/v2.6.0/LocalizationPatch_ru.zip",
+        "hash": null,
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Spanish",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      },
       {
         "fileName": "LocalizationPatch_ru.zip",
         "version": "2.5.1",
@@ -1127,6 +1235,33 @@
     "artifacts": [
       {
         "fileName": "LocalizationPatch_es.zip",
+        "version": "2.6.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-SpanishPatch/releases/download/v2.6.0/LocalizationPatch_es.zip",
+        "hash": null,
+        "incompatibilities": [
+          {
+            "id": "LocalizationPatch.Korean",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.German",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.Russian",
+            "version": "1.0.0"
+          },
+          {
+            "id": "LocalizationPatch.French",
+            "version": "1.0.0"
+          }
+        ]
+      },
+      {
+        "fileName": "LocalizationPatch_es.zip",
         "version": "2.4.0",
         "category": "release",
         "type": "plugin",
@@ -1261,7 +1396,7 @@
         ]
       }
     ],
-    "downloadCount": 45
+    "downloadCount": 44
   },
   {
     "id": "MapLoader",
@@ -1323,7 +1458,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 160
+    "downloadCount": 161
   },
   {
     "id": "NO_Tactitools",
@@ -1461,7 +1596,7 @@
         ]
       }
     ],
-    "downloadCount": 4262
+    "downloadCount": 4264
   },
   {
     "id": "no-autopilot-mod",
@@ -1701,7 +1836,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3074
+    "downloadCount": 3077
   },
   {
     "id": "NOBlackBox",
@@ -1755,7 +1890,7 @@
         ]
       }
     ],
-    "downloadCount": 2122
+    "downloadCount": 2123
   },
   {
     "id": "NOCursorOverride",
@@ -2069,7 +2204,7 @@
         ]
       }
     ],
-    "downloadCount": 1267
+    "downloadCount": 1269
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2270,7 +2405,7 @@
         ]
       }
     ],
-    "downloadCount": 251
+    "downloadCount": 252
   },
   {
     "id": "RepairProgress",
@@ -2334,7 +2469,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116987
+    "downloadCount": 116990
   },
   {
     "id": "skyeye_voice",
@@ -2439,7 +2574,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 45
+    "downloadCount": 46
   },
   {
     "id": "UnitCopyPaste",
@@ -2510,7 +2645,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 589
+    "downloadCount": 590
   },
   {
     "id": "WeatherController",
