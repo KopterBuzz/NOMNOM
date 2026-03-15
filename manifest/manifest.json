@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 540
+    "downloadCount": 541
   },
   {
     "id": "galaxy2_voice",
@@ -1731,7 +1731,7 @@
         ]
       }
     ],
-    "downloadCount": 4299
+    "downloadCount": 4302
   },
   {
     "id": "no-autopilot-mod",
@@ -1971,7 +1971,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3100
+    "downloadCount": 3102
   },
   {
     "id": "NOBlackBox",
@@ -2571,7 +2571,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 297
+    "downloadCount": 298
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2780,7 +2780,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 605
+    "downloadCount": 606
   },
   {
     "id": "WeatherController",
