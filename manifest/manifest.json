@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 844
+    "downloadCount": 846
   },
   {
     "id": "LiveryManager",
@@ -2474,7 +2474,7 @@
         ]
       }
     ],
-    "downloadCount": 1296
+    "downloadCount": 1297
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2525,7 +2525,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 551
+    "downloadCount": 552
   },
   {
     "id": "NuclearVOIP",
@@ -2739,7 +2739,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117039
+    "downloadCount": 117040
   },
   {
     "id": "skyeye_voice",
@@ -2933,7 +2933,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 625
+    "downloadCount": 626
   },
   {
     "id": "WeatherController",
