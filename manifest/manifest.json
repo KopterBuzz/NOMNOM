@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 746
+    "downloadCount": 747
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -2001,7 +2001,7 @@
         ]
       }
     ],
-    "downloadCount": 4390
+    "downloadCount": 4391
   },
   {
     "id": "no-autopilot-mod",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3176
+    "downloadCount": 3178
   },
   {
     "id": "NOBlackBox",
@@ -2810,7 +2810,7 @@
         ]
       }
     ],
-    "downloadCount": 355
+    "downloadCount": 357
   },
   {
     "id": "RepairProgress",
@@ -2949,7 +2949,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 104
+    "downloadCount": 105
   },
   {
     "id": "ThirdFaction",
@@ -3068,7 +3068,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 640
+    "downloadCount": 642
   },
   {
     "id": "WeatherController",
