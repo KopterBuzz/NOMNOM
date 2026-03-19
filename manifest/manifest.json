@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 438
+    "downloadCount": 439
   },
   {
     "id": "AircraftWaypoints",
@@ -2001,7 +2001,7 @@
         ]
       }
     ],
-    "downloadCount": 4387
+    "downloadCount": 4388
   },
   {
     "id": "no-autopilot-mod",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3171
+    "downloadCount": 3173
   },
   {
     "id": "NOBlackBox",
@@ -2874,7 +2874,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117063
+    "downloadCount": 117064
   },
   {
     "id": "skyeye_voice",
@@ -3099,7 +3099,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 126
+    "downloadCount": 127
   },
   {
     "id": "WSOYappinator",
