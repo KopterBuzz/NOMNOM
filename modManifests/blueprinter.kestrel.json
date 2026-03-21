@@ -1,0 +1,42 @@
+{
+  "id": "blueprinter.kestrel",
+  "displayName": "FQ-106 Kestrel",
+  "description": "A light combat drone with superb kinematics. Features a custom model with unique flight performance and destruction, a custom MFD and damage display, 7 liveries, no G-loc, and self-destruction when the eject key is pressed.",
+  "tags": [
+    "mod",
+    "aircraft"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NOBlueprinter-Releases/blob/main/README.md"
+    },
+    {
+      "name": "2082 discord",
+      "url": "https://discord.gg/qqMwyr2qxR"
+    }
+  ],
+  "authors": [
+    "nikkorap",
+    "offiry"
+  ],
+  "githubOwner": "nikkorap",
+  "githubRepoName": "NOBlueprinter-Releases",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "FQ-106_2.1.0.dll",
+      "version": "2.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NOKestrel/releases/download/2.1.0/FQ-106_2.1.0.dll",
+      "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.16"
+      }
+    }
+  ],
+  "downloadCount": 0
+}

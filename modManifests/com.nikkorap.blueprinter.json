@@ -1,0 +1,36 @@
+{
+  "id": "com.nikkorap.blueprinter",
+  "displayName": "Blueprinter",
+  "description": "Core framework required for mods utilising blueprinter.",
+  "tags": [
+    "mod"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NOBlueprinter-Releases/blob/main/README.md"
+    },
+    {
+      "name": "2082 discord",
+      "url": "https://discord.gg/qqMwyr2qxR"
+    }
+  ],
+  "authors": [
+    "nikkorap"
+  ],
+  "githubOwner": "nikkorap",
+  "githubRepoName": "NOBlueprinter-Releases",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Blueprinter_1.8.16.dll",
+      "version": "1.8.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-Releases/releases/download/1.8.16/Blueprinter_1.8.16.dll",
+      "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
+    }
+  ],
+  "downloadCount": 0
+}
