@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 449
+    "downloadCount": 450
   },
   {
     "id": "AircraftWaypoints",
@@ -1832,7 +1832,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 113
+    "downloadCount": 114
   },
   {
     "id": "MFDVideoPlayer",
@@ -1863,7 +1863,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 203
+    "downloadCount": 204
   },
   {
     "id": "NO_Tactitools",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3226
+    "downloadCount": 3227
   },
   {
     "id": "NOBlackBox",
@@ -2295,7 +2295,7 @@
         ]
       }
     ],
-    "downloadCount": 2154
+    "downloadCount": 2155
   },
   {
     "id": "NOCursorOverride",
@@ -2841,7 +2841,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 334
+    "downloadCount": 335
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2973,6 +2973,15 @@
     "artifacts": [
       {
         "fileName": "ThirdFaction.dll",
+        "version": "1.5.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.5.0/ThirdFaction.dll",
+        "hash": null
+      },
+      {
+        "fileName": "ThirdFaction.dll",
         "version": "1.4.0",
         "category": "release",
         "type": "plugin",
@@ -3015,7 +3024,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 91
+    "downloadCount": 92
   },
   {
     "id": "UnitCopyPaste",
@@ -3086,7 +3095,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 665
+    "downloadCount": 666
   },
   {
     "id": "WeatherController",
