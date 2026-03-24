@@ -1,29 +1,33 @@
 {
-    "id":"com.nikkorap.EditorPlus",
-    "displayName":"EditorPlus",
-    "description":"Enhanced Nuclear Option mission editor: group copy/paste, mass selection, node graph UI, hold position, no-clip, free camera. Original by nikkorap; maintained by Endar728 with copy-paste and fixes.",
-    "tags":["QoL","mod"],
-    "urls":[
-        {
-            "name":"info",
-            "url":"https://github.com/Endar728/EditorPlus-Endar728"
-        }
-    ],
-    "authors":[
-        "Endar728",
-        "nikkorap"
-    ],
-    "githubOwner":"Endar728",
-    "githubRepoName":"EditorPlus-Endar728",
-    "autoUpdateArtifacts":"True",
-    "artifacts":[
-        {
-            "type":"plugin",
-            "fileName":"EditorPlus-Release.zip",
-            "downloadUrl": "https://github.com/Endar728/EditorPlus-Endar728/releases/download/1.5.1/EditorPlus-Release.zip",
-            "gameVersion": "0.32",
-            "version": "1.5.1",
-            "category": "release"
-        }
-    ]
+  "id": "com.nikkorap.EditorPlus",
+  "displayName": "EditorPlus",
+  "description": "Enhanced Nuclear Option mission editor: group copy/paste, mass selection, node graph UI, hold position, no-clip, free camera. Original by nikkorap; maintained by Endar728 with copy-paste and fixes.",
+  "tags": [
+    "QoL",
+    "mod"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Endar728/EditorPlus-Endar728"
+    }
+  ],
+  "authors": [
+    "Endar728",
+    "nikkorap"
+  ],
+  "githubOwner": "Endar728",
+  "githubRepoName": "EditorPlus-Endar728",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "EditorPlus-Release.zip",
+      "downloadUrl": "https://github.com/Endar728/EditorPlus-Endar728/releases/download/1.5.1/EditorPlus-Release.zip",
+      "gameVersion": "0.32",
+      "version": "1.5.1",
+      "category": "release"
+    }
+  ],
+  "downloadCount": 33
 }
