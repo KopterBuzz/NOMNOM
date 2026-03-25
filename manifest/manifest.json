@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 301
+    "downloadCount": 312
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 301
+    "downloadCount": 312
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -288,7 +288,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 36
+    "downloadCount": 38
   },
   {
     "id": "FrontlineMap",
@@ -328,7 +328,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 634
+    "downloadCount": 635
   },
   {
     "id": "galaxy2_voice",
@@ -1967,7 +1967,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 116
+    "downloadCount": 117
   },
   {
     "id": "MFDVideoPlayer",
@@ -2136,7 +2136,7 @@
         ]
       }
     ],
-    "downloadCount": 4487
+    "downloadCount": 4489
   },
   {
     "id": "no-autopilot-mod",
@@ -2376,7 +2376,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3264
+    "downloadCount": 3266
   },
   {
     "id": "NOBlackBox",
@@ -2945,7 +2945,7 @@
         ]
       }
     ],
-    "downloadCount": 465
+    "downloadCount": 466
   },
   {
     "id": "RepairProgress",
@@ -3009,7 +3009,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117130
+    "downloadCount": 117132
   },
   {
     "id": "skyeye_voice",
@@ -3159,7 +3159,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 106
+    "downloadCount": 109
   },
   {
     "id": "UnitCopyPaste",
@@ -3230,7 +3230,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 683
+    "downloadCount": 684
   },
   {
     "id": "WeatherController",
