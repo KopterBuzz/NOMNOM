@@ -21,6 +21,15 @@
   "artifacts": [
     {
       "fileName": "SmokeTrail.dll",
+      "version": "2.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.2.1/SmokeTrail.dll",
+      "hash": null
+    },
+    {
+      "fileName": "SmokeTrail.dll",
       "version": "2.2.0",
       "category": "release",
       "type": "plugin",
