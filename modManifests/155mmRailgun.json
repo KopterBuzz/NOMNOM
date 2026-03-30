@@ -24,13 +24,13 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "155mmRailgun_1.0.0.nobp",
+      "fileName": "155mmRailgun_1.0.0.nobp.zip",
       "version": "1.0.0",
       "category": "release",
       "type": "addon",
       "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-155mmRailgun/releases/download/1.0.0/155mmRailgun_1.0.0.nobp",
-      "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-155mmRailgun/releases/download/1.0.0/155mmRailgun_1.0.0.nobp.zip",
+      "hash": "sha256:5d0766e9cf3ef572d741df979b714b9405736e9af7fa94075e694e84a16a212a",
       "extends": {
         "id": "com.nikkorap.blueprinter",
         "version": "1.8.16"
