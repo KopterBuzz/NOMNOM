@@ -4,7 +4,9 @@
   "description": "A light combat drone with superb kinematics. Features a custom model with unique flight performance and destruction, a custom MFD and damage display, 7 liveries, no G-loc, and self-destruction when the eject key is pressed.",
   "tags": [
     "mod",
-    "aircraft"
+    "aircraft",
+    "blueprinter",
+    "p2082"
   ],
   "urls": [
     {
@@ -34,9 +36,9 @@
       "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
       "extends": {
         "id": "com.nikkorap.blueprinter",
-        "version": "1.8.16"
+        "version": "1.8.17"
       }
     }
   ],
-  "downloadCount": 1558
+  "downloadCount": 1592
 }

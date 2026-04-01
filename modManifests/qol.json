@@ -4,7 +4,8 @@
   "description": "A major overhaul mod for Nuclear Option. QoL adds custom weapons, units, features, plus hundreds of fixes and parity adjustments.",
   "tags": [
     "mod",
-    "QoL"
+    "QoL",
+    "p2082"
   ],
   "urls": [
     {
@@ -35,5 +36,5 @@
       ]
     }
   ],
-  "downloadCount": 923
+  "downloadCount": 932
 }

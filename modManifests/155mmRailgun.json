@@ -4,7 +4,8 @@
   "description": "A forward mounted fixed Railgun firing 155mm slugs at 2380m/s every 2.5 seconds. Each slug fired by the railgun has the same kinetic energy as a school bus travelling at 500km/h.",
   "tags": [
     "mod",
-    "Weapon"
+    "Weapon",
+    "blueprinter"
   ],
   "urls": [
     {
@@ -33,9 +34,9 @@
       "hash": "sha256:5d0766e9cf3ef572d741df979b714b9405736e9af7fa94075e694e84a16a212a",
       "extends": {
         "id": "com.nikkorap.blueprinter",
-        "version": "1.8.16"
+        "version": "1.8.17"
       }
     }
   ],
-  "downloadCount": 124
+  "downloadCount": 129
 }

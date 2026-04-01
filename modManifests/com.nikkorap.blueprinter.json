@@ -3,7 +3,8 @@
   "displayName": "Blueprinter",
   "description": "Core framework required for mods utilising blueprinter.",
   "tags": [
-    "mod"
+    "mod",
+    "blueprinter"
   ],
   "urls": [
     {
@@ -50,5 +51,5 @@
       "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
     }
   ],
-  "downloadCount": 1558
+  "downloadCount": 1592
 }
