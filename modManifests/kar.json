@@ -1,0 +1,53 @@
+{
+  "id": "kar",
+  "displayName": "KAR",
+  "description": " A comprehensive driveable ground vehicles mod, adding over 6 vehicles, ~50 weapons, and new mechanics.",
+  "tags": [
+    "mod",
+    "vehicle",
+    "blueprinter",
+    "p2082"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NOBlueprinter-kar/blob/main/README.md"
+    },
+    {
+      "name": "2082 discord",
+      "url": "https://discord.gg/qqMwyr2qxR"
+    }
+  ],
+  "authors": [
+    "nikkorap",
+    "minecracktyler",
+    "draken",
+    "combat",
+    "offiry",
+    "medusa",
+    "senhara",
+    "raikan",
+    "error",
+    "javiairplane",
+    "cosmiccactus"
+  ],
+  "githubOwner": "nikkorap",
+  "githubRepoName": "NOBlueprinter-kar",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Kar_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-kar/releases/download/1.0.0/Kar_1.0.0.dll",
+      "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    }
+  ],
+  "downloadCount": 0
+}
