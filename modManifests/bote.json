@@ -1,0 +1,48 @@
+{
+  "id": "boscalioceantrainingexercise",
+  "displayName": "Boscali Ocean Training Exercise",
+  "description": "The BOTE adds player controllable ships with weapon choices and custom systems including resupplies and vehicle deployment. Current Ships include: OTB-31 Landing Craft, Shard class corvette, Dynamo class destroyer, Hyperion class fleet carrier.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/MinecrackTyler/BoscaliOceanTrainingExercise/blob/main/README.md"
+    },
+    {
+      "name": "2082 discord",
+      "url": "https://discord.gg/qqMwyr2qxR"
+    }
+  ],
+  "authors": [
+    "minecracktyler",
+    "nikkorap",
+    "draken",
+    "combat",
+    "medusa",
+    "offiry",
+    "many others!"
+  ],
+  "githubOwner": "MinecrackTyler",
+  "githubRepoName": "BoscaliOceanTrainingExercise",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Bote_1.3.0_RC4.dll",
+      "version": "1.3.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/MinecrackTyler/BoscaliOceanTrainingExercise/releases/download/v1.3.0/Bote_1.3.0_RC4.dll",
+      "hash": "sha256:cfa51504a9f267a54bac18bd4603e7edc137e3cd8d84a945041f42dfd8c3b994",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    }
+  ],
+  "downloadCount": 0
+}
