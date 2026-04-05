@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 487
+    "downloadCount": 489
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 924
+    "downloadCount": 925
   },
   {
     "id": "AircraftWaypoints",
@@ -254,7 +254,7 @@
         }
       }
     ],
-    "downloadCount": 2644
+    "downloadCount": 2652
   },
   {
     "id": "bote",
@@ -328,7 +328,7 @@
         }
       }
     ],
-    "downloadCount": 2547
+    "downloadCount": 2574
   },
   {
     "id": "CameraPresets",
@@ -472,7 +472,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 4366
+    "downloadCount": 4384
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -497,6 +497,15 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "EditorPlus-Release.zip",
+        "version": "1.5.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/Endar728/EditorPlus-Endar728/releases/download/1.5.2/EditorPlus-Release.zip",
+        "hash": null
+      },
+      {
         "type": "plugin",
         "fileName": "EditorPlus-Release.zip",
         "downloadUrl": "https://github.com/Endar728/EditorPlus-Endar728/releases/download/1.5.1/EditorPlus-Release.zip",
@@ -505,7 +514,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 390
+    "downloadCount": 391
   },
   {
     "id": "FrontlineMap",
@@ -563,7 +572,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 1597
+    "downloadCount": 1601
   },
   {
     "id": "galaxy2_voice",
@@ -718,7 +727,7 @@
         }
       }
     ],
-    "downloadCount": 2668
+    "downloadCount": 2681
   },
   {
     "id": "klawshout_voice",
@@ -2352,7 +2361,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 441
+    "downloadCount": 442
   },
   {
     "id": "NO_Tactitools",
@@ -2490,7 +2499,7 @@
         ]
       }
     ],
-    "downloadCount": 5439
+    "downloadCount": 5441
   },
   {
     "id": "no-autopilot-mod",
@@ -2730,7 +2739,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 4143
+    "downloadCount": 4145
   },
   {
     "id": "NOBlackBox",
@@ -2784,7 +2793,7 @@
         ]
       }
     ],
-    "downloadCount": 2446
+    "downloadCount": 2447
   },
   {
     "id": "NOCursorOverride",
@@ -2816,7 +2825,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 315
+    "downloadCount": 316
   },
   {
     "id": "NOFFB",
@@ -2924,7 +2933,7 @@
         ]
       }
     ],
-    "downloadCount": 797
+    "downloadCount": 798
   },
   {
     "id": "NOLiveryPlus",
@@ -3164,7 +3173,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 796
+    "downloadCount": 799
   },
   {
     "id": "NuclearVOIP",
@@ -3330,7 +3339,7 @@
         ]
       }
     ],
-    "downloadCount": 1676
+    "downloadCount": 1689
   },
   {
     "id": "RepairProgress",
@@ -3361,7 +3370,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 744
+    "downloadCount": 745
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3394,7 +3403,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117908
+    "downloadCount": 117910
   },
   {
     "id": "skyeye_voice",
@@ -3624,7 +3633,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1132
+    "downloadCount": 1134
   },
   {
     "id": "WeatherController",

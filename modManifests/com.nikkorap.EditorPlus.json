@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "EditorPlus-Release.zip",
+      "version": "1.5.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/Endar728/EditorPlus-Endar728/releases/download/1.5.2/EditorPlus-Release.zip",
+      "hash": null
+    },
+    {
       "type": "plugin",
       "fileName": "EditorPlus-Release.zip",
       "downloadUrl": "https://github.com/Endar728/EditorPlus-Endar728/releases/download/1.5.1/EditorPlus-Release.zip",
@@ -29,5 +38,5 @@
       "category": "release"
     }
   ],
-  "downloadCount": 390
+  "downloadCount": 391
 }
