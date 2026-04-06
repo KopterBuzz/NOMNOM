@@ -26,7 +26,7 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "Aryx.s.MiG-15_0.07.nopb",
+      "fileName": "Aryx.s.MiG-15_0.07.nobp",
       "version": "0.7",
       "category": "release",
       "type": "addon",
