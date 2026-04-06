@@ -1,0 +1,43 @@
+{
+  "id": "aryx.mig15",
+  "displayName": "Aryx-MiG-15",
+  "description": "Adds an honest to god playable MiG-15 aircraft.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx-MiG-15/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/3atkUZV3b"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx-MiG-15",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Aryx.s.MiG-15_0.07.nopb",
+      "version": "0.7",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-MiG-15/releases/download/0.07/Aryx.s.MiG-15_0.07.nobp",
+      "hash": "",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    }
+  ],
+  "downloadCount": 0
+}
