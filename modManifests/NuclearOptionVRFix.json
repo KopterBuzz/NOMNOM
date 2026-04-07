@@ -1,0 +1,37 @@
+{
+  "id": "NuclearOptionVRFix",
+  "displayName": "FeelSoMoon",
+  "description": "Nuclear Option Camera Fix for uuvr",
+  "tags": [
+    "mod","vr"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/FeelSoMoon/NuclearOptionVRFix"
+    }
+  ],
+  "authors": [
+    "FeelSoMoon"
+  ],
+  "githubOwner": "FeelSoMoon",
+  "githubRepoName": "NuclearOptionVRFix",
+  "autoUpdateArtifacts": "False",
+  "artifacts": [
+    {
+      "fileName": "NuclearOptionVRFix.zip",
+      "version": "1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/7ep3s/NuclearOptionVRFix/releases/download/1.0/NuclearOptionVRFix.zip",
+      "hash": "sha256:b3ccd77e1bb78dcb42ee5b1797063252721db4027a7da117ff9914a457a3de9d",
+      "dependencies" : [
+        {
+          "id": "uuvr",
+          "version": "0.4.0"
+        }
+      ]
+    }
+  ]
+}
