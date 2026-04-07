@@ -18,8 +18,9 @@ To make NOMNOM aware of a new Mod, create an Issue on the [NOMNOM repository](ht
 NOMNOM can self-update its registry, so it is able to automatically pick up new releases for Mods that it already knows about.
 
 However, there are some basic requirements in order for NOMNOM to keep itself up to date in regards to the latest available versions of your Mod(s):
- - your Mod Release(s) must be available as GitHub Repository Release Package(s)
- - your Mod Release(s) should have one downloadable Asset per Release. If your mod consists of Multiple Files, upload the Release as a Compressed Archive (e.g. zip,rar,7z)
+ - your Mod Release(s) must be available as GitHub Repository Release Package(s). However, please note this doesn't mean your mod must be open source, you can upload releases without having any source code in the repository.
+ - your Mod Release(s) should have one downloadable Asset per Release. dll and nobp files are supported. If your mod consists of Multiple Files, upload the Release as a Compressed Archive (e.g. zip,rar,7z)
+     - if your release pages have multiple downloadable files, the first one on the list will be pulled in by NOMNOM.
  - your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc)
 
  This is not directly related to the above, but at the moment Mod Manager software that depends on NOMNOM expects the following criteria also:
