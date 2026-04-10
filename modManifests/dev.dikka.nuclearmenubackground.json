@@ -1,0 +1,35 @@
+{
+  "id": "dev.dikka.nuclearmenubackground",
+  "displayName": "NuclearMenuBackground",
+  "description": "Client-side Nuclear Option mod that replaces the main menu background with an image from the player's PC.",
+  "tags": [
+    "Art",
+    "UI"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/NuclearMenuBackground"
+    },
+    {
+      "name": "bugs",
+      "url": "https://github.com/dikkadev/NuclearMenuBackground/issues"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "githubOwner": "dikkadev",
+  "githubRepoName": "NuclearMenuBackground",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearMenuBackground-v0.1.0.7z",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/dikkadev/NuclearMenuBackground/releases/download/v0.1.0/NuclearMenuBackground-v0.1.0.7z"
+    }
+  ]
+}
