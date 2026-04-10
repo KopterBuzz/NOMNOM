@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 843
+    "downloadCount": 849
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1195
+    "downloadCount": 1196
   },
   {
     "id": "AircraftWaypoints",
@@ -133,6 +133,19 @@
     "githubRepoName": "Aryx-s-F-16M",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "Aryx.s.F16M_1.07.nobp",
+        "version": "1.0.7",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.0.7/Aryx.s.F16M_1.07.nobp",
+        "hash": null,
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.17"
+        }
+      },
       {
         "fileName": "Aryx.s.F16M_1.06.nobp",
         "version": "1.0.6",
@@ -238,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 3904
+    "downloadCount": 3980
   },
   {
     "id": "aryx.mig15",
@@ -281,7 +294,7 @@
         }
       }
     ],
-    "downloadCount": 1223
+    "downloadCount": 1233
   },
   {
     "id": "AtomicFramework",
@@ -431,7 +444,7 @@
         }
       }
     ],
-    "downloadCount": 3909
+    "downloadCount": 3919
   },
   {
     "id": "bote",
@@ -518,7 +531,7 @@
         }
       }
     ],
-    "downloadCount": 4640
+    "downloadCount": 4651
   },
   {
     "id": "CameraPresets",
@@ -583,7 +596,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 394
+    "downloadCount": 396
   },
   {
     "id": "com.basicGrowl",
@@ -662,7 +675,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 6715
+    "downloadCount": 6737
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -704,7 +717,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 586
+    "downloadCount": 587
   },
   {
     "id": "FrontlineMap",
@@ -762,7 +775,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 2217
+    "downloadCount": 2223
   },
   {
     "id": "galaxy2_voice",
@@ -917,7 +930,7 @@
         }
       }
     ],
-    "downloadCount": 4033
+    "downloadCount": 4047
   },
   {
     "id": "klawshout_voice",
@@ -983,7 +996,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1675
+    "downloadCount": 1676
   },
   {
     "id": "LiveryManager",
@@ -2689,7 +2702,7 @@
         ]
       }
     ],
-    "downloadCount": 5946
+    "downloadCount": 5949
   },
   {
     "id": "no-autopilot-mod",
@@ -3356,7 +3369,7 @@
         ]
       }
     ],
-    "downloadCount": 2262
+    "downloadCount": 2263
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3407,7 +3420,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 959
+    "downloadCount": 960
   },
   {
     "id": "NuclearOptionVRFix",
@@ -3596,7 +3609,7 @@
         ]
       }
     ],
-    "downloadCount": 858
+    "downloadCount": 870
   },
   {
     "id": "RepairProgress",
@@ -3851,7 +3864,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 516
+    "downloadCount": 517
   },
   {
     "id": "UnitCopyPaste",
@@ -3954,7 +3967,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1369
+    "downloadCount": 1370
   },
   {
     "id": "WeatherController",
@@ -3985,7 +3998,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 397
+    "downloadCount": 398
   },
   {
     "id": "WSOYappinator",
