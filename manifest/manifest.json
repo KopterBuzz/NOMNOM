@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1483
+    "downloadCount": 1485
   },
   {
     "id": "AircraftWaypoints",
@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 6651
+    "downloadCount": 6655
   },
   {
     "id": "aryx.mig15",
@@ -294,7 +294,7 @@
         }
       }
     ],
-    "downloadCount": 2284
+    "downloadCount": 2287
   },
   {
     "id": "AtomicFramework",
@@ -444,7 +444,7 @@
         }
       }
     ],
-    "downloadCount": 4835
+    "downloadCount": 4838
   },
   {
     "id": "bote",
@@ -605,7 +605,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 615
+    "downloadCount": 617
   },
   {
     "id": "com.basicGrowl",
@@ -684,7 +684,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 8441
+    "downloadCount": 8450
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -727,6 +727,78 @@
       }
     ],
     "downloadCount": 820
+  },
+  {
+    "id": "dev.dikka.nuclearmenubackground",
+    "displayName": "NuclearMenuBackground",
+    "description": "Client-side Nuclear Option mod that replaces the main menu background with an image from the player's PC.",
+    "tags": [
+      "Art",
+      "UI"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/dikkadev/NuclearMenuBackground"
+      },
+      {
+        "name": "bugs",
+        "url": "https://github.com/dikkadev/NuclearMenuBackground/issues"
+      }
+    ],
+    "authors": [
+      "dikkadev"
+    ],
+    "githubOwner": "dikkadev",
+    "githubRepoName": "NuclearMenuBackground",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearMenuBackground-v0.1.0.7z",
+        "version": "0.1.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/dikkadev/NuclearMenuBackground/releases/download/v0.1.0/NuclearMenuBackground-v0.1.0.7z"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "dev.dikka.nuclearunits",
+    "displayName": "NuclearUnits",
+    "description": "Client-side Nuclear Option mod that lets players choose units per HUD readout instead of relying only on the game's single global metric/imperial setting.",
+    "tags": [
+      "QoL",
+      "HUD"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/dikkadev/NuclearUnits"
+      },
+      {
+        "name": "bugs",
+        "url": "https://github.com/dikkadev/NuclearUnits/issues"
+      }
+    ],
+    "authors": [
+      "dikkadev"
+    ],
+    "githubOwner": "dikkadev",
+    "githubRepoName": "NuclearUnits",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearUnits-v1.2.0.7z",
+        "version": "1.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
+      }
+    ],
+    "downloadCount": 2
   },
   {
     "id": "FrontlineMap",
@@ -784,7 +856,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 2781
+    "downloadCount": 2784
   },
   {
     "id": "galaxy2_voice",
@@ -939,7 +1011,7 @@
         }
       }
     ],
-    "downloadCount": 4943
+    "downloadCount": 4944
   },
   {
     "id": "klawshout_voice",
@@ -1005,7 +1077,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1852
+    "downloadCount": 1853
   },
   {
     "id": "LiveryManager",
@@ -2730,7 +2802,7 @@
         ]
       }
     ],
-    "downloadCount": 6625
+    "downloadCount": 6630
   },
   {
     "id": "no-autopilot-mod",
@@ -2985,7 +3057,39 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 5232
+    "downloadCount": 5240
+  },
+  {
+    "id": "NO-MissionMenuSearch",
+    "displayName": "NO-MissionMenuSearch",
+    "description": "Adds a search bar in the mission select to make selecting missions easier.",
+    "tags": [
+      "mod"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/RudrNaik/NO-MissionMenuSearch"
+      }
+    ],
+    "authors": [
+      "RudrNaik"
+    ],
+    "githubOwner": "RudrNaik",
+    "githubRepoName": "NO-MissionMenuSearch",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "Mission.Menu.Search.dll",
+        "version": "0.0.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/RudrNaik/NO-MissionMenuSearch/releases/download/v0.0.1/Mission.Menu.Search.dll",
+        "hash": null
+      }
+    ],
+    "downloadCount": 25
   },
   {
     "id": "NOBlackBox",
@@ -3039,7 +3143,7 @@
         ]
       }
     ],
-    "downloadCount": 2733
+    "downloadCount": 2735
   },
   {
     "id": "NOCursorOverride",
@@ -3179,7 +3283,7 @@
         ]
       }
     ],
-    "downloadCount": 1066
+    "downloadCount": 1067
   },
   {
     "id": "NOLiveryPlus",
@@ -3446,7 +3550,7 @@
         ]
       }
     ],
-    "downloadCount": 2711
+    "downloadCount": 2715
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3498,6 +3602,38 @@
       }
     ],
     "downloadCount": 1103
+  },
+  {
+    "id": "NuclearOption-MFDBlockBlast",
+    "displayName": "MFD Block Blast",
+    "description": "Block Blast puzzle game on your MFD cockpit display in Nuclear Option",
+    "tags": [
+      "mod"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-MFDBlockBlast"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-MFDBlockBlast",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "MFDBlockBlast.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDBlockBlast/releases/download/v1.0.0/MFDBlockBlast.dll",
+        "hash": null
+      }
+    ],
+    "downloadCount": 15
   },
   {
     "id": "NuclearOptionVRFix",
@@ -3686,7 +3822,7 @@
         ]
       }
     ],
-    "downloadCount": 1596
+    "downloadCount": 1598
   },
   {
     "id": "RepairProgress",
@@ -3717,7 +3853,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1185
+    "downloadCount": 1186
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3750,7 +3886,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 118627
+    "downloadCount": 118629
   },
   {
     "id": "skyeye_voice",
@@ -4053,7 +4189,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1547
+    "downloadCount": 1548
   },
   {
     "id": "WeatherController",
@@ -4167,6 +4303,39 @@
         "hash": null
       }
     ],
-    "downloadCount": 484
+    "downloadCount": 485
+  },
+  {
+    "id": "Zorduzd",
+    "displayName": "Zorduzd",
+    "description": "A Moza Flight Stick FFB mod for Nuclear Option",
+    "tags": [
+      "mod",
+      "ffb"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/mayyxeng/zorduzd"
+      }
+    ],
+    "authors": [
+      "mayyxeng"
+    ],
+    "githubOwner": "mayyxeng",
+    "githubRepoName": "zorduzd",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "zorduzd-0.1.1-win-x86_64.zip",
+        "version": "0.1.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/mayyxeng/zorduzd/releases/download/v0.1.1/zorduzd-0.1.1-win-x86_64.zip",
+        "hash": null
+      }
+    ],
+    "downloadCount": 3
   }
 ]
