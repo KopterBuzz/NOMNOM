@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1142
+    "downloadCount": 1149
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1458
+    "downloadCount": 1465
   },
   {
     "id": "AircraftWaypoints",
@@ -104,7 +104,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 841
+    "downloadCount": 847
   },
   {
     "id": "aryx.f16m",
@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 6444
+    "downloadCount": 6476
   },
   {
     "id": "aryx.mig15",
@@ -294,7 +294,7 @@
         }
       }
     ],
-    "downloadCount": 2210
+    "downloadCount": 2222
   },
   {
     "id": "AtomicFramework",
@@ -331,7 +331,7 @@
         "version": "0.2.0",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32.6",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/TYKUHN2/AtomicFramework/releases/download/v0.2.0/AtomicFramework-NOMNOM.7z",
         "hash": null
       }
@@ -367,7 +367,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1513
+    "downloadCount": 1518
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -395,7 +395,7 @@
         "version": "18.4.1",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v18.4.1/BepInEx.ConfigurationManager_BepInEx5_v18.4.1.zip",
         "hash": "sha256:9eb19791508a2acb973dfb2bcd196c631fb53cf041c462d69d889e515115aa53"
       }
@@ -444,7 +444,7 @@
         }
       }
     ],
-    "downloadCount": 4755
+    "downloadCount": 4771
   },
   {
     "id": "bote",
@@ -531,7 +531,7 @@
         }
       }
     ],
-    "downloadCount": 5559
+    "downloadCount": 5576
   },
   {
     "id": "CameraPresets",
@@ -564,7 +564,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 278
+    "downloadCount": 282
   },
   {
     "id": "CargoHookFree",
@@ -588,6 +588,15 @@
     "artifacts": [
       {
         "fileName": "CargoHookFree.dll",
+        "version": "1.0.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/CargoHookFree/releases/download/v1.0.1/CargoHookFree.dll",
+        "hash": null
+      },
+      {
+        "fileName": "CargoHookFree.dll",
         "version": "1.0.0",
         "category": "release",
         "type": "plugin",
@@ -596,7 +605,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 585
+    "downloadCount": 589
   },
   {
     "id": "com.basicGrowl",
@@ -675,7 +684,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 8308
+    "downloadCount": 8335
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -717,7 +726,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 791
+    "downloadCount": 795
   },
   {
     "id": "FrontlineMap",
@@ -775,7 +784,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 2724
+    "downloadCount": 2734
   },
   {
     "id": "galaxy2_voice",
@@ -930,7 +939,7 @@
         }
       }
     ],
-    "downloadCount": 4873
+    "downloadCount": 4888
   },
   {
     "id": "klawshout_voice",
@@ -996,7 +1005,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1831
+    "downloadCount": 1833
   },
   {
     "id": "LiveryManager",
@@ -1080,7 +1089,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 355
+    "downloadCount": 359
   },
   {
     "id": "LocalizationPatch.French",
@@ -1347,7 +1356,7 @@
         ]
       }
     ],
-    "downloadCount": 626
+    "downloadCount": 630
   },
   {
     "id": "LocalizationPatch.German",
@@ -1614,7 +1623,7 @@
         ]
       }
     ],
-    "downloadCount": 623
+    "downloadCount": 627
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -2533,7 +2542,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 690
+    "downloadCount": 694
   },
   {
     "id": "MFDVideoPlayer",
@@ -2564,7 +2573,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 561
+    "downloadCount": 563
   },
   {
     "id": "NO_Tactitools",
@@ -2598,7 +2607,7 @@
         "dependencies": [
           {
             "id": "no-autopilot-mod",
-            "version": "4.17.4"
+            "version": "5.0.0"
           },
           {
             "id": "BepInEx.ConfigurationManager",
@@ -2721,7 +2730,7 @@
         ]
       }
     ],
-    "downloadCount": 6463
+    "downloadCount": 6486
   },
   {
     "id": "no-autopilot-mod",
@@ -2745,11 +2754,26 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "com.qwerty1423.NOAutopilot-5.0.0.7z",
+        "version": "5.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v5.0.0/com.qwerty1423.NOAutopilot-5.0.0.7z",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
         "fileName": "com.qwerty1423.NOAutopilot-4.17.4.7z",
         "version": "4.17.4",
         "category": "preRelease",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.17.4/com.qwerty1423.NOAutopilot-4.17.4.7z",
         "hash": null,
         "dependencies": [
@@ -2961,7 +2985,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 5060
+    "downloadCount": 5070
   },
   {
     "id": "NOBlackBox",
@@ -2989,7 +3013,7 @@
         "version": "0.3.8.3",
         "category": "preRelease",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.3/NOBlackBox-0.3.8.3.zip",
         "hash": null,
         "dependencies": [
@@ -3015,7 +3039,7 @@
         ]
       }
     ],
-    "downloadCount": 2719
+    "downloadCount": 2724
   },
   {
     "id": "NOCursorOverride",
@@ -3042,7 +3066,7 @@
         "version": "0.0.2",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
@@ -3075,7 +3099,7 @@
         "version": "0.4",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/KopterBuzz/NOFFB/releases/download/0.4/NOFFB-0.4.zip",
         "hash": null,
         "dependencies": [
@@ -3144,7 +3168,7 @@
         "version": "0.0.2",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
         "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793",
         "dependencies": [
@@ -3155,7 +3179,7 @@
         ]
       }
     ],
-    "downloadCount": 1058
+    "downloadCount": 1059
   },
   {
     "id": "NOLiveryPlus",
@@ -3256,7 +3280,7 @@
         "version": "1.33",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://cdn.discordapp.com/attachments/1267296334294159430/1491409442963460176/NOVRUIFix.zip?ex=69d83f88&is=69d6ee08&hm=6fe7802db53893d64dcb1f982d45b001e1bd7c482cb39c47f64e9961edbf88e0&",
         "hash": null,
         "dependencies": [
@@ -3302,7 +3326,7 @@
         "version": "0.3.3",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.3.3/NOX.7z",
         "hash": null,
         "dependencies": [
@@ -3403,7 +3427,7 @@
         ]
       }
     ],
-    "downloadCount": 2585
+    "downloadCount": 2620
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3454,11 +3478,11 @@
         "hash": null
       }
     ],
-    "downloadCount": 1086
+    "downloadCount": 1089
   },
   {
     "id": "NuclearOptionVRFix",
-    "displayName": "FeelSoMoon",
+    "displayName": "NuclearOptionVRFix",
     "description": "Nuclear Option Camera Fix for uuvr",
     "tags": [
       "mod",
@@ -3482,7 +3506,7 @@
         "version": "1.0",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/7ep3s/NuclearOptionVRFix/releases/download/1.0/NuclearOptionVRFix.zip",
         "hash": "sha256:b3ccd77e1bb78dcb42ee5b1797063252721db4027a7da117ff9914a457a3de9d",
         "dependencies": [
@@ -3643,7 +3667,7 @@
         ]
       }
     ],
-    "downloadCount": 1510
+    "downloadCount": 1528
   },
   {
     "id": "RepairProgress",
@@ -3674,7 +3698,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1168
+    "downloadCount": 1171
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3702,12 +3726,12 @@
         "version": "6.3",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/ManlyMarco/RuntimeUnityEditor/releases/download/v6.3/RuntimeUnityEditor.Bepin5_v6.3.zip",
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 118596
+    "downloadCount": 118598
   },
   {
     "id": "skyeye_voice",
@@ -3823,7 +3847,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
       }
     ],
-    "downloadCount": 65
+    "downloadCount": 66
   },
   {
     "id": "ThirdFaction",
@@ -3845,6 +3869,15 @@
     "githubRepoName": "ThirdFaction",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "ThirdFaction.dll",
+        "version": "1.5.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.5.1/ThirdFaction.dll",
+        "hash": null
+      },
       {
         "fileName": "ThirdFaction.dll",
         "version": "1.5.0",
@@ -3898,7 +3931,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 639
+    "downloadCount": 640
   },
   {
     "id": "UnitCopyPaste",
@@ -3966,7 +3999,7 @@
         "version": "0.4.0",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.32",
+        "gameVersion": "0.33",
         "downloadUrl": "https://github.com/Raicuparta/uuvr/releases/download/v0.4.0/uuvr-mono-modern.zip",
         "hash": "sha256:cd9d46e7f6d9d641034ba564617ba51204ca8f26991f7dc36d03cabce81cfea6"
       }
@@ -4001,7 +4034,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1536
+    "downloadCount": 1539
   },
   {
     "id": "WeatherController",
@@ -4032,7 +4065,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 466
+    "downloadCount": 467
   },
   {
     "id": "WSOYappinator",
@@ -4065,7 +4098,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1308
+    "downloadCount": 1312
   },
   {
     "id": "YawOnMouse",

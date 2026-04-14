@@ -20,6 +20,15 @@
   "artifacts": [
     {
       "fileName": "CargoHookFree.dll",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/CargoHookFree/releases/download/v1.0.1/CargoHookFree.dll",
+      "hash": null
+    },
+    {
+      "fileName": "CargoHookFree.dll",
       "version": "1.0.0",
       "category": "release",
       "type": "plugin",
@@ -28,5 +37,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 585
+  "downloadCount": 589
 }

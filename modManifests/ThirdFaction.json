@@ -20,6 +20,15 @@
   "artifacts": [
     {
       "fileName": "ThirdFaction.dll",
+      "version": "1.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.5.1/ThirdFaction.dll",
+      "hash": null
+    },
+    {
+      "fileName": "ThirdFaction.dll",
       "version": "1.5.0",
       "category": "release",
       "type": "plugin",
@@ -71,5 +80,5 @@
       "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
     }
   ],
-  "downloadCount": 639
+  "downloadCount": 640
 }
