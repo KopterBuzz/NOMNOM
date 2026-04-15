@@ -26,6 +26,32 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx.s.MiG-15_0.09.nobp",
+      "version": "0.9",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-MiG-15/releases/download/0.0.9/Aryx.s.MiG-15_0.09.nobp",
+      "hash": "",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx.s.MiG-15_0.08.nobp",
+      "version": "0.8",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-MiG-15/releases/download/0.0.8/Aryx.s.MiG-15_0.08.nobp",
+      "hash": "",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
       "fileName": "Aryx.s.MiG-15_0.07.nobp",
       "version": "0.7",
       "category": "release",
