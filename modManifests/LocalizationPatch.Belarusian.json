@@ -21,6 +21,24 @@
   "artifacts": [
     {
       "fileName": "LocalizationPatch_blr.zip",
+      "version": "3.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-BelarusianPatch/releases/download/v3.0.1/LocalizationPatch_blr.zip",
+      "hash": null
+    },
+    {
+      "fileName": "LocalizationPatch_blr.zip",
+      "version": "3.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-BelarusianPatch/releases/download/v3.0.0/LocalizationPatch_blr.zip",
+      "hash": null
+    },
+    {
+      "fileName": "LocalizationPatch_blr.zip",
       "version": "2.9.0",
       "category": "release",
       "type": "plugin",
@@ -29,5 +47,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 418
+  "downloadCount": 421
 }
