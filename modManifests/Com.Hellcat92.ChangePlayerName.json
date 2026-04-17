@@ -1,0 +1,39 @@
+{
+  "id": "Com.Hellcat92.ChangePlayerName",
+  "displayName": "NO-ChangePlayerName",
+  "description": "Allows the user to change their in-game name separate from their Steam profile name.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/xHellcat92x/NO-ChangePlayerName"
+    }
+  ],
+  "authors": [
+    "Hellcat92"
+  ],
+  "githubOwner": "xHellcat92x",
+  "githubRepoName": "NO-ChangePlayerName",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Com.Hellcat92.ChangePlayerName_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-ChangePlayerName/releases/download/v1.0.0/Com.Hellcat92.ChangePlayerName_1.0.0.dll",
+      "hash": "sha256:a450f972859b746dbd2e7989294d95f6e739bb8958d8180af664b874e0d9cc72",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }  
+  ],
+  "downloadCount": 0
+}
