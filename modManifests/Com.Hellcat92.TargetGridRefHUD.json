@@ -1,0 +1,40 @@
+{
+  "id": "Com.Hellcat92.TargetGridRefHUD",
+  "displayName": "NO-TargetGridRefHUD",
+  "description": "For those who need the grid reference of their targets instantly without having to open the map and finding it manually, here is a mod i made which paints it directly to your HUD for the target you have selected.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/xHellcat92x/NO-f"
+    }
+  ],
+  "authors": [
+    "Hellcat92"
+  ],
+  "githubOwner": "xHellcat92x",
+  "githubRepoName": "NO-f",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Com.Hellcat92.TargetGridRefHUD_1.2.0.dll",
+      "version": "1.2.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-TargetGridRefHUD/releases/download/1.2.0/Com.Hellcat92.TargetGridRefHUD_1.2.0.dll",
+      "hash": "sha256:bcaaf9983fa49b1bf38cb62c5ce21ff57bcd35bd39d7fccad06f3f7803993da4",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }  
+  ],
+  "downloadCount": 0
+}
