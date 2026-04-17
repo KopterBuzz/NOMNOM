@@ -61,6 +61,21 @@
           "version": "18.4.1"
         }
       ]
+    },
+    {
+      "fileName": "livery-manager-3.1.0.zip",
+      "version": "3.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://codeberg.org/maevi/nuclear-option-mods/releases/download/livery-manager-3.1.0/livery-manager-3.1.0.zip",
+      "hash": "sha256:507cb948b6b2f18d4310cb105e11bd611c48996a79cc8de0c7a67dfeb67575e1",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
     }
   ]
 }
