@@ -27,7 +27,7 @@
       "type": "plugin",
       "gameVersion": "0.33",
       "downloadUrl": "https://github.com/xHellcat92x/NO-VanillaIconsPLUS/releases/download/1.5.1/Com.Hellcat92.VanillaIconsPLUS_1.5.1.dll",
-      "hash": "a49ddcab5d9e63a6d9132e8fd95b00b046ced0cbafadb3acb73ef9a718d94c7e",
+      "hash": "sha256:a49ddcab5d9e63a6d9132e8fd95b00b046ced0cbafadb3acb73ef9a718d94c7e",
       "dependencies": [
         {
           "id": "BepInEx.ConfigurationManager",

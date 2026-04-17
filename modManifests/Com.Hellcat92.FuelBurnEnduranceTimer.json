@@ -10,24 +10,24 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/xHellcat92x/NO-VanillaIconsPLUS"
+      "url": "https://github.com/xHellcat92x/NO-FuelBurnEnduranceTimer"
     }
   ],
   "authors": [
     "Hellcat92"
   ],
   "githubOwner": "xHellcat92x",
-  "githubRepoName": "NO-VanillaIconsPLUS",
+  "githubRepoName": "NO-FuelBurnEnduranceTimer",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
       "fileName": "Com.Hellcat92.FuelBurnEnduranceTimer_1.1.0.dll",
-      "version": "1.1.1",
+      "version": "1.1.0",
       "category": "Release",
       "type": "plugin",
       "gameVersion": "0.33",
       "downloadUrl": "https://github.com/xHellcat92x/NO-FuelBurnEnduranceTimer/releases/download/1.1.0/Com.Hellcat92.FuelBurnEnduranceTimer_1.1.0.dll",
-      "hash": "1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
+      "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
     }  
   ],
   "downloadCount": 0
