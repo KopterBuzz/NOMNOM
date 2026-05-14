@@ -1,0 +1,33 @@
+{
+  "id": "navalname",
+  "displayName": "Naval Name",
+  "description": "Automatic renaming of Naval Airbase",
+  "tags": [
+    "Naval",
+    "Names"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/navalname"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "navalname",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "NavalNameMod.dll",
+      "version": "1.2",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}
