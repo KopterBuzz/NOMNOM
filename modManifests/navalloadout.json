@@ -1,0 +1,33 @@
+{
+  "id": "navalloadout",
+  "displayName": "Naval Loadout",
+  "description": "Customize the missile loadout for each naval asset",
+  "tags": [
+    "Naval",
+    "Loadout"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/navalloadout"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "navalloadout",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "NavalLoadout.dll",
+      "version": "1.0",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}

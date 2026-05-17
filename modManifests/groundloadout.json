@@ -1,0 +1,33 @@
+{
+  "id": "groundloadout",
+  "displayName": "Ground Loadout",
+  "description": "Alter the loadout of Ground Unit",
+  "tags": [
+    "Ground Unit",
+    "Loadout"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/groundloadout"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "groundloadout",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "GroundLoadout.dll",
+      "version": "1.0",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}

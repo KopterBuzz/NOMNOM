@@ -1,0 +1,33 @@
+{
+  "id": "supply-buffet",
+  "displayName": "Supply Buffet",
+  "description": "Unlimited naval reload & more",
+  "tags": [
+    "Naval",
+    "Supply"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/navalbuffet"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "navalbuffet",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "NavalBuffetMod.dll",
+      "version": "2.0",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}

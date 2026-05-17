@@ -1,0 +1,33 @@
+{
+  "id": "tactical-laser-system_mod",
+  "displayName": "Tactical Laser System",
+  "description": "Overpowering laser mod",
+  "tags": [
+    "Weapon",
+    "Laser"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/tactical-laser-system_mod"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "tactical-laser-system_mod",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "com.tls.mod.dll",
+      "version": "2.1",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}

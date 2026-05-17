@@ -1,0 +1,33 @@
+{
+  "id": "nomusicreplacer-remastered",
+  "displayName": "Nuclear Option Music Replacer Remastered",
+  "description": "A simple yet smart, futureproofed, and mod friendly music replacer for nuclear option",
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/nomusicreplacer-remastered"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "nomusicreplacer-remastered",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "NOMusicReplacer.dll",
+      "version": "1.1",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}
