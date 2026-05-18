@@ -1,37 +1,36 @@
 {
   "id": "ChicanePusherLab",
   "displayName": "Chicane Pusher Lab",
-  "description": "Experimental Chicane pusher-prop transplant with native controls, power-budgeted thrust, tuned visuals, blade-angle prop behavior, and cockpit HUD/MFD integration.",
+  "description": "Adds a working rear pusher propeller to the Chicane, turning the helicopter into a compound helicopter: blade-angle pusher with a turbine-budget power model, manual thrust override, mass-adaptive lateral trim, an improved main-rotor drag model with Ibis rotor visuals, a battle-damage model with bent blade meshes, and a live pusher/turbine/rotor MFD with stock-style FAULT/INOPERABLE indication.",
   "tags": [
     "Aircraft",
-    "Flight Model",
-    "Experimental"
+    "Flight Model"
   ],
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/rendresen/ChicanePusherLab"
+      "url": "https://github.com/Rendresen/ChicanePusherLab"
     },
     {
       "name": "release",
-      "url": "https://github.com/rendresen/ChicanePusherLab/releases/tag/v0.6.57"
+      "url": "https://github.com/Rendresen/ChicanePusherLab/releases/tag/v1.0.0"
     }
   ],
   "authors": [
-    "rendresen"
+    "Rendresen"
   ],
-  "githubOwner": "rendresen",
+  "githubOwner": "Rendresen",
   "githubRepoName": "ChicanePusherLab",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "ChicanePusherLab-0.6.57.zip",
-      "version": "0.6.57",
+      "fileName": "ChicanePusherLab-1.0.0.zip",
+      "version": "1.0.0",
       "category": "Release",
       "type": "plugin",
       "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/rendresen/ChicanePusherLab/releases/download/v0.6.57/ChicanePusherLab-0.6.57.zip",
-      "hash": "",
+      "downloadUrl": "https://github.com/Rendresen/ChicanePusherLab/releases/download/v1.0.0/ChicanePusherLab-1.0.0.zip",
+      "hash": "sha256:0ae17632286dd787648563de4c9665736af7347cef7f6d57bf747c7a0fddd7b2",
       "dependencies": []
     }
   ]
