@@ -1,0 +1,38 @@
+{
+  "id": "ChicanePusherLab",
+  "displayName": "Chicane Pusher Lab",
+  "description": "Experimental Chicane pusher-prop transplant with native controls, power-budgeted thrust, tuned visuals, blade-angle prop behavior, and cockpit HUD/MFD integration.",
+  "tags": [
+    "Aircraft",
+    "Flight Model",
+    "Experimental"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/rendresen/ChicanePusherLab"
+    },
+    {
+      "name": "release",
+      "url": "https://github.com/rendresen/ChicanePusherLab/releases/tag/v0.6.57"
+    }
+  ],
+  "authors": [
+    "rendresen"
+  ],
+  "githubOwner": "rendresen",
+  "githubRepoName": "ChicanePusherLab",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ChicanePusherLab-0.6.57.zip",
+      "version": "0.6.57",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/rendresen/ChicanePusherLab/releases/download/v0.6.57/ChicanePusherLab-0.6.57.zip",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}

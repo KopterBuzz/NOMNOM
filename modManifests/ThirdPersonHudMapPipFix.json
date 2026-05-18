@@ -1,0 +1,40 @@
+{
+  "id": "ThirdPersonHudMapPipFix",
+  "displayName": "Third Person HUD Map Pip Fix",
+  "description": "Companion BepInEx plugin for QoL that suppresses the HUD targeting pip while the map is open, preventing map target selection from also selecting a world target behind the map.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/rendresen/ThirdPersonHudMapPipFix"
+    }
+  ],
+  "authors": [
+    "rendresen"
+  ],
+  "githubOwner": "rendresen",
+  "githubRepoName": "ThirdPersonHudMapPipFix",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ThirdPersonHudMapPipFix-0.1.5.zip",
+      "version": "0.1.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/rendresen/ThirdPersonHudMapPipFix/releases/download/v0.1.5/ThirdPersonHudMapPipFix-0.1.5.zip",
+      "hash": "sha256:3a33c23b4084ee6d880a8ae7429ccad1ba3e4c69447d5216f89c70f26d3d6855",
+      "dependencies": [
+        {
+          "id": "QoL",
+          "version": "1.7.1.0"
+        }
+      ]
+    }
+  ]
+}
