@@ -24,6 +24,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "ChicanePusherLab-1.0.50.zip",
+      "version": "1.0.50",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/ChicanePusherLab/releases/download/v1.0.50/ChicanePusherLab-1.0.50.zip",
+      "hash": "sha256:3ab2aa0d758a2dba78fd1dfd628bf13d181ec13f463ddf037b3977dfe3f4db80"
+    },
+    {
       "fileName": "ChicanePusherLab-1.0.48.zip",
       "version": "1.0.48",
       "category": "release",
@@ -61,5 +70,5 @@
       "dependencies": []
     }
   ],
-  "downloadCount": 133
+  "downloadCount": 139
 }
