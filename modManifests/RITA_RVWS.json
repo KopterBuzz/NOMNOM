@@ -25,14 +25,7 @@
 			"downloadUrl": "https://github.com/muhimin01/no-rita-rvws/releases/download/2.0.1/RITA_RVWS_2.0.1.zip",
 			"gameVersion": "0.33",
 			"version": "2.0.1",
-			"category": "release",
-			"incompatibilities":
-			[
-				{
-					"id": "com.JUSTJ7780.globalsoundreplacerno",
-					"version": "5.2.0"
-				}
-			]
+			"category": "release"
 		}
 	]
 }
