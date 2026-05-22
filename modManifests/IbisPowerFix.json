@@ -1,0 +1,24 @@
+{
+  "id": "IbisPowerFix",
+  "displayName": "Ibis Power Fix",
+  "description": "Adds a tier-priority power-budget allocator to the Ibis (UtilityHelo1) so that the coaxial main rotor is fed first and the rotorless DuctedFan pushers consume only the leftover. Prevents the rotor from starving under heavy collective when the pushers demand full power. Originally part of ChicanePusherLab; split out as a standalone mod from v1.0.49 onward.",
+  "tags": ["mod", "Aircraft"],
+  "urls": [
+    { "name": "info", "url": "https://github.com/Rendresen/IbisPowerFix" }
+  ],
+  "authors": ["Rendresen"],
+  "githubOwner": "Rendresen",
+  "githubRepoName": "IbisPowerFix",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "IbisPowerFix-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/IbisPowerFix/releases/download/v1.0.0/IbisPowerFix-1.0.0.zip",
+      "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
+    }
+  ]
+}
