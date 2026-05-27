@@ -1,0 +1,32 @@
+{
+  "id": "emi.shoshanas.togglehandbrake",
+  "displayName": "Shoshanas Toggle Handbrake",
+  "description": "Shoshanas Toggle Handbreak rebinds the handbreak to a toggle instead of a hold action",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOMNOM-emi-shoshanas-togglehandbrake",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "emi.shoshanas.togglehandbrake_v1.0.0.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-togglehandbrake/releases/download/v1.0.0/emi.shoshanas.togglehandbrake_v1.0.0.zip",
+      "hash": "sha256:ac9074f63dfb9388cdb8c95260a67c9d8b295bca72810c269fb1c432fe8a7532",
+      "gameVersion": "0.33",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ]
+}
