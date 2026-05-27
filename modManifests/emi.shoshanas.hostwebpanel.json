@@ -1,0 +1,32 @@
+{
+  "id": "emi.shoshanas.hostwebpanel",
+  "displayName": "Shoshanas Host Web Panel",
+  "description": "Shoshanas Host Web Panel is a mod to edit money/Airframes on players in realtime.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOMNOM-emi-shoshanas-hostwebpanel",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "emi.shoshanas.hostwebpanel_v0.5.5.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-hostwebpanel/releases/download/v0.5.5/emi.shoshanas.hostwebpanel_v0.5.5.zip",
+      "hash": "sha256:dcb631eabda5092adbd07c6e2cf54abde1098b52c135afbdcf7123a0fe194a0e",
+      "gameVersion": "0.33",
+      "version": "0.5.5",
+      "category": "Release"
+    }
+  ]
+}
