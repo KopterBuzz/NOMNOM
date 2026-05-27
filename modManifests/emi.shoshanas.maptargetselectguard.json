@@ -1,7 +1,7 @@
 {
   "id": "emi.shoshanas.maptargetselectguard",
   "displayName": "Shoshanas Map Target Select Guard",
-  "description": "This is the Advanced Combat Overlay over map thing in my TV Missile hud.... JUST that with the change that in the MFD it shows the missile track lost and ETA.",
+  "description": "Ever had the problem that you select 2 targets at the same time if i you use the keybind on the MAP? DON'T BE AFRAID ANYMORE this mod is all you need.. i fixed it with literally 5 minutes of time and 57 lines of code.",
   "tags": [
     "QoL",
     "Utility"
