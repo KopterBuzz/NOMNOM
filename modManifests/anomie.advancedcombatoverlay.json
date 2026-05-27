@@ -1,0 +1,31 @@
+{
+  "id": "anomie.advancedcombatoverlay",
+  "displayName": "Advanced Combat Overlay",
+  "description": "This is the Advanced Combat Overlay over map thing in my TV Missile hud.... JUST that with the change that in the MFD it shows the missile track lost and ETA.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "Nomnom-Mod-Releases",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "anomie.advancedcombatoverlay_v1.0.0.zip",
+      "downloadUrl": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/download/v1.0.0/anomie.advancedcombatoverlay_v1.0.0.zip",
+      "gameVersion": "0.33",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ]
+}
