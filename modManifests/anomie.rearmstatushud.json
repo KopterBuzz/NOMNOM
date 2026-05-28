@@ -1,0 +1,32 @@
+{
+  "id": "anomie.rearmstatushud",
+  "displayName": "Anomies Rearm Status HUD",
+  "description": "Shows a compact rearm status HUD with queued rearm ETA, progress bar, and completion feedback while the minimap is visible.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOMNOM-anomie-rearmstatushud",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "anomie.rearmstatushud_v1.0.7.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-rearmstatushud/releases/download/v1.0.7/anomie.rearmstatushud_v1.0.7.zip",
+      "hash": "sha256:7b67f5d990051573ccfa8eecf5d35acdcabd0c7d5d1f0b26d1117121a2752621",
+      "gameVersion": "0.33",
+      "version": "1.0.7",
+      "category": "Release"
+    }
+  ]
+}
