@@ -1,0 +1,32 @@
+{
+  "id": "com.equalizer",
+  "displayName": "Equalizer Mod",
+  "description": "Equalize modded aircrafts and ground units with vanilla.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/Nomnom-Mod-Releases/releases/tag/2.1"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "Nomnom-Mod-Releases",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "com.equalizer.2.1b.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/Nomnom-Mod-Releases/releases/download/2.1/com.equalizer.2.1b.zip",
+      "hash": "sha256:033e7e8bcf15bc80ef43377cca7fac7bb0d9b45bb20dbbd8f54dfb5e8bd1a9da",
+      "gameVersion": "0.33.3",
+      "version": "2.1.0",
+      "category": "Release"
+    }
+  ]
+}
