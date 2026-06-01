@@ -10,6 +10,10 @@
     {
       "name": "info",
       "url": "https://github.com/muhimin01/no-rita-rvws"
+    },
+    {
+      "name": "patch notes",
+      "url": "https://github.com/muhimin01/no-rita-rvws/releases"
     }
   ],
   "authors": [
@@ -57,5 +61,5 @@
       ]
     }
   ],
-  "downloadCount": 355
+  "downloadCount": 481
 }

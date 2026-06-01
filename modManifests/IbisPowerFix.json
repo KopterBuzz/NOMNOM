@@ -20,6 +20,24 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "IbisPowerFix-1.9.4.zip",
+      "version": "1.9.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/IbisPowerFix/releases/download/v1.9.4/IbisPowerFix-1.9.4.zip",
+      "hash": "sha256:b596ceb34489ae5254ffa1e083be10eb30cd929820ef28e1163b1cd997fa1407"
+    },
+    {
+      "fileName": "IbisPowerFix-1.8.9.zip",
+      "version": "1.8.9",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/IbisPowerFix/releases/download/v1.8.9/IbisPowerFix-1.8.9.zip",
+      "hash": "sha256:a0f81b2432520349f05971ac9fd5f68eab6dbc21cbd7208acbdee66dbd681946"
+    },
+    {
       "fileName": "IbisPowerFix-1.8.8.zip",
       "version": "1.8.8",
       "category": "release",
@@ -65,5 +83,5 @@
       "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
     }
   ],
-  "downloadCount": 197
+  "downloadCount": 357
 }

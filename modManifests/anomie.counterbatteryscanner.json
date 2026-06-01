@@ -1,0 +1,33 @@
+{
+  "id": "anomie.counterbatteryscanner",
+  "displayName": "Anomies Counter Battery Scanner",
+  "description": "This mod adds a counter-battery scanner for Nuclear Option that detects hostile ground missile launches, marks estimated launch origins on the big map, tracks active contacts, and confirms destroyed launcher units with a temporary green blinking kill indicator.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOMNOM-anomie-counterbatteryscanner",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "anomie.counterbatteryscanner_v1.3.0.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-counterbatteryscanner/releases/download/v1.3.0/anomie.counterbatteryscanner_v1.3.0.zip",
+      "hash": "sha256:1af58ed5e18f5068a771dbfc9340eda353ea809b1d7c2f35126a8ca61e97c694",
+      "gameVersion": "0.33",
+      "version": "1.3.0",
+      "category": "Release"
+    }
+  ],
+  "downloadCount": 89
+}

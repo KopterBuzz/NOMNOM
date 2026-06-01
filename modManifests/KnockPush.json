@@ -20,6 +20,42 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "KnockPush-1.9.8.zip",
+      "version": "1.9.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/Rendresen/PushOut/releases/download/v1.9.8/KnockPush-1.9.8.zip",
+      "hash": "sha256:d00c5de6f952de49b2cef94f5708baf52e83d607bb821d1f97cbbdce901ce39d"
+    },
+    {
+      "fileName": "KnockPush-1.7.89.zip",
+      "version": "1.7.89",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/Rendresen/PushOut/releases/download/v1.7.89/KnockPush-1.7.89.zip",
+      "hash": "sha256:384532f4d9110c83b93a5f7c303dd0f5567b4ace74a8da09142c16542332cd4e"
+    },
+    {
+      "fileName": "KnockPush-1.7.86.zip",
+      "version": "1.7.86",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/Rendresen/PushOut/releases/download/v1.7.86/KnockPush-1.7.86.zip",
+      "hash": "sha256:e2587fda0c6814b4b8a5de7e92a2a5078bf6cc546c1bd80cb8d20ce8384db302"
+    },
+    {
+      "fileName": "KnockPush-1.7.85.zip",
+      "version": "1.7.85",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/Rendresen/PushOut/releases/download/v1.7.85/KnockPush-1.7.85.zip",
+      "hash": "sha256:3146405fc1cc0d028a0d50a00ba0d3fca6caa92568d43836bbe69c29e9569ec0"
+    },
+    {
       "fileName": "KnockPush-1.7.59.zip",
       "version": "1.7.59",
       "category": "release",
@@ -29,5 +65,5 @@
       "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
     }
   ],
-  "downloadCount": 178
+  "downloadCount": 820
 }

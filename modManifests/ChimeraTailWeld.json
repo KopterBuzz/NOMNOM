@@ -1,0 +1,34 @@
+{
+  "id": "ChimeraTailWeld",
+  "displayName": "Chimera Tail Weld",
+  "description": "Welds the Aryx MC-260 Chimera's Fuselage_Top_Rear panel into the airframe so the V-tail no longer visibly twists the rear fuselage. Single-piece weld via the game's own AeroPart.MergeWithParent; vanilla flight model preserved.",
+  "tags": [
+    "mod",
+    "Aircraft",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Rendresen/ChimeraTailWeld"
+    }
+  ],
+  "authors": [
+    "Rendresen"
+  ],
+  "githubOwner": "Rendresen",
+  "githubRepoName": "ChimeraTailWeld",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ChimeraTailWeld-v1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/ChimeraTailWeld/releases/download/v1.0.0/ChimeraTailWeld-v1.0.0.zip",
+      "hash": "sha256:08b7cd5ce9a8688de7c3acc4832288a03f4f654de405aadf204283fb03ef75b1"
+    }
+  ],
+  "downloadCount": 111
+}

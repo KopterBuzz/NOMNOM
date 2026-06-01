@@ -1,0 +1,33 @@
+{
+  "id": "emi.shoshanas.spawntool",
+  "displayName": "Shoshanas Spawn Tool",
+  "description": "Shoshanas Spawn Tool is a mod that enables you to spawn units on the ground, air and sea.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOMNOM-emi-shoshanas-spawntool",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "emi.shoshanas.spawntool_v1.6.11.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-spawntool/releases/download/v1.6.11/emi.shoshanas.spawntool_v1.6.11.zip",
+      "hash": "sha256:f80d205f333eb3a181892f161df060a8bfa04979126f61d61ea9159941863943",
+      "gameVersion": "0.33",
+      "version": "1.6.11",
+      "category": "Release"
+    }
+  ],
+  "downloadCount": 104
+}

@@ -1,0 +1,33 @@
+{
+  "id": "anomie.dynamicmapmod",
+  "displayName": "Anomies Dynamic Map Mod",
+  "description": "Colors real human players separately from AI on the dynamic map, minimap, HUD markers, target markers, and target lists. Friendly players are shown in green, enemy players in orange, while AI units keep the game original blue/red faction colors. Map hover names and normal unit tooltips are preserved.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOMNOM-anomie-dynamicmapmod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "anomie.dynamicmapmod_v1.0.2.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-dynamicmapmod/releases/download/v1.0.2/anomie.dynamicmapmod_v1.0.2.zip",
+      "hash": "sha256:01a6c8a56ac090c1e3196be67d8a230d337b3eb7846afe7044c36c2ad44250c7",
+      "gameVersion": "0.33",
+      "version": "1.0.2",
+      "category": "Pre-Release"
+    }
+  ],
+  "downloadCount": 72
+}

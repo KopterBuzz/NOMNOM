@@ -1,7 +1,7 @@
 {
   "id": "NOControllerVibration",
   "displayName": "NOControllerVibration",
-  "description": "A mod and script to allow dynamic vibration feedback in Nuclear Option.",
+  "description": "A mod to allow dynamic vibration feedback in Nuclear Option for any controller.",
   "tags": [
     "mod",
     "ffb"
@@ -19,6 +19,24 @@
   "githubRepoName": "NOControllerVibration",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "NOCV.zip",
+      "version": "0.33.3.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.33.3.7/NOCV.zip",
+      "hash": "sha256:2fc0d8e1fabf4e893ea2e7f1d970eb9117c7b6149e03889037f15e92e602c1e4"
+    },
+    {
+      "fileName": "NOCV.zip",
+      "version": "0.33.3.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.33.3.6/NOCV.zip",
+      "hash": "sha256:f20c7b8e7fc56f4c9a9c39a78e132fe5c3982bbbf987cbf93151d4f6ed7c9813"
+    },
     {
       "fileName": "NOCV.zip",
       "version": "0.33.3.5",
@@ -92,5 +110,5 @@
       "hash": "sha256:0d65fdb6fb55601346750c0e9251bcd14e52a631bf4fa540aba835d781401d74"
     }
   ],
-  "downloadCount": 330
+  "downloadCount": 380
 }

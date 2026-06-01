@@ -1,0 +1,33 @@
+{
+  "id": "Pauel3312.NOKillWeapons",
+  "displayName": "NOKillWeapons",
+  "description": "Displays weapons used for kills in the killfeed. Only works in single player.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/pauel3312/NOKillWeapons"
+    }
+  ],
+  "authors": [
+    "pauel3312"
+  ],
+  "githubOwner": "pauel3312",
+  "githubRepoName": "NOKillWeapons",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOKW.zip",
+      "version": "0.33.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOKillWeapons/releases/download/v0.33.3.0/NOKW.zip",
+      "hash": "sha256:b8899af8d033a66218213b8a041f3d6ca5eddcb21e6617205822eab7cbdd477e"
+    }
+  ],
+  "downloadCount": 0
+}
