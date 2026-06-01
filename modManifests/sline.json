@@ -1,0 +1,33 @@
+{
+  "id": "sline",
+  "displayName": "SLine",
+  "description": "Colorful line to show missile and unit target at all time",
+  "tags": [
+    "UI",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/sline"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "sline",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "SLine.dll",
+      "version": "1.1",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}

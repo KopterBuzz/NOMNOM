@@ -1,0 +1,33 @@
+{
+  "id": "equalizer-mod",
+  "displayName": "Equalizer Mod",
+  "description": "Equalize modded aircraft with vanilla in the inventory",
+  "tags": [
+    "Inventory",
+    "Balance"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/equalizer-mod"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "equalizer-mod",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "EqualizerMod.dll",
+      "version": "1.7",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}

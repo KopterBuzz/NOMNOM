@@ -1,0 +1,33 @@
+{
+  "id": "bail-mod",
+  "displayName": "Bail Mod",
+  "description": "Personnel eject from destroyed surface vehicle",
+  "tags": [
+    "Ground Unit",
+    "Effects"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/bail-mod"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "bail-mod",
+  "autoUpdateArtifacts": "false",
+  "artifacts": [
+    {
+      "fileName": "Bailmod.dll",
+      "version": "1.0",
+      "category": "Plugin",
+      "type": "BepInEx",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": []
+    }
+  ]
+}
