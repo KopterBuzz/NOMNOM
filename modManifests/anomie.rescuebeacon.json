@@ -1,0 +1,32 @@
+{
+  "id": "anomie.rescuebeacon",
+  "displayName": "Anomies Rescue Beacon",
+  "description": "Adds a standalone rescue beacon system for Nuclear Option that detects downed friendly pilots, marks rescue zones on the big map, and lets friendly helicopters or VTOLs complete local CSAR-style recovery events.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOMNOM-anomie-rescuebeacon",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "anomie.rescuebeacon_v1.0.1.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-rescuebeacon/releases/download/v1.0.1/anomie.rescuebeacon_v1.0.1.zip",
+      "hash": "sha256:315e49562dc3640f27441ab76a6b3b3adf3053b0550ccda051ab5498fbe83243",
+      "gameVersion": "0.33",
+      "version": "1.0.1",
+      "category": "Release"
+    }
+  ]
+}
