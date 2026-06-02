@@ -31,6 +31,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Bote_1.4.1.dll",
+      "version": "1.4.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/MinecrackTyler/BoscaliOceanTrainingExercise/releases/download/v1.4.1/Bote_1.4.1.dll",
+      "hash": "sha256:44257df4e8b304abef525d2e39d9ff9c68da7b4658232767429584ade283a870",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
       "fileName": "Bote_1.4.0.dll",
       "version": "1.4.0",
       "category": "release",
@@ -135,5 +148,5 @@
       }
     }
   ],
-  "downloadCount": 18708
+  "downloadCount": 18841
 }
