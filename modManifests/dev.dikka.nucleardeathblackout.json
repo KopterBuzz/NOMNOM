@@ -1,0 +1,36 @@
+{
+  "id": "dev.dikka.nucleardeathblackout",
+  "displayName": "NuclearDeathBlackout",
+  "description": "Client-side Nuclear Option mod that cuts to black and briefly mutes audio when the local main pilot dies.",
+  "tags": [
+    "Immersion",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/NOMNOM-NuclearDeathBlackout"
+    },
+    {
+      "name": "source",
+      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "githubOwner": "dikkadev",
+  "githubRepoName": "NOMNOM-NuclearDeathBlackout",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearDeathBlackout-v0.2.0.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearDeathBlackout/releases/download/v0.2.0/NuclearDeathBlackout-v0.2.0.zip",
+      "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
+    }
+  ]
+}

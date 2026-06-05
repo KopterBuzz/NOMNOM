@@ -1,7 +1,7 @@
 {
   "id": "dev.dikka.nuclearmenubackground",
   "displayName": "NuclearMenuBackground",
-  "description": "Client-side Nuclear Option mod that replaces the main menu background with an image from the player's PC.",
+  "description": "Client-side Nuclear Option mod that lets players replace the main menu background with a local image.",
   "tags": [
     "Art",
     "UI"
@@ -9,28 +9,28 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/NuclearMenuBackground"
+      "url": "https://github.com/dikkadev/NOMNOM-NuclearMenuBackground"
     },
     {
-      "name": "bugs",
-      "url": "https://github.com/dikkadev/NuclearMenuBackground/issues"
+      "name": "source",
+      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "githubOwner": "dikkadev",
-  "githubRepoName": "NuclearMenuBackground",
+  "githubRepoName": "NOMNOM-NuclearMenuBackground",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "NuclearMenuBackground-v0.1.0.7z",
-      "version": "0.1.0",
+      "fileName": "NuclearMenuBackground-v0.2.0.zip",
+      "version": "0.2.0",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/dikkadev/NuclearMenuBackground/releases/download/v0.1.0/NuclearMenuBackground-v0.1.0.7z"
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearMenuBackground/releases/download/v0.2.0/NuclearMenuBackground-v0.2.0.zip",
+      "hash": "sha256:b34f5c7ddf8cf519ebe7e4d9289d98ab687928f0b50872a4d2cc160e501d475a"
     }
-  ],
-  "downloadCount": 216
+  ]
 }

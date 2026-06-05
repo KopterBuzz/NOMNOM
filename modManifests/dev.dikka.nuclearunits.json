@@ -1,7 +1,7 @@
 {
   "id": "dev.dikka.nuclearunits",
   "displayName": "NuclearUnits",
-  "description": "Client-side Nuclear Option mod that lets players choose units per HUD readout instead of relying only on the game's single global metric/imperial setting.",
+  "description": "Client-side Nuclear Option mod that lets players choose units per HUD readout instead of relying only on the game's global metric/imperial setting.",
   "tags": [
     "QoL",
     "HUD"
@@ -9,28 +9,28 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/NuclearUnits"
+      "url": "https://github.com/dikkadev/NOMNOM-NuclearUnits"
     },
     {
-      "name": "bugs",
-      "url": "https://github.com/dikkadev/NuclearUnits/issues"
+      "name": "source",
+      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "githubOwner": "dikkadev",
-  "githubRepoName": "NuclearUnits",
+  "githubRepoName": "NOMNOM-NuclearUnits",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "NuclearUnits-v1.2.0.7z",
-      "version": "1.2.0",
+      "fileName": "NuclearUnits-v1.2.1.zip",
+      "version": "1.2.1",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearUnits/releases/download/v1.2.1/NuclearUnits-v1.2.1.zip",
+      "hash": "sha256:33cb88f7abc7a7bd9a3ab3542042a78313ef4242b0191e506d675666446becbe"
     }
-  ],
-  "downloadCount": 432
+  ]
 }

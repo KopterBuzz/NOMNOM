@@ -1,0 +1,36 @@
+{
+  "id": "dev.dikka.nuclearconnectivity",
+  "displayName": "NuclearConnectivity",
+  "description": "Client-side Nuclear Option mod for external integrations, currently Steam Timeline combat markers.",
+  "tags": [
+    "QoL",
+    "Integration"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/NOMNOM-NuclearConnectivity"
+    },
+    {
+      "name": "source",
+      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "githubOwner": "dikkadev",
+  "githubRepoName": "NOMNOM-NuclearConnectivity",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearConnectivity-v0.2.0.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/dikkadev/NOMNOM-NuclearConnectivity/releases/download/v0.2.0/NuclearConnectivity-v0.2.0.zip",
+      "hash": "sha256:0511ebb64fd6da8fef8780c4dcd81d8b9bc7e54d203ac55503b0813fe22c022b"
+    }
+  ]
+}
