@@ -3,13 +3,12 @@
   "displayName": "Anomie Cargo Request",
   "description": "Anomie Cargo Request lets players call in AI-handled cargo logistics support, reducing the need for dedicated logistics players.",
   "tags": [
-    "QoL",
     "Utility"
   ],
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      "url": "https://github.com/NotAnomie/NOMNOM-anomie-cargorequest/releases"
     }
   ],
   "authors": [
@@ -20,23 +19,13 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "type": "plugin",
       "fileName": "anomie.cargorequest_v1.7.1.zip",
-      "version": "1.7.1",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.33",
       "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-cargorequest/releases/download/v1.7.1/anomie.cargorequest_v1.7.1.zip",
-      "hash": "sha256:135f75d4bf26d64bd1d5bb2336e345ecfb737ca8f8c6ce3e122e70469ec99ecf"
-    },
-    {
-      "type": "plugin",
-      "fileName": "anomie.cargorequest_v1.6.8.zip",
-      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-cargorequest/releases/download/v1.6.8/anomie.cargorequest_v1.6.8.zip",
-      "hash": "sha256:ccae5bcce592d9aea04fd0df1c5455cac50205a40d22dce1737d628f20e488e0",
+      "hash": "sha256:4575538a030d052783e46a042d46641efd563bde679dc79666eb50b1c1902545",
       "gameVersion": "0.33",
-      "version": "1.6.8",
+      "version": "1.7.1",
       "category": "Release"
     }
-  ],
-  "downloadCount": 475
+  ]
 }
