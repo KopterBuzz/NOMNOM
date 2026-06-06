@@ -1,0 +1,33 @@
+{
+  "id": "Pauel3312.NOMissingWeapons",
+  "displayName": "NOMissingWeapons",
+  "description": "Discounts ammo when weapons are shot off your aircraft.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/pauel3312/NOMissingWeapons"
+    }
+  ],
+  "authors": [
+    "pauel3312"
+  ],
+  "githubOwner": "pauel3312",
+  "githubRepoName": "NOMissingWeapons",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOMW.zip",
+      "version": "0.33.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOMissingWeapons/releases/download/v0.33.3.0/NOMW.zip",
+      "hash": "sha256:5a0d349411bfc2eccffdf0cfa29d82c2563766f52da82326a56ab9d639322af4"
+    }
+  ],
+  "downloadCount": 0
+}

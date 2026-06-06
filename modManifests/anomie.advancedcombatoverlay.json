@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "anomie.advancedcombatoverlay_v1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-advancedcombatoverlay/releases/download/v1.0.1/anomie.advancedcombatoverlay_v1.0.1.zip",
+      "hash": "sha256:89286df1df6441fd879eea2e382a4ba45449f44f8cc6b512c046c86665bb313f"
+    },
+    {
       "type": "plugin",
       "fileName": "anomie.advancedcombatoverlay_v1.0.0.zip",
       "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-advancedcombatoverlay/releases/download/v1.0.0/anomie.advancedcombatoverlay_v1.0.0.zip",
@@ -29,5 +38,5 @@
       "category": "Release"
     }
   ],
-  "downloadCount": 220
+  "downloadCount": 239
 }

@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "anomie.dynamicmapmod_v1.0.4.zip",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-dynamicmapmod/releases/download/v1.0.4/anomie.dynamicmapmod_v1.0.4.zip",
+      "hash": "sha256:3581adedb6e535a690cdd0f60cbaa6255b6b4dbb895453d0c37a1e0b81272144"
+    },
+    {
       "fileName": "anomie.dynamicmapmod_v1.0.3.zip",
       "version": "1.0.3",
       "category": "release",
@@ -38,5 +47,5 @@
       "category": "Pre-Release"
     }
   ],
-  "downloadCount": 132
+  "downloadCount": 138
 }
