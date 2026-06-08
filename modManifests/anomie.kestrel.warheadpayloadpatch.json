@@ -1,7 +1,7 @@
 {
   "id": "anomie.kestrel.warheadpayloadpatch",
   "displayName": "Anomie Kestrel Warhead Payload Patch",
-  "description": "Ever wanted to be a very angry Japanese drone?\r\n\r\nAdds heavy demolition and tactical nuclear suicide payloads to the FQ-106 Kestrel’s Weapons Bay. Requires Blueprinter and the Kestrel mod.",
+  "description": "Ever wanted to be a very angry Japanese drone?\r\n\r\nAdds heavy demolition and tactical nuclear suicide payloads to the FQ-106 Kestrel\u2019s Weapons Bay. Requires Blueprinter and the Kestrel mod.",
   "tags": [
     "Utility"
   ],
@@ -34,6 +34,10 @@
         {
           "id": "com.nikkorap.blueprinter",
           "version": "1.8.19"
+        },
+        {
+          "id": "QoL",
+          "version": "1.7.1.0"
         }
       ]
     },
@@ -94,6 +98,5 @@
         }
       ]
     }
-  ],
-  "downloadCount": 40
+  ]
 }
