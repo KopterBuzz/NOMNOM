@@ -9,8 +9,7 @@ if (!$(Test-Path $Path))
 function LogError()
 {
     Param([string]$errorString)
-    Write-Error $errorString
-    Exit 1
+    throw $errorString
 }
 function Validate-ArtifactURL
 {
@@ -91,19 +90,11 @@ function Validate-Version
     Param(
         [string]$versionString
         )
-    [Version]$version = $null
-    $result = $false
-    Try {
-        $version = [Version]($versionString)
-        $result = $true
-        return $result
-    }
-    Catch 
+    if ($versionString -notmatch '^\d+(?:\.\d+)*$')
     {
         LogError("$versionString is not of valid Version Format!")
     }
-    return $result
-
+    return $true
 }
 
 function Validate-FileHashFormat
@@ -170,6 +161,7 @@ try
 }
 catch
 {
+    Write-Error $_
     Exit 1
 }
 Exit 1

@@ -1,5 +1,21 @@
 param($modPath,$gitHubToken = $(Get-Content ".\testing_gitignore.token"), [bool]$test)
 . .\Get-GitHubReleases.ps1
+
+Function ConvertToSortableVersion($versionString)
+{
+    if ($versionString -notmatch '^\d+(?:\.\d+){0,3}$')
+    {
+        throw "Version $versionString is invalid."
+    }
+
+    if ($versionString -notmatch '\.')
+    {
+        $versionString = "$versionString.0"
+    }
+
+    return [Version]$versionString
+}
+
 Function SaveAndClose($mod_,[bool]$test_)
 {
 
@@ -25,7 +41,7 @@ Function SortByVersion($artifacts_)
     $output = @()
     foreach ($artifact in $artifacts_)
     {
-        $version = [version]$artifact.version
+        $version = ConvertToSortableVersion $artifact.version
         $obj = [PSCustomObject]@{
             version = $version
             artifact = $artifact
@@ -85,15 +101,23 @@ if ($releases)
 {
     foreach ($release in $releases)
     {
-        $ErrorActionPreference = 'SilentlyContinue'
         if ($release.IsDraft){continue}
-        
-        $version = [version]($release.TagName -replace "v|\-pre|_IL2CPP","")
-        if (($version -gt [version]($artifacts[0].version) -and $($mod.autoUpdateArtifacts) -eq "True") -or !$artifacts)
+
+        $versionString = $release.TagName -replace "v|\-pre|_IL2CPP",""
+        if ($versionString -notmatch '^\d+(?:\.\d+){0,3}$')
+        {
+            Write-Warning "Skipping release $($release.TagName) for $($mod.id): invalid version."
+            continue
+        }
+        $version = ConvertToSortableVersion $versionString
+
+        $currentVersion = if ($artifacts) { ConvertToSortableVersion $artifacts[0].version } else { $null }
+
+        if (($version -gt $currentVersion -and $($mod.autoUpdateArtifacts) -eq "True") -or !$artifacts)
         {
             $obj = [PSCustomObject]@{
                 fileName = $release.Assets[0].fileName
-                version = $release.TagName -replace "v|\-pre|_IL2CPP",""
+                version = $versionString
                 category = $(if ($release.IsPrerelease){"preRelease"}else{"release"})
                 type = $type
                 gameVersion = $gameVersion
@@ -118,7 +142,6 @@ if ($releases)
 
         $downloadCount+=$release.Assets[0].downloadCount
     }
-    $ErrorActionPreference = 'Continue'
     $mod.artifacts = @(SortByVersion -artifacts_ $artifacts)
 }
 if ($mod.downloadCount) {

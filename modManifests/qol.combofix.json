@@ -35,21 +35,6 @@
       ]
     },
     {
-      "fileName": "qol.combofix_v1.0.a.zip",
-      "version": "1.0.a",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.33.3",
-      "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.0.a/qol.combofix_v1.0.a.zip",
-      "hash": "sha256:0627f79136c1b2c4cbc34261ea44a73e43470741849e096fae2e55edae780aa4",
-      "dependencies": [
-        {
-          "id": "QoL",
-          "version": "1.8.0.0"
-        }
-      ]
-    },
-    {
       "type": "plugin",
       "fileName": "qol.combofix_v1.0.0.zip",
       "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.0.0/qol.combofix_v1.0.0.zip",
