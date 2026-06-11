@@ -1,0 +1,43 @@
+{
+  "id": "aryx.f99",
+  "displayName": "Aryx-F-99-Shrike",
+  "description": "Adds a supersonic rank 1 air superiority light fighter.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx-s-F-99-Shrike/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/3atkUZV3b"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx-s-F-99-Shrike",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Aryx.s.F-99.Shrike_1.0.3.nobp",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-F-99-Shrike/releases/download/1.0.3/Aryx.s.F-99.Shrike_1.0.3.nobp",
+      "hash": "sha256:3d3394133bec293f16c5a8c4fe8b3eff6ad5961a1f7dc8e8600f17627767d5ab",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    }
+  ],
+  "downloadCount": 3071
+}

@@ -1,0 +1,43 @@
+{
+  "id": "aryx.navex",
+  "displayName": "Aryx Naval Expansion / NAVEX",
+  "description": "Adds several new ships to the game, including battlecruisers, light carriers and supply ships.",
+  "tags": [
+    "mod",
+    "naval",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx-Naval-Expansion/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/3atkUZV3b"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx-Naval-Expansion",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "AryxNavalExpansion1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-Naval-Expansion/releases/download/1.0.1/AryxNavalExpansion1.0.1.zip",
+      "hash": "sha256:697f5366f73062512920647b0ec4b5f8dba0a8531b05d3f208b507ec48e8f933",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    }
+  ],
+  "downloadCount": 1625
+}
