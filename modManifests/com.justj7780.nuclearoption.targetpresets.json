@@ -1,0 +1,42 @@
+{
+  "id": "com.justj7780.nuclearoption.targetpresets",
+  "displayName": "Target Presets",
+  "description": "A BepInEx mod for Nuclear Option that lets you save and switch target-selection filter presets with keybinds.",
+  "tags": [
+    "utility",
+    "qol"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/JUSTJ7780/Target-Presets"
+    },
+    {
+      "name": "forum",
+      "url": "https://discord.com/channels/909034158205059082/1496114375285801021"
+    }
+  ],
+  "authors": [
+    "JUSTJ7780"
+  ],
+  "githubOwner": "JUSTJ7780",
+  "githubRepoName": "Target-Presets",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Preset.Targets.dll",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/JUSTJ7780/Target-Presets/releases/download/1.4.0/Preset.Targets.dll",
+      "hash": "sha256:cd1090eed4353336c9ded94e01664645ca0b50317cea155ff85eb88fbf6a083a",
+      "dependencies": [
+        {
+          "id": "com.JUSTJ7780.nomodframework",
+          "version": "1.1.0"
+        }
+      ]
+    }
+  ]
+}
