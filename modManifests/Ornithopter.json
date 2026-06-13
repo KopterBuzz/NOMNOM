@@ -2,20 +2,38 @@
   "id": "Ornithopter",
   "displayName": "Ornithopter",
   "description": "Dragonfly-style flapping-wing conversion for the light coaxial helicopter: flapping flight, glide and folded dive, afterburners, segmented blade damage, internal-bay rocket pods and chin autocannon, AI support.",
-  "tags": ["mod", "Aircraft"],
-  "urls": [{ "name": "info", "url": "https://github.com/Rendresen/Ornithopter" }],
-  "authors": ["Rendresen"],
+  "tags": [
+    "mod",
+    "Aircraft"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Rendresen/Ornithopter"
+    }
+  ],
+  "authors": [
+    "Rendresen"
+  ],
   "githubOwner": "Rendresen",
   "githubRepoName": "Ornithopter",
   "autoUpdateArtifacts": "True",
-  "dependencies": [{ "id": "com.nikkorap.blueprinter", "version": "1.8.17" }],
-  "artifacts": [{
-    "fileName": "Ornithopter-1.5.5.zip",
-    "version": "1.5.5",
-    "category": "release",
-    "type": "plugin",
-    "gameVersion": "0.33",
-    "downloadUrl": "https://github.com/Rendresen/Ornithopter/releases/download/v1.5.5/Ornithopter-1.5.5.zip",
-    "hash": "sha256:9829adb5135f08d0b129453cb685628a7def130371f8f9770f5d3baf28feb66e"
-  }]
+  "dependencies": [
+    {
+      "id": "com.nikkorap.blueprinter",
+      "version": "1.8.17"
+    }
+  ],
+  "artifacts": [
+    {
+      "fileName": "Ornithopter-1.5.5.zip",
+      "version": "1.5.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/Ornithopter/releases/download/v1.5.5/Ornithopter-1.5.5.zip",
+      "hash": "sha256:9829adb5135f08d0b129453cb685628a7def130371f8f9770f5d3baf28feb66e"
+    }
+  ],
+  "downloadCount": 580
 }
