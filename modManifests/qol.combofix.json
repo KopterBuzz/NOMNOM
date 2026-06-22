@@ -26,7 +26,7 @@
       "type": "plugin",
       "gameVersion": "0.33.4",
       "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.0.6/qol.combofix_v1.0.6.zip",
-      "hash": "sha256:a2c0c13cfc0aa15ebcfc263dadeb355536b3520934524f8f7abf5b3fca417542",
+      "hash": "sha256:dde8a8b67b403b22f3e80916288217d659bd6865a90826ec3d665e41ac140099",
       "dependencies": [
         {
           "id": "QoL",
