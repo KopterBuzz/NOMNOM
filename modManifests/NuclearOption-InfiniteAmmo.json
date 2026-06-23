@@ -1,0 +1,34 @@
+{
+  "id": "NuclearOption-InfiniteAmmo",
+  "displayName": "Infinite Ammo",
+  "description": "Rearms ALL weapon stations (including linked guns and AI-gunner stations) and ALL countermeasure dispensers when empty, and refuels at low fuel. SINGLEPLAYER ONLY - rearm/refuel writes are server-authoritative and ignored on real multiplayer servers.",
+  "tags": [
+    "cheat",
+    "singleplayer",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/cosistra/nuclear-option-infinite-ammo"
+    }
+  ],
+  "authors": [
+    "cosistra",
+    "DaBlackPantha"
+  ],
+  "githubOwner": "cosistra",
+  "githubRepoName": "nuclear-option-infinite-ammo",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-InfiniteAmmo.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/nuclear-option-infinite-ammo/releases/download/v1.1.0/NuclearOption-InfiniteAmmo.dll",
+      "hash": "sha256:2408fe71dbf38ec325cc22feec1a75b59849bd29933a4e6131df62273f4a950e"
+    }
+  ]
+}
