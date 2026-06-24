@@ -1,0 +1,32 @@
+{
+  "id": "com.noaids.cargoassist",
+  "displayName": "Cargo Assist",
+  "description": "Bombsight CCIP for Cargo Drop",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/NO-AIDS"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "NO-AIDS",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "com.noaids.cargoassist_v1.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/NO-AIDS/releases/download/1.0/com.noaids.cargoassist_v1.0.zip",
+      "hash": "sha256:3a085772e2113b3ef3039ebe3abf1daf4a9991b6f41416e34783d3ae82815217",
+      "gameVersion": "0.33.3",
+      "version": "1.0",
+      "category": "Release"
+    }
+  ]
+}
