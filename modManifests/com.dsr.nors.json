@@ -1,0 +1,32 @@
+{
+  "id": "com.dsr.nors",
+  "displayName": "NORS - Nuclear Option Radio System",
+  "description": "A realistic radio communication system for Nuclear Option.",
+  "tags": [
+    "Utility",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System"
+    }
+  ],
+  "authors": [
+    "RehabRocket"
+  ],
+  "githubOwner": "NORehabRocket",
+  "githubRepoName": "NORS---Nuclear-Option-Radio-System",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.1.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/NORS/1NORS.zip",
+      "hash": "sha256:4b4211b339eda6c48142bcf9c190ed322acf3cfe2fefdfa3898af379e82dbd47"
+    }
+  ]
+}
