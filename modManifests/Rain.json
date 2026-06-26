@@ -1,0 +1,38 @@
+{
+  "id": "neutral.rain",
+  "displayName": "Rain",
+  "description": "Rain in Nuclear Nption",
+  "tags": [
+    "Visual",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/rain-mod/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "rain-mod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "RainMod.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/SonPamungkas/rain-mod/releases/download/0.2/RainMod.zip",
+      "hash": "sha256:5f08d5dbf6d70e304c03b9ffa81dde2896174f60df7436dbf18cf5fb041f47ff",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
