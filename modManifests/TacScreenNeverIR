@@ -1,0 +1,37 @@
+{
+    "id": "TacScreenNeverIR",
+    "displayName": "Tac Screen NEVER IR",
+    "description": "Niche mod that completely removes IR from the tac screen camera",
+    "tags": [
+        "mod"
+    ],
+    "urls": [
+        {
+            "name": "info",
+            "url": "https://github.com/SwatDoge/NOTacScreenNeverIR"
+        }
+    ],
+    "authors": [
+        "SwatDoge"
+    ],
+    "githubOwner": "SwatDoge",
+    "githubRepoName": "NOTacScreenNeverIR",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+        {
+            "fileName": "TacScreenNeverIR.dll",
+            "version": "0.0.1",
+            "category": "release",
+            "type": "plugin",
+            "gameVersion": "0.33.4",
+            "downloadUrl": "https://github.com/SwatDoge/NOTacScreenNeverIR/releases/download/0.0.1/TacScreenNeverIR.dll",
+            "hash": "sha256:4b069d659d12f296fa568833c97761cc8fea5a8f6694610338ef7d74263c556a",
+            "dependencies": [
+                {
+                    "id": "BepInEx.ConfigurationManager",
+                    "version": "18.4.1"
+                }
+            ]
+        }
+    ]
+}
