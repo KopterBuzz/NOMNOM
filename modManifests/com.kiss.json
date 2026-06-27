@@ -16,13 +16,13 @@
     "Neutral Observer"
   ],
   "githubOwner": "SonPamungkas",
-  "githubRepoName": "NOMNOM-com-kiss",
+  "githubRepoName": "kiss-mod",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
       "type": "plugin",
       "fileName": "com.kiss_v1.0.0.zip",
-      "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-com-kiss/releases/download/v1.0.0/com.kiss_v1.0.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/kiss-mod/releases/download/1.0b/com.kiss_v1.0.0.zip",
       "hash": "sha256:5977db9883d63cd214c0327134bd6bf97e473aa78417bbdb3d8cb37f5bde1e4c",
       "gameVersion": "0.33.3",
       "version": "1.0.0",
