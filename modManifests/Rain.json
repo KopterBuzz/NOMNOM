@@ -1,10 +1,10 @@
 {
   "id": "neutral.rain",
-  "displayName": "Rain",
-  "description": "Rain in Nuclear Nption",
+  "displayName": "Nuclear Rain",
+  "description": "Rain in Nuclear Option",
   "tags": [
-    "Visual",
-    "QoL"
+    "QoL",
+    "Visual"
   ],
   "urls": [
     {
@@ -20,13 +20,13 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "RainMod.zip",
-      "version": "0.2.0",
-      "category": "release",
       "type": "plugin",
-      "gameVersion": "0.33.4",
-      "downloadUrl": "https://github.com/SonPamungkas/rain-mod/releases/download/0.2/RainMod.zip",
+      "fileName": "neutral.rain_v0.1.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/rain-mod/releases/download/0.2/neutral.rain_v0.1.0.zip",
       "hash": "sha256:5f08d5dbf6d70e304c03b9ffa81dde2896174f60df7436dbf18cf5fb041f47ff",
+      "gameVersion": "0.33.3",
+      "version": "0.1.0",
+      "category": "Release"
       "dependencies": [
         {
           "id": "BepInEx.ConfigurationManager",
