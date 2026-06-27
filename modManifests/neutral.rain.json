@@ -1,0 +1,32 @@
+{
+  "id": "neutral.rain",
+  "displayName": "Nuclear Rain",
+  "description": "Rain in Nuclear Option",
+  "tags": [
+    "QoL",
+    "Visual"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/rain-mod/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "NOMNOM-neutral-rain",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "neutral.rain_v0.1.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-neutral-rain/releases/download/v0.1.0/neutral.rain_v0.1.0.zip",
+      "hash": "sha256:0cc302cce5380e7e90b112d7282a481c080241a3637ac12791481c06fdc9a025",
+      "gameVersion": "0.33.3",
+      "version": "0.1.0",
+      "category": "Release"
+    }
+  ]
+}
