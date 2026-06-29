@@ -19,6 +19,29 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.56.zip",
+      "version": "2.1.56",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.1.56/anomie.kestrel.warheadpayloadpatch_v2.1.56.zip",
+      "hash": "sha256:15e0fe5ca75de3c1210ce3f3d18c7c58ee73903cd1fd5c35be64d7dd0be69390",
+      "dependencies": [
+        {
+          "id": "blueprinter.kestrel",
+          "version": "2.2.0"
+        },
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.21"
+        },
+        {
+          "id": "QoL",
+          "version": "1.8.1.0"
+        }
+      ]
+    },
+    {
       "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.22.zip",
       "version": "2.1.22",
       "category": "release",
@@ -306,5 +329,5 @@
       ]
     }
   ],
-  "downloadCount": 1345
+  "downloadCount": 1360
 }
