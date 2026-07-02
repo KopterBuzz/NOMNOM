@@ -1,0 +1,32 @@
+{
+  "id": "NOXMFD",
+  "displayName": "Nuclear Option eXternal MFD",
+  "description": "Reads live flight telemetry and serves a browser-based multi-function display (MFD) over the local network.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/roke77/NOXMFD"
+    }
+  ],
+  "authors": [
+    "roke77"
+  ],
+  "githubOwner": "roke77",
+  "githubRepoName": "NOXMFD",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOXMFD_0.9.0.zip",
+      "version": "0.9.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/roke77/NOXMFD/releases/download/v0.9.0/NOXMFD_0.9.0.zip",
+      "hash": "sha256:dd5dc88fb3312e01872ffdd3a0b426506e3cc745417d6049283e0c2f041b84ac"
+    }
+  ]
+}
