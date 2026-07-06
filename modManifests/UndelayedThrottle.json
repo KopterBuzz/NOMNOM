@@ -1,0 +1,31 @@
+{
+  "id": "UndelayedThrottle",
+  "displayName": "Undelayed Throttle",
+  "description": "Removes the hidden negative-throttle dead zone so incremental (gamepad / relative-axis) throttle responds immediately when raising thrust up from idle.",
+  "tags": [
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/lucaspevidor/nuclear-option-undelayed-throttle"
+    }
+  ],
+  "authors": [
+    "Lucas Pevidor"
+  ],
+  "githubOwner": "lucaspevidor",
+  "githubRepoName": "nuclear-option-undelayed-throttle",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "UndelayedThrottle.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/lucaspevidor/nuclear-option-undelayed-throttle/releases/download/v1.0.0/UndelayedThrottle.dll",
+      "hash": "sha256:17002fd05e3fb01ee703f32d85656e2c06cf63977aa9bf81361ca70d67fa5710"
+    }
+  ]
+}
