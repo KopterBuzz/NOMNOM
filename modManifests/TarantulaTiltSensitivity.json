@@ -1,0 +1,32 @@
+{
+  "id": "TarantulaTiltSensitivity",
+  "displayName": "Tarantula Tilt Sensitivity",
+  "description": "Adds a fine-control sensitivity curve to the Tarantula's manual rotor tilt near 0 degrees, so small adjustments around level flight are precise instead of twitchy.",
+  "tags": [
+    "QoL",
+    "Aircraft"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/lucaspevidor/nuclear-option-tarantula-tilt-sensitivity"
+    }
+  ],
+  "authors": [
+    "Lucas Pevidor"
+  ],
+  "githubOwner": "lucaspevidor",
+  "githubRepoName": "nuclear-option-tarantula-tilt-sensitivity",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "TarantulaTiltSensitivity.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/lucaspevidor/nuclear-option-tarantula-tilt-sensitivity/releases/download/v1.0.2/TarantulaTiltSensitivity.dll",
+      "hash": "sha256:b1fb596a4a883aa1bfdb616bed0210c9c3c44d4d771601db5120e0c600010051"
+    }
+  ]
+}
