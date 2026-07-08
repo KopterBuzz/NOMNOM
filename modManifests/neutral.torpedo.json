@@ -1,0 +1,31 @@
+{
+  "id": "neutral.torpedo",
+  "displayName": "Torpedo",
+  "description": "Adds 4 torpedoes to the game. Accessible wherever you mount your cruise misssile.",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/torpedo/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "torpedo",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "neutral.torpedo_v1.1.1.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/torpedo/releases/download/1.1.1/neutral.torpedo_v1.1.1.zip",
+      "hash": "sha256:0b595fa89b6b7d451be8a50a6e3d1e9e5be4034b6ee6adf21e6f9875f4bd7989",
+      "gameVersion": "0.33.3",
+      "version": "1.1.1",
+      "category": "Release"
+    }
+  ]
+}
