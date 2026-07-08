@@ -1,0 +1,33 @@
+{
+  "id": "LockToneShootPing",
+  "displayName": "Lock Shoot Tone Ping",
+  "description": "Adds Lock Tones. Similar to the Lock Shoot mod by JUSTJ7780 but supports the vast majority of weapon types. Tones can scale with distance if desired. Tones can only be played once of status changed if desired. Mod contains a pack handling system allowing for the quick import of audio and settings. Instructions on how to use mod are present in the README on Github.",
+  "tags": [
+    "Sound",
+    "QoL",
+    "Flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aeriicatmeow/Lock-Shoot-Tone-Ping"
+    }
+  ],
+  "authors": [
+    "Aeriicatmeow"
+  ],
+  "githubOwner": "Aeriicatmeow",
+  "githubRepoName": "Lock-Shoot-Tone-Ping",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Lock_Shoot_Tone_Ping.dll",
+      "version": "1.2.1",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Lock-Shoot-Tone-Ping/releases/download/v.1.2.1/Lock_Shoot_Tone_Ping.dll",
+      "hash": "sha256:E78F676FA04AB9F3E4338ACC760AAC99A05E7192098715B3C5D18A29A73B4C15"
+    }
+  ]
+}
