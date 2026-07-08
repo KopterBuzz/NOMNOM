@@ -2,11 +2,19 @@
   "id": "MissileCamNO",
   "name": "MissileCamNO",
   "description": "Cycle through and follow your own in-flight missiles using '[' and ']' while flying. RWR/missile warnings keep playing. Press ';' (configurable) to snap the camera back to your aircraft's cockpit.",
-  "tags": ["QoL", "Camera"],
-  "urls": [
-    { "name": "info", "url": "https://github.com/vullnetyy/MissileCamNO" }
+  "tags": [
+    "QoL",
+    "Camera"
   ],
-  "authors": ["vullnetyy"],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/vullnetyy/MissileCamNO"
+    }
+  ],
+  "authors": [
+    "vullnetyy"
+  ],
   "githubUser": "vullnetyy",
   "githubRepo": "MissileCamNO",
   "autoUpdate": "True",
