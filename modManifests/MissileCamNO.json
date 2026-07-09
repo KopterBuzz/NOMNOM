@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "MissileCamNO-1.0.11.zip",
+      "version": "1.0.11",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/vullnetyy/MissileCamNO/releases/download/v1.0.11/MissileCamNO-1.0.11.zip",
+      "hash": "sha256:c5dc153c0b1a3e8691becabb1e14edff9e506e854f54d0f392b7a641dca2b1ba"
+    },
+    {
       "fileName": "MissileCamNO-1.0.8.zip",
       "version": "1.0.8",
       "category": "release",
@@ -38,5 +47,5 @@
       "hash": "sha256:d2d6b04918625ad889134c850969e917b24ed32dbce47da645fbbe1e74489419"
     }
   ],
-  "downloadCount": 23
+  "downloadCount": 32
 }
