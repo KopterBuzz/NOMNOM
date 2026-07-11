@@ -1,0 +1,43 @@
+{
+  "id": "aryx.fs41",
+  "displayName": "Aryx-s-FS-41-Eclipse",
+  "description": "A twin-engine, two-seater fleet defence interceptor designed to search for and destroy high-speed, high altitude threats. This fearsome interceptor features a devastating air to air missile complement, a powerful radar and, of course, swing wings. It is the lovechild of an F-14 and Su-57 :)",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/keMRVdcwFc"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx-s-FS-41-Eclipse",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Aryx_NavalInterceptor1.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.0/Aryx_NavalInterceptor1.dll",
+      "hash": "sha256:9d267bfcacbd864625ccd4ef1e8458c388401c9295ef1f4c7a501798e9826e3f",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    }
+  ],
+  "downloadCount": 0
+}
