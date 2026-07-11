@@ -22,6 +22,21 @@
   "artifacts": [
     {
       "fileName": "GAS.Global.Audio.Replacer.zip",
+      "version": "5.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/JUSTJ7780/NO-QOL/releases/download/5.2.1/GAS.Global.Audio.Replacer.zip",
+      "hash": "sha256:ec8aa7002de1a34b93fe66cae957a45d218678bd072d1297aca51b7bd8e0192b",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "GAS.Global.Audio.Replacer.zip",
       "version": "5.2.0",
       "category": "release",
       "type": "plugin",
@@ -51,5 +66,5 @@
       ]
     }
   ],
-  "downloadCount": 3254
+  "downloadCount": 3255
 }
