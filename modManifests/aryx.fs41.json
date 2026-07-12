@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx_NavalInterceptor1_1.0.3.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.3/Aryx_NavalInterceptor1_1.0.3.dll",
+      "hash": "sha256:33d7ee25f2a8fd50f55fb74881cc7cba3ae8ead55ad22ba3ecc8a2db53899057",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
       "fileName": "Aryx_NavalInterceptor1_1.0.1.dll",
       "version": "1.0.1",
       "category": "release",
@@ -52,5 +65,5 @@
       }
     }
   ],
-  "downloadCount": 3013
+  "downloadCount": 3158
 }
