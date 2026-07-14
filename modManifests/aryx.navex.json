@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx.Naval.Expansion_1.0.3.zip",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-Naval-Expansion/releases/download/1.0.3/Aryx.Naval.Expansion_1.0.3.zip",
+      "hash": "sha256:93a35e1c133f6ddc7c81f8fd321b3712036e88771d4fece2089a300a1b13643e",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
       "fileName": "Aryx.Naval.Expansion_1.0.2.zip",
       "version": "1.0.2",
       "category": "release",
@@ -52,5 +65,5 @@
       }
     }
   ],
-  "downloadCount": 10105
+  "downloadCount": 10127
 }
