@@ -21,6 +21,21 @@
   "artifacts": [
     {
       "fileName": "NOX.7z",
+      "version": "0.3.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.3.4/NOX.7z",
+      "hash": "sha256:5c3b012579b3069f9385063a956029f101c16224c53ec23b2c1a5f9a4fe7cadc",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NOX.7z",
       "version": "0.3.3",
       "category": "release",
       "type": "plugin",
@@ -125,5 +140,5 @@
       ]
     }
   ],
-  "downloadCount": 9831
+  "downloadCount": 9832
 }
