@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx_FS-41.Eclipse_1.1.0.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.0/Aryx_FS-41.Eclipse_1.1.0.dll",
+      "hash": "sha256:8562d3c55ba24eb1f707f57b49052309c0212e1182673254e52d8ef9ca03b3dd",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
       "fileName": "Aryx_FS-41.Eclipse_1.0.9.dll",
       "version": "1.0.9",
       "category": "release",
@@ -143,5 +156,5 @@
       }
     }
   ],
-  "downloadCount": 16284
+  "downloadCount": 16456
 }
