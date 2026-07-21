@@ -1,0 +1,32 @@
+{
+  "id": "LiveryDownloader",
+  "displayName": "Livery Downloader",
+  "description": "Automatically downloads liveries in multiplayer, without cluttering up your livery list.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/MinecrackTyler/NOLiveryDownloader"
+    }
+  ],
+  "authors": [
+    "minecracktyler"
+  ],
+  "githubOwner": "MinecrackTyler",
+  "githubRepoName": "NOLiveryDownloader",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "LiveryDownloader_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/MinecrackTyler/NOLiveryDownloader/releases/download/v1.0.0/LiveryDownloader_1.0.0.dll",
+      "hash": "sha256:3632f0ebf44e752a506526c95b5cd244356abce8318cb6868f925755b5c08f81"
+    }
+  ]
+}
