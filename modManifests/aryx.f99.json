@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx_LightFighter1_1.0.6.dll",
+      "version": "1.0.6",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-F-99-Shrike/releases/download/1.0.6/Aryx_LightFighter1_1.0.6.dll",
+      "hash": "sha256:c468790b3d12136b92a3b0c6503e2b066be917e54daa63c97c214a4c440dd271",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
       "fileName": "Aryx.s.F-99.Shrike_1.0.5.nobp",
       "version": "1.0.5",
       "category": "release",
@@ -65,5 +78,5 @@
       }
     }
   ],
-  "downloadCount": 22636
+  "downloadCount": 22731
 }
