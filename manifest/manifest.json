@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 6030
+    "downloadCount": 6031
   },
   {
     "id": "AB-4X mod",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 3220
+    "downloadCount": 3221
   },
   {
     "id": "AIAircraftLimit",
@@ -288,7 +288,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 1410
+    "downloadCount": 1411
   },
   {
     "id": "anomie.counterbatteryscanner",
@@ -321,7 +321,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 970
+    "downloadCount": 971
   },
   {
     "id": "anomie.debugdoctor",
@@ -407,362 +407,6 @@
     "downloadCount": 186
   },
   {
-    "id": "anomie.kestrel.warheadpayloadpatch",
-    "displayName": "Anomie Kestrel Warhead Payload Patch",
-    "description": "Ever wanted to be a very angry Japanese drone?\r\n\r\nAdds heavy demolition and tactical nuclear suicide payloads to the FQ-106 Kestrel’s Weapons Bay. Requires Blueprinter and the Kestrel mod.",
-    "tags": [
-      "Utility"
-    ],
-    "urls": [
-      {
-        "name": "info",
-        "url": "https://github.com/NotAnomie/NOMNOM-anomie-nuclearoption-developmentkit-bridge/releases"
-      }
-    ],
-    "authors": [
-      "Anomie"
-    ],
-    "githubOwner": "NotAnomie",
-    "githubRepoName": "NOMNOM-anomie-kestrel-warheadpayloadpatch",
-    "autoUpdateArtifacts": "True",
-    "artifacts": [
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.57.zip",
-        "version": "2.1.57",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.1.57/anomie.kestrel.warheadpayloadpatch_v2.1.57.zip",
-        "hash": "sha256:2d02f630cbef15a32b08aab4ccb6b8d32e9330c6e7afb2a74ea28d02826308c1",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.2.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.21"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.56.zip",
-        "version": "2.1.56",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.1.56/anomie.kestrel.warheadpayloadpatch_v2.1.56.zip",
-        "hash": "sha256:15e0fe5ca75de3c1210ce3f3d18c7c58ee73903cd1fd5c35be64d7dd0be69390",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.2.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.21"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.22.zip",
-        "version": "2.1.22",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.1.22/anomie.kestrel.warheadpayloadpatch_v2.1.22.zip",
-        "hash": "sha256:f52e2e84037f5b5153eb42862a8bf771e31559e75b4b73e15c6162c67f7bf76f",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.2.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.21"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.21.zip",
-        "version": "2.1.21",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.1.21/anomie.kestrel.warheadpayloadpatch_v2.1.21.zip",
-        "hash": "sha256:5d3abe24173b742b5521273b7831acf7b02d0a6208c3c12fb5389eab7b71e24f",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.2.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.21"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.16.zip",
-        "version": "2.1.16",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.1.16/anomie.kestrel.warheadpayloadpatch_v2.1.16.zip",
-        "hash": "sha256:f3c737589b6ecc5aea902df90d5c10bb0da219af7b4c841cc0e45d60142335a3",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.15.zip",
-        "version": "2.1.15",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.1.15/anomie.kestrel.warheadpayloadpatch_v2.1.15.zip",
-        "hash": "sha256:a2a8273505a8f9a61d0751b8d2e6961f447563c65e987f02bd897424830dc673",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.1.6.zip",
-        "version": "2.1.6",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.1.6/anomie.kestrel.warheadpayloadpatch_v2.1.6.zip",
-        "hash": "sha256:f8575e5d29f5502a2c08422ab72e0ba25fc1b11b08af5677fbd2ea7a474b5794",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.0.36.zip",
-        "version": "2.0.36",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.0.36/anomie.kestrel.warheadpayloadpatch_v2.0.36.zip",
-        "hash": "sha256:8171f7436f7fa670efc2f9b89d5dfa77720ba12c5ae16a8e0be77f21f7b639b7",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.0.29.zip",
-        "version": "2.0.29",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.0.29/anomie.kestrel.warheadpayloadpatch_v2.0.29.zip",
-        "hash": "sha256:a0e2d0e4ee67aaab0aaa54b9766d5ea0d448fc86d5af346970354b1f34aca7e8",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.0.24.zip",
-        "version": "2.0.24",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.0.24/anomie.kestrel.warheadpayloadpatch_v2.0.24.zip",
-        "hash": "sha256:9aa2e717dd0b99fa1b1a53f5615826c6f32fa6337ba8bc4f296b85ced84f65cb",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.0.19.zip",
-        "version": "2.0.19",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.0.19/anomie.kestrel.warheadpayloadpatch_v2.0.19.zip",
-        "hash": "sha256:cee7527fa6b0b53819debcfae5426a36fc24efa1eac1c18c918c67ae21b0cd24",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          },
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.0.1.zip",
-        "version": "2.0.1",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.0.1/anomie.kestrel.warheadpayloadpatch_v2.0.1.zip",
-        "hash": "sha256:b9801d325c847a23e891a418965e4b8187d0545649126b752a6954102407cfab",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          },
-          {
-            "id": "QoL",
-            "version": "1.7.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v2.0.zip",
-        "version": "2.0",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v2.0/anomie.kestrel.warheadpayloadpatch_v2.0.zip",
-        "hash": "sha256:e0ab4b14254cbe56438939977234497925a25d123d088abe520f150ee1d71fc5",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          }
-        ]
-      },
-      {
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v1.4.1.zip",
-        "version": "1.4.1",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v1.4.1/anomie.kestrel.warheadpayloadpatch_v1.4.1.zip",
-        "hash": "sha256:2e44c7fddf4793094ff5433d0a96858bd2dea8e31ef91b4780e3e31d53739696",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          }
-        ]
-      },
-      {
-        "type": "plugin",
-        "fileName": "anomie.kestrel.warheadpayloadpatch_v1.3.5.zip",
-        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-kestrel-warheadpayloadpatch/releases/download/v1.3.5/anomie.kestrel.warheadpayloadpatch_v1.3.5.zip",
-        "hash": "sha256:248df091e310a8c99863e43837f5c06bd7bc668b923e39dda13710188162d542",
-        "gameVersion": "0.33",
-        "version": "1.3.5",
-        "category": "Release",
-        "dependencies": [
-          {
-            "id": "blueprinter.kestrel",
-            "version": "2.1.0"
-          },
-          {
-            "id": "com.nikkorap.blueprinter",
-            "version": "1.8.19"
-          }
-        ]
-      }
-    ],
-    "downloadCount": 2824
-  },
-  {
     "id": "Anomie.ModProfiler.Bridge",
     "displayName": "Anomie Mod Profiler",
     "description": "This program is a testing tool to check out your mods if they are running unstable.",
@@ -833,7 +477,7 @@
         "category": "Pre-Release"
       }
     ],
-    "downloadCount": 185
+    "downloadCount": 186
   },
   {
     "id": "anomie.rearmstatushud",
@@ -1230,7 +874,7 @@
         }
       }
     ],
-    "downloadCount": 55797
+    "downloadCount": 55837
   },
   {
     "id": "aryx.f99",
@@ -1312,7 +956,7 @@
         }
       }
     ],
-    "downloadCount": 23307
+    "downloadCount": 23342
   },
   {
     "id": "aryx.fs41",
@@ -1485,7 +1129,7 @@
         }
       }
     ],
-    "downloadCount": 20153
+    "downloadCount": 20195
   },
   {
     "id": "aryx.mc260",
@@ -1710,7 +1354,7 @@
         }
       }
     ],
-    "downloadCount": 52805
+    "downloadCount": 52844
   },
   {
     "id": "aryx.mig15",
@@ -1805,7 +1449,7 @@
         }
       }
     ],
-    "downloadCount": 23938
+    "downloadCount": 23941
   },
   {
     "id": "aryx.navex",
@@ -1874,7 +1518,7 @@
         }
       }
     ],
-    "downloadCount": 14859
+    "downloadCount": 14866
   },
   {
     "id": "aryx.rah72",
@@ -2008,7 +1652,7 @@
         }
       }
     ],
-    "downloadCount": 29652
+    "downloadCount": 29686
   },
   {
     "id": "AtomicFramework",
@@ -2147,7 +1791,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 5823
+    "downloadCount": 5824
   },
   {
     "id": "blueprinter.kestrel",
@@ -2204,7 +1848,7 @@
         }
       }
     ],
-    "downloadCount": 30142
+    "downloadCount": 30145
   },
   {
     "id": "blueprinter.ternion",
@@ -2258,7 +1902,7 @@
         }
       }
     ],
-    "downloadCount": 31725
+    "downloadCount": 31726
   },
   {
     "id": "bote",
@@ -2410,7 +2054,7 @@
         }
       }
     ],
-    "downloadCount": 29653
+    "downloadCount": 29654
   },
   {
     "id": "CameraPresets",
@@ -2725,7 +2369,7 @@
         "hash": "sha256:08b7cd5ce9a8688de7c3acc4832288a03f4f654de405aadf204283fb03ef75b1"
       }
     ],
-    "downloadCount": 809
+    "downloadCount": 810
   },
   {
     "id": "com.basicGrowl",
@@ -2806,7 +2450,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 487
+    "downloadCount": 488
   },
   {
     "id": "com.dsr.nors",
@@ -2875,7 +2519,7 @@
         "hash": "sha256:4b4211b339eda6c48142bcf9c190ed322acf3cfe2fefdfa3898af379e82dbd47"
       }
     ],
-    "downloadCount": 689
+    "downloadCount": 690
   },
   {
     "id": "com.equalizer.unified",
@@ -2999,7 +2643,7 @@
         "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
       }
     ],
-    "downloadCount": 1761
+    "downloadCount": 1764
   },
   {
     "id": "Com.Hellcat92.TargetGridRefHUD",
@@ -3179,7 +2823,7 @@
         ]
       }
     ],
-    "downloadCount": 3977
+    "downloadCount": 3978
   },
   {
     "id": "com.JUSTJ7780.nomodframework",
@@ -3303,7 +2947,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 1042
+    "downloadCount": 1044
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -3394,7 +3038,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 58377
+    "downloadCount": 58384
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -3463,7 +3107,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 3184
+    "downloadCount": 3185
   },
   {
     "id": "com.noaids.cargoassist",
@@ -3537,7 +3181,7 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 3272
+    "downloadCount": 3273
   },
   {
     "id": "dev.dikka.nuclearconnectivity",
@@ -3686,7 +3330,7 @@
         "hash": "sha256:b34f5c7ddf8cf519ebe7e4d9289d98ab687928f0b50872a4d2cc160e501d475a"
       }
     ],
-    "downloadCount": 123
+    "downloadCount": 124
   },
   {
     "id": "dev.dikka.nucleartrackage",
@@ -3761,7 +3405,7 @@
         "hash": "sha256:33cb88f7abc7a7bd9a3ab3542042a78313ef4242b0191e506d675666446becbe"
       }
     ],
-    "downloadCount": 357
+    "downloadCount": 358
   },
   {
     "id": "emi.shoshanas.ballisticstrikecaller",
@@ -3893,7 +3537,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 630
+    "downloadCount": 631
   },
   {
     "id": "emi.shoshanas.togglehandbrake",
@@ -3970,7 +3614,7 @@
         ]
       }
     ],
-    "downloadCount": 7472
+    "downloadCount": 7475
   },
   {
     "id": "FrontlineMap",
@@ -4236,106 +3880,6 @@
     "downloadCount": 1269
   },
   {
-    "id": "IbisBellyTurretCargoHookPatch",
-    "displayName": "Ibis Belly Turret Cargo Hook Patch",
-    "description": "QoL-compatible UH-90 Ibis patch that keeps QoL's belly turret slot, removes CargoHook from that slot, and adds a separate cargo-hook-only slot near the original cargo hook position.",
-    "tags": [
-      "mod",
-      "Aircraft",
-      "QoL"
-    ],
-    "urls": [
-      {
-        "name": "info",
-        "url": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch"
-      }
-    ],
-    "authors": [
-      "Rendresen"
-    ],
-    "githubOwner": "Rendresen",
-    "githubRepoName": "Ibis-Belly-Turret-Cargo-Hook-Patch",
-    "autoUpdateArtifacts": "True",
-    "artifacts": [
-      {
-        "fileName": "IbisBellyTurretCargoHookPatch-0.3.7.zip",
-        "version": "0.3.7",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.3.7/IbisBellyTurretCargoHookPatch-0.3.7.zip",
-        "hash": "sha256:eeedbb3eb3926a589a69003903656de6d5eeb02153e2a3c607f13305d3732df6",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "IbisBellyTurretCargoHookPatch-0.3.6.zip",
-        "version": "0.3.6",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.3.6/IbisBellyTurretCargoHookPatch-0.3.6.zip",
-        "hash": "sha256:a7ac321c83825eade2e4b0e26a0b3aee702cff6b7a54f730d44743dd46cfd37e",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "IbisBellyTurretCargoHookPatch-0.3.5.zip",
-        "version": "0.3.5",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.3.5/IbisBellyTurretCargoHookPatch-0.3.5.zip",
-        "hash": "sha256:2d4df3001d2b30147cb7cac8bf5193ea53ff0f16924cdfc9d19f3cba45cf689e",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.7.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "IbisBellyTurretCargoHookPatch-0.3.3.zip",
-        "version": "0.3.3",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.3.3/IbisBellyTurretCargoHookPatch-0.3.3.zip",
-        "hash": "sha256:21cb8f02b8fb21a34c742d6a38213f11beb9952a2ee038418a98561d6d69ae30",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.7.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "IbisBellyTurretCargoHookPatch-0.2.3.zip",
-        "version": "0.2.3",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.2.3/IbisBellyTurretCargoHookPatch-0.2.3.zip",
-        "hash": "",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.7.1.0"
-          }
-        ]
-      }
-    ],
-    "downloadCount": 1351
-  },
-  {
     "id": "IbisDoorGunToggle",
     "displayName": "Ibis Door Gun Toggle",
     "description": "Animated UH-90 Ibis door gun stow/deploy mod.",
@@ -4448,7 +3992,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1831
+    "downloadCount": 1832
   },
   {
     "id": "IbisPowerFix",
@@ -4544,7 +4088,7 @@
         "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
       }
     ],
-    "downloadCount": 1268
+    "downloadCount": 1269
   },
   {
     "id": "jester_voice",
@@ -4798,7 +4342,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 7346
+    "downloadCount": 7348
   },
   {
     "id": "KR-EW.67",
@@ -4863,7 +4407,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 7107
+    "downloadCount": 7108
   },
   {
     "id": "LiveryDownloader",
@@ -5047,7 +4591,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3772
+    "downloadCount": 3773
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -6990,7 +6534,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 1865
+    "downloadCount": 1866
   },
   {
     "id": "MFDCustomizer",
@@ -7149,7 +6693,7 @@
         "hash": "sha256:d2d6b04918625ad889134c850969e917b24ed32dbce47da645fbbe1e74489419"
       }
     ],
-    "downloadCount": 244
+    "downloadCount": 245
   },
   {
     "id": "neutral.rain",
@@ -7191,7 +6735,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 1107
+    "downloadCount": 1109
   },
   {
     "id": "neutral.torpedo",
@@ -7223,7 +6767,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 2004
+    "downloadCount": 2008
   },
   {
     "id": "NO_Tactitools",
@@ -7418,7 +6962,7 @@
         ]
       }
     ],
-    "downloadCount": 17011
+    "downloadCount": 17013
   },
   {
     "id": "no-autopilot-mod",
@@ -7778,7 +7322,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 21734
+    "downloadCount": 21735
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -8640,7 +8184,7 @@
         ]
       }
     ],
-    "downloadCount": 11202
+    "downloadCount": 11208
   },
   {
     "id": "NOXMFD",
@@ -9116,7 +8660,7 @@
         ]
       }
     ],
-    "downloadCount": 2683
+    "downloadCount": 2687
   },
   {
     "id": "NuclearOptionControllerTuner",
@@ -9273,7 +8817,7 @@
         ]
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 1777
   },
   {
     "id": "Ornithopter",
@@ -9411,7 +8955,7 @@
         "hash": "sha256:9829adb5135f08d0b129453cb685628a7def130371f8f9770f5d3baf28feb66e"
       }
     ],
-    "downloadCount": 6696
+    "downloadCount": 6700
   },
   {
     "id": "Pauel3312.NOKillWeapons",
@@ -9462,7 +9006,7 @@
         "hash": "sha256:b8899af8d033a66218213b8a041f3d6ca5eddcb21e6617205822eab7cbdd477e"
       }
     ],
-    "downloadCount": 1017
+    "downloadCount": 1018
   },
   {
     "id": "Pauel3312.NOMissingWeapons",
@@ -9644,235 +9188,6 @@
     "downloadCount": 0
   },
   {
-    "id": "qol.combofix",
-    "displayName": "QoL Combo Fix",
-    "description": "Various bug fixes and Quality of Life for the Quality of Life mod",
-    "tags": [
-      "QoL",
-      "Utility"
-    ],
-    "urls": [
-      {
-        "name": "info",
-        "url": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/"
-      }
-    ],
-    "authors": [
-      "Neutral Observer"
-    ],
-    "githubOwner": "SonPamungkas",
-    "githubRepoName": "NOMNOM-qol-combofix",
-    "autoUpdateArtifacts": "True",
-    "artifacts": [
-      {
-        "fileName": "qol.combofix_v1.1.3.zip",
-        "version": "1.1.3",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33.3",
-        "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.1.3/qol.combofix_v1.1.3.zip",
-        "hash": "sha256:41baf029ed8ea48ddf24db71bb4a137583acded30e7ec857ac9931f044361f4e",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "qol.combofix_v1.1.2.zip",
-        "version": "1.1.2",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33.3",
-        "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.1.2/qol.combofix_v1.1.2.zip",
-        "hash": "sha256:1998962d633a3201cff491077c7176a5df50fa3c8a263356e7075df6180fc585",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "qol.combofix_v1.1.1.zip",
-        "version": "1.1.1",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33.3",
-        "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.1.1/qol.combofix_v1.1.1.zip",
-        "hash": "sha256:9d7af1d7571f567a72ee06e656955e8d559b5a1ae22dd569d68e5235dccbadc0",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "qol.combofix_v1.1.0.zip",
-        "version": "1.1.0",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33.3",
-        "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.1.0/qol.combofix_v1.1.0.zip",
-        "hash": "sha256:32931e7eb83ddb4fdaee066748ce57ae398028da33c02eab4dc388d2936422fc",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "qol.combofix_v1.0.6.zip",
-        "version": "1.0.6",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33.3",
-        "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.0.6/qol.combofix_v1.0.6.zip",
-        "hash": "sha256:dde8a8b67b403b22f3e80916288217d659bd6865a90826ec3d665e41ac140099",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      },
-      {
-        "fileName": "qol.combofix_v1.0.2.zip",
-        "version": "1.0.2",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33.3",
-        "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.0.2/qol.combofix_v1.0.2.zip",
-        "hash": "sha256:df32c0950b4cf1303677a694f92ddbaa8e34268121472bf9afdbe0a9c591305a",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.0.0"
-          }
-        ]
-      }
-    ],
-    "downloadCount": 4895
-  },
-  {
-    "id": "QoL",
-    "displayName": "Quality of Life",
-    "description": "A major overhaul mod for Nuclear Option. QoL adds custom weapons, units, features, plus hundreds of fixes and parity adjustments.",
-    "tags": [
-      "mod",
-      "QoL",
-      "p2082"
-    ],
-    "urls": [
-      {
-        "name": "discord",
-        "url": "https://discord.com/invite/qqMwyr2qxR"
-      }
-    ],
-    "authors": [
-      "Offiry"
-    ],
-    "githubOwner": "offiry0",
-    "githubRepoName": "qol-public",
-    "autoUpdateArtifacts": "True",
-    "artifacts": [
-      {
-        "fileName": "qol_1.1.8.1.dll",
-        "version": "1.8.1.0",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.8.1.0/qol_1.1.8.1.dll",
-        "hash": "sha256:912f428b538214ea91846577b0ab0309bd30152f09022d48e6b85fe645653fd5",
-        "dependencies": [
-          {
-            "id": "BepInEx.ConfigurationManager",
-            "version": "18.4.1"
-          }
-        ]
-      },
-      {
-        "fileName": "qol_1.1.8.0.dll",
-        "version": "1.8.0.0",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.8.0.0/qol_1.1.8.0.dll",
-        "hash": "sha256:a4f108503def2b7066e00809dbb9081a9411f504e22a6538ac64c028ba9fa73c",
-        "dependencies": [
-          {
-            "id": "BepInEx.ConfigurationManager",
-            "version": "18.4.1"
-          }
-        ]
-      },
-      {
-        "fileName": "qol_1.1.7.1.dll",
-        "version": "1.7.1.0",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.7.1.0/qol_1.1.7.1.dll",
-        "hash": "sha256:2ca4ac8cbaf6af0323a4d44e9cca7c03f8ef4186f1ce8db90e3a7e80e8f815bc",
-        "dependencies": [
-          {
-            "id": "BepInEx.ConfigurationManager",
-            "version": "18.4.1"
-          }
-        ]
-      },
-      {
-        "fileName": "qol_1.1.7.0b1.dll",
-        "version": "1.7.0.1",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.7.0.1/qol_1.1.7.0b1.dll",
-        "hash": null,
-        "dependencies": [
-          {
-            "id": "BepInEx.ConfigurationManager",
-            "version": "18.4.1"
-          }
-        ]
-      },
-      {
-        "fileName": "qol_1.1.7.0.dll",
-        "version": "1.7.0.0",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.7.0.0/qol_1.1.7.0.dll",
-        "hash": null,
-        "dependencies": [
-          {
-            "id": "BepInEx.ConfigurationManager",
-            "version": "18.4.1"
-          }
-        ]
-      },
-      {
-        "fileName": "qol_1.1.6.4.dll",
-        "version": "1.6.4.0",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.32",
-        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.6.4.0/qol_1.1.6.4.dll",
-        "hash": null,
-        "dependencies": [
-          {
-            "id": "BepInEx.ConfigurationManager",
-            "version": "18.4.1"
-          }
-        ]
-      }
-    ],
-    "downloadCount": 30890
-  },
-  {
     "id": "RepairProgress",
     "displayName": "Repair Progress",
     "description": "Visualize building damage and repair status with health bars. See repair progress in real-time.",
@@ -9910,7 +9225,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 7846
+    "downloadCount": 7847
   },
   {
     "id": "RITA_RVWS",
@@ -9975,7 +9290,7 @@
         ]
       }
     ],
-    "downloadCount": 1515
+    "downloadCount": 1517
   },
   {
     "id": "RuntimeUnityEditor",
@@ -10008,7 +9323,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 127579
+    "downloadCount": 127583
   },
   {
     "id": "shoshanas.tvmissilehud",
@@ -10320,7 +9635,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3802
+    "downloadCount": 3803
   },
   {
     "id": "TernionVaporTuner",
@@ -10539,48 +9854,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 4442
-  },
-  {
-    "id": "ThirdPersonHudMapPipFix",
-    "displayName": "Third Person HUD Map Pip Fix",
-    "description": "Companion BepInEx plugin for QoL that suppresses the HUD targeting pip while the map is open, preventing map target selection from also selecting a world target behind the map.",
-    "tags": [
-      "mod",
-      "QoL",
-      "HUD",
-      "Map"
-    ],
-    "urls": [
-      {
-        "name": "info",
-        "url": "https://github.com/rendresen/ThirdPersonHudMapPipFix"
-      }
-    ],
-    "authors": [
-      "rendresen"
-    ],
-    "githubOwner": "rendresen",
-    "githubRepoName": "ThirdPersonHudMapPipFix",
-    "autoUpdateArtifacts": "True",
-    "artifacts": [
-      {
-        "fileName": "ThirdPersonHudMapPipFix-0.1.5.zip",
-        "version": "0.1.5",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/rendresen/ThirdPersonHudMapPipFix/releases/download/v0.1.5/ThirdPersonHudMapPipFix-0.1.5.zip",
-        "hash": "sha256:3a33c23b4084ee6d880a8ae7429ccad1ba3e4c69447d5216f89c70f26d3d6855",
-        "dependencies": [
-          {
-            "id": "QoL",
-            "version": "1.8.1.0"
-          }
-        ]
-      }
-    ],
-    "downloadCount": 1077
+    "downloadCount": 4444
   },
   {
     "id": "UndelayedThrottle",
@@ -10612,7 +9886,7 @@
         "hash": "sha256:17002fd05e3fb01ee703f32d85656e2c06cf63977aa9bf81361ca70d67fa5710"
       }
     ],
-    "downloadCount": 103
+    "downloadCount": 104
   },
   {
     "id": "UnitCopyPaste",
@@ -10829,7 +10103,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 11098
+    "downloadCount": 11101
   },
   {
     "id": "YawOnMouse",
