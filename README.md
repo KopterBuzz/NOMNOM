@@ -6,9 +6,9 @@ NOMNOM can also register mod dependencies, incompatibilities, and add-ons to oth
 
 ### DISCLAIMER
 
-NOMNOM is a COMMUNITY PROJECT, and is not affiliated with Shockfront Studios, the developer of Nuclear Option.
+NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, the developer of Nuclear Option.
 
-### Current known Mod Manager projects that use NOMNOM:
+### Current known Mod Manager Projects that use NOMNOM:
 
 - [NOMM - Nuclear Option Mod Manager](https://github.com/Combat787/NuclearOptionModManager/) - [DOWNLOAD](https://github.com/Combat787/NuclearOptionModManager/releases/latest)
 
