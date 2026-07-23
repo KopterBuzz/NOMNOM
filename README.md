@@ -15,9 +15,11 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 ### Mod Submission Acceptance Policy:
 
 - If your Mod contains custom DLL files, those DLL files Must Be Open-Sourced. Submission requests that do not comply will be denied.
- - Clarification: If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any DLL files, there is no cause for concern.
+  - Clarification: If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any Custom DLL files, there is no cause for concern.
 
 - If your Mod is found to be containing any malicious code or otherwise making unwarranted changes to the users' computers, all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
+
+- If Custom DLLs in your Mod Release(s) are found to be inconsistent with the Source Code (e.g. containing additional code that is not present in the Available Source code for the Open-Sourced DLL), all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
 
 - In order for NOMNOM to automatically discover new Mod Releases for Registered Mods, they must be available as GitHub Repository Release Package. If you use a different delivery method, you must submit a Pull Request to get New Releases registered. Follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
 - GitHub Repositories for your Mods should contain releases for ONLY ONE mod per Repository. Do not put releases for multiple mods under one Repository.
