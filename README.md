@@ -4,7 +4,7 @@ NOMNOM is a self-updating package manifest registry that Mod Manager Application
 
 NOMNOM can also register mod dependencies, incompatibilities, and add-ons to other Mods such as Voice Packs etc.
 
-# DISCLAIMER
+### DISCLAIMER
 
 NOMNOM is a COMMUNITY PROJECT, and is not affiliated with Shockfront Studios, the developer of Nuclear Option.
 
