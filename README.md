@@ -23,11 +23,10 @@ NOMNOM is a COMMUNITY PROJECT, and is not affiliated with Shockfront Studios, th
 - If Your Mod Release(s) contain multiple Release Assets, the first Release Asset on the top of the list must be the one intended for NOMNOM.
   - The Release Asset must contain all the content for the Mod to function, with exception of dependency or extension relationships, aka other Mod(s) that Your Mod(s) rely on to function. See [Schema Documentation](SCHEMA.md#how-to-contribute-mod-manifests) for additional details on this.
   - If your Mod consists of Multiple Files, upload the Release Asset as a Compressed Archive (e.g. zip,rar,7z)
-- your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc).
+- Your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc).
 - Your Mod(s) must work with BepInEx 5.
-
-If you would like to help improving NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-anything-else)
 
 ### How to Add your Nuclear Option Mod to NOMNOM
 - You must Understand and Comply with the [Mod Submission Acceptance Policy](README.md#mod-submission-acceptance-policy)
-- To create a new submission to register a new Mod on NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
+- To create a new submission for registering a new Mod on NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
+
