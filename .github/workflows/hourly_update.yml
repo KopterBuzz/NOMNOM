@@ -3,10 +3,10 @@
 name: Hourly Update
 
 # Controls when the workflow will run
-on:
-  schedule:
+# on:
+#  schedule:
     # Runs every hour at minute 0
-    - cron: '22 * * * *'
+#    - cron: '22 * * * *'
   # Optional: allows manual triggering from Actions tab
 
   # Allows you to run this workflow manually from the Actions tab
