@@ -4,25 +4,32 @@ NOMNOM is a self-updating package manifest registry that Mod Manager Application
 
 NOMNOM can also register mod dependencies, incompatibilities, and add-ons to other Mods such as Voice Packs etc.
 
+# DISCLAIMER
+
+NOMNOM is a COMMUNITY PROJECT, and is not affiliated with Shockfront Studios, the developer of Nuclear Option.
+
 ### Current known Mod Manager projects that use NOMNOM:
 
 - [NOMM - Nuclear Option Mod Manager](https://github.com/Combat787/NuclearOptionModManager/) - [DOWNLOAD](https://github.com/Combat787/NuclearOptionModManager/releases/latest)
 
-### How to Add your Nuclear Option Mod to NOMNOM
+### Mod Submission Acceptance Policy:
 
-To make NOMNOM aware of a new Mod, create an Issue on the [NOMNOM repository](https://github.com/KopterBuzz/NOModManifestTesting/issues) with the Mod's Details, or follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
+- If your Mod contains custom DLL files, those DLL files MUST BE OPEN SOURCED. Submission requests that do not comply will be denied.
 
-NOMNOM can self-update its registry, so it is able to automatically pick up new releases for Mods that it already knows about.
+- If your Mod is found to be containing any malicious code or otherwise making unwarranted changes to the users' computers, all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
 
-However, there are some basic requirements in order for NOMNOM to keep itself up to date in regards to the latest available versions of your Mod(s):
- - your Mod Release(s) must be available as GitHub Repository Release Package(s). However, please note this doesn't mean your mod must be open source, you can upload releases without having any source code in the repository.
- - the github repository for your mod should contain releases for ONLY ONE mod.
- - your Mod Release(s) should have one downloadable Asset per Release. If your mod consists of Multiple Files, upload the Release as a Compressed Archive (e.g. zip,rar,7z)
-     - if your release pages have multiple downloadable files, the first one on the list will be pulled in by NOMNOM.
-     - standalone dll and nobp files are also supported with no compression required.
- - your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc)
+- Your Mod Release(s) must be available as GitHub Repository Release Package(s).
+- The GitHub repository for your mod should contain releases for ONLY ONE mod. Do not put releases for multiple mods under one repository.
+- If Your Mod Release(s) countain multiple Release Assets, the first Release Asset on the top of the list must be the one intended for NOMNOM.
+  - The Release Asset must contain all the content for the Mod to function, with exception of dependency or extension relationships, aka other Mod(s) that Your Mod(s) rely on to function. See [Schema Documentation for additional details on this](SCHEMA.md#how-to-contribute-mod-manifests).
+  - If your mod consists of Multiple Files, upload the Release Asset as a Compressed Archive (e.g. zip,rar,7z)
+- your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc)
 
  This is not directly related to the above, but at the moment Mod Manager software that depends on NOMNOM expects the following criteria also:
  - your Mod(s) must work with BepInEx 5
 
 If you would like to help improving NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-anything-else)
+
+### How to Add your Nuclear Option Mod to NOMNOM
+- You must Understand and Comply with the [Mod Submission Acceptance Policy](README.md#mod-submission-acceptance-policy)
+- To create a new submission to register a new Mod on NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
