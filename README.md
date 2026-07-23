@@ -18,8 +18,8 @@ NOMNOM is a COMMUNITY PROJECT, and is not affiliated with Shockfront Studios, th
 
 - If your Mod is found to be containing any malicious code or otherwise making unwarranted changes to the users' computers, all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
 
-- Your Mod Release(s) must be available as GitHub Repository Release Package(s).
-- The GitHub repository for your mod should contain releases for ONLY ONE mod. Do not put releases for multiple mods under one repository.
+- In order for NOMNOM to automatically discover new Mod Releases for Registered Mods, they must be available as GitHub Repository Release Package. If you use a different delivery method, you must submit a Pull Request to get New Releases registered. Follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
+- GitHub Repositories for your Mods should contain releases for ONLY ONE mod per Repository. Do not put releases for multiple mods under one Repository.
 - If Your Mod Release(s) contain multiple Release Assets, the first Release Asset on the top of the list must be the one intended for NOMNOM.
   - The Release Asset must contain all the content for the Mod to function, with exception of dependency or extension relationships, aka other Mod(s) that Your Mod(s) rely on to function. See [Schema Documentation](SCHEMA.md#how-to-contribute-mod-manifests) for additional details on this.
   - If your mod consists of Multiple Files, upload the Release Asset as a Compressed Archive (e.g. zip,rar,7z)
