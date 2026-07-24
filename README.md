@@ -14,13 +14,21 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 
 ### Mod Submission Acceptance Policy:
 
+#### 1. Open-Source Mandate
 - If your Mod contains custom DLL or Executable files, those DLL or Executable files Must Be Open-Sourced. Submission requests that do not comply will be denied.
-  - Clarification: If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any Custom DLL or Executable files, there is no cause for concern.
+  - Clarifications:
+    - If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any Custom DLL or Executable files, there is no cause for concern.
+    - During periods of Retroactive Enforcement of the Mod Submission Acceptance Policy, Owners of any Mods that are found to be in breach of this clause will be contacted privately and asked to comply and will be given a reasonable Grace Period. Failing to take action to ensure compliance before the Grace Period's deadline expires will result in delisting the specific Mod(s) that breach this clause.
 
+#### 2. Zero Tolerance Clauses
+
+2.1
 - If your Mod is found to be containing any malicious code or otherwise making unwarranted changes to the users' computers, all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
 
-- If Custom DLL or Executable files in your Mod Release(s) are found to be inconsistent with the Source Code (e.g. containing additional code that is not present in the Available Source code for the Open-Sourced DLL), all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
+2.2
+- If Custom DLL or Executable files in your Mod Release(s) are found to be inconsistent with the Source Code (e.g. containing additional code that is not present in the Available Source code for the Open-Sourced DLL), and these inconsistencies are found to be breaching Zero Tolerance Clause 2.1, all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
 
+#### 3. Other Requirements
 - In order for NOMNOM to automatically discover new Mod Releases for Registered Mods, they must be available as GitHub Repository Release Package. If you use a different delivery method, you must submit a Pull Request to get New Releases registered. Follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
 - GitHub Repositories for your Mods should contain releases for ONLY ONE mod per Repository. Do not put releases for multiple mods under one Repository.
 - If Your Mod Release(s) contain multiple Release Assets, the first Release Asset on the top of the list must be the one intended for NOMNOM.
