@@ -1,0 +1,32 @@
+{
+  "id": "NOCobra",
+  "displayName": "The Cobra Button",
+  "description": "Adds a Cobra / AOA limiter button that disables your plane's G-Limiter, allowing extreme AOA maneuvers to be performed at high-speeds. Mod is not to be blamed for any missing wings. Works best when flying an Ifrit, but also works (with risk of wings flying off) in most other planes too.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Nuclear-PCVR/NuclearOption-CobraButton"
+    }
+  ],
+  "authors": [
+    "VR"
+  ],
+  "githubOwner": "Nuclear-PCVR",
+  "githubRepoName": "NuclearOption-CobraButton",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOCobra.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Nuclear-PCVR/NuclearOption-CobraButton/releases/download/Release/NOCobra.dll",
+      "hash": "sha256:f26f4b2da6f8ecfa0e5c383ee2ac26c7bb8cdf793e12446612d34521f3442418"
+    }
+  ]
+}
