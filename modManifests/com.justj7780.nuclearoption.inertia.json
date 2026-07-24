@@ -1,0 +1,38 @@
+{
+  "id": "com.justj7780.nuclearoption.inertia",
+  "displayName": "Inertia",
+  "description": "Allows you to customise the inertia in first person. Please use config managers menu to customise the settings.",
+  "tags": [
+    "utility",
+    "qol"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/JUSTJ7780/Inertia"
+    }
+  ],
+  "authors": [
+    "JUSTJ7780"
+  ],
+  "githubOwner": "JUSTJ7780",
+  "githubRepoName": "Inertia",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "INERTIA.dll",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/JUSTJ7780/Inertia/releases/download/1.1.1/INERTIA.dll",
+      "hash": "sha256:8dae466a674de9ee397cf5fb22605cdda4d4cfc839709466f9a6a47c2dec7d1c",
+      "dependencies": [
+        {
+          "id": "bepinex.configurationmanager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
