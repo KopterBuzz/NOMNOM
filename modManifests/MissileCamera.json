@@ -1,0 +1,33 @@
+{
+  "id": "MissileCamera",
+  "displayName": "Missile Camera",
+  "description": "BepInEx plugin that adds a live missile nose camera feed and tactical HUD overlay on the cockpit MFD Target view in Nuclear Option.",
+  "tags": [
+    "QoL",
+    "Flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/MissileCamera"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "githubOwner": "Mursisru",
+  "githubRepoName": "MissileCamera",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MissileCamera-v0.27.3.zip",
+      "version": "0.27.3",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera/releases/download/v0.27.3/MissileCamera-v0.27.3.zip",
+      "hash": "sha256:fcea230db508d3c55b467e9aa91e54b3a6f18f45d9ebf90b81339296bb4872e8",
+      "dependencies": []
+    }
+  ]
+}
