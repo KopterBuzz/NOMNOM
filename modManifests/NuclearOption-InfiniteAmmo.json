@@ -23,6 +23,15 @@
   "artifacts": [
     {
       "fileName": "NuclearOption-InfiniteAmmo.dll",
+      "version": "1.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/cosistra/nuclear-option-infinite-ammo/releases/download/v1.3.0/NuclearOption-InfiniteAmmo.dll",
+      "hash": "sha256:a2587d9a8b4b637e482f13ef0a4a91acfc222bc73ba7b18f1c8c12cce556d4bf"
+    },
+    {
+      "fileName": "NuclearOption-InfiniteAmmo.dll",
       "version": "1.2.0",
       "category": "release",
       "type": "plugin",
