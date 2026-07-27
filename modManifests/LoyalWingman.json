@@ -22,7 +22,7 @@
       "type": "plugin",
       "gameVersion": "0.34",
       "downloadUrl": "https://github.com/NOLoyalWingman/LoyalWingman/releases/download/v0.0.2/LoyalWingman.dll",
-      "hash": "sha256:91c9eefa32fe784a9adc852c27ba8c525f3dcd9d611d669aaa0070d88c4c5c6f",
+      "hash": "sha256:d4ff9f70ee2c73433f094a0a8733fc48865dd5b94ba82d00bb795b35d3f56d54",
       "dependencies": [
         {
           "id": "com.nikkorap.blueprinter",
