@@ -1,7 +1,7 @@
 {
   "id": "LoyalWingman",
   "displayName": "Loyal Wingman",
-  "description": "Initial stable release of the Loyal Wingman plugin.",
+  "description": "Nuclear Option 0.34 compatibility prerelease of the Loyal Wingman plugin.",
   "authors": [
     "Loyal Wingman contributors"
   ],
@@ -17,12 +17,12 @@
   "artifacts": [
     {
       "fileName": "LoyalWingman.dll",
-      "version": "0.0.1",
-      "category": "release",
+      "version": "0.0.2",
+      "category": "preRelease",
       "type": "plugin",
-      "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/NOLoyalWingman/LoyalWingman/releases/download/v0.0.1/LoyalWingman.dll",
-      "hash": "sha256:30046e29496df9d37b6d396c908bdd862c107dbab34c4aeb5f6c6c619af47363",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/NOLoyalWingman/LoyalWingman/releases/download/v0.0.2/LoyalWingman.dll",
+      "hash": "sha256:91c9eefa32fe784a9adc852c27ba8c525f3dcd9d611d669aaa0070d88c4c5c6f",
       "dependencies": [
         {
           "id": "com.nikkorap.blueprinter",
