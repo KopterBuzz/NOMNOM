@@ -22,6 +22,21 @@
   "artifacts": [
     {
       "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.68.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.68.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:65685db9875255c32f9c6402414447ce21ef61fb4f0e8f5c925fa22b7609f5bb",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
       "version": "0.58.0",
       "category": "release",
       "type": "plugin",
