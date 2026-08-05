@@ -37,6 +37,10 @@
         {
           "id": "BepInEx.ConfigurationManager",
           "version": "18.4.1"
+        },
+        {
+          "id": "InputFramework",
+          "version": "0.0.2"
         }
       ]
     }

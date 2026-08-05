@@ -1,0 +1,33 @@
+{
+  "id": "InputFramework",
+  "displayName": "Extra Input Framework",
+  "description": "A framework / API to provide extra input registration for other mods to use.",
+  "tags": [
+    "Utility",
+    "Framework",
+    "API"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Assassin1076/NuclearOptionInputFramework"
+    }
+  ],
+  "authors": [
+    "Assassin1076"
+  ],
+  "githubOwner": "Assassin1076",
+  "githubRepoName": "NuclearOptionInputFramework",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Extra.Input.Framework.Mod.v0.0.2.zip",
+      "version": "0.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Assassin1076/NuclearOptionInputFramework/releases/download/v0.0.2/Extra.Input.Framework.Mod.v0.0.2.zip",
+      "hash": "sha256:405a157838cba3ae1b516e114c42f4bd38959cdbc498bb5d166264928a6b7c26"
+    }
+  ]
+}
