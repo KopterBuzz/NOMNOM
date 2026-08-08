@@ -1,0 +1,37 @@
+{
+  "id": "neutral.sline",
+  "displayName": "Sline",
+  "description": "Multi-color lines that allows you to see the intended target of all missile and units in real time",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/sline/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "sline",
+  "autoUpdateArtifacts": "True",
+  "dependencies": [
+    {
+      "id": "InputFramework",
+      "version": "0.0.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "SLine_v.1.6.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.6/SLine_v.1.6.0.zip",
+      "hash": "sha256:f79781c3dbfb39e748e0ede38ea97132cc1d8c9513c78468667304d816550e14",
+      "gameVersion": "0.34.1",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ]
+}

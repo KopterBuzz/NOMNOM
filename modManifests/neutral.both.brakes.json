@@ -1,0 +1,37 @@
+{
+  "id": "neutral.both.brakes",
+  "displayName": "BothBrakesMod",
+  "description": "Client-sided keybind to TOGGLE both or either air/wheel brakes",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/both-brakes-control/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "both-brakes-control",
+  "autoUpdateArtifacts": "True",
+  "dependencies": [
+    {
+      "id": "InputFramework",
+      "version": "0.0.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "BothBrakesMod_v.1.3.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/both-brakes-control/releases/download/1.3/BothBrakesMod_v.1.3.0.zip",
+      "hash": "sha256:e0e23e60ebe95a981cffe9095f502c8ea659ee45b0e3131b679e73124a80314a",
+      "gameVersion": "0.34.1",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ]
+}

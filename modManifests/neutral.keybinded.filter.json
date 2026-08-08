@@ -1,0 +1,37 @@
+{
+  "id": "neutral.keybinded.filter",
+  "displayName": "Keybinded Filter",
+  "description": "Switch Filter Preset with Hotkey, reducing cognitive load in the heat of combat.",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/keybinded-filter-preset/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "keybinded-filter-preset",
+  "autoUpdateArtifacts": "True",
+  "dependencies": [
+    {
+      "id": "InputFramework",
+      "version": "0.0.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "KeybindedFilterMod_v.1.1.1.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/keybinded-filter-preset/releases/download/1.1.1/KeybindedFilterMod_v.1.1.1.zip",
+      "hash": "sha256:5e44b0fda861f18bc4a223354f73fb86331a8b370e758f2823420bc77c16773a",
+      "gameVersion": "0.34.1",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ]
+}

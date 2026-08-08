@@ -1,0 +1,32 @@
+{
+  "id": "neutral.alarmsystem",
+  "displayName": "Alarm System",
+  "description": "Functional air raid and ship alarm sirens",
+  "tags": [
+    "Audio"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/alarm-system/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "alarm-system",
+  "autoUpdateArtifacts": "True",
+  "dependencies": [],
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "alarm-system_v.1.0.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/alarm-system/releases/download/1.0.0/alarm-system_v.1.0.0.zip",
+      "hash": "sha256:c10c411b522974cd18244bdf910629953e73f801c03d9f504a94169f4af77938",
+      "gameVersion": "0.34.1",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ]
+}
