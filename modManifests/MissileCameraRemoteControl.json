@@ -1,0 +1,38 @@
+{
+  "id": "MissileCameraRemoteControl",
+  "displayName": "Missile Camera: Remote Control",
+  "description": "Remote-control DL/SATCOM munitions via MissileCamera fullscreen: aim, throttle, afterburner, and formation follow.",
+  "tags": [
+    "QoL",
+    "Weapons"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/MissileCamera-Remote-Control"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "githubOwner": "Mursisru",
+  "githubRepoName": "MissileCamera-Remote-Control",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MissileCameraRC-2-0-0.zip",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera-Remote-Control/releases/download/2.0.0/MissileCameraRC-2-0-0.zip",
+      "hash": "sha256:a6ae7d5d9a84c4e17070043ce213d682b79abd4d47c9697c4e1820381b9ac08e",
+      "dependencies": [
+        {
+          "id": "MissileCamera",
+          "version": "2.0.0"
+        }
+      ]
+    }
+  ]
+}
