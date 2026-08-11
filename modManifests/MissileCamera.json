@@ -1,0 +1,32 @@
+{
+  "id": "MissileCamera",
+  "displayName": "Missile Camera",
+  "description": "Live missile seeker feed on MFD and fullscreen gunship HUD for Nuclear Option (BepInEx 5).",
+  "tags": [
+    "QoL",
+    "Camera"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/MissileCamera"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "githubOwner": "Mursisru",
+  "githubRepoName": "MissileCamera",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MissileCamera-2-0-0.zip",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera/releases/download/v2.0.0/MissileCamera-2-0-0.zip",
+      "hash": "sha256:0ece977a524ed76bf99b79704e661fdf9f3dea74cddcaafa9e558d36b0640c56"
+    }
+  ]
+}
