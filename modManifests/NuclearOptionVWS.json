@@ -21,50 +21,13 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "NuclearOptionVWS.dll",
+      "fileName": "NuclearOption-VWS.zip",
       "version": "1.1.3",
-      "category": "release",
+      "category": "Release",
       "type": "plugin",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.1.3/NuclearOptionVWS.dll",
       "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
-    },
-    {
-      "fileName": "NuclearOption-VWS.zip",
-      "version": "1.1.2",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.1.2/NuclearOption-VWS.zip",
-      "hash": "sha256:61a4c1b96f1dddd41adc315d55e319f277ca2f2678322c74d82a0eda8e269d14"
-    },
-    {
-      "fileName": "NuclearOption-VWS.zip",
-      "version": "1.1.1",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.1.1/NuclearOption-VWS.zip",
-      "hash": "sha256:769e8c774ef1530c1adb8807889aa14f07d2aaffa575f58f5e27c0472052d04e"
-    },
-    {
-      "fileName": "NuclearOption-VWS.zip",
-      "version": "1.1.0",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.34.1",
-      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.1.0/NuclearOption-VWS.zip",
-      "hash": "sha256:1a8f4bff02d71616259b91627a274a980d674117750341f44da69ce389fe9868"
-    },
-    {
-      "fileName": "NuclearOption-VWS.zip",
-      "version": "1.0.0",
-      "category": "Release",
-      "type": "plugin",
-      "gameVersion": "0.34.1",
-      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.0.0/NuclearOption-VWS.zip",
-      "hash": "sha256:41c19bc61c8fcfcbe50be7f7e6e449366884bd89f175812de6a172e6eb7330ac"
     }
-  ],
-  "downloadCount": 176
+  ]
 }
