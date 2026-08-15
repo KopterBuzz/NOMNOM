@@ -67,21 +67,8 @@ function Validate-RelationId
 function Validate-IdMatchesFileName
 {
     Param($id)
-    $idMatchesFilename = ((get-item $Path).Name -replace ".json","") -eq $id
-    if (!$idMatchesFilename){
-        return $false
-    }
-    return $true
-}
-
-function Validate-IdAlreadyExists
-{
-    Param($id)
-    $check = $ModManifestHashTable["$id"]
-    if ($check){
-        return $false
-    }
-    return $true
+    $expectedId = [IO.Path]::GetFileNameWithoutExtension($Path)
+    return $expectedId -ceq $id
 }
 
 function Validate-Relation
@@ -147,13 +134,12 @@ try
     Write-Host "Validating $($parsedMod.id)..."
     #$parsedMod
 
-    Write-Host "Validating Id matches file name: $($parsedMod.id) $((get-item $Path).Name): $(Validate-IdMatchesFileName -id $parsedMod.id)"
-    $isIdUnique = Validate-IdAlreadyExists -id $parsedMod.Id
-    Write-Host "Validating Id is Unique: $($parsedMod.id): $isIdUnique"
-    if (!$isIdUnique)
+    $fileName = (Get-Item $Path).Name
+    $idMatchesFileName = Validate-IdMatchesFileName -id $parsedMod.id
+    Write-Host "Validating Id matches file name: $($parsedMod.id) $fileName`: $idMatchesFileName"
+    if (!$idMatchesFileName)
     {
-        Write-Host $("Id $($parsedMod.id) is NOT UNIQUE!")
-        Exit 1
+        LogError("Manifest Id '$($parsedMod.id)' must match file name '$fileName'.")
     }
     Write-Host "Validating urls $($parsedMod.urls): $(Validate-urls -urls $parsedMod.urls)"
     Write-Host "Validating dependencies..."
