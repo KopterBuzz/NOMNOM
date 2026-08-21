@@ -1,0 +1,34 @@
+{
+  "id": "byt0rpilot.MissileScreen",
+  "displayName": "Missile Screen",
+  "description": "A panel in the MFD that shows the camera feed of any active missile.",
+  "tags" : [
+    "mod",
+    "QoL"
+  ],
+  "urls" : [
+    {
+      "name" : "info",
+      "url": "https://github.com/the-cat-d/MissileScreen"
+    }
+  ],
+  "authors": [
+    "byt[0]rpilot"
+  ],
+  "isClientOrServer:" : "Client",
+  "githubOwner": "the-cat-d",
+  "githubRepoName": "MissileScreen",
+  "autoUpdateArtifacts": "True",
+  "artifacts" : [
+    {
+      "type" : "plugin",
+      "fileName" : "MissileScreen-v1.2.0.dll ",
+      "downloadUrl" : "https://github.com/the-cat-d/MissileScreen/releases/download/1.2.0/MissileScreen-v1.2.0.dll",
+      "gameVersion": "0.34",
+      "version" : "1.2.0",
+      "category" : "release",
+      "hash" : "sha256:6bef5119ddb7d4530fde3ed6b2ef3f69195536393ec09b2ecdd0b1904f38245b"
+    }
+    
+  ]
+}
