@@ -78,10 +78,16 @@ function Validate-IdAlreadyExists
 {
     Param($id)
     $check = $ModManifestHashTable["$id"]
-    if ($check){
-        return $false
+    if (!$check){
+        return $true
     }
-    return $true
+    # The compiled catalog already contains registered mods. An in-place
+    # update of that mod's source file is not a duplicate id.
+    $sourceId = (get-item $Path).Name -replace ".json",""
+    if ($sourceId -eq $id) {
+        return $true
+    }
+    return $false
 }
 
 function Validate-Relation
