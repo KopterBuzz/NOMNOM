@@ -1,0 +1,35 @@
+{
+  "id": "NOStatsLogger",
+  "displayName": "NO Stats Logger",
+  "description": "Tracks flight statistics, air/ground kills, landings, and ejections. Features a detailed statistics UI in the main menu and saves flight logs to CSV.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/PWFoox/NOStatsLogger"
+    }
+  ],
+  "authors": [
+    "PWFoox"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "PWFoox",
+  "githubRepoName": "NOStatsLogger",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "NOStatsLogger.7z",
+      "version": "0.5",
+      "gameVersion": "0.33",
+      "category": "Release",
+      "downloadUrl": "https://github.com/PWFoox/NOStatsLogger/releases/download/v0.5/NOStatsLogger.7z",
+      "hash": "sha256:8f31da749308d95eaff892f05ea13645280d8c3b188be0b3d035c75fccd4ee75",
+      "dependencies": [],
+      "incompatibilities": []
+    }
+  ]
+}
