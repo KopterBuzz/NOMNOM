@@ -1,0 +1,35 @@
+{
+  "id": "NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails",
+  "displayName": "Simple Missile & Bomb Tracker + Tac Map Trails",
+  "description": "Shows missile and bomb flight paths, hits, interceptions, and misses on the tactical map and cockpit radar.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/HillMangYo/NuclearOption-_NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails"
+    }
+  ],
+  "authors": [
+    "HillMangYo"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "HillMangYo",
+  "githubRepoName": "NuclearOption-_NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails-v1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/HillMangYo/NuclearOption-_NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails/releases/download/1.0.0/NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails-v1.0.0.zip",
+      "hash": "sha256:7dcd619b189d5643f81bb5a3cc0b8f706760610c37e3e36e20eea000d2c2faec",
+      "dependencies": []
+    }
+  ]
+}
