@@ -1,0 +1,34 @@
+{
+  "id": "NuclearOption-Target-Group-Recall-and-Missile-Defense",
+  "displayName": "Target Group Recall and Missile Defense",
+  "description": "Saves and recalls target groups, or quickly targets all detected incoming missiles.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/HillMangYo/NuclearOption-Target-Group-Recall-and-Missile-Defense"
+    }
+  ],
+  "authors": [
+    "HillMangYo"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "HillMangYo",
+  "githubRepoName": "NuclearOption-Target-Group-Recall-and-Missile-Defense",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-Target-Group-Recall-and-Missile-Defense-v1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/HillMangYo/NuclearOption-Target-Group-Recall-and-Missile-Defense/releases/download/1.0.0/NuclearOption-Target-Group-Recall-and-Missile-Defense-v1.0.0.zip",
+      "hash": "sha256:34568c1d11a4552a9a25105b3e1ae444cb22239e3caeb3c9804b8896c6590c40",
+      "dependencies": []
+    }
+  ]
+}
