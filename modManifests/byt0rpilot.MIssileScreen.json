@@ -1,7 +1,7 @@
 {
   "id": "byt0rpilot.MissileScreen",
   "displayName": "Missile Screen",
-  "description": "A panel in the MFD that shows the camera feed of any active missile.",
+  "description": "MFD panel that shows the camera feed of active missiles.",
   "tags" : [
     "mod",
     "QoL"
@@ -27,7 +27,7 @@
       "gameVersion": "0.34",
       "version" : "1.2.0",
       "category" : "release",
-      "hash" : "sha256:6bef5119ddb7d4530fde3ed6b2ef3f69195536393ec09b2ecdd0b1904f38245b"
+      "hash" : "sha256:6dee4b2501f10dc0339f4e3aa577341c5bb12aebe858a173c1f5333984949f94"
     }
     
   ]
