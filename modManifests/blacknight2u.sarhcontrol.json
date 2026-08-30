@@ -25,6 +25,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "SARHControl-v0.5.2.zip",
+      "version": "0.5.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/blacknight2u/NuclearOption-RadarMissileControl/releases/download/v0.5.2/SARHControl-v0.5.2.zip",
+      "hash": "sha256:24215328d5b8a41542fe877bd081e5689be41017fa5183bbe7536ec8de30ddf6"
+    },
+    {
       "fileName": "SARHControl-v0.5.1.zip",
       "version": "0.5.1",
       "category": "release",

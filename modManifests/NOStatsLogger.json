@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NOStatsLogger.zip",
+      "version": "0.6.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/PWFoox/NOStatsLogger/releases/download/v0.6.1/NOStatsLogger.zip",
+      "hash": "sha256:27515657b74fc94fc38f4409621dee23006fe4cdf277fe65b97c26a2c583e5e1"
+    },
+    {
       "type": "plugin",
       "fileName": "NOStatsLogger.7z",
       "version": "0.5",
@@ -31,5 +40,6 @@
       "dependencies": [],
       "incompatibilities": []
     }
-  ]
+  ],
+  "downloadCount": 6
 }
