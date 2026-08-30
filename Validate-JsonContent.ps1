@@ -1,4 +1,4 @@
-Param($Path,$ModManifestHashTable)
+Param($Path,$ModManifestHashTable,[switch]$AllowExistingId)
  
 $errorString = $null
 if (!$(Test-Path $Path))
@@ -148,8 +148,8 @@ try
     #$parsedMod
 
     Write-Host "Validating Id matches file name: $($parsedMod.id) $((get-item $Path).Name): $(Validate-IdMatchesFileName -id $parsedMod.id)"
-    $isIdUnique = Validate-IdAlreadyExists -id $parsedMod.Id
-    Write-Host "Validating Id is Unique: $($parsedMod.id): $isIdUnique"
+    $isIdUnique = $AllowExistingId -or (Validate-IdAlreadyExists -id $parsedMod.Id)
+    Write-Host "Validating Id is Unique or an Existing Update: $($parsedMod.id): $isIdUnique"
     if (!$isIdUnique)
     {
         Write-Host $("Id $($parsedMod.id) is NOT UNIQUE!")

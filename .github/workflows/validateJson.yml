@@ -30,11 +30,13 @@ jobs:
         run: |
           # The output is a space-separated string; we split it into an array
           $files = "${{ steps.changed-files.outputs.all_changed_files }}" -split " "
+          $addedFiles = "${{ steps.changed-files.outputs.added_files }}" -split " "
           $currentManifest = (get-content ".\manifest\manifest.json" | ConvertFrom-Json) | Group-Object id -AsHashTable
           foreach ($file in $files) {
               Write-Host "Processing file: $file"
+              $allowExistingId = $file -notin $addedFiles
               
               # If your script is a PowerShell script (.ps1):
               .\Validate-JsonSchema.ps1 -JsonPath "$file" -SchemaPath .\ValidationSchema.json
-              .\Validate-JsonContent.ps1 -Path "$file" -ModManifestHashTable $currentManifest
+              .\Validate-JsonContent.ps1 -Path "$file" -ModManifestHashTable $currentManifest -AllowExistingId:$allowExistingId
           }
