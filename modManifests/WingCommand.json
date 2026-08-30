@@ -23,6 +23,24 @@
   "artifacts": [
     {
       "fileName": "WingCommand.dll",
+      "version": "0.9.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/GrabowMar/NuclearOption-WingCommand/releases/download/v0.9.1.1/WingCommand.dll",
+      "hash": "sha256:e3ac54778e7096f3d888df5359e20677d77c9c8a36383e6fa56fd7e20efed9e9"
+    },
+    {
+      "fileName": "WingCommand.dll",
+      "version": "0.9.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/GrabowMar/NuclearOption-WingCommand/releases/download/v0.9.1/WingCommand.dll",
+      "hash": "sha256:b56b41e3d3927d81adc31a7a8b6afb88fd31695443e0b5437190a77f731dbcfe"
+    },
+    {
+      "fileName": "WingCommand.dll",
       "version": "0.9.0",
       "category": "release",
       "type": "plugin",
@@ -40,5 +58,5 @@
       "hash": "sha256:a5ca9f18d2ef36a3729b4a24eafd0d1adf56ba7d8495cbcb929a3413caca9671"
     }
   ],
-  "downloadCount": 5
+  "downloadCount": 43
 }
