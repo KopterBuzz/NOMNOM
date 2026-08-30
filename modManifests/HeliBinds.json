@@ -1,0 +1,33 @@
+{
+  "id": "HeliBinds",
+  "displayName": "HeliBinds",
+  "description": "Separate flight controls for rotorcraft. Bind pitch, roll, yaw, collective and the brake differently on helicopters than on fixed-wing, and the game switches between them by itself.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/CarloApri/NO-HeliBinds/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "CarloApri"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "CarloApri",
+  "githubRepoName": "NO-HeliBinds",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "HeliBinds.dll",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/CarloApri/NO-HeliBinds/releases/download/2.0.0/HeliBinds.dll",
+      "hash": "sha256:9a052051a0d563ea1b76fefa60d7ef51cf0721e0cafc58ec189832df1c867b54"
+    }
+  ]
+}
