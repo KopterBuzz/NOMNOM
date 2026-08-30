@@ -1,0 +1,42 @@
+{
+  "id": "ThirdPersonHUDPlusStandalone",
+  "displayName": "Third Person HUD - Standalone",
+  "description": "Shows the normal flight HUD in Orbit and Chase cameras while following the player's aircraft.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/HillMangYo/NuclearOption-Third-Person-HUD-Standalone"
+    }
+  ],
+  "authors": [
+    "George Pied (yessidor)",
+    "HillMangYo"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "HillMangYo",
+  "githubRepoName": "NuclearOption-Third-Person-HUD-Standalone",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-Third-Person-HUD-Standalone-v1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/HillMangYo/NuclearOption-Third-Person-HUD-Standalone/releases/download/1.0.0/NuclearOption-Third-Person-HUD-Standalone-v1.0.0.zip",
+      "hash": "sha256:0ce0eb8cae2b764d3efcea6c60376c783f2b25b05e99a15d50aa5e1de6494a10",
+      "dependencies": [],
+      "incompatibilities": [
+        {
+          "id": "NO_Tactitools",
+          "version": "0.7.2"
+        }
+      ]
+    }
+  ]
+}
