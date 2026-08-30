@@ -1,0 +1,40 @@
+{
+  "id": "KestrelCompatibility",
+  "displayName": "Kestrel Compatibility Fix",
+  "description": "Temporary compatibility fix for the FQ-106 Kestrel on Nuclear Option 0.34.",
+  "tags": [
+    "mod",
+    "QoL",
+    "aircraft"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/HillMangYo/Kestrel-0.34.2-temporary-patch"
+    }
+  ],
+  "authors": [
+    "HillMangYo"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "HillMangYo",
+  "githubRepoName": "Kestrel-0.34.2-temporary-patch",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-Kestrel-Compatibility-v0.1.6.zip",
+      "version": "0.1.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/HillMangYo/Kestrel-0.34.2-temporary-patch/releases/download/0.1.6/NuclearOption-Kestrel-Compatibility-v0.1.6.zip",
+      "hash": "sha256:688b66a9ce78c9c10289c0f2c4507cac2833105f1afa4252037faecea8786dc1",
+      "dependencies": [
+        {
+          "id": "blueprinter.kestrel",
+          "version": "2.2.0"
+        }
+      ]
+    }
+  ]
+}
