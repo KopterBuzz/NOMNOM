@@ -1,0 +1,37 @@
+{
+  "id": "NOImmersiveRearmer",
+  "displayName": "NO Immersive Rearmer",
+  "description": "Replaces the instant rearming of aircraft and helicopters with a realistic, gradual process. Takes the mass of each round into account and loads ammunition in batches: heavy weapons 1 by 1, light rockets in batches of 4, and aircraft cannons in 20% chunks.",
+  "tags": [
+    "QoL",
+    "immersion"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/PWFoox/NOImmersiveRearmer"
+    }
+  ],
+  "authors": [
+    "PWFoox"
+  ],
+  "isClientOrServer": "Server",
+  "githubOwner": "PWFoox",
+  "githubRepoName": "NOImmersiveRearmer",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "NOImmersiveRearmer.zip",
+      "version": "1.3",
+      "gameVersion": "0.34.2",
+      "category": "Release",
+      "downloadUrl": "https://github.com/PWFoox/NOImmersiveRearmer/releases/download/v1.3/NOImmersiveRearmer.zip",
+      "hash": "sha256:9afab38f108cae0ce4628babfed453ca6b03087e95baaba051925c7b38fda570",
+      "dependencies": [
+        "BepInEx"
+      ],
+      "incompatibilities": []
+    }
+  ]
+}
