@@ -1,0 +1,44 @@
+{
+  "id": "blacknight2u.f117a.nighthawk",
+  "displayName": "F-117A Nighthawk",
+  "description": "Adds a rank 4 F-117A stealth strike aircraft with dynamic radar signature, passive targeting, a burst-limited onboard jammer, default-mission requisition support, detailed damage, and Nighthawk Black and Farewell Flag liveries. Includes expanded internal precision-strike, anti-radar, anti-ship, and defensive air-to-air loadouts. Automatically defers production management to Equalizer when active. Requires Blueprinter and matching versions in multiplayer.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "stealth",
+    "multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/blacknight2u/nuclear-option-f117"
+    }
+  ],
+  "authors": [
+    "blacknight2u"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/main/Store/F117A-Nighthawk-NOMM.png",
+  "imageHash": "952aa4b8999ca8f427ddf9fd66522dcd462430cdee0773c892f5025099c276bf",
+  "isClientOrServer": "Both",
+  "githubOwner": "blacknight2u",
+  "githubRepoName": "nuclear-option-f117",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "F-117A-Nighthawk-v0.4.88.zip",
+      "version": "0.4.88",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/blacknight2u/nuclear-option-f117/releases/download/v0.4.88/F-117A-Nighthawk-v0.4.88.zip",
+      "hash": "sha256:0f71e0342fba4a6a765222a673fdf0e2fbbd3d1bd0197d96fa0f6dcce6c32312",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.21"
+        }
+      ]
+    }
+  ]
+}
