@@ -1,0 +1,46 @@
+{
+  "id": "com.mursisru.gpm550x",
+  "displayName": "GPM-550X",
+  "description": "Quasi-ballistic extended-range strike missile for Nuclear Option. INS/optical guidance, 550 kg HE, 877.5 kg launch mass, ~100 km from rest. AShM-300 hardpoint variants (all quantities) plus GPO-500-only 1x on Vortex, Ifrit, and Revoker. Requires Blueprinter.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter",
+    "missile"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/GPM-550X/blob/main/README.md"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Mursisru/GPM-550X/releases"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Mursisru",
+  "githubRepoName": "GPM-550X",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Mursisru_GPM550X_v1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/GPM-550X/releases/download/1.0.0/Mursisru_GPM550X_v1.0.0.zip",
+      "hash": "sha256:f1f1f77f640b6f7729bd31c16ef244372b4cd88de033dc3f550c3db289a8b6dc",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.21"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 0
+}
