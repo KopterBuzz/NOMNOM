@@ -28,9 +28,7 @@
       "category": "Release",
       "downloadUrl": "https://github.com/PWFoox/NOImmersiveRearmer/releases/download/v1.3/NOImmersiveRearmer.zip",
       "hash": "sha256:9afab38f108cae0ce4628babfed453ca6b03087e95baaba051925c7b38fda570",
-      "dependencies": [
-        "BepInEx"
-      ],
+      "dependencies": [],
       "incompatibilities": []
     }
   ]
