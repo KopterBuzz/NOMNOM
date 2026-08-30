@@ -1,0 +1,44 @@
+{
+  "id": "blacknight2u.f117a.nighthawk",
+  "displayName": "F-117A Nighthawk",
+  "description": "Radar couldn't see the aircraft. It saw the bird perched on it. The legendary F-117A Nighthawk brings extreme stealth to Nuclear Option—built to penetrate the heaviest air defenses, strike unseen, and vanish before the enemy can respond. Available in Nighthawk Black and Farewell Flag liveries.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "stealth",
+    "multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/blacknight2u/nuclear-option-f117"
+    }
+  ],
+  "authors": [
+    "blacknight2u"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/main/Store/F117A-Nighthawk-NOMM.png",
+  "imageHash": "952aa4b8999ca8f427ddf9fd66522dcd462430cdee0773c892f5025099c276bf",
+  "isClientOrServer": "Both",
+  "githubOwner": "blacknight2u",
+  "githubRepoName": "nuclear-option-f117",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "F-117A-Nighthawk-v0.4.90.zip",
+      "version": "0.4.90",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/blacknight2u/nuclear-option-f117/releases/download/v0.4.90/F-117A-Nighthawk-v0.4.90.zip",
+      "hash": "sha256:9947641c9be635be081b2c6b2dc54beaf44c364ddaa2725827475c0475d7a1b0",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.21"
+        }
+      ]
+    }
+  ]
+}
