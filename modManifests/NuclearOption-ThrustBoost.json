@@ -1,0 +1,35 @@
+{
+  "id": "NuclearOption-ThrustBoost",
+  "displayName": "Thrust Boost",
+  "description": "Adds an adjustable aircraft thrust multiplier for single-player missions.",
+  "tags": [
+    "mod",
+    "QoL",
+    "aircraft"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/HillMangYo/NuclearOption-ThrustBoost"
+    }
+  ],
+  "authors": [
+    "HillMangYo"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "HillMangYo",
+  "githubRepoName": "NuclearOption-ThrustBoost",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-ThrustBoost-v1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/HillMangYo/NuclearOption-ThrustBoost/releases/download/1.1.0/NuclearOption-ThrustBoost-v1.1.0.zip",
+      "hash": "sha256:0f3dd416f1f21b342ac55a8ab62b10516063c844f1eed2c694c65be19cd7fb37",
+      "dependencies": []
+    }
+  ]
+}
