@@ -1,0 +1,43 @@
+{
+  "id": "aryx.oa27",
+  "displayName": "Aryx-OA27-Cavalier",
+  "description": "Adds a rank 0 attack and counterinsurgency aircraft inspired by the Super Tucano and P-51.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx-OA-27-Cavalier/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/shipyard"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx-OA-27-Cavalier",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Aryx.OA-27.Cavalier_1.0.0.nobp",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-OA-27-Cavalier/releases/download/1.0.0/Aryx.OA-27.Cavalier_1.0.0.nobp",
+      "hash": "sha256:3986168896da5e76d57d9e681d9de12b161e33e6a41fa38ffb966d91fa44824f",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    }
+  ],
+  "downloadCount": 374
+}
