@@ -23,6 +23,15 @@
   "isClientOrServer": "Both",
   "artifacts": [
     {
+      "type": "plugin",
+      "fileName": "Oritasy_0.0.9.211.zip",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/0.0.9.211/Oritasy_0.0.9.211.zip",
+      "hash": "sha256:b1f0aafc49f4ec56631bc59d61e5c73dc2eb752a28278cd0a0d190486f2991d2",
+      "gameVersion": "0.34.2",
+      "version": "0.0.9.211",
+      "category": "release"
+    },
+    {
       "fileName": "Oritasy_0.0.9.207C.zip",
       "version": "0.0.9.207",
       "category": "release",
@@ -49,6 +58,5 @@
       "version": "0.0.9.197",
       "category": "release"
     }
-  ],
-  "downloadCount": 323
+  ]
 }
