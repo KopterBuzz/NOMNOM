@@ -25,7 +25,7 @@
       "version": "0.6.1",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.33",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/PWFoox/NOStatsLogger/releases/download/v0.6.1/NOStatsLogger.zip",
       "hash": "sha256:27515657b74fc94fc38f4409621dee23006fe4cdf277fe65b97c26a2c583e5e1"
     },
@@ -41,5 +41,5 @@
       "incompatibilities": []
     }
   ],
-  "downloadCount": 12
+  "downloadCount": 18
 }

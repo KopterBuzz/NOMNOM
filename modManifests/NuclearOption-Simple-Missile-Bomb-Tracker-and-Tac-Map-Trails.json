@@ -22,6 +22,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails-v1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/HillMangYo/NuclearOption-_NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails/releases/download/1.0.1/NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails-v1.0.1.zip",
+      "hash": "sha256:360fcc9718cee4a552ce2f4840bd2c295ca00cb5e8a716063e0500a1177568f7"
+    },
+    {
       "fileName": "NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails-v1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -32,5 +41,5 @@
       "dependencies": []
     }
   ],
-  "downloadCount": 72
+  "downloadCount": 87
 }

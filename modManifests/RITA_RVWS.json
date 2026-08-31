@@ -28,7 +28,7 @@
       "version": "2.0.2",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/muhimin01/no-rita-rvws/releases/download/2.0.2/RITA_RVWS_2.0.2.zip",
       "hash": "sha256:fcf20c5e25dcac931545de9191c7ac8c0d887a1b5251bfd970bfbfca78837cb6",
       "incompatibilities": [
@@ -61,8 +61,8 @@
       ]
     }
   ],
-  "downloadCount": 2131,
-  "imageUrl": "https://github.com/muhimin01/no-rita-rvws/blob/main/RITA_icon.webp",
-  "imageHash": "6a7ee386330d3216a916e5231b24fce585c1eb3310a89ea26724957a14e74dc7",
-  "isClientOrServer": "Client"
+  "downloadCount": 2134,
+  "isClientOrServer": "Client",
+  "imageUrl": "https://raw.githubusercontent.com/muhimin01/no-rita-rvws/refs/heads/main/RITA_icon.webp",
+  "imageHash": "8856b86dd147008bf6589ceee72bcb092c64e61db742d6a1b671ecdd7d0ef2eb"
 }

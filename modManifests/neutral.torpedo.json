@@ -19,6 +19,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "neutral.torpedo_v1.1.2.zip",
+      "version": "1.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/SonPamungkas/torpedo/releases/download/1.1.2/neutral.torpedo_v1.1.2.zip",
+      "hash": "sha256:baf37e5a9e425cfe7af64e03272c4932dbfa1acdf396a7613cc66d9698626d6a"
+    },
+    {
       "type": "plugin",
       "fileName": "neutral.torpedo_v1.1.1.zip",
       "downloadUrl": "https://github.com/SonPamungkas/torpedo/releases/download/1.1.1/neutral.torpedo_v1.1.1.zip",
@@ -28,5 +37,5 @@
       "category": "Release"
     }
   ],
-  "downloadCount": 5162
+  "downloadCount": 5192
 }

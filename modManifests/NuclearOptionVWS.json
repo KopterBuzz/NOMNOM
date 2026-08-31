@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Betty.zip",
+      "version": "1.2.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.5/Betty.zip",
+      "hash": "sha256:142fa6a80d62c047b7e8096863492702f354a0d381ebe713e0c5d0ae63046b68"
+    },
+    {
       "fileName": "NuclearOptionVWS.dll",
       "version": "1.2.4",
       "category": "release",
@@ -75,5 +84,5 @@
       "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
     }
   ],
-  "downloadCount": 3623
+  "downloadCount": 3683
 }
