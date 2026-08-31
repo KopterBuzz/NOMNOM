@@ -1,0 +1,34 @@
+{
+  "id": "ChaseCamPlus",
+  "displayName": "ChaseCamPlus",
+  "description": "Makes the chase camera usable on mouse and keyboard: a virtual joystick in third person, hold-to-orbit free look, a cockpit/chase toggle, the flight HUD and minimap restored in chase with per-element toggles, turret aiming, and an optional chase camera that keeps the horizon level.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/CarloApri/NO-ChaseCamPlus/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "CarloApri"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "CarloApri",
+  "githubRepoName": "NO-ChaseCamPlus",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ChaseCamPlus.dll",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/CarloApri/NO-ChaseCamPlus/releases/download/2.0.0/ChaseCamPlus.dll",
+      "hash": "sha256:259cd6f69804b68691e20a4e41800db32c5f4daab85e44358b25b0c1221672cf"
+    }
+  ]
+}

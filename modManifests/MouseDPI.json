@@ -1,0 +1,33 @@
+{
+  "id": "MouseDPI",
+  "displayName": "MouseDPI",
+  "description": "Scales the mouse input driving the virtual joystick past the sensitivity slider's ceiling, configured as the DPI your mouse has and the DPI you would like it to behave as.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/CarloApri/NO-MouseDPI/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "CarloApri"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "CarloApri",
+  "githubRepoName": "NO-MouseDPI",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MouseDPI.dll",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/CarloApri/NO-MouseDPI/releases/download/2.0.0/MouseDPI.dll",
+      "hash": "sha256:ebf280e432360ac02535eeee6873458c8ac0371ef3c657d8a8c0671d1e087a66"
+    }
+  ]
+}
