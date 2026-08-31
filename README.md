@@ -41,7 +41,19 @@ All your submissions will be delisted and all your future submission requests wi
 
 If Custom DLL or Executable Files in your Mod Release(s) are found to be inconsistent with the Source Code (e.g. containing additional code that is not present in the Available Source Code for the Open-Sourced DLLs or Executable Files), and these inconsistencies are found to be breaching Zero Tolerance Clause 2.1, all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
 
-#### 3. Other Requirements
+#### 3. Licensing, Copyright and License Attribution
+
+1.1
+
+If your Mod users, adapts or contains Third-Party Assets that are under any specific licenses, you must give credit to the Original Creator or Copyright Holder of the Assets, and display the Licenses under which these Assets were made available. Failure to do so may result in the specific Submission(s) that breach this clause being denied, or the specific Mod(s) found to be breaching this clause to be delisted.
+  - Example: Using a 3d model of an aircraft or a vehicle that was made by someone else and released under e.g. Creative Commons License, but not crediting the author and displaying the License in the project's repository.
+
+1.2
+
+If you have been granted permission by Shockfront Studios to use in-game assets in your Mod project, you must also display proof of permission. Failure to do so may result in your submission being automatically denied.
+  - Example: having Assets in your Mod project that are Ripped straight from the game, for any purpose. 
+
+#### 4. Other Requirements
 - In order for NOMNOM to automatically discover new Mod Releases for Registered Mods, they must be available as GitHub Repository Release Package.
   - If you use a different delivery method, you must submit a Pull Request to get New Releases registered. Follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
 - GitHub Repositories for your Mods should contain releases for ONLY ONE mod per Repository. Do not put releases for multiple mods under one Repository.
