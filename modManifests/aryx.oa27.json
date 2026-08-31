@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx.OA-27.Cavalier_1.0.1.nobp",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-OA-27-Cavalier/releases/download/1.0.1/Aryx.OA-27.Cavalier_1.0.1.nobp",
+      "hash": "sha256:f6597577e26214ad537b23fba6b26c8242c7e6b51ba289135a96380091f37405",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
       "fileName": "Aryx.OA-27.Cavalier_1.0.0.nobp",
       "version": "1.0.0",
       "category": "release",
@@ -39,5 +52,5 @@
       }
     }
   ],
-  "downloadCount": 1304
+  "downloadCount": 2179
 }

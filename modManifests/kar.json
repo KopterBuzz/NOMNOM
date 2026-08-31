@@ -36,6 +36,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Kar_1.1.2.dll",
+      "version": "1.1.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-kar/releases/download/1.1.2/Kar_1.1.2.dll",
+      "hash": "sha256:5a00959197a0b917d40fa2c44ff4a3884fd157d9b0bd2fb69c54ecc13e0444fa",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
       "fileName": "Kar_1.1.0.dll",
       "version": "1.1.0",
       "category": "release",
@@ -62,5 +75,5 @@
       }
     }
   ],
-  "downloadCount": 31404
+  "downloadCount": 31516
 }
