@@ -22,6 +22,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "KaceyTronic-RWR-1.4.0.dll",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/KcTries/KaceyTronic-RWR/releases/download/v1.4.0/KaceyTronic-RWR-1.4.0.dll",
+      "hash": "sha256:d38ce26fea39bbf53f0165a8a52e0909e37946761d8a2442bf038bfc58b1fb40"
+    },
+    {
       "fileName": "KaceyTronic-RWR-1.3.0.dll",
       "version": "1.3.0",
       "category": "release",
@@ -31,5 +40,5 @@
       "hash": "sha256:571ad2daa961de9cdd9c56df23a983369ed06423452306433c410ddb331e8b50"
     }
   ],
-  "downloadCount": 854
+  "downloadCount": 878
 }

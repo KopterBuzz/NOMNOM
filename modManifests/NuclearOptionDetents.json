@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NuclearOptionDetents-v0.4.0-nomm.zip",
+      "version": "0.4.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/NO-Throttle-Detents/releases/download/v0.4.0/NuclearOptionDetents-v0.4.0-nomm.zip",
+      "hash": "sha256:0b5eec5186b34b26d9d7d5b91bad39e317d27ad8507212cda8973b27a023b7a0"
+    },
+    {
       "fileName": "NuclearOptionDetents-v0.3.0-nomm.zip",
       "version": "0.3.0",
       "category": "preRelease",
@@ -48,5 +57,5 @@
       "hash": "sha256:b57ff0cae168fccb1b6e927d4b9bc2681f244b70c5c6e40b28d6d01eb82d3011"
     }
   ],
-  "downloadCount": 90
+  "downloadCount": 91
 }
