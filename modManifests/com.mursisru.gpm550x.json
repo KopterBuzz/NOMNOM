@@ -27,6 +27,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Mursisru_GPM550X_v1.0.2.zip",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/GPM-550X/releases/download/1.0.2/Mursisru_GPM550X_v1.0.2.zip",
+      "hash": "sha256:af98febeaea63a48af32db0d85f47781fc60ad7216b2012e6a25e91db3ead0c0",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
       "fileName": "Mursisru_GPM550X_v1.0.1.zip",
       "version": "1.0.1",
       "category": "release",
@@ -57,5 +72,5 @@
       ]
     }
   ],
-  "downloadCount": 485
+  "downloadCount": 526
 }

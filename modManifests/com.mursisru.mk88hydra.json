@@ -27,6 +27,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Mursisru_MK-88-Hydra_v1.0.3.zip",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/MK-88-Hydra/releases/download/v1.0.3/Mursisru_MK-88-Hydra_v1.0.3.zip",
+      "hash": "sha256:5fc3adc27c5c3b3172e28d2d877270e6018dddbcdd044f5b7c2e30029cc07040",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
       "fileName": "Mursisru_MK-88-Hydra_v1.0.2.zip",
       "version": "1.0.2",
       "category": "release",
@@ -72,5 +87,5 @@
       ]
     }
   ],
-  "downloadCount": 1791
+  "downloadCount": 1822
 }
