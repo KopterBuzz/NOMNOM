@@ -1,0 +1,45 @@
+{
+  "id": "com.mursisru.agr75heavypin",
+  "displayName": "AGR-75 Heavypin",
+  "description": "Heavy laser-guided air-to-ground rocket for Nuclear Option. 75 kg launch mass, 11.5 kg HE, 2.5 s burn, 2.2 Mach, ~15 km range. 4x and 6x AGR launcher mounts for aircraft and helicopters. Requires Blueprinter.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter",
+    "missile"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/AGR-75-Heavypin/blob/master/README.md"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Mursisru/AGR-75-Heavypin/releases"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Mursisru",
+  "githubRepoName": "AGR-75-Heavypin",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Mursisru_AGR-75-Heavypin_v1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/AGR-75-Heavypin/releases/download/1.0.0/Mursisru_AGR-75-Heavypin_v1.0.0.zip",
+      "hash": "sha256:1547b6ab117c2bd5ae0ca881826b9a494b0c62e90ed66d595aa4c37462b45d61",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    }
+  ]
+}
