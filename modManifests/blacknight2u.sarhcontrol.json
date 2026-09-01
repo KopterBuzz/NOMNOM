@@ -29,7 +29,7 @@
       "version": "0.5.2",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.1",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/blacknight2u/NuclearOption-RadarMissileControl/releases/download/v0.5.2/SARHControl-v0.5.2.zip",
       "hash": "sha256:24215328d5b8a41542fe877bd081e5689be41017fa5183bbe7536ec8de30ddf6"
     },
@@ -54,5 +54,5 @@
       "incompatibilities": []
     }
   ],
-  "downloadCount": 200
+  "downloadCount": 204
 }
