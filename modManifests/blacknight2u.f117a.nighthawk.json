@@ -18,13 +18,26 @@
   "authors": [
     "blacknight2u"
   ],
-  "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/main/Store/F117A-Nighthawk-NOMM.png",
-  "imageHash": "952aa4b8999ca8f427ddf9fd66522dcd462430cdee0773c892f5025099c276bf",
   "isClientOrServer": "Both",
   "githubOwner": "blacknight2u",
   "githubRepoName": "nuclear-option-f117",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "F-117A-Nighthawk-v0.4.99.zip",
+      "version": "0.4.99",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/blacknight2u/nuclear-option-f117/releases/download/v0.4.99/F-117A-Nighthawk-v0.4.99.zip",
+      "hash": "sha256:a0c8164f84746639e51eac6fcc74dbf0372c9e05093992d2cadde05522e7a398",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
     {
       "fileName": "F-117A-Nighthawk-v0.4.92.zip",
       "version": "0.4.92",
@@ -71,5 +84,7 @@
       ]
     }
   ],
-  "downloadCount": 916
+  "downloadCount": 964,
+  "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/efc58fe1c08110853788e221e24876f299ca69d0/Store/F117A-Nighthawk-NOMM.png",
+  "imageHash": "032ef6db858a87786e13e2f6c36f8f6b111aac338755c0045d8036521b88b247"
 }
