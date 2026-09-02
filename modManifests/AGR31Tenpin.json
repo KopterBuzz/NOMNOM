@@ -25,7 +25,7 @@
       "version": "1.2.2",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/mosdef31/NO-AGR-31-Tenpin/releases/download/v1.2.2/TenpinMod.dll",
       "hash": "sha256:cab0b92f5012403d15a641c59544ab674416ce8c368a1c6190810956978a0ee2",
       "dependencies": [
@@ -141,5 +141,5 @@
       ]
     }
   ],
-  "downloadCount": 3732
+  "downloadCount": 3791
 }

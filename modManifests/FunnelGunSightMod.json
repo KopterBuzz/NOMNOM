@@ -25,7 +25,7 @@
       "version": "1.1.0",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.33",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.1.0/FunnelGunSightMod.dll",
       "hash": "sha256:6ebab6930396d94af7de13cfdaf19405a3c82bdfd1c0274d7d48304ca60d807e"
     },
@@ -66,5 +66,5 @@
       "hash": "sha256:4f8491978cc99c9bdd0c5be8a2e351613f8f0e34887c3954b852ef536ca00676"
     }
   ],
-  "downloadCount": 3682
+  "downloadCount": 3686
 }
