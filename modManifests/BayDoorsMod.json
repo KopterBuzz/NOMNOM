@@ -1,0 +1,34 @@
+{
+  "id": "BayDoorsMod",
+  "displayName": "Bay Doors",
+  "description": "Open and close the weapon bay doors of the aircraft you are flying with a key, Alt+B by default. The doors still work normally on their own and holding them open does not change how anything loads, aims or launches. No dependencies.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mosdef31/NO-Bay-Doors/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "mosdef31"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "mosdef31",
+  "githubRepoName": "NO-Bay-Doors",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "BayDoorsMod.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Bay-Doors/releases/download/v1.0.2/BayDoorsMod.dll",
+      "hash": "sha256:601d673baed94daa6f03aafa44e2200db7fecd34a20cdecf4eb45b05e58bf725"
+    }
+  ]
+}
