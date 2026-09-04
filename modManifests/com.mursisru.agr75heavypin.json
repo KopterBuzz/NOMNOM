@@ -27,6 +27,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Mursisru_AGR-75-Heavypin_v1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/AGR-75-Heavypin/releases/download/1.1.0/Mursisru_AGR-75-Heavypin_v1.1.0.zip",
+      "hash": "sha256:6d8348dcb21afbe256803769189464a467967965201e7977742bde5f311da616",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
       "fileName": "Mursisru_AGR-75-Heavypin_v1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -42,5 +57,5 @@
       ]
     }
   ],
-  "downloadCount": 553
+  "downloadCount": 568
 }
