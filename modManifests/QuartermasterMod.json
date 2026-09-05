@@ -23,6 +23,15 @@
   "artifacts": [
     {
       "fileName": "quartermaster.json",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Quartermaster/releases/download/v1.4.0/quartermaster.json",
+      "hash": "sha256:1f417c0b976ebbb74b45f1fc575933d1582f66058928b563789d5c2dacfafe3a"
+    },
+    {
+      "fileName": "quartermaster.json",
       "version": "1.3.0",
       "category": "release",
       "type": "plugin",
@@ -40,7 +49,7 @@
       "hash": "sha256:4b5273c9d525ffc2d1881429e885bb2b66dc43885188a1fd00322f4f698d5cb1"
     }
   ],
-  "downloadCount": 62,
+  "downloadCount": 67,
   "imageUrl": "https://raw.githubusercontent.com/mosdef31/NO-Quartermaster/main/images/quartermaster_icon_512.png",
   "imageHash": "76ef5cf07020708a564a0f6c47236fcb53d510750229005ac80372e53357860d"
 }
