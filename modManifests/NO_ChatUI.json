@@ -1,0 +1,40 @@
+{
+  "id": "NO_ChatUI",
+  "displayName": "Chat UI",
+  "description": "Allows separating General Chat and Kill Feed panels, adjusting their locations and sizes, and scrolling through their histories.",
+  "tags": [
+    "mod",
+    "QoL",
+    "UI"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Appulcake/NO_ChatUI"
+    }
+  ],
+  "authors": [
+    "Appulcake"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Appulcake",
+  "githubRepoName": "NO_ChatUI",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NO_ChatUI.zip",
+      "version": "0.34.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_ChatUI/releases/download/v0.34.2.1/NO_ChatUI.zip",
+      "hash": "sha256:ad4dddf9b10736a6b17d856b7ae156abb2423ad05717ddd6c046a9c87038b470",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
