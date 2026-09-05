@@ -27,6 +27,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Mursisru_AGR-75-Sledgepin_v2.0.0.zip",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/AGR-75-Sledgepin/releases/download/2.0.0/Mursisru_AGR-75-Sledgepin_v2.0.0.zip",
+      "hash": "sha256:42a503f93661875013eea3d9834aa719fd2eb555febda9ff0b3f1802f5ed9571",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
       "fileName": "Mursisru_AGR-75-Heavypin_v1.1.0.zip",
       "version": "1.1.0",
       "category": "release",
@@ -57,5 +72,5 @@
       ]
     }
   ],
-  "downloadCount": 735
+  "downloadCount": 781
 }
