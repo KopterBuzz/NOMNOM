@@ -1,0 +1,40 @@
+{
+  "id": "GroundControlRts",
+  "displayName": "Ground Control (RTS)",
+  "description": "An RTS command layer for Nuclear Option: select units, queue routes, give attack orders, build an economy, task aircraft and capture airbases, then drop back into a cockpit and fly the war you just planned.",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/simonsimme/Ground-Controll-RTS"
+    }
+  ],
+  "authors": [
+    "simonsimme"
+  ],
+  "isClientOrServer": "Client",
+  "imageUrl": "https://raw.githubusercontent.com/simonsimme/Ground-Controll-RTS/887a2dd514daa7d446aef1c28aa55a7d9e6ec485/images/Icon.png",
+  "imageHash": "0a571610c9bd7d6d107d1d95b2e95d94907db611612e87e2fb305ca7627120c7",
+  "githubOwner": "simonsimme",
+  "githubRepoName": "Ground-Controll-RTS",
+  "autoUpdateArtifacts": "True",
+  "incompatibilities": [
+    {
+      "id": "NuclearOptionCommander",
+      "version": "0.1.2.0"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "GroundControlRts.dll",
+      "downloadUrl": "https://github.com/simonsimme/Ground-Controll-RTS/releases/download/0.9.1.0/GroundControlRts.dll",
+      "gameVersion": "0.34.2",
+      "version": "0.9.1.0",
+      "category": "Release",
+      "hash": "sha256:406646e62eccaf864323ecbb13515c37be017920c652147b5850c6baa3e30ed4"
+    }
+  ]
+}
