@@ -1,0 +1,39 @@
+{
+  "id": "ImprovedAI",
+  "displayName": "Improved AI",
+  "description": "Host-side AI overhaul: ground units spread out, halt to fire and reverse out of losing fights nose-first; pilots notch, laser or intercept incoming missiles; warships form task forces with escort/screen roles. Safe as a pure client on servers without it.",
+  "tags": [
+    "AI",
+    "QoL",
+    "Server"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/L33chKing/NuclearOption-ImprovedAI"
+    }
+  ],
+  "authors": [
+    "LeechKing"
+  ],
+  "githubOwner": "L33chKing",
+  "githubRepoName": "NuclearOption-ImprovedAI",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "ImprovedAI-v0.9.116.zip",
+      "downloadUrl": "https://github.com/L33chKing/NuclearOption-ImprovedAI/releases/download/v0.9.116/ImprovedAI-v0.9.116.zip",
+      "hash": "sha256:c017f32f56b4ac875e5bd4ba9eb9465cc47de45f7b1fa43769aa0aac9d5d7281",
+      "gameVersion": "0.34.1",
+      "version": "0.9.116",
+      "category": "Release",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
