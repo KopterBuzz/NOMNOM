@@ -22,6 +22,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "BVR-BalanceAndVarietyRework1.2.1.zip",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/1.2.1/BVR-BalanceAndVarietyRework1.2.1.zip",
+      "hash": "sha256:27ff4ff6d4cd8d4bd921e81c6b2df89fe72e201bcba4a974daecba9a6badf938"
+    },
+    {
       "fileName": "BVR-BalanceAndVarietyRework.zip",
       "version": "1.1.5",
       "category": "Release",
@@ -42,5 +51,5 @@
       "dependencies": []
     }
   ],
-  "downloadCount": 475
+  "downloadCount": 482
 }
