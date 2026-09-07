@@ -1,7 +1,7 @@
 {
   "id": "MusicRandomizer",
   "displayName": "Music Randomizer",
-  "description": "Replays and randomizes aircraft takeoff music, with a configurable cooldown between aircraft songs.",
+  "description": "Replays and randomizes aircraft takeoff music, with song selection and a configurable cooldown between aircraft songs.",
   "tags": [
     "QoL",
     "Flavor"
@@ -19,6 +19,15 @@
   "githubRepoName": "NuclearOptionMusicRandomizer",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "MusicRandomizer.dll",
+      "version": "0.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/lucaspevidor/NuclearOptionMusicRandomizer/releases/download/v0.3.0/MusicRandomizer.dll",
+      "hash": "sha256:fb07a6c1549720d8c8d056780d97f6bf867749099aed06082a1265f78dd959ca"
+    },
     {
       "fileName": "MusicRandomizer.dll",
       "version": "0.2.0",
