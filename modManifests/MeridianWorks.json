@@ -1,0 +1,39 @@
+{
+  "id": "MeridianWorks",
+  "displayName": "Meridian Works",
+  "description": "A guided weapon pack from the Meridian Combine, an arms exporter that sells to both sides. Twelve rounds: radar and heat seeking air to air missiles, optical, laser and anti radiation air to ground missiles, glide and penetrator bombs, and an infrared rocket pod that shoots down incoming missiles. Each has its own pylon and weapon bay fittings across the roster, offered only where an aircraft already carries something of the same size and weight. They appear in the Encyclopedia, AI flights carry them, and carrying any Meridian mount raises the aircraft's lased target limit to six as a floor rather than a bonus, so it will not compound with another mod that raises the same limit. Requires Blueprinter. The asset bundle ships inside the DLL, so it is one file.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mosdef31/NO-Meridian-Works/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "mosdef31"
+  ],
+  "githubOwner": "mosdef31",
+  "githubRepoName": "NO-Meridian-Works",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.0.0/MeridianWorksMod.dll",
+      "hash": "sha256:18e31de809290d3ec8ecca8a3a9befc9037e2191e5f705cdfec8738e67971203",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    }
+  ]
+}
