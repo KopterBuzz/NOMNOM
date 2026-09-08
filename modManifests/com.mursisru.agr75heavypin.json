@@ -1,6 +1,6 @@
 {
-  "id": "com.mursisru.agr75heavypin",
-  "displayName": "AGR-75 Heavypin",
+  "id": "com.mursisru.agr75sledgepin",
+  "displayName": "AGR-75 Sledgepin",
   "description": "Heavy laser-guided air-to-ground rocket for Nuclear Option. 75 kg launch mass, 11.5 kg HE, 2.5 s burn, 2.2 Mach, ~15 km range. 4x and 6x AGR launcher mounts for aircraft and helicopters. Requires Blueprinter.",
   "tags": [
     "mod",
@@ -11,11 +11,11 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/Mursisru/AGR-75-Heavypin/blob/master/README.md"
+      "url": "https://github.com/Mursisru/AGR-75-Sledgepin/blob/master/README.md"
     },
     {
       "name": "releases",
-      "url": "https://github.com/Mursisru/AGR-75-Heavypin/releases"
+      "url": "https://github.com/Mursisru/AGR-75-Sledgepin/releases"
     }
   ],
   "authors": [
@@ -23,7 +23,7 @@
   ],
   "isClientOrServer": "Client",
   "githubOwner": "Mursisru",
-  "githubRepoName": "AGR-75-Heavypin",
+  "githubRepoName": "AGR-75-Sledgepin",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
