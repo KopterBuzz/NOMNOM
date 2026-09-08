@@ -1,0 +1,42 @@
+{
+  "id": "TBMMWC",
+  "displayName": "Piledriver Maneuverable Warhead Carrier",
+  "description": "A quasi-ballistic Piledriver that carries three maneuverable warheads.Include HLT/MSV launchers.",
+  "tags": [
+    "mod",
+    "weapon",
+    "vehicle",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Kangkankan/Piledriver-Maneuverable-Warhead-Carrier-mod/blob/main/README.md"
+    },
+    {
+      "name": "discord mod form link",
+      "url": "https://discord.com/channels/909034158205059082/1546700051844440175"
+    }
+  ],
+  "authors": [
+    "kangkankan"
+  ],
+  "githubOwner": "Kangkankan",
+  "githubRepoName": "Piledriver-Maneuverable-Warhead-Carrier-mod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Piledriver.MWC_1.0.1.nobp",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Kangkankan/Piledriver-Maneuverable-Warhead-Carrier-mod/releases/download/1.0.1/Piledriver.MWC_1.0.1.nobp",
+      "hash": "sha256:90ac25beb9207655694e386ef16d2cdede8a610f08c53bd3e36c66f692041ccd",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ]
+}
