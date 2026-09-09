@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 6517
+    "downloadCount": 6518
   },
   {
     "id": "ActiveDecoy",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 4437
+    "downloadCount": 4439
   },
   {
     "id": "AGR31Tenpin",
@@ -280,7 +280,7 @@
         ]
       }
     ],
-    "downloadCount": 6334
+    "downloadCount": 6400
   },
   {
     "id": "AIAircraftLimit",
@@ -313,7 +313,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 7900
+    "downloadCount": 7901
   },
   {
     "id": "AircraftWaypoints",
@@ -397,7 +397,7 @@
         "hash": "bbcffdcba57d78f653a3f979ccf6c5280fc57501e8d314d032f7ea1a5ab50e9f"
       }
     ],
-    "downloadCount": 1697
+    "downloadCount": 1701
   },
   {
     "id": "aryx.f16m",
@@ -752,7 +752,7 @@
         }
       }
     ],
-    "downloadCount": 94170
+    "downloadCount": 94211
   },
   {
     "id": "aryx.f99",
@@ -912,7 +912,7 @@
         }
       }
     ],
-    "downloadCount": 57056
+    "downloadCount": 57096
   },
   {
     "id": "aryx.fs41",
@@ -1137,7 +1137,7 @@
         }
       }
     ],
-    "downloadCount": 55756
+    "downloadCount": 55801
   },
   {
     "id": "aryx.mc260",
@@ -1466,7 +1466,7 @@
         }
       }
     ],
-    "downloadCount": 96219
+    "downloadCount": 96265
   },
   {
     "id": "aryx.mig15",
@@ -1587,7 +1587,7 @@
         }
       }
     ],
-    "downloadCount": 36884
+    "downloadCount": 36909
   },
   {
     "id": "aryx.navex",
@@ -1669,7 +1669,7 @@
         }
       }
     ],
-    "downloadCount": 30169
+    "downloadCount": 30202
   },
   {
     "id": "aryx.oa27",
@@ -1725,7 +1725,7 @@
         }
       }
     ],
-    "downloadCount": 8456
+    "downloadCount": 8504
   },
   {
     "id": "aryx.rah72",
@@ -1898,7 +1898,7 @@
         }
       }
     ],
-    "downloadCount": 59957
+    "downloadCount": 59999
   },
   {
     "id": "aryx.weaponpack",
@@ -2058,7 +2058,7 @@
         }
       }
     ],
-    "downloadCount": 26186
+    "downloadCount": 26228
   },
   {
     "id": "AShM500Yashma",
@@ -2109,7 +2109,7 @@
         }
       }
     ],
-    "downloadCount": 2631
+    "downloadCount": 2647
   },
   {
     "id": "AtomicFramework",
@@ -2185,7 +2185,7 @@
         "hash": "sha256:601d673baed94daa6f03aafa44e2200db7fecd34a20cdecf4eb45b05e58bf725"
       }
     ],
-    "downloadCount": 183,
+    "downloadCount": 186,
     "imageUrl": "https://raw.githubusercontent.com/mosdef31/NO-Bay-Doors/main/images/baydoors_icon_512.png",
     "imageHash": "e1176dd966942df347c6a1724f351eac7114295a9bfe3e05fc3dd2bcd245d293"
   },
@@ -2219,7 +2219,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3903
+    "downloadCount": 3904
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -2285,7 +2285,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 8297
+    "downloadCount": 8303
   },
   {
     "id": "bl.missiles",
@@ -2403,7 +2403,7 @@
         }
       }
     ],
-    "downloadCount": 1488
+    "downloadCount": 1501
   },
   {
     "id": "blacknight2u.f117a.nighthawk",
@@ -2521,7 +2521,7 @@
         ]
       }
     ],
-    "downloadCount": 4641,
+    "downloadCount": 4683,
     "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/efc58fe1c08110853788e221e24876f299ca69d0/Store/F117A-Nighthawk-NOMM.png",
     "imageHash": "032ef6db858a87786e13e2f6c36f8f6b111aac338755c0045d8036521b88b247"
   },
@@ -2638,7 +2638,7 @@
         }
       }
     ],
-    "downloadCount": 38995
+    "downloadCount": 39011
   },
   {
     "id": "blueprinter.ternion",
@@ -2692,7 +2692,7 @@
         }
       }
     ],
-    "downloadCount": 15364,
+    "downloadCount": 15395,
     "isClientOrServer": "Both"
   },
   {
@@ -2884,16 +2884,18 @@
         }
       }
     ],
-    "downloadCount": 44781
+    "downloadCount": 44820
   },
   {
     "id": "BVR-BalanceAndVarietyRework",
     "displayName": "BVR - Balance and Variety Rework",
-    "description": "A rebalance project that aims to push Nuclear Option's gameplay towards a more engaging simlite experience while still honouring ShockFront's vision. Fully configurable for Sandbox feel and fully multiplayer compatible.",
+    "description": "A rebalance project that aims to push Nuclear Option's gameplay towards a more engaging simlite experience while still honouring ShockFront's vision. Fully configurable for a sandbox feel and fully multiplayer compatible. Has a long list of features which is best seen on GitHub.",
     "tags": [
       "Balance",
       "QoL",
-      "Flavor"
+      "Flavor",
+      "Gameplay",
+      "Combat"
     ],
     "urls": [
       {
@@ -2904,7 +2906,6 @@
     "authors": [
       "Draken0015"
     ],
-    "isClientOrServer": "Both",
     "githubOwner": "Drkn420",
     "githubRepoName": "BVR-BalanceAndVarietyRework",
     "autoUpdateArtifacts": "True",
@@ -2913,33 +2914,43 @@
         "fileName": "BVR-BalanceAndVarietyRework1.2.1.zip",
         "version": "1.2.1",
         "category": "release",
-        "type": "plugin",
+        "type": "addon",
         "gameVersion": "0.34.2",
         "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/1.2.1/BVR-BalanceAndVarietyRework1.2.1.zip",
-        "hash": "sha256:27ff4ff6d4cd8d4bd921e81c6b2df89fe72e201bcba4a974daecba9a6badf938"
+        "hash": "sha256:27ff4ff6d4cd8d4bd921e81c6b2df89fe72e201bcba4a974daecba9a6badf938",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
       },
       {
         "fileName": "BVR-BalanceAndVarietyRework.zip",
         "version": "1.1.5",
-        "category": "Release",
-        "type": "plugin",
+        "category": "release",
+        "type": "addon",
         "gameVersion": "0.34.2",
         "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/v1.1.5/BVR-BalanceAndVarietyRework.zip",
         "hash": "sha256:6767dbcb36dfcf12b774b3c27d543896733ade2087060c6639e32844f9bf7059",
-        "dependencies": []
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
       },
       {
         "fileName": "0.34.BVR.-.Balance.and.Variety.Rework.1.0.9.dll",
         "version": "1.0.9",
-        "category": "Release",
-        "type": "plugin",
+        "category": "release",
+        "type": "addon",
         "gameVersion": "0.34.2",
         "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/v1.0.9/0.34.BVR.-.Balance.and.Variety.Rework.1.0.9.dll",
         "hash": "sha256:ba8467b4249fb68b690c88326dc7559366f6e6678d2083f46b8f6a1caa731980",
-        "dependencies": []
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
       }
     ],
-    "downloadCount": 598
+    "downloadCount": 606
   },
   {
     "id": "byt0rpilot.MissileScreen",
@@ -3082,7 +3093,7 @@
         "hash": "sha256:259cd6f69804b68691e20a4e41800db32c5f4daab85e44358b25b0c1221672cf"
       }
     ],
-    "downloadCount": 97
+    "downloadCount": 98
   },
   {
     "id": "ChaseView",
@@ -3116,7 +3127,7 @@
         "hash": "sha256:aae68ea57f93cfe6046ccc954fa8ff7e35f0c364dcb541d14da24299130c8863"
       }
     ],
-    "downloadCount": 636
+    "downloadCount": 645
   },
   {
     "id": "ChicanePusherLab",
@@ -3262,7 +3273,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 2119
+    "downloadCount": 2120
   },
   {
     "id": "ChicaneWingDelete",
@@ -3423,7 +3434,7 @@
         "hash": "sha256:837dfb023b5ba23d8ac9683ec23b03b3d6a7d35c3e2c4ed97ac9cd9187baca13"
       }
     ],
-    "downloadCount": 3581
+    "downloadCount": 3584
   },
   {
     "id": "com.bongus.simplewso",
@@ -3570,7 +3581,7 @@
         "hash": "sha256:4b4211b339eda6c48142bcf9c190ed322acf3cfe2fefdfa3898af379e82dbd47"
       }
     ],
-    "downloadCount": 2267
+    "downloadCount": 2269
   },
   {
     "id": "com.equalizer.unified",
@@ -3712,7 +3723,7 @@
         "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
       }
     ],
-    "downloadCount": 2883
+    "downloadCount": 2887
   },
   {
     "id": "Com.Hellcat92.TargetGridRefHUD",
@@ -3797,7 +3808,7 @@
         ]
       }
     ],
-    "downloadCount": 1289
+    "downloadCount": 1293
   },
   {
     "id": "Com.Hellcat92.VanillaIconsPLUS",
@@ -3922,7 +3933,7 @@
         ]
       }
     ],
-    "downloadCount": 5772
+    "downloadCount": 5773
   },
   {
     "id": "com.JUSTJ7780.nomodframework",
@@ -3955,7 +3966,7 @@
         "hash": "sha256:24b75fbcd9b8e930f3edfde6879549d72d90b9083d7a386a9305d4c3e9dc6635"
       }
     ],
-    "downloadCount": 1085
+    "downloadCount": 1086
   },
   {
     "id": "com.justj7780.nuclearoption.inertia",
@@ -4103,7 +4114,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 3590
+    "downloadCount": 3597
   },
   {
     "id": "com.minec.CameraImprovements",
@@ -4140,8 +4151,8 @@
   },
   {
     "id": "com.mursisru.agr75heavypin",
-    "displayName": "AGR-75 Heavypin",
-    "description": "Heavy laser-guided air-to-ground rocket for Nuclear Option. 75 kg launch mass, 11.5 kg HE, 2.5 s burn, 2.2 Mach, ~15 km range. 4x and 6x AGR launcher mounts for aircraft and helicopters. Requires Blueprinter.",
+    "displayName": "AGR-75 Sledgepin",
+    "description": "Heavy laser-guided air-to-ground rocket for Nuclear Option. 75 kg launch mass, 22 kg HE, 3.5 s burn, 3.2 Mach, ~22 km range. 4x and 6x AGR launcher mounts for aircraft and helicopters. Requires Blueprinter.",
     "tags": [
       "mod",
       "Weapon",
@@ -4151,11 +4162,11 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/Mursisru/AGR-75-Heavypin/blob/master/README.md"
+        "url": "https://github.com/Mursisru/AGR-75-Sledgepin/blob/master/README.md"
       },
       {
         "name": "releases",
-        "url": "https://github.com/Mursisru/AGR-75-Heavypin/releases"
+        "url": "https://github.com/Mursisru/AGR-75-Sledgepin/releases"
       }
     ],
     "authors": [
@@ -4163,7 +4174,7 @@
     ],
     "isClientOrServer": "Client",
     "githubOwner": "Mursisru",
-    "githubRepoName": "AGR-75-Heavypin",
+    "githubRepoName": "AGR-75-Sledgepin",
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
@@ -4212,7 +4223,7 @@
         ]
       }
     ],
-    "downloadCount": 1619
+    "downloadCount": 1641
   },
   {
     "id": "com.mursisru.gpm550x",
@@ -4288,7 +4299,7 @@
         ]
       }
     ],
-    "downloadCount": 1717
+    "downloadCount": 1733
   },
   {
     "id": "com.mursisru.mk88hydra",
@@ -4379,7 +4390,7 @@
         ]
       }
     ],
-    "downloadCount": 3465
+    "downloadCount": 3482
   },
   {
     "id": "com.mursisru.x77warewind",
@@ -4485,7 +4496,7 @@
         ]
       }
     ],
-    "downloadCount": 4196
+    "downloadCount": 4220
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -4594,7 +4605,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 84050
+    "downloadCount": 84120
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -4663,7 +4674,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 3687
+    "downloadCount": 3688
   },
   {
     "id": "com.noaids.cargoassist",
@@ -4696,7 +4707,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 3176
+    "downloadCount": 3180
   },
   {
     "id": "DefensiveAutoTarget",
@@ -4737,7 +4748,7 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 4660
+    "downloadCount": 4671
   },
   {
     "id": "dev.dikka.nuclearconnectivity",
@@ -4811,7 +4822,7 @@
         "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
       }
     ],
-    "downloadCount": 1638
+    "downloadCount": 1639
   },
   {
     "id": "dev.dikka.nuclearmapplayernames",
@@ -4849,7 +4860,7 @@
         "hash": "sha256:2aeb1945d4e0cba4b0d0fd41a1221ac00bb3769afb88c1936f2608fc06e44f8e"
       }
     ],
-    "downloadCount": 641
+    "downloadCount": 642
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -5005,7 +5016,7 @@
         ]
       }
     ],
-    "downloadCount": 12283
+    "downloadCount": 12288
   },
   {
     "id": "FrontlineMap",
@@ -5063,7 +5074,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 15514
+    "downloadCount": 15521
   },
   {
     "id": "FunnelGunSightMod",
@@ -5133,7 +5144,7 @@
         "hash": "sha256:4f8491978cc99c9bdd0c5be8a2e351613f8f0e34887c3954b852ef536ca00676"
       }
     ],
-    "downloadCount": 4399
+    "downloadCount": 4423
   },
   {
     "id": "galaxy2_voice",
@@ -5238,6 +5249,47 @@
     "downloadCount": 0
   },
   {
+    "id": "HLTTBM",
+    "displayName": "HLT Ballistic Missile Launchers",
+    "description": "adds HLT Ballistic Missile Launcher and Ballistic Missile Launcher.",
+    "tags": [
+      "mod",
+      "vehicle",
+      "blueprinter"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Kangkankan/HLT-TBM-launchers/blob/main/README.md"
+      },
+      {
+        "name": "discord mod form link",
+        "url": "https://discord.com/channels/909034158205059082/1546683248204058654"
+      }
+    ],
+    "authors": [
+      "kangkankan"
+    ],
+    "githubOwner": "Kangkankan",
+    "githubRepoName": "HLT-TBM-launchers",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "HLT.TBM.launchers_1.0.0.nobp",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/Kangkankan/HLT-TBM-launchers/releases/download/1.0.0/HLT.TBM.launchers_1.0.0.nobp",
+        "hash": "sha256:529a2a954bf2e2a78b4a37f9818b522286d56b66e38db58846197fea3dbe4455",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      }
+    ]
+  },
+  {
     "id": "HorusMod",
     "displayName": "Horus Mod Starter",
     "description": "A Game Master / free camera utility mod for Nuclear Option that lets the host or local player spawn aircraft, vehicles, ships, buildings, and scenery in real time.",
@@ -5338,7 +5390,7 @@
         "hash": "sha256:f6414b84d1df84c691cdb80fa9db75cce592e066d66fe807e9e379f36449c5fe"
       }
     ],
-    "downloadCount": 3187
+    "downloadCount": 3189
   },
   {
     "id": "IbisDoorGunToggle",
@@ -5462,7 +5514,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2705
+    "downloadCount": 2707
   },
   {
     "id": "IbisPowerFix",
@@ -5567,7 +5619,62 @@
         "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
       }
     ],
-    "downloadCount": 2099
+    "downloadCount": 2100
+  },
+  {
+    "id": "ImprovedAI",
+    "displayName": "Improved AI",
+    "description": "Host-side AI overhaul: ground units spread out, halt to fire and reverse out of losing fights nose-first; pilots notch, laser or intercept incoming missiles; warships form task forces with escort/screen roles. Safe as a pure client on servers without it.",
+    "tags": [
+      "AI",
+      "QoL",
+      "Server"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/L33chKing/NuclearOption-ImprovedAI"
+      }
+    ],
+    "authors": [
+      "LeechKing"
+    ],
+    "githubOwner": "L33chKing",
+    "githubRepoName": "NuclearOption-ImprovedAI",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "ImprovedAI-v0.9.117.zip",
+        "version": "0.9.117",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.1",
+        "downloadUrl": "https://github.com/L33chKing/NuclearOption-ImprovedAI/releases/download/v0.9.117/ImprovedAI-v0.9.117.zip",
+        "hash": "sha256:5d57f6be268b5db827781884da855b2dbf307df2715c5ad60fa935db60ed099d",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "type": "plugin",
+        "fileName": "ImprovedAI-v0.9.116.zip",
+        "downloadUrl": "https://github.com/L33chKing/NuclearOption-ImprovedAI/releases/download/v0.9.116/ImprovedAI-v0.9.116.zip",
+        "hash": "sha256:c017f32f56b4ac875e5bd4ba9eb9465cc47de45f7b1fa43769aa0aac9d5d7281",
+        "gameVersion": "0.34.1",
+        "version": "0.9.116",
+        "category": "Release",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 194
   },
   {
     "id": "InputFramework",
@@ -5601,7 +5708,7 @@
         "hash": "sha256:405a157838cba3ae1b516e114c42f4bd38959cdbc498bb5d166264928a6b7c26"
       }
     ],
-    "downloadCount": 732
+    "downloadCount": 734
   },
   {
     "id": "jester_voice",
@@ -5671,6 +5778,89 @@
     "downloadCount": 614
   },
   {
+    "id": "HLTTBM",
+    "displayName": "HLT Ballistic Missile Launchers",
+    "description": "adds HLT Ballistic Missile Launcher and Ballistic Missile Launcher.",
+    "tags": [
+      "mod",
+      "vehicle",
+      "blueprinter"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Kangkankan/HLT-TBM-launchers/blob/main/README.md"
+      },
+      {
+        "name": "discord mod form link",
+        "url": "https://discord.com/channels/909034158205059082/1546683248204058654"
+      }
+    ],
+    "authors": [
+      "kangkankan"
+    ],
+    "githubOwner": "Kangkankan",
+    "githubRepoName": "HLT-TBM-launchers",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "HLT.TBM.launchers_1.0.0.nobp",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/Kangkankan/HLT-TBM-launchers/releases/download/1.0.0/HLT.TBM.launchers_1.0.0.nobp",
+        "hash": "sha256:529a2a954bf2e2a78b4a37f9818b522286d56b66e38db58846197fea3dbe4455",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "TBMMWC",
+    "displayName": "Piledriver Maneuverable Warhead Carrier",
+    "description": "A quasi-ballistic Piledriver that carries three maneuverable warheads.Include HLT/MSV launchers.",
+    "tags": [
+      "mod",
+      "weapon",
+      "vehicle",
+      "blueprinter"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Kangkankan/Piledriver-Maneuverable-Warhead-Carrier-mod/blob/main/README.md"
+      },
+      {
+        "name": "discord mod form link",
+        "url": "https://discord.com/channels/909034158205059082/1546700051844440175"
+      }
+    ],
+    "authors": [
+      "kangkankan"
+    ],
+    "githubOwner": "Kangkankan",
+    "githubRepoName": "Piledriver-Maneuverable-Warhead-Carrier-mod",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "Piledriver.MWC_1.0.1.nobp",
+        "version": "1.0.1",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/Kangkankan/Piledriver-Maneuverable-Warhead-Carrier-mod/releases/download/1.0.1/Piledriver.MWC_1.0.1.nobp",
+        "hash": "sha256:90ac25beb9207655694e386ef16d2cdede8a610f08c53bd3e36c66f692041ccd",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      }
+    ]
+  },
+  {
     "id": "KaceyTronic-RWR",
     "displayName": "KaceyTronic-RWR",
     "description": "Enhanced on-visor Radar Warning Receiver (RWR) overlay with rank-based fidelity, a TGT/MSL/SEEN/HI-LO threat warning panel, and Rank 0 corner indicators.",
@@ -5712,7 +5902,7 @@
         "hash": "sha256:571ad2daa961de9cdd9c56df23a983369ed06423452306433c410ddb331e8b50"
       }
     ],
-    "downloadCount": 2107
+    "downloadCount": 2138
   },
   {
     "id": "kar",
@@ -5791,7 +5981,7 @@
         }
       }
     ],
-    "downloadCount": 35392
+    "downloadCount": 35424
   },
   {
     "id": "KestrelCompatibility",
@@ -5832,7 +6022,7 @@
         ]
       }
     ],
-    "downloadCount": 464
+    "downloadCount": 467
   },
   {
     "id": "klawshout_voice",
@@ -5953,7 +6143,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 11925
+    "downloadCount": 11934
   },
   {
     "id": "KR-EW.67",
@@ -5986,7 +6176,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 6843
+    "downloadCount": 6844
   },
   {
     "id": "LaserRocketFix",
@@ -6018,7 +6208,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 9566
+    "downloadCount": 9582
   },
   {
     "id": "LiveryDownloader",
@@ -6051,7 +6241,7 @@
         "hash": "sha256:3632f0ebf44e752a506526c95b5cd244356abce8318cb6868f925755b5c08f81"
       }
     ],
-    "downloadCount": 1166
+    "downloadCount": 1183
   },
   {
     "id": "LiveryManager",
@@ -6202,7 +6392,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 5701
+    "downloadCount": 5711
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -7843,7 +8033,7 @@
         ]
       }
     ],
-    "downloadCount": 1391
+    "downloadCount": 1393
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -8321,7 +8511,7 @@
         "hash": "sha256:E78F676FA04AB9F3E4338ACC760AAC99A05E7192098715B3C5D18A29A73B4C15"
       }
     ],
-    "downloadCount": 3519
+    "downloadCount": 3527
   },
   {
     "id": "MapLoader",
@@ -8352,7 +8542,77 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 2142
+    "downloadCount": 2143
+  },
+  {
+    "id": "MeridianWorks",
+    "displayName": "Meridian Works",
+    "description": "A guided weapon pack from the Meridian Combine, an arms exporter that sells to both sides. Twelve rounds: radar and heat seeking air to air missiles, optical, laser and anti radiation air to ground missiles, glide and penetrator bombs, and an infrared rocket pod that shoots down incoming missiles. Each has its own pylon and weapon bay fittings across the roster, offered only where an aircraft already carries something of the same size and weight. They appear in the Encyclopedia, AI flights carry them, and carrying any Meridian mount raises the aircraft's lased target limit to six as a floor rather than a bonus, so it will not compound with another mod that raises the same limit. Requires Blueprinter. The asset bundle ships inside the DLL, so it is one file.",
+    "tags": [
+      "mod",
+      "Weapon",
+      "blueprinter"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/mosdef31/NO-Meridian-Works/blob/main/README.md"
+      }
+    ],
+    "authors": [
+      "mosdef31"
+    ],
+    "githubOwner": "mosdef31",
+    "githubRepoName": "NO-Meridian-Works",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "MeridianWorksMod.dll",
+        "version": "1.0.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.0.2/MeridianWorksMod.dll",
+        "hash": "sha256:ca123da4f34222c09b493c3768597b4c92b99967f416801bae1704985a6243c6",
+        "dependencies": [
+          {
+            "id": "com.nikkorap.blueprinter",
+            "version": "2.0.1"
+          }
+        ]
+      },
+      {
+        "fileName": "MeridianWorksMod.dll",
+        "version": "1.0.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.0.1/MeridianWorksMod.dll",
+        "hash": "sha256:a19c2888962cf73f5e5cf0e037da67f622867efc728468367ee306b3afa31331",
+        "dependencies": [
+          {
+            "id": "com.nikkorap.blueprinter",
+            "version": "2.0.1"
+          }
+        ]
+      },
+      {
+        "fileName": "MeridianWorksMod.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.0.0/MeridianWorksMod.dll",
+        "hash": "sha256:18e31de809290d3ec8ecca8a3a9befc9037e2191e5f705cdfec8738e67971203",
+        "dependencies": [
+          {
+            "id": "com.nikkorap.blueprinter",
+            "version": "2.0.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 498
   },
   {
     "id": "MFDCustomizer",
@@ -8511,7 +8771,7 @@
         "hash": "sha256:0ece977a524ed76bf99b79704e661fdf9f3dea74cddcaafa9e558d36b0640c56"
       }
     ],
-    "downloadCount": 3209,
+    "downloadCount": 3243,
     "isClientOrServer": "Both"
   },
   {
@@ -8611,7 +8871,7 @@
         ]
       }
     ],
-    "downloadCount": 1147,
+    "downloadCount": 1154,
     "isClientOrServer": "Client"
   },
   {
@@ -8663,7 +8923,7 @@
         "hash": "sha256:d2d6b04918625ad889134c850969e917b24ed32dbce47da645fbbe1e74489419"
       }
     ],
-    "downloadCount": 945
+    "downloadCount": 947
   },
   {
     "id": "MouseDPI",
@@ -8698,6 +8958,42 @@
       }
     ],
     "downloadCount": 12
+  },
+  {
+    "id": "MultiMissile",
+    "displayName": "MultiMissile",
+    "description": "Adds various missiles to Nuclear Option, currently all real-world service missiles.",
+    "tags": [
+      "mod",
+      "Combat",
+      "Weapon"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/kingwixly/Multi-Missile/"
+      }
+    ],
+    "authors": [
+      "kingwixly",
+      "JustJ"
+    ],
+    "isClientOrServer": "Both",
+    "githubOwner": "kingwixly",
+    "githubRepoName": "Multi-Missile",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "Multi-Missile.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34",
+        "downloadUrl": "https://github.com/kingwixly/Multi-Missile/releases/download/1.0.0/Multi-Missile.dll",
+        "hash": "sha256:25710f1307ccff0a3238adf5921ddb5f99229722141d1cdd275d368077908784"
+      }
+    ],
+    "downloadCount": 477
   },
   {
     "id": "MusicRandomizer",
@@ -8781,7 +9077,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 1699
+    "downloadCount": 1717
   },
   {
     "id": "neutral.both.brakes",
@@ -8846,7 +9142,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 373
+    "downloadCount": 374
   },
   {
     "id": "neutral.keybinded.filter",
@@ -8953,7 +9249,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 3931
+    "downloadCount": 3951
   },
   {
     "id": "neutral.sline",
@@ -9127,7 +9423,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 6883
+    "downloadCount": 6892
   },
   {
     "id": "NO_ChatUI",
@@ -9247,7 +9543,7 @@
         ]
       }
     ],
-    "downloadCount": 485
+    "downloadCount": 487
   },
   {
     "id": "NO_Tactitools",
@@ -9442,7 +9738,7 @@
         ]
       }
     ],
-    "downloadCount": 20960
+    "downloadCount": 20972
   },
   {
     "id": "no-autopilot-mod",
@@ -9832,7 +10128,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 30741
+    "downloadCount": 30771
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -9864,7 +10160,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 750
+    "downloadCount": 759
   },
   {
     "id": "NO-MoarLasers",
@@ -10028,7 +10324,7 @@
     "imageUrl": "https://www.tacview.net/img/ico-tacview.png",
     "imageHash": "ce9298cdcef30b7694a2dcc58bc50222b9b41954da553ff6588133964df605fa",
     "isClientOrServer": "Both",
-    "downloadCount": 6216
+    "downloadCount": 6218
   },
   {
     "id": "NOCobra",
@@ -10355,7 +10651,7 @@
         "hash": "sha256:0af5bd580d11285c5723828da014cf99f00e784dd14b7b40ea700a63e127449b"
       }
     ],
-    "downloadCount": 732
+    "downloadCount": 733
   },
   {
     "id": "NOFFB",
@@ -10496,7 +10792,7 @@
         ]
       }
     ],
-    "downloadCount": 4139
+    "downloadCount": 4140
   },
   {
     "id": "NOImmersiveRearmer",
@@ -10659,7 +10955,7 @@
         "hash": "sha256:d642242bb836ab78e33f8e50982972a4813d0da2b23328044d833e649ed83393"
       }
     ],
-    "downloadCount": 135
+    "downloadCount": 136
   },
   {
     "id": "NoSmoothTime",
@@ -10695,7 +10991,7 @@
         "hash": "sha256:7f4094305adf9fda13233bfb021a706413a50c174a0c7f49d17af5ac58ebfe31"
       }
     ],
-    "downloadCount": 234
+    "downloadCount": 236
   },
   {
     "id": "NOStatsLogger",
@@ -10740,7 +11036,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 75
+    "downloadCount": 77
   },
   {
     "id": "NOVor",
@@ -10870,7 +11166,7 @@
         ]
       }
     ],
-    "downloadCount": 713
+    "downloadCount": 714
   },
   {
     "id": "NoWingmen",
@@ -10901,6 +11197,21 @@
     "artifacts": [
       {
         "fileName": "NoWingmen.dll",
+        "version": "1.1.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/NiJeTi/NoWingmen/releases/download/v1.1.0/NoWingmen.dll",
+        "hash": "sha256:2ca77a98984d4247fb53c1edd76b57dec540cc720d1313e8c1209b7555df5905",
+        "dependencies": [
+          {
+            "id": "InputFramework",
+            "version": "0.0.2"
+          }
+        ]
+      },
+      {
+        "fileName": "NoWingmen.dll",
         "version": "1.0.1",
         "category": "release",
         "type": "plugin",
@@ -10918,7 +11229,7 @@
         "hash": "sha256:d22fe9e8e1f67aacf64bf7abfbb7eaf04e65d3914428b6337a65f58813794398"
       }
     ],
-    "downloadCount": 267
+    "downloadCount": 273
   },
   {
     "id": "NOWinWingBridge",
@@ -11146,7 +11457,7 @@
         ]
       }
     ],
-    "downloadCount": 19400
+    "downloadCount": 19416
   },
   {
     "id": "NOXMFD",
@@ -11793,7 +12104,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/roke77/NOXMFD/main/docs/images/icon.png",
     "imageHash": "c8cbf823cb5147537769080ef8753109bf1bac3515d17d1c70af68c336294de0",
-    "downloadCount": 2559
+    "downloadCount": 2564
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -11844,7 +12155,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 5726
+    "downloadCount": 5730
   },
   {
     "id": "NuclearOption-InfiniteAmmo",
@@ -11906,7 +12217,7 @@
         "hash": "sha256:2408fe71dbf38ec325cc22feec1a75b59849bd29933a4e6131df62273f4a950e"
       }
     ],
-    "downloadCount": 3044
+    "downloadCount": 3047
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -12143,7 +12454,7 @@
         ]
       }
     ],
-    "downloadCount": 5316
+    "downloadCount": 5318
   },
   {
     "id": "NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails",
@@ -12188,7 +12499,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 324
+    "downloadCount": 327
   },
   {
     "id": "NuclearOption-Target-Group-Recall-and-Missile-Defense",
@@ -12307,7 +12618,7 @@
         ]
       }
     ],
-    "downloadCount": 267
+    "downloadCount": 268
   },
   {
     "id": "NuclearOptionCommander",
@@ -12345,7 +12656,7 @@
         ]
       }
     ],
-    "downloadCount": 1277
+    "downloadCount": 1284
   },
   {
     "id": "NuclearOptionControllerTuner",
@@ -12603,7 +12914,7 @@
         "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
       }
     ],
-    "downloadCount": 8219
+    "downloadCount": 8304
   },
   {
     "id": "NuclearVOIP",
@@ -12687,7 +12998,7 @@
         ]
       }
     ],
-    "downloadCount": 3082
+    "downloadCount": 3083
   },
   {
     "id": "OneLife",
@@ -12827,7 +13138,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 850
+    "downloadCount": 855
   },
   {
     "id": "Ornithopter",
@@ -12965,7 +13276,7 @@
         "hash": "sha256:9829adb5135f08d0b129453cb685628a7def130371f8f9770f5d3baf28feb66e"
       }
     ],
-    "downloadCount": 10088
+    "downloadCount": 10094
   },
   {
     "id": "Pauel3312.NOKillWeapons",
@@ -13025,7 +13336,7 @@
         "hash": "sha256:b8899af8d033a66218213b8a041f3d6ca5eddcb21e6617205822eab7cbdd477e"
       }
     ],
-    "downloadCount": 2328
+    "downloadCount": 2332
   },
   {
     "id": "Pauel3312.NOMissingWeapons",
@@ -13085,7 +13396,7 @@
         "hash": "sha256:5a0d349411bfc2eccffdf0cfa29d82c2563766f52da82326a56ab9d639322af4"
       }
     ],
-    "downloadCount": 2158
+    "downloadCount": 2162
   },
   {
     "id": "Pauel3312.PauelsRandomFixes",
@@ -13190,7 +13501,7 @@
         "hash": "sha256:141f8733266f619096b85699271f673c1afc0404d30912d3c25817f2c9b22756"
       }
     ],
-    "downloadCount": 1367
+    "downloadCount": 1380
   },
   {
     "id": "PilotModelReplacer",
@@ -13343,7 +13654,7 @@
         "hash": "sha256:4b5273c9d525ffc2d1881429e885bb2b66dc43885188a1fd00322f4f698d5cb1"
       }
     ],
-    "downloadCount": 222,
+    "downloadCount": 227,
     "imageUrl": "https://raw.githubusercontent.com/mosdef31/NO-Quartermaster/main/images/quartermaster_icon_512.png",
     "imageHash": "76ef5cf07020708a564a0f6c47236fcb53d510750229005ac80372e53357860d"
   },
@@ -13401,7 +13712,7 @@
         ]
       }
     ],
-    "downloadCount": 458
+    "downloadCount": 523
   },
   {
     "id": "RepairProgress",
@@ -13441,7 +13752,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 10368
+    "downloadCount": 10375
   },
   {
     "id": "RepeatTakeoffMusic",
@@ -13479,7 +13790,7 @@
         "hash": "sha256:08dd8400304cc5b6d18ee26611879a39f89709e3140f2dc28f6528008ad38ea2"
       }
     ],
-    "downloadCount": 355
+    "downloadCount": 358
   },
   {
     "id": "RITA_RVWS",
@@ -13544,7 +13855,7 @@
         ]
       }
     ],
-    "downloadCount": 2288,
+    "downloadCount": 2290,
     "isClientOrServer": "Client",
     "imageUrl": "https://raw.githubusercontent.com/muhimin01/no-rita-rvws/refs/heads/main/RITA_icon.webp",
     "imageHash": "8856b86dd147008bf6589ceee72bcb092c64e61db742d6a1b671ecdd7d0ef2eb"
@@ -13589,7 +13900,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 134300,
+    "downloadCount": 134313,
     "isClientOrServer": "Client"
   },
   {
@@ -13631,7 +13942,7 @@
         "hash": "sha256:a1038722ff26f04ba99bf56151892e123370f73ecbc8ae2967d6887dae8617f9"
       }
     ],
-    "downloadCount": 2746
+    "downloadCount": 2756
   },
   {
     "id": "Sitrep",
@@ -13674,7 +13985,7 @@
         "hash": "sha256:81a7192c8b138162096000b2d6608eb089316eca2fafc29cb350f00d1ead84ea"
       }
     ],
-    "downloadCount": 364
+    "downloadCount": 365
   },
   {
     "id": "skyeye_voice",
@@ -13767,7 +14078,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 1526
+    "downloadCount": 1529
   },
   {
     "id": "SplitThrottle",
@@ -13841,7 +14152,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 10192
+    "downloadCount": 10198
   },
   {
     "id": "TarantulaTiltSensitivity",
@@ -13944,7 +14255,49 @@
         "hash": null
       }
     ],
-    "downloadCount": 5422
+    "downloadCount": 5425
+  },
+  {
+    "id": "TBMMWC",
+    "displayName": "Piledriver Maneuverable Warhead Carrier",
+    "description": "A quasi-ballistic Piledriver that carries three maneuverable warheads.Include HLT/MSV launchers.",
+    "tags": [
+      "mod",
+      "weapon",
+      "vehicle",
+      "blueprinter"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Kangkankan/Piledriver-Maneuverable-Warhead-Carrier-mod/blob/main/README.md"
+      },
+      {
+        "name": "discord mod form link",
+        "url": "https://discord.com/channels/909034158205059082/1546700051844440175"
+      }
+    ],
+    "authors": [
+      "kangkankan"
+    ],
+    "githubOwner": "Kangkankan",
+    "githubRepoName": "Piledriver-Maneuverable-Warhead-Carrier-mod",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "Piledriver.MWC_1.0.1.nobp",
+        "version": "1.0.1",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/Kangkankan/Piledriver-Maneuverable-Warhead-Carrier-mod/releases/download/1.0.1/Piledriver.MWC_1.0.1.nobp",
+        "hash": "sha256:90ac25beb9207655694e386ef16d2cdede8a610f08c53bd3e36c66f692041ccd",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      }
+    ]
   },
   {
     "id": "TernionVaporTuner",
@@ -14016,7 +14369,7 @@
         ]
       }
     ],
-    "downloadCount": 3544
+    "downloadCount": 3547
   },
   {
     "id": "ThirdFaction",
@@ -14163,7 +14516,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 5518
+    "downloadCount": 5519
   },
   {
     "id": "ThirdPersonHUDPlusStandalone",
@@ -14206,7 +14559,7 @@
         ]
       }
     ],
-    "downloadCount": 262
+    "downloadCount": 263
   },
   {
     "id": "UndelayedThrottle",
@@ -14328,7 +14681,7 @@
         ]
       }
     ],
-    "downloadCount": 7133
+    "downloadCount": 7142
   },
   {
     "id": "uuvr",
@@ -14391,7 +14744,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 8118
+    "downloadCount": 8120
   },
   {
     "id": "WeatherController",
@@ -14422,7 +14775,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 3858
+    "downloadCount": 3861
   },
   {
     "id": "WingCommand",
@@ -14529,7 +14882,7 @@
         "hash": "sha256:a5ca9f18d2ef36a3729b4a24eafd0d1adf56ba7d8495cbcb929a3413caca9671"
       }
     ],
-    "downloadCount": 997
+    "downloadCount": 1026
   },
   {
     "id": "WSOYappinator",
@@ -14562,7 +14915,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 13974
+    "downloadCount": 13979
   },
   {
     "id": "YawOnMouse",
@@ -14630,7 +14983,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1497
+    "downloadCount": 1498
   },
   {
     "id": "Zorduzd",

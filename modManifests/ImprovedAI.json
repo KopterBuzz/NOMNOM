@@ -21,6 +21,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "ImprovedAI-v0.9.117.zip",
+      "version": "0.9.117",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/L33chKing/NuclearOption-ImprovedAI/releases/download/v0.9.117/ImprovedAI-v0.9.117.zip",
+      "hash": "sha256:5d57f6be268b5db827781884da855b2dbf307df2715c5ad60fa935db60ed099d",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "type": "plugin",
       "fileName": "ImprovedAI-v0.9.116.zip",
       "downloadUrl": "https://github.com/L33chKing/NuclearOption-ImprovedAI/releases/download/v0.9.116/ImprovedAI-v0.9.116.zip",
@@ -35,5 +50,6 @@
         }
       ]
     }
-  ]
+  ],
+  "downloadCount": 194
 }
