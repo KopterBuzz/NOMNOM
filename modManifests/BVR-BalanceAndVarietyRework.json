@@ -1,11 +1,13 @@
 {
   "id": "BVR-BalanceAndVarietyRework",
   "displayName": "BVR - Balance and Variety Rework",
-  "description": "A rebalance project that aims to push Nuclear Option's gameplay towards a more engaging simlite experience while still honouring ShockFront's vision. Fully configurable for Sandbox feel and fully multiplayer compatible.",
+  "description": "A rebalance project that aims to push Nuclear Option's gameplay towards a more engaging simlite experience while still honouring ShockFront's vision. Fully configurable for a sandbox feel and fully multiplayer compatible. Has a long list of features which is best seen on GitHub.",
   "tags": [
     "Balance",
     "QoL",
-    "Flavor"
+    "Flavor",
+    "Gameplay",
+    "Combat"
   ],
   "urls": [
     {
@@ -16,7 +18,6 @@
   "authors": [
     "Draken0015"
   ],
-  "isClientOrServer": "Both",
   "githubOwner": "Drkn420",
   "githubRepoName": "BVR-BalanceAndVarietyRework",
   "autoUpdateArtifacts": "True",
@@ -25,30 +26,40 @@
       "fileName": "BVR-BalanceAndVarietyRework1.2.1.zip",
       "version": "1.2.1",
       "category": "release",
-      "type": "plugin",
+      "type": "addon",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/1.2.1/BVR-BalanceAndVarietyRework1.2.1.zip",
-      "hash": "sha256:27ff4ff6d4cd8d4bd921e81c6b2df89fe72e201bcba4a974daecba9a6badf938"
+      "hash": "sha256:27ff4ff6d4cd8d4bd921e81c6b2df89fe72e201bcba4a974daecba9a6badf938",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
     },
     {
       "fileName": "BVR-BalanceAndVarietyRework.zip",
       "version": "1.1.5",
-      "category": "Release",
-      "type": "plugin",
+      "category": "release",
+      "type": "addon",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/v1.1.5/BVR-BalanceAndVarietyRework.zip",
       "hash": "sha256:6767dbcb36dfcf12b774b3c27d543896733ade2087060c6639e32844f9bf7059",
-      "dependencies": []
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
     },
     {
       "fileName": "0.34.BVR.-.Balance.and.Variety.Rework.1.0.9.dll",
       "version": "1.0.9",
-      "category": "Release",
-      "type": "plugin",
+      "category": "release",
+      "type": "addon",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/v1.0.9/0.34.BVR.-.Balance.and.Variety.Rework.1.0.9.dll",
       "hash": "sha256:ba8467b4249fb68b690c88326dc7559366f6e6678d2083f46b8f6a1caa731980",
-      "dependencies": []
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
     }
   ],
   "downloadCount": 598
