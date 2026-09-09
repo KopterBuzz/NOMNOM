@@ -1,0 +1,55 @@
+{
+  "id": "QuartermasterMod",
+  "displayName": "Quartermaster",
+  "description": "Adds your own options to the convoy purchase menu, read from a quartermaster.json that sits beside the DLL. Write a list a name, a cooldown, an optional icon and the unit ids it contains, and it appears in the donate menu priced off the units themselves. Lists can be grouped into sections and restricted to particular factions. Includes an in-game editor that lists every ground vehicle in the game and writes the file for you. In multiplayer everyone uses the host's file: the host publishes a fingerprint of its list and a player whose list disagrees loses their custom options for the mission rather than buying the wrong bundle.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Server"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mosdef31/NO-Quartermaster/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "mosdef31"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "mosdef31",
+  "githubRepoName": "NO-Quartermaster",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "quartermaster.json",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Quartermaster/releases/download/v1.4.0/quartermaster.json",
+      "hash": "sha256:1f417c0b976ebbb74b45f1fc575933d1582f66058928b563789d5c2dacfafe3a"
+    },
+    {
+      "fileName": "quartermaster.json",
+      "version": "1.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Quartermaster/releases/download/v1.3.0/quartermaster.json",
+      "hash": "sha256:1f417c0b976ebbb74b45f1fc575933d1582f66058928b563789d5c2dacfafe3a"
+    },
+    {
+      "fileName": "QuartermasterMod.zip",
+      "version": "1.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Quartermaster/releases/download/v1.2.2/QuartermasterMod.zip",
+      "hash": "sha256:4b5273c9d525ffc2d1881429e885bb2b66dc43885188a1fd00322f4f698d5cb1"
+    }
+  ],
+  "downloadCount": 222,
+  "imageUrl": "https://raw.githubusercontent.com/mosdef31/NO-Quartermaster/main/images/quartermaster_icon_512.png",
+  "imageHash": "76ef5cf07020708a564a0f6c47236fcb53d510750229005ac80372e53357860d"
+}

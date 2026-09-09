@@ -25,7 +25,7 @@
       "version": "1.2.0",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.33",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/mosdef31/NOAS/releases/download/v1.2.0/AirSpawnMod.dll",
       "hash": "sha256:fcc5646795df7ed910632fb8a016cb0b6ebe9e425f63f301a58297a70881dc49"
     },
@@ -48,5 +48,5 @@
       "hash": "bbcffdcba57d78f653a3f979ccf6c5280fc57501e8d314d032f7ea1a5ab50e9f"
     }
   ],
-  "downloadCount": 1416
+  "downloadCount": 1697
 }

@@ -1,0 +1,71 @@
+{
+  "id": "NO_ChatUI",
+  "displayName": "Chat UI",
+  "description": "Allows separating General Chat and Kill Feed panels, adjusting their locations and sizes, and scrolling through their histories.",
+  "tags": [
+    "mod",
+    "QoL",
+    "UI"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Appulcake/NO_ChatUI"
+    }
+  ],
+  "authors": [
+    "Appulcake"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Appulcake",
+  "githubRepoName": "NO_ChatUI",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NO_ChatUI.zip",
+      "version": "0.34.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_ChatUI/releases/download/v0.34.2.3/NO_ChatUI.zip",
+      "hash": "sha256:a2981fc4f2d316d78bf909700956fbd2a6a1c4b0140fa57fc07844c607a125f1",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NO_ChatUI.zip",
+      "version": "0.34.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_ChatUI/releases/download/v0.34.2.2/NO_ChatUI.zip",
+      "hash": "sha256:f9fc7536b383884d45aece669fb4701a7531dd18075816ebf8ccb453027628f7",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NO_ChatUI.zip",
+      "version": "0.34.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_ChatUI/releases/download/v0.34.2.1/NO_ChatUI.zip",
+      "hash": "sha256:ad4dddf9b10736a6b17d856b7ae156abb2423ad05717ddd6c046a9c87038b470",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 45
+}

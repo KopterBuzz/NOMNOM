@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx_RAH_72_Knockout_1.1.0.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-RAH-72-Knockout/releases/download/1.1.0/Aryx_RAH_72_Knockout_1.1.0.dll",
+      "hash": "sha256:95264357e4b39044d0365f776164c00be07e7e4ffe7e4ee6951d2a640c77a034",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
       "fileName": "Aryx_RAH_72_Knockout_1.0.9.dll",
       "version": "1.0.9",
       "category": "release",
@@ -156,5 +169,5 @@
       }
     }
   ],
-  "downloadCount": 50440
+  "downloadCount": 59957
 }
