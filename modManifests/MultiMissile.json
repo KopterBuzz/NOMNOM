@@ -1,0 +1,35 @@
+{
+  "id": "MultiMissile",
+  "displayName": "MultiMissile",
+  "description": "Adds various missiles to Nuclear Option, currently all real-world service missiles.",
+  "tags": [
+    "mod",
+    "Combat",
+    "Weapon"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/kingwixly/Multi-Missile/"
+    }
+  ],
+  "authors": [
+    "kingwixly",
+    "JustJ"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "kingwixly",
+  "githubRepoName": "Multi-Missile",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Multi-Missile.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/kingwixly/Multi-Missile/releases/download/1.0.0/Multi-Missile.dll",
+      "hash": "sha256:25710f1307ccff0a3238adf5921ddb5f99229722141d1cdd275d368077908784"
+    }
+  ]
+}
