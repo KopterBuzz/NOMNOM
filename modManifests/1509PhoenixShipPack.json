@@ -28,7 +28,7 @@
       "category": "release",
       "type": "addon",
       "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/phoenix15099/NO_1509_ShipPack/releases/tag/V0.1.3",
+      "downloadUrl": "https://github.com/phoenix15099/NO_1509_ShipPack/releases/download/V0.1.3/PhoenixShipPack_0.1.3.nobp",
       "extends": {
         "id": "com.nikkorap.blueprinter",
         "version": "2.0.1"
