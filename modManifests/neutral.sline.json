@@ -26,6 +26,15 @@
   "artifacts": [
     {
       "fileName": "SLine.dll",
+      "version": "1.6.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.6.7/SLine.dll",
+      "hash": "sha256:f2339df0ad8f711223e159d44a1d6883769e5ec3f9e52870a4eabf0fadcec8ee"
+    },
+    {
+      "fileName": "SLine.dll",
       "version": "1.6",
       "category": "release",
       "type": "plugin",
@@ -88,5 +97,5 @@
       "category": "Release"
     }
   ],
-  "downloadCount": 581
+  "downloadCount": 584
 }

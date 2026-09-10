@@ -26,6 +26,15 @@
   "artifacts": [
     {
       "fileName": "KeybindedFilterMod.dll",
+      "version": "1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/keybinded-filter-preset/releases/download/1.2/KeybindedFilterMod.dll",
+      "hash": "sha256:5db6da0435dff6da35e806523a3206bb7a3575543c96e58f93961f00a4d44ab7"
+    },
+    {
+      "fileName": "KeybindedFilterMod.dll",
       "version": "1.1.1",
       "category": "release",
       "type": "plugin",

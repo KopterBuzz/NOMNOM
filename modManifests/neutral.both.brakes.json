@@ -26,6 +26,15 @@
   "artifacts": [
     {
       "fileName": "BothBrakesMod.dll",
+      "version": "1.3.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/both-brakes-control/releases/download/1.3.5/BothBrakesMod.dll",
+      "hash": "sha256:961d71e5670b4d8dc920ee7c4893410c96fd2a0d19694365af333a3f3f81d46e"
+    },
+    {
+      "fileName": "BothBrakesMod.dll",
       "version": "1.3",
       "category": "release",
       "type": "plugin",
@@ -61,5 +70,5 @@
       "category": "Release"
     }
   ],
-  "downloadCount": 377
+  "downloadCount": 380
 }
