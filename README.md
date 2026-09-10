@@ -45,8 +45,9 @@ If Custom DLL or Executable Files in your Mod Release(s) are found to be inconsi
 
 3.1
 
-If your Mod uses, adapts or contains Third-Party Assets that are under any specific licenses, you must give credit to the Original Creator or Copyright Holder of the Assets, and display the Licenses under which these Assets were made available. Failure to do so may result in the specific Submission(s) that breach this clause being denied, or the specific Mod(s) found to be breaching this clause to be delisted.
-  - Example: Using a 3d model of an aircraft or a vehicle that was made by someone else and released under e.g. Creative Commons License, but not crediting the author and displaying the License in the project's repository.
+If your Mod uses, adapts or contains any Third Parties' Work that are under any specific licenses, you must give credit to the Original Creator or Copyright Holder of the Work, and display the Licenses under which this Work was made available. Failure to do so may result in the specific Submission(s) that breach this clause being denied, or the specific Mod(s) found to be breaching this clause to be delisted.
+  - Example 1: Using a 3d model of an aircraft or a vehicle that was made by someone else and released under e.g. Creative Commons License, but not crediting the author and displaying the License in the project's repository.
+  - Example 2: Forking someone else's Mod project and publishing it as your own.
 
 3.2
 
