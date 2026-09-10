@@ -26,6 +26,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "com.basicGrowl-1.0.4.zip",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases/download/1.0.4/com.basicGrowl-1.0.4.zip",
+      "hash": "sha256:018e65f6fdaa5f3679fb95f16eb77b34eddb57dbd16e60290d55e6d2cc5c4ed1"
+    },
+    {
       "fileName": "com.basicGrowl-1.0.3.zip",
       "version": "1.0.3",
       "category": "release",
@@ -62,5 +71,5 @@
       "hash": "sha256:837dfb023b5ba23d8ac9683ec23b03b3d6a7d35c3e2c4ed97ac9cd9187baca13"
     }
   ],
-  "downloadCount": 3606
+  "downloadCount": 3607
 }
