@@ -8,6 +8,7 @@ on:
 
 jobs:
   run-script-windows:
+    if: github.repository == 'KopterBuzz/NOMNOM'
     runs-on: windows-latest
     steps:
       - name: Checkout Code

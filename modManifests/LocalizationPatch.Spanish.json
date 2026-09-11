@@ -21,6 +21,33 @@
   "artifacts": [
     {
       "fileName": "LocalizationPatch_es.zip",
+      "version": "3.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-SpanishPatch/releases/download/v3.5.1/LocalizationPatch_es.zip",
+      "hash": "sha256:66c2eb130220c243fc32d752d49137bfff463bc0091b4ce86ecc5c2a12cc1b68",
+      "incompatibilities": [
+        {
+          "id": "LocalizationPatch.Korean",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "fileName": "LocalizationPatch_es.zip",
       "version": "3.0.1",
       "category": "release",
       "type": "plugin",
@@ -317,5 +344,5 @@
       ]
     }
   ],
-  "downloadCount": 160
+  "downloadCount": 235
 }

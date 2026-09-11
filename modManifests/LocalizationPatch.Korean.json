@@ -21,6 +21,60 @@
   "artifacts": [
     {
       "fileName": "LocalizationPatch_ko.zip",
+      "version": "3.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-KoreanPatch/releases/download/v3.5.1/LocalizationPatch_ko.zip",
+      "hash": "sha256:38f464e3ac7d8afdadbbe790b1c3096bcabb95e70f37c5bb376b38be17361e35",
+      "incompatibilities": [
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "fileName": "LocalizationPatch_ko.zip",
+      "version": "3.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-KoreanPatch/releases/download/v3.5.0/LocalizationPatch_ko.zip",
+      "hash": "sha256:7b72f54a8df0b921a974a8a38cb664195ada60aa7e850bf6d6b45fa944403279",
+      "incompatibilities": [
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "fileName": "LocalizationPatch_ko.zip",
       "version": "3.0.1",
       "category": "release",
       "type": "plugin",
@@ -317,5 +371,5 @@
       ]
     }
   ],
-  "downloadCount": 580
+  "downloadCount": 706
 }

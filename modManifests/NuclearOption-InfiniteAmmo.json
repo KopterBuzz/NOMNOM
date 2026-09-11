@@ -1,0 +1,62 @@
+{
+  "id": "NuclearOption-InfiniteAmmo",
+  "displayName": "Infinite Ammo",
+  "description": "Rearms ALL weapon stations (including linked guns and AI-gunner stations) and ALL countermeasure dispensers when empty, and refuels at low fuel. SINGLEPLAYER ONLY - rearm/refuel writes are server-authoritative and ignored on real multiplayer servers.",
+  "tags": [
+    "cheat",
+    "singleplayer",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/cosistra/nuclear-option-infinite-ammo"
+    }
+  ],
+  "authors": [
+    "cosistra",
+    "DaBlackPantha"
+  ],
+  "githubOwner": "cosistra",
+  "githubRepoName": "nuclear-option-infinite-ammo",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-InfiniteAmmo.dll",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/nuclear-option-infinite-ammo/releases/download/v1.4.0/NuclearOption-InfiniteAmmo.dll",
+      "hash": "sha256:d1a8a314ea931f1f1d50222be951657a69c6f251ba14d99d14a8997aa6dd143d"
+    },
+    {
+      "fileName": "NuclearOption-InfiniteAmmo.dll",
+      "version": "1.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/nuclear-option-infinite-ammo/releases/download/v1.3.0/NuclearOption-InfiniteAmmo.dll",
+      "hash": "sha256:a2587d9a8b4b637e482f13ef0a4a91acfc222bc73ba7b18f1c8c12cce556d4bf"
+    },
+    {
+      "fileName": "NuclearOption-InfiniteAmmo.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/nuclear-option-infinite-ammo/releases/download/v1.2.0/NuclearOption-InfiniteAmmo.dll",
+      "hash": "sha256:179cc277811e478cac562b241d3d384460ac8203c41644548c1b07ba0085df15"
+    },
+    {
+      "fileName": "NuclearOption-InfiniteAmmo.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/nuclear-option-infinite-ammo/releases/download/v1.1.0/NuclearOption-InfiniteAmmo.dll",
+      "hash": "sha256:2408fe71dbf38ec325cc22feec1a75b59849bd29933a4e6131df62273f4a950e"
+    }
+  ],
+  "downloadCount": 3084
+}

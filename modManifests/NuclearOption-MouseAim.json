@@ -1,0 +1,205 @@
+{
+  "id": "NuclearOption-MouseAim",
+  "displayName": "WT Mouse Aim",
+  "description": "War Thunder-style point-and-chase mouse aim for Nuclear Option. The mouse moves a world-locked aim marker; a thin instructor rolls the aircraft's lift vector onto it then pulls up into it, and levels out as the nose arrives. The game's own fly-by-wire still governs the envelope. Includes cockpit and third-person camera follow, per-axis manual stick override, RMB free-look, a Fly Level autopilot toggle, and 50+ live-tunable parameters (F1 via BepInEx ConfigurationManager).",
+  "tags": [
+    "flight control",
+    "mouse",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/cosistra/wt-mouse-aim"
+    }
+  ],
+  "authors": [
+    "cosistra"
+  ],
+  "githubOwner": "cosistra",
+  "githubRepoName": "wt-mouse-aim",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.68.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.68.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:65685db9875255c32f9c6402414447ce21ef61fb4f0e8f5c925fa22b7609f5bb",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.58.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.58.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:959c9e0582ba73d2d4f280e36636f16666010a743f036a34bb77c94fd8dc82fc",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.54.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.54.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:c443a5cee92551e6630de8ac98f2242e1c4c34fb751c8cd388979b5b58e689d1",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.50.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.50.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:98b448b27054201345b9841d053e945485e71b91167b5f12d3b512e88b4efd87",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.49.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.49.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:8c3ab1f08e89a689cd4ea09088c124f669f698095bc0121d6edfd61e81843c35",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.47.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.47.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:5e74b3cc07538a158b7b582e7927bab9e6b07112c21cec2f3679d0ab7ded1489",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.34.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.34.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:37fd7a97fce9f938eb8524e1a23728051aecbc1878785a4a162073175b722338",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.33.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.33.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:eee6c65b9d015af60d710be850f1bb02da973a23d6a03f93269e47edc1835f42",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.32.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.32.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:60ce1cc2cdc1dfe958d6cafb99b9e5ce1867f89c1106b5d96d4c3e69f6397e65",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.28.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.28.2/NuclearOption-MouseAim.dll",
+      "hash": "sha256:8222e72d377c7dca1b5dda0d081cc506070314c5023e2ae73bd0fca71d3616a4",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.28.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.28.1/NuclearOption-MouseAim.dll",
+      "hash": "sha256:7a1d1f0d40b045667dccbba96ab606a54d7c629c0cefd6224bb3bcf3180c4eb4",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOption-MouseAim.dll",
+      "version": "0.27.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/cosistra/wt-mouse-aim/releases/download/v0.27.0/NuclearOption-MouseAim.dll",
+      "hash": "sha256:2f87ac3f2c19d4766136c6489f13ae43cc922246023c07cb43962fbec4528c74",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 5366
+}

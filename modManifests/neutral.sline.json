@@ -1,0 +1,101 @@
+{
+  "id": "neutral.sline",
+  "displayName": "Sline",
+  "description": "Multi-color lines that allows you to see the intended target of all missile and units in real time",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/sline/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "sline",
+  "autoUpdateArtifacts": "True",
+  "dependencies": [
+    {
+      "id": "InputFramework",
+      "version": "0.0.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "fileName": "SLine.dll",
+      "version": "1.6.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.6.7/SLine.dll",
+      "hash": "sha256:f2339df0ad8f711223e159d44a1d6883769e5ec3f9e52870a4eabf0fadcec8ee"
+    },
+    {
+      "fileName": "SLine.dll",
+      "version": "1.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.6/SLine.dll",
+      "hash": "sha256:91880b80aebeb56f672cfaa9185b22671c9e0a645b9d4c705a0504a0c8b668db"
+    },
+    {
+      "fileName": "SLine.dll",
+      "version": "1.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.5/SLine.dll",
+      "hash": "sha256:7a3eeb02ed9ceb18b52f64986229749c354be93a8327b21d3ec88eae9631e153"
+    },
+    {
+      "fileName": "Sline.zip",
+      "version": "1.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.4/Sline.zip",
+      "hash": "sha256:105ce9478e42ce88f5da5c1722e5ccc5dedac4dcfb29afb8270bb36cc771e376"
+    },
+    {
+      "fileName": "Sline.rar",
+      "version": "1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.3/Sline.rar",
+      "hash": "sha256:41c808a9e705772ec67f816427b06bb7ec9193a897aaf36ede6d62c614d58f68"
+    },
+    {
+      "fileName": "SLine.dll",
+      "version": "1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.2/SLine.dll",
+      "hash": "sha256:b838dd092e527242dbd7d28ee1ce1b14eecb4e3bdd17670d4afd3d4ac8625ffa"
+    },
+    {
+      "fileName": "SLine.dll",
+      "version": "1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.1/SLine.dll",
+      "hash": "sha256:61debe12dbd176aa4fda6eb4987d02f2400d62c9bbe7e86cb909920154a84a2f"
+    },
+    {
+      "type": "plugin",
+      "fileName": "SLine_v.1.6.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/sline/releases/download/1.6/SLine_v.1.6.0.zip",
+      "hash": "sha256:f79781c3dbfb39e748e0ede38ea97132cc1d8c9513c78468667304d816550e14",
+      "gameVersion": "0.34.1",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ],
+  "downloadCount": 611
+}

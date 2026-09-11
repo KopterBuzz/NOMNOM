@@ -1,14 +1,24 @@
 {
   "id": "AtomicFramework",
   "displayName": "AtomicFramework",
-  "description": "AtomicFramework is a framework and utility library for developing mods for the game Nuclear Option.",
+  "description": "Modding framework and utilities for Nuclear Option. Note: The NOMNOM compatible version has some features removed.",
   "tags": [
-    "mod"
+    "mod",
+    "QoL",
+    "multiplayer"
   ],
-  "infoUrl": [
+  "urls": [
     {
       "name": "info",
       "url": "https://github.com/TYKUHN2/AtomicFramework"
+    },
+    {
+      "name": "bugs",
+      "url": "https://github.com/TYKUHN2/AtomicFramework/issues"
+    },
+    {
+      "name": "security",
+      "url": "https://github.com/TYKUHN2/AtomicFramework/security"
     }
   ],
   "authors": [
@@ -16,17 +26,16 @@
   ],
   "githubOwner": "TYKUHN2",
   "githubRepoName": "AtomicFramework",
-  "autoUpdateArtifacts": "True",
+  "autoUpdateArtifacts": "False",
   "artifacts": [
     {
-      "fileName": "AtomicFramework.7z",
-      "version": "0.1.0",
+      "fileName": "AtomicFramework-NOMNOM.7z",
+      "version": "0.2.0",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/TYKUHN2/AtomicFramework/releases/download/v0.1.0/AtomicFramework.7z",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/TYKUHN2/AtomicFramework/releases/download/v0.2.0/AtomicFramework-NOMNOM.7z",
       "hash": null
     }
-  ],
-  "downloadCount": 72
+  ]
 }

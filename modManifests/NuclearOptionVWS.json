@@ -1,0 +1,124 @@
+{
+  "id": "NuclearOptionVWS",
+  "displayName": "Nuclear Option Voice Warning System",
+  "description": "This mod expands on the voice warning system in the base game adding a variety of callouts for external hazards (such as enemy aircraft, missiles or ground units) and internal hazards (Such as altitude warnings, AoA and Gforce warnings as well as recommendation for ejection). Mod contains a pack handling system allowing for the quick import of audio and settings. Instructions on how to use mod are present in the README on Github.",
+  "tags": [
+    "Sound",
+    "QoL",
+    "Flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System"
+    }
+  ],
+  "authors": [
+    "Aeriicatmeow"
+  ],
+  "githubOwner": "Aeriicatmeow",
+  "githubRepoName": "Nuclear-Option-Voice-Warning-System",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.9",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.9/NuclearOptionVWS.dll",
+      "hash": "sha256:0a4fe4b696205a0f069302f48e1ba16d8a332d1eceadfb65e37453f10c16cdca"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.8/NuclearOptionVWS.dll",
+      "hash": "sha256:6cdda59b81a04e27223cc33edbb59c3c23bfbf46c071232e759c857a009133cf"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.7/NuclearOptionVWS.dll",
+      "hash": "sha256:3124b3e347ed607ec723e6e77134c33892b7f048fd9bbcf5cc28cb08e7470c14"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.6/NuclearOptionVWS.dll",
+      "hash": "sha256:05ddf0e2d8825914f47314971706c28255865a7b1eae6a6c7077885f2ef87934"
+    },
+    {
+      "fileName": "Betty.zip",
+      "version": "1.2.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.5/Betty.zip",
+      "hash": "sha256:142fa6a80d62c047b7e8096863492702f354a0d381ebe713e0c5d0ae63046b68"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.4/NuclearOptionVWS.dll",
+      "hash": "sha256:f30f029f34cf5568ee97592488fdb91c50e0e7c5d4aa1badac0ee5634b757e0b"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.3/NuclearOptionVWS.dll",
+      "hash": "sha256:14e70d534972b6b39e2d877355b75e101adb88e8c0aa0ce4057544be8282db4a"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.2/NuclearOptionVWS.dll",
+      "hash": "sha256:e759c9ab4fa039d256d69a55a0cdab7f4eca7e66cbe5e3c3760966784472d4cd"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.1/NuclearOptionVWS.dll",
+      "hash": "sha256:e6089c3d84672ee43e8d81b12974085e3288d669dcaee5a6af644a01e28f1c0e"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.0/NuclearOptionVWS.dll",
+      "hash": "sha256:25c2d413d5ce3d7e1658a70936b629c0d951192a0e5ccb4baea23609b86c4dea"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
+      "version": "1.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.1.3/NuclearOptionVWS.dll",
+      "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
+    }
+  ],
+  "downloadCount": 9240
+}

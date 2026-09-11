@@ -1,0 +1,51 @@
+{
+  "id": "com.kiss",
+  "displayName": "KISS Mod (Kinetic Interception Secondary System)",
+  "description": "Detonate the warhead early if intercepted or crashed",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/kiss-mod"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "kiss-mod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "KISSMod.dll",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/SonPamungkas/kiss-mod/releases/download/1.1.1/KISSMod.dll",
+      "hash": "sha256:e03a8325a3ad4777ab1445a43f11e1d2f2c482c29615070e35e78cb221b114eb"
+    },
+    {
+      "fileName": "KISSMod.dll",
+      "version": "1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/SonPamungkas/kiss-mod/releases/download/1.1/KISSMod.dll",
+      "hash": "sha256:97ab90ca3850926436726bb78c15e6c68467cc8a25c674e2d53ccd7147fc434b"
+    },
+    {
+      "type": "plugin",
+      "fileName": "com.kiss_v1.0.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/kiss-mod/releases/download/1.0b/com.kiss_v1.0.0.zip",
+      "hash": "sha256:5977db9883d63cd214c0327134bd6bf97e473aa78417bbdb3d8cb37f5bde1e4c",
+      "gameVersion": "0.33.3",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ],
+  "downloadCount": 3664
+}

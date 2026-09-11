@@ -21,6 +21,24 @@
   "artifacts": [
     {
       "fileName": "LocalizationPatch_ua.zip",
+      "version": "3.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-UkrainianPatch/releases/download/v3.5.1/LocalizationPatch_ua.zip",
+      "hash": "sha256:bfc05240f394e6dfb3a90ec44bd36dd2136c96004cbfab4fe65430202365df46"
+    },
+    {
+      "fileName": "LocalizationPatch_ua.zip",
+      "version": "3.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-UkrainianPatch/releases/download/v3.5.0/LocalizationPatch_ua.zip",
+      "hash": "sha256:eda217f3649f576956a0ae8abff4512560c1fa12ee5e953ff40e780b167ad132"
+    },
+    {
+      "fileName": "LocalizationPatch_ua.zip",
       "version": "3.0.1",
       "category": "release",
       "type": "plugin",
@@ -47,5 +65,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 96
+  "downloadCount": 167
 }

@@ -1,0 +1,33 @@
+{
+  "id": "com.minec.CameraImprovements",
+  "displayName": "Camera Improvements",
+  "description": "Various small tweaks and improvements to the camera and camera tools",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/MinecrackTyler/NOCameraImprovements"
+    }
+  ],
+  "authors": [
+    "minecracktyler"
+  ],
+  "githubOwner": "MinecrackTyler",
+  "githubRepoName": "NOCameraImprovements",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOCameraImprovements_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/MinecrackTyler/NOCameraImprovements/releases/download/v1.0.0/NOCameraImprovements_1.0.0.dll",
+      "hash": "sha256:ceca2a5c7c816187da113d34dd6d07c2903ddedac0f5f8deefd03388d916b5ef"
+    }
+  ],
+  "downloadCount": 130
+}

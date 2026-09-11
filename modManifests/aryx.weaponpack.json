@@ -1,0 +1,160 @@
+{
+  "id": "aryx.weaponpack",
+  "displayName": "Aryx Weaponry Pack",
+  "description": "A weapon pack by Aryx featuring new cruise missiles, targeting pods, functional drop tanks, glide bombs and more!",
+  "tags": [
+    "mod",
+    "weapons",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/AryxWeaponryPack/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/shipyard"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "AryxWeaponryPack",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "AryxWeaponsPack_1.0.8.1.dll",
+      "version": "1.0.8.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.8.1/AryxWeaponsPack_1.0.8.1.dll",
+      "hash": "sha256:7003fdc74548f3c0e00ff85378a58241dff031f4a1ff4f61702ae127ed841253",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.8.dll",
+      "version": "1.0.8",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.8/AryxWeaponsPack_1.0.8.dll",
+      "hash": "sha256:15e7da70562b25023e3e99624cfe0c3ffe5e3803412ecbc56bb84626c2d6a536",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.7.2.dll",
+      "version": "1.0.7.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.7.2/AryxWeaponsPack_1.0.7.2.dll",
+      "hash": "sha256:8eebaeb477fb9bc23b2d57c2942f861b872ca1f472da9c948185972889222505",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.7.1.dll",
+      "version": "1.0.7.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.7.1/AryxWeaponsPack_1.0.7.1.dll",
+      "hash": "sha256:c01a32f817b561d6499b241bde8a6da5a8dd4f834474ef80b4993e472dc33e6b",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.7.dll",
+      "version": "1.0.7",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.7/AryxWeaponsPack_1.0.7.dll",
+      "hash": "sha256:8f826193ab9fbc80eb9373738042db279835bd5d74d86d032af9a0f44d47dc93",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.6.dll",
+      "version": "1.0.6",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.6/AryxWeaponsPack_1.0.6.dll",
+      "hash": "sha256:bfe000accceaf7805cee7a1a1f88553fd7a6dc404ec9171f62bb0b581ff0fa10",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.5.dll",
+      "version": "1.0.5",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.5/AryxWeaponsPack_1.0.5.dll",
+      "hash": "sha256:624a9d310211ddb1b76445b8423d1ea0b8a04f15967561920b92acf6677baa3b",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.4.dll",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.4/AryxWeaponsPack_1.0.4.dll",
+      "hash": "sha256:a810ec98f6e25ff34dac2ad5fef3cdcd49d022c7f36a6b5aa9fac3fc96edfc15",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.3.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.3/AryxWeaponsPack_1.0.3.dll",
+      "hash": "sha256:bdc1ce4f4cb2573fa22fbbc72a2b1e5faf2aed5502c5da8b10d2fca13693300c",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.2.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.2/AryxWeaponsPack_1.0.2.dll",
+      "hash": "sha256:e73c6294de3486b4451278d0e2ceb9ace8e3114d16e1799607b4305ec24800f7",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    }
+  ],
+  "downloadCount": 26869
+}

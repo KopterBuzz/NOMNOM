@@ -1,0 +1,41 @@
+{
+  "id": "neutral.surface.loadout",
+  "displayName": "Surface Loadout",
+  "description": "Configure the loadout of surface unit (Vehicles, Building, Ship).",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/surface-loadout"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "surface-loadout",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "SurfaceLoadout.dll",
+      "version": "2.3.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/SonPamungkas/surface-loadout/releases/download/2.3.3/SurfaceLoadout.dll",
+      "hash": "sha256:674f0660c41fe1d15a804869e8d051aca0444825eff7562c3ff64db9d2b6b799"
+    },
+    {
+      "type": "plugin",
+      "fileName": "SurfaceLoadout_v.2.3.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/surface-loadout/releases/download/2.3.0/SurfaceLoadout_v.2.3.0.zip",
+      "hash": "sha256:575a911271dca8398abe42c62e1ed6b58dabc02398c81d516cb550ae674f7467",
+      "gameVersion": "0.34",
+      "version": "2.3.0",
+      "category": "Release"
+    }
+  ],
+  "downloadCount": 526
+}

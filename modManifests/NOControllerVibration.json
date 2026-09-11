@@ -21,6 +21,51 @@
   "artifacts": [
     {
       "fileName": "NOCV.zip",
+      "version": "0.34.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.34.1.0/NOCV.zip",
+      "hash": "sha256:85e1485874db42d4ef612d9a0f9dec735e7b3d8fb7032e865f2e2e6e88f33635"
+    },
+    {
+      "fileName": "NOCV.zip",
+      "version": "0.34.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.34.0.0/NOCV.zip",
+      "hash": "sha256:63014052a9c917b39884a3378d3ba5fd0ef26a7977aaee535e0f3b50b34926b8"
+    },
+    {
+      "fileName": "NOCV.zip",
+      "version": "0.33.4.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.33.4.2/NOCV.zip",
+      "hash": "sha256:d818ef3abd2a6d573947d40c29741d0ac5e0b5cf2f2442ad02d9ed800a4cfef6"
+    },
+    {
+      "fileName": "NOCV.zip",
+      "version": "0.33.4.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.33.4.1/NOCV.zip",
+      "hash": "sha256:4d695429c7bc1f142ee20fd9d6688508f89a408ee0d5f3fab2bb7bb99a7f33cc"
+    },
+    {
+      "fileName": "NOCV.zip",
+      "version": "0.33.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.33.4.0/NOCV.zip",
+      "hash": "sha256:fdfe602eac1db0fa1d77aa084daf9e776c534a3f70ad6d382e8f2e0d82a85e9c"
+    },
+    {
+      "fileName": "NOCV.zip",
       "version": "0.33.3.7",
       "category": "release",
       "type": "plugin",
@@ -110,5 +155,5 @@
       "hash": "sha256:0d65fdb6fb55601346750c0e9251bcd14e52a631bf4fa540aba835d781401d74"
     }
   ],
-  "downloadCount": 501
+  "downloadCount": 1485
 }

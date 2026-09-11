@@ -6,7 +6,7 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": [
+  "urls": [
     {
       "name": "info",
       "url": "https://github.com/nikkorap/NO-WSO-Yappinator"
@@ -16,7 +16,7 @@
     "nikkorap"
   ],
   "githubOwner": "nikkorap",
-  "githubRepoName": "NOLiveryPlus",
+  "githubRepoName": "NO-WSO-Yappinator",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
@@ -26,8 +26,8 @@
       "type": "plugin",
       "gameVersion": "0.32",
       "downloadUrl": "https://github.com/nikkorap/NO-WSO-Yappinator/releases/download/2.1.1/com.nikkorap.WSOYappinator_2.1.1.dll",
-      "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
+      "hash": null
     }
   ],
-  "downloadCount": 399
+  "downloadCount": 14049
 }

@@ -1,0 +1,105 @@
+{
+  "id": "Pauel3312.PauelsRandomFixes",
+  "displayName": "PauelsRandomFixes",
+  "description": "Random fixes for Nuclear Option. All fixes are configurable and can be disabled separately at any time.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/pauel3312/PauelsRandomFixes"
+    }
+  ],
+  "authors": [
+    "pauel3312"
+  ],
+  "githubOwner": "pauel3312",
+  "githubRepoName": "PauelsRandomFixes",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.34.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.34.2.1/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:16a023fae0afa06f9c1bdbbce25f4425a7e31edb30e86482687da360f14f6b3e"
+    },
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.34.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.34.2.0/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:34e9a1c064263adabba62c8b6e37505ead6763a9ca92a92e030f51f238f6f8ee"
+    },
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.34.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.34.1.0/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:2b99833c95e8989ca61bf30ca2fff2146d37a5b917461d39bb8cec7f5ca79536"
+    },
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.34.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.34.0.0/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:2a255385dfae5ab13be23a5f2d26619e1ade1c0fd71846348f26374fe28fd85d"
+    },
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.33.4.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.33.4.4/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:a6df7ec531c5c22e5f2ae33f579322dccdf2b5e3e85ca64b0c8c758b9d75b42e"
+    },
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.33.4.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.33.4.3/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:51dda76cf8b268256a4ca660f2abc8b2e74b6ca4f3a18399da3eee2bc09c47e2"
+    },
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.33.4.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.33.4.2/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:9ba9fff5372f4fd923d90612bfc9ea347e8bbbc322f5d5f50dfed2a6e6beec3e"
+    },
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.33.4.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.33.4.1/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:785a4bce4cdc8d70edf06a94d6a7a73c519454e440f5b725184fe83a1f596033"
+    },
+    {
+      "fileName": "PRF.zip",
+      "version": "0.33.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.33.4.0/PRF.zip",
+      "hash": "sha256:141f8733266f619096b85699271f673c1afc0404d30912d3c25817f2c9b22756"
+    }
+  ],
+  "downloadCount": 1477
+}

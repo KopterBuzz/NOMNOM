@@ -1,0 +1,118 @@
+{
+  "id": "bl.missiles",
+  "displayName": "BL Modern Missiles Pack",
+  "description": "Adds several current-era, modern, guided and unguided missiles to Nuclear Option as well as a few older ones.",
+  "tags": [
+    "mod",
+    "weapons",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "Readme File",
+      "url": "https://github.com/Lyco-Mirai/NO.BL_Missiles/blob/main/README.md"
+    },
+    {
+      "name": "Github Repo",
+      "url": "https://github.com/Lyco-Mirai/NO.BL_Missiles"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/C3hv5pCw2q"
+    }
+  ],
+  "authors": [
+    "MLonsdale"
+  ],
+  "contributors": [
+    "Aryx",
+    "LoserRoxx",
+    "Combat787",
+    "7ep3s"
+  ],
+  "githubOwner": "Lyco-Mirai",
+  "githubRepoName": "NO.BL_Missiles",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "BL_Missiles.dll",
+      "version": "0.3.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Lyco-Mirai/NO.BL_Missiles/releases/download/0.3.2/BL_Missiles.dll",
+      "hash": "sha256:239cdc6e6abdde5881ee0ce12f4d101da6db122d08f9e614d91eba18a58a0cd1",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
+      "fileName": "BL_Missiles.dll",
+      "version": "0.3.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Lyco-Mirai/NO.BL_Missiles/releases/download/0.3.0/BL_Missiles.dll",
+      "hash": "sha256:4299995d9f0b571cb41a8ec352acade805b8afd6d5b435546433a8800f6ce339",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
+      "fileName": "BL_Missiles.dll",
+      "version": "0.2.9",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Lyco-Mirai/NO.BL_Missiles/releases/download/0.2.9/BL_Missiles.dll",
+      "hash": "sha256:9725a80d7aec7ed21f2e0d1e3280147ba4e71c26fc6499e4ded48896458429a6",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
+      "fileName": "BL_Missiles_0.2.7.dll",
+      "version": "0.2.7",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Lyco-Mirai/NO.BL_Missiles/releases/download/0.2.7/BL_Missiles_0.2.7.dll",
+      "hash": "sha256:4580c94493db5eac9b0d5ffdd72c7809f485aa1a626101380b298f9f84bf7e02",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
+      "fileName": "BL_Missiles_0.2.6.dll",
+      "version": "0.2.6",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Lyco-Mirai/NO.BL_Missiles/releases/download/0.2.6/BL_Missiles_0.2.6.dll",
+      "hash": "sha256:b5c43e2a33a57fe73eaae670e93c433e5a2351d2a481a384409ec8985df50730",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
+      "fileName": "BL_Missiles_0.2.0.dll",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Lyco-Mirai/NO.BL_Missiles/releases/download/0.2.0/BL_Missiles_0.2.0.dll",
+      "hash": "sha256:ea142b6832d3e902769519abd2645f40288bf1a77da25b9235c93b840583e573",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    }
+  ],
+  "downloadCount": 1679
+}

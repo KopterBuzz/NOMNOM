@@ -26,6 +26,123 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx_F16M_KingViper_1.2.3.dll",
+      "version": "1.2.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.2.3/Aryx_F16M_KingViper_1.2.3.dll",
+      "hash": "sha256:6b71141b324ae92108125881a4db2e29abebbbd95fd968d80284aff4037dbf13",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx_F16M_KingViper_1.2.2.dll",
+      "version": "1.2.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.2.2/Aryx_F16M_KingViper_1.2.2.dll",
+      "hash": "sha256:0ff2b64dc62293be010a0221654341addf71776848d4d8805d676d8a22c79d6a",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx_F16M_KingViper_1.2.1.dll",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.2.1/Aryx_F16M_KingViper_1.2.1.dll",
+      "hash": "sha256:e97a63198239390409a1ae3cc950d1023ff14b26ec37678458ec5cd43db94513",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx_F16M_KingViper_1.2.0.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.2.0/Aryx_F16M_KingViper_1.2.0.dll",
+      "hash": "sha256:a197e0d258537075f7f805c992ac20dc68e42a093c6c8cba70d7db614905ed43",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx_F16M_KingViper_1.1.9.dll",
+      "version": "1.1.9",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.1.9/Aryx_F16M_KingViper_1.1.9.dll",
+      "hash": "sha256:a2b54a75281ac190902b58da604692b309cbfbc32b51c7ee2ca2fdfb2a3df574",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx_F16M_KingViper_1.1.8.dll",
+      "version": "1.1.8",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.1.8/Aryx_F16M_KingViper_1.1.8.dll",
+      "hash": "sha256:d99d05f61670b4929aca41b46e15cd13761cd16431e1a3de7f28c0ca613752cb",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx.s.F16M_1.1.7.nobp",
+      "version": "1.1.7",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.1.7/Aryx.s.F16M_1.1.7.nobp",
+      "hash": "sha256:0f88168c9e69351280ad4bdce26c2599e862bd5134808425ee1c15216d146365",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx.s.F16M_1.1.6.nobp",
+      "version": "1.1.6",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.1.6/Aryx.s.F16M_1.1.6.nobp",
+      "hash": "sha256:57971328c0cf2be80f6e15e9e017dcd886d645decda98e7a1363d2198ab9626e",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
+      "fileName": "Aryx.s.F16M_1.1.5.nobp",
+      "version": "1.1.5",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.1.5/Aryx.s.F16M_1.1.5.nobp",
+      "hash": "sha256:3c9561829a39bbdadde0452ea231f8bc87117673c4aec11e82201cf2912b525d",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
       "fileName": "Aryx.s.F16M_1.1.4.nobp",
       "version": "1.1.4",
       "category": "release",
@@ -234,5 +351,5 @@
       }
     }
   ],
-  "downloadCount": 35912
+  "downloadCount": 94743
 }

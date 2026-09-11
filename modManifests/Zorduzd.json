@@ -20,6 +20,24 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "zorduzd-0.4.0-win-x86_64.zip",
+      "version": "0.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mayyxeng/zorduzd/releases/download/v0.4.0/zorduzd-0.4.0-win-x86_64.zip",
+      "hash": "sha256:1fdb26a6829d504e927bdfe232ebcf9e68109b9885e1f21bb7471eee89397221"
+    },
+    {
+      "fileName": "zorduzd-0.3.3-win-x86_64.zip",
+      "version": "0.3.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mayyxeng/zorduzd/releases/download/v0.3.3/zorduzd-0.3.3-win-x86_64.zip",
+      "hash": "sha256:29d55637e0cfce29451746bffa39b9769a9af531c229d733bcfd8441250d4472"
+    },
+    {
       "fileName": "zorduzd-0.3.0-win-x86_64.zip",
       "version": "0.3.2",
       "category": "release",
@@ -47,5 +65,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 81
+  "downloadCount": 225
 }

@@ -27,6 +27,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "FQ-106_2.2.0.dll",
+      "version": "2.2.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NOKestrel/releases/download/2.2.0/FQ-106_2.2.0.dll",
+      "hash": "sha256:4740b2b221db36220143be560a525ae15678c0ae26757d807201dac228c1fd6e",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
       "fileName": "FQ-106_2.1.0.dll",
       "version": "2.1.0",
       "category": "release",
@@ -40,5 +53,5 @@
       }
     }
   ],
-  "downloadCount": 17898
+  "downloadCount": 39195
 }

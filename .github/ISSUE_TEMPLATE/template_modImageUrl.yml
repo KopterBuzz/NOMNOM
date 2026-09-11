@@ -1,0 +1,26 @@
+name: Update Mod Image URL
+description: Use this template to submit a Mod ID and a new Image URL.\n The mod's image URL will be updated to the given value.
+title: "[Update Mod Image URL]: "
+labels: ["list-input"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide your values below.
+
+  - type: input
+    id: mod_id
+    attributes:
+      label: Mod ID
+      description: Enter the NOMNOM Mod ID
+      placeholder: com.fake.mod.id
+    validations:
+      required: true
+  - type: input
+    id: mod_image_url
+    attributes:
+      label: Image URL
+      description: Enter the new image URL. JPG PNG WEBP SVG ONLY! MAX 512x512!
+      placeholder: https://fakeWebDomain.com/fakeimages/fake.jpg
+    validations:
+      required: true

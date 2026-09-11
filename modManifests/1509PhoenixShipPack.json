@@ -1,0 +1,39 @@
+{
+  "id": "1509PhoenixShipPack",
+  "displayName": "Phoenix's ShipPack",
+  "description": "A pack of ships by Phoenix1509",
+  "tags": [
+    "mod",
+    "vehicle",
+    "blueprinter",
+    "phoenix1509"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/phoenix15099/NO_1509_ShipPack/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "Phoenix1509",
+    "the science team"
+  ],
+  "githubOwner": "phoenix15099",
+  "githubRepoName": "NO_1509_ShipPack",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "PhoenixShipPack_0.1.2.nobp",
+      "version": "0.1.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/phoenix15099/NO_1509_ShipPack/releases/download/V0.1.3/PhoenixShipPack_0.1.3.nobp",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 949
+}

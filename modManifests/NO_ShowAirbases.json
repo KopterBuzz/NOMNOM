@@ -1,0 +1,49 @@
+{
+  "id": "NO_ShowAirbases",
+  "displayName": "Show Airbases",
+  "description": "Allows showing airbase icons while spawned in. Toggled in Bepinex config, or with an optionally assigned hotkey when Extra Input Framework is loaded (supports hold and toggle modes).",
+  "tags": [
+    "mod",
+    "QoL",
+    "UI",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Appulcake/NO_ShowAirbases"
+    },
+    {
+      "name": "Extra Input Framework",
+      "url": "https://github.com/Assassin1076/NuclearOptionInputFramework"
+    }
+  ],
+  "authors": [
+    "Appulcake"
+  ],
+  "githubOwner": "Appulcake",
+  "githubRepoName": "NO_ShowAirbases",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NO_ShowAirbases.dll",
+      "version": "0.34.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_ShowAirbases/releases/download/v0.34.1.1/NO_ShowAirbases.dll",
+      "hash": "sha256:7921ee863ed51facae15b5c84bb8bb38a8578cf3faf2a71470fbc94dafa3de90",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        },
+        {
+          "id": "InputFramework",
+          "version": "0.0.2"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 506
+}

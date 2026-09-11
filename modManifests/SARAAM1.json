@@ -1,0 +1,41 @@
+{
+  "id": "SARAAM1",
+  "displayName": "AAM-21 Glaive",
+  "description": "Adds the AAM-21 Glaive, Nuclear Option's first air-to-air SARH missile",
+  "tags": [
+    "Flavour"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/BruhBoi50/NuclearOption-AAM-21_Glaive"
+    }
+  ],
+  "authors": [
+    "BruhBoi50"
+  ],
+  "githubOwner": "BruhBoi50",
+  "githubRepoName": "NuclearOption-AAM-21_Glaive",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "SARAAM1.dll",
+      "version": "1.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/BruhBoi50/NuclearOption-AAM-21_Glaive/releases/download/1.1.3/SARAAM1.dll",
+      "hash": "sha256:567a18b9e56d6480792a7786e2f902b97cea0522e82e498ed3a3f0dbe196fdb4"
+    },
+    {
+      "fileName": "SARAAM1.dll",
+      "version": "1.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/BruhBoi50/NuclearOption-AAM-21_Glaive/releases/download/1.1.2/SARAAM1.dll",
+      "hash": "sha256:a1038722ff26f04ba99bf56151892e123370f73ecbc8ae2967d6887dae8617f9"
+    }
+  ],
+  "downloadCount": 2863
+}

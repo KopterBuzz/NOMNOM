@@ -21,6 +21,66 @@
   "artifacts": [
     {
       "fileName": "NOX.7z",
+      "version": "0.3.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.3.7/NOX.7z",
+      "hash": "sha256:1e5919549f921f6e870db1cacf1badd1f0209698bc6383849f84786f0a3964ce",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NOX.7z",
+      "version": "0.3.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.3.6/NOX.7z",
+      "hash": "sha256:bc7bbb6954f7ffe60e85fcb6cce086d7c360dac19de8854297e9555ccde4ee4c",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NOX.7z",
+      "version": "0.3.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.3.5/NOX.7z",
+      "hash": "sha256:03d6463b59218d0e7286c0e94a1297a23290e149fbc79f902febfab496682339",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NOX.7z",
+      "version": "0.3.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.3.4/NOX.7z",
+      "hash": "sha256:5c3b012579b3069f9385063a956029f101c16224c53ec23b2c1a5f9a4fe7cadc",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NOX.7z",
       "version": "0.3.3",
       "category": "release",
       "type": "plugin",
@@ -125,5 +185,5 @@
       ]
     }
   ],
-  "downloadCount": 7467
+  "downloadCount": 19555
 }

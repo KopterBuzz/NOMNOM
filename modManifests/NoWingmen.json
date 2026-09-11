@@ -1,0 +1,63 @@
+{
+  "id": "NoWingmen",
+  "displayName": "NoWingmen",
+  "description": "Wing, friends and team visuals with extra features.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD",
+    "multiplayer",
+    "wingman",
+    "friends",
+    "targets"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NiJeTi/NoWingmen"
+    }
+  ],
+  "authors": [
+    "NiJeTi"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "NiJeTi",
+  "githubRepoName": "NoWingmen",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NoWingmen.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NiJeTi/NoWingmen/releases/download/v1.1.0/NoWingmen.dll",
+      "hash": "sha256:2ca77a98984d4247fb53c1edd76b57dec540cc720d1313e8c1209b7555df5905",
+      "dependencies": [
+        {
+          "id": "InputFramework",
+          "version": "0.0.2"
+        }
+      ]
+    },
+    {
+      "fileName": "NoWingmen.dll",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NiJeTi/NoWingmen/releases/download/v1.0.1/NoWingmen.dll",
+      "hash": "sha256:8c1e8730d9078932e3510c9e6188fd5a5a8d7126d2476fe9323943e9a73e9489"
+    },
+    {
+      "fileName": "NoWingmen.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NiJeTi/NoWingmen/releases/download/v1.0.0/NoWingmen.dll",
+      "hash": "sha256:d22fe9e8e1f67aacf64bf7abfbb7eaf04e65d3914428b6337a65f58813794398"
+    }
+  ],
+  "downloadCount": 332
+}

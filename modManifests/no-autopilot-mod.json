@@ -20,6 +20,66 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "com.qwerty1423.NOAutopilot-5.5.3.7z",
+      "version": "5.5.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v5.5.3/com.qwerty1423.NOAutopilot-5.5.3.7z",
+      "hash": "sha256:0ccac14751f5cb253662a387a09b37168cff87cc0ef43cd4cc6c601bb90b75d7",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "com.qwerty1423.NOAutopilot-5.5.2.7z",
+      "version": "5.5.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v5.5.2/com.qwerty1423.NOAutopilot-5.5.2.7z",
+      "hash": "sha256:d68b0040f69b091eac6c05cf1df36610d69e2161e6e40c021ff22cf5acc1e7cf",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "com.qwerty1423.NOAutopilot-5.5.1.7z",
+      "version": "5.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v5.5.1/com.qwerty1423.NOAutopilot-5.5.1.7z",
+      "hash": "sha256:b8fd5ef4f781938affab8cc69a76fed2a432cb69905a311000c762ed1316fbcc",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "com.qwerty1423.NOAutopilot-5.5.0.7z",
+      "version": "5.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v5.5.0/com.qwerty1423.NOAutopilot-5.5.0.7z",
+      "hash": "sha256:336ca15d61c8d6bc74ab460fdf85a5d50bb2a2a4dbc7b6a7626e738125450709",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "com.qwerty1423.NOAutopilot-5.4.0.7z",
       "version": "5.4.0",
       "category": "release",
@@ -326,5 +386,5 @@
       "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
     }
   ],
-  "downloadCount": 15348
+  "downloadCount": 31009
 }

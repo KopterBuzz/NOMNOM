@@ -21,6 +21,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Com.Hellcat92.VanillaIconsPLUS_1.5.5.dll",
+      "version": "1.5.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-VanillaIconsPLUS/releases/download/1.5.5/Com.Hellcat92.VanillaIconsPLUS_1.5.5.dll",
+      "hash": "sha256:7f7e84e2d633441a9fb11e3496557562c356b37ab698af90ad0c5286868dea53",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "Com.Hellcat92.VanillaIconsPLUS_1.5.1.dll",
       "version": "1.5.1",
       "category": "Release",
@@ -36,5 +51,5 @@
       ]
     }
   ],
-  "downloadCount": 908
+  "downloadCount": 2381
 }

@@ -1,0 +1,63 @@
+{
+  "id": "NuclearOptionBuilder",
+  "displayName": "Nuclear Option Builder",
+  "description": "Mod that allows for the building of structures, vehicles, and ships with some simple game mechanics that make sense for Nuclear Options' battlefield.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/cdavenport1/BuildingPlacement"
+    },
+    {
+      "name": "bugs",
+      "url": "https://github.com/cdavenport1/BuildingPlacement/issues"
+    },
+    {
+      "name": "security",
+      "url": "https://github.com/cdavenport1/BuildingPlacement/security"
+    }
+  ],
+  "authors": [
+    "davatron00"
+  ],
+  "githubOwner": "cdavenport1",
+  "githubRepoName": "BuildingPlacement",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOptionBuilder.zip",
+      "version": "1.1.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/cdavenport1/BuildingPlacement/releases/download/v1.1.8/NuclearOptionBuilder.zip",
+      "hash": "sha256:926e94f95313efd9986bedf5674d99e6208ff54467ae83663f0f0c1a28663b1d",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NuclearOptionBuilder.zip",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/cdavenport1/BuildingPlacement/releases/download/v1.1.1/NuclearOptionBuilder.zip",
+      "hash": "sha256:c1ac1e4879a80da4aff409933d860854d71a80dda73498163bf8ca49e764c7d7",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 302
+}

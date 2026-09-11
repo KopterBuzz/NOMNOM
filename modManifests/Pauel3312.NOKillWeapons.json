@@ -21,6 +21,24 @@
   "artifacts": [
     {
       "fileName": "NOKW.zip",
+      "version": "0.34.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/pauel3312/NOKillWeapons/releases/download/v0.34.1.0/NOKW.zip",
+      "hash": "sha256:ee0b746b880ea1c3aae0c63baea67d89b9daabfe534e0411b36dbba64d0efb33"
+    },
+    {
+      "fileName": "NOKW.zip",
+      "version": "0.33.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOKillWeapons/releases/download/v0.33.4.0/NOKW.zip",
+      "hash": "sha256:278d1db4a389791afc141b4ee8755d2632092487d2a12a9808df90c682ad5840"
+    },
+    {
+      "fileName": "NOKW.zip",
       "version": "0.33.3.1",
       "category": "release",
       "type": "plugin",
@@ -38,5 +56,5 @@
       "hash": "sha256:b8899af8d033a66218213b8a041f3d6ca5eddcb21e6617205822eab7cbdd477e"
     }
   ],
-  "downloadCount": 265
+  "downloadCount": 2374
 }

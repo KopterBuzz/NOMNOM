@@ -1,0 +1,31 @@
+name: Update gameVersion
+description: Use this template to submit a list of MOD IDs and a gameVersion tag value.\n Their latest release artifacts gameVersion value will be updated to the given value.
+title: "[Update gameVersion tag]: "
+labels: ["list-input"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide your values below.
+
+  # NEW: Input field for a single string value
+  - type: input
+    id: version_string
+    attributes:
+      label: Version number
+      description: Enter the Nuclear Option Game Version Value
+      placeholder: 0.34.2
+    validations:
+      required: true
+
+  # Method 2: Textarea (Free-form custom list of strings)
+  - type: textarea
+    id: mod_id_strings
+    attributes:
+      label: MOD IDs
+      description: Enter your custom strings here. Please put one value per line.
+      placeholder: |
+        com.fake.modname
+        modder.mod
+    validations:
+      required: true

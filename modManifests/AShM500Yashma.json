@@ -1,0 +1,51 @@
+{
+  "id": "AShM500Yashma",
+  "displayName": "AShM-500 Yashma",
+  "description": "A ramjet powered supersonic anti-ship cruise missile. Nine and a half metres, three tonnes, Mach 2.4 on the deck and well past Mach 3 lofted. Sea skimming with terrain following, three switchable flight profiles, salvo spread that fans and reconverges, a staged infra red signature and a shallow terminal weave. Carried by the Darkreach, Multirole1 and FastBomber1, and by three modded aircraft if you have them.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mosdef31/NO-AShM-500-Yashma/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "mosdef31"
+  ],
+  "githubOwner": "mosdef31",
+  "githubRepoName": "NO-AShM-500-Yashma",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ashm500.nobp",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/mosdef31/NO-AShM-500-Yashma/releases/download/v1.1.0/ashm500.nobp",
+      "hash": "sha256:892aebdfc065193085ac721772a85a60b797c7501464f22197649c74b2ae9e06",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AShM500Yashma_1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/mosdef31/NO-AShM-500-Yashma/releases/download/v1.0.0/AShM500Yashma_1.0.0.zip",
+      "hash": "sha256:1aa710b31590d3425b72d76df0df63822033116f0454f0768e2532ce724b48f9",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    }
+  ],
+  "downloadCount": 2753
+}

@@ -21,6 +21,33 @@
   "artifacts": [
     {
       "fileName": "LocalizationPatch_fr.zip",
+      "version": "3.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-FrenchPatch/releases/download/v3.5.1/LocalizationPatch_fr.zip",
+      "hash": "sha256:ce588a3f3b24c9e8883a617fb47ea65497938d48aa8a010e54fed6390cbd27b1",
+      "incompatibilities": [
+        {
+          "id": "LocalizationPatch.Korean",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "fileName": "LocalizationPatch_fr.zip",
       "version": "3.0.1",
       "category": "release",
       "type": "plugin",
@@ -317,5 +344,5 @@
       ]
     }
   ],
-  "downloadCount": 971
+  "downloadCount": 1076
 }

@@ -1,0 +1,34 @@
+{
+  "id": "ChaseView",
+  "displayName": "ChaseView",
+  "description": "Chase style camera, complete with HUD, optional weapon select flavor graphics (and damage display model); works with (probably) every aircraft.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Oliepolie/ChaseView/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "Oliepolie"
+  ],
+  "githubOwner": "Oliepolie",
+  "githubRepoName": "ChaseView",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ChaseView-1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Oliepolie/ChaseView/releases/download/v1.1.0/ChaseView-1.1.0.zip",
+      "hash": "sha256:aae68ea57f93cfe6046ccc954fa8ff7e35f0c364dcb541d14da24299130c8863"
+    }
+  ],
+  "downloadCount": 723
+}

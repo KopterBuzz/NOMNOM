@@ -10,6 +10,8 @@
       "type" : "array",
       "items" : {"type" : "string"}
     },
+    "imageUrl": { "type": "string", "format": "uri" },
+    "imageHash": { "type": "string" },
     "urls": { 
       "type": "array",
       "items": {
@@ -24,6 +26,10 @@
     "authors": {
       "type": "array",
       "items": { "type": "string" }
+    },
+    "isClientOrServer": {
+      "type": "string",
+      "enum": ["Client", "Server", "Both"]
     },
     "githubOwner" : {"type": "string"},
     "githubRepoName" : {"type": "string"},

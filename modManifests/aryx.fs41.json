@@ -1,0 +1,225 @@
+{
+  "id": "aryx.fs41",
+  "displayName": "Aryx-s-FS-41-Eclipse",
+  "description": "A twin-engine, two-seater fleet defence interceptor designed to search for and destroy high-speed, high altitude threats. This fearsome interceptor features a devastating air to air missile complement, a powerful radar and, of course, swing wings. It is the lovechild of an F-14 and Su-57 :)",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/keMRVdcwFc"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx-s-FS-41-Eclipse",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Aryx_FS-41.Eclipse_1.1.6.dll",
+      "version": "1.1.6",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.6/Aryx_FS-41.Eclipse_1.1.6.dll",
+      "hash": "sha256:9e9c0ee28a80942546280bc79b8d4169c83ecbac55462ec127e53febfdc5e38c",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_FS-41.Eclipse_1.1.5.dll",
+      "version": "1.1.5",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.5/Aryx_FS-41.Eclipse_1.1.5.dll",
+      "hash": "sha256:effe50a41096b7e2def92c75355802a80c605c8aa27428734026f3ce6538de3d",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_FS-41.Eclipse_1.1.4.dll",
+      "version": "1.1.4",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.4/Aryx_FS-41.Eclipse_1.1.4.dll",
+      "hash": "sha256:b9a0c3560b02edfc87f230361f73f03635b89ce0162f51e421c1c9c4616d3780",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_FS-41.Eclipse_1.1.3.dll",
+      "version": "1.1.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.3/Aryx_FS-41.Eclipse_1.1.3.dll",
+      "hash": "sha256:d4b51b2143256c8fefd42d8c3a205bac5c2d1f0cb521d24ee82c327f8fba4197",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_FS-41.Eclipse_1.1.1.dll",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.1/Aryx_FS-41.Eclipse_1.1.1.dll",
+      "hash": "sha256:14b13a02b0c05666cc7321a51092079a0bf84b56834038a38b421e4bac6cac38",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_FS-41.Eclipse_1.1.0.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.0/Aryx_FS-41.Eclipse_1.1.0.dll",
+      "hash": "sha256:8562d3c55ba24eb1f707f57b49052309c0212e1182673254e52d8ef9ca03b3dd",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_FS-41.Eclipse_1.0.9.dll",
+      "version": "1.0.9",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.9/Aryx_FS-41.Eclipse_1.0.9.dll",
+      "hash": "sha256:c62a3dcf5cdb1f0e56fb2513b90ec189af76223dbbd2f82dfe64dfde1b9031df",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_FS-41.Eclipse_1.0.8.dll",
+      "version": "1.0.8",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.8/Aryx_FS-41.Eclipse_1.0.8.dll",
+      "hash": "sha256:f413d8e0c61f53ca0504735880f36754d2469739f51db8bec27e9757e3c31399",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_NavalInterceptor1_1.0.7.dll",
+      "version": "1.0.7",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.7/Aryx_NavalInterceptor1_1.0.7.dll",
+      "hash": "sha256:f4e2baf3f025dcf7425f973aac0243df0a59439e3e02641019a5592145b94a7c",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_NavalInterceptor1_1.0.6.dll",
+      "version": "1.0.6",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.6/Aryx_NavalInterceptor1_1.0.6.dll",
+      "hash": "sha256:5afff7c0ceade28e09bf142e72da78eb4f8bdeed909aedc97f5acde8473386c9",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_NavalInterceptor1_1.0.5.dll",
+      "version": "1.0.5",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.5/Aryx_NavalInterceptor1_1.0.5.dll",
+      "hash": "sha256:f7f5dc805c7c7e6acc9930890895e7f2714ff1f16622f693dc9eaa7ad960259e",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_NavalInterceptor1_1.0.4.dll",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.4/Aryx_NavalInterceptor1_1.0.4.dll",
+      "hash": "sha256:e9df9e455fe3e2b4bc1859f7bddc33fb567b7fb85d311dab53b80d968069e1ad",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_NavalInterceptor1_1.0.3.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.3/Aryx_NavalInterceptor1_1.0.3.dll",
+      "hash": "sha256:33d7ee25f2a8fd50f55fb74881cc7cba3ae8ead55ad22ba3ecc8a2db53899057",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_NavalInterceptor1_1.0.1.dll",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.1/Aryx_NavalInterceptor1_1.0.1.dll",
+      "hash": "sha256:a344c55e01903b0ac9c401574c562b66df6a9e6612a0f18ce465dfec5fc44065",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_NavalInterceptor1.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.0.0/Aryx_NavalInterceptor1.dll",
+      "hash": "sha256:9d267bfcacbd864625ccd4ef1e8458c388401c9295ef1f4c7a501798e9826e3f",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    }
+  ],
+  "downloadCount": 56350
+}

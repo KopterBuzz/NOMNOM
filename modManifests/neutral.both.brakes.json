@@ -1,0 +1,74 @@
+{
+  "id": "neutral.both.brakes",
+  "displayName": "BothBrakesMod",
+  "description": "Client-sided keybind to TOGGLE both or either air/wheel brakes",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SonPamungkas/both-brakes-control/"
+    }
+  ],
+  "authors": [
+    "Neutral Observer"
+  ],
+  "githubOwner": "SonPamungkas",
+  "githubRepoName": "both-brakes-control",
+  "autoUpdateArtifacts": "True",
+  "dependencies": [
+    {
+      "id": "InputFramework",
+      "version": "0.0.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "fileName": "BothBrakesMod.dll",
+      "version": "1.3.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/both-brakes-control/releases/download/1.3.5/BothBrakesMod.dll",
+      "hash": "sha256:961d71e5670b4d8dc920ee7c4893410c96fd2a0d19694365af333a3f3f81d46e"
+    },
+    {
+      "fileName": "BothBrakesMod.dll",
+      "version": "1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/both-brakes-control/releases/download/1.3/BothBrakesMod.dll",
+      "hash": "sha256:eb161f71efa4ec51211aa3829880f9cb9b13cc4e1264e21a38b70b59190c14cd"
+    },
+    {
+      "fileName": "BothBrakesMod.rar",
+      "version": "1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/both-brakes-control/releases/download/1.2/BothBrakesMod.rar",
+      "hash": "sha256:ad3eb7c4be3634f7e3df5968094414f9a8791be5a2bd99da4d958a3c43516728"
+    },
+    {
+      "fileName": "BothBrakesMod.dll",
+      "version": "1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/SonPamungkas/both-brakes-control/releases/download/1.1/BothBrakesMod.dll",
+      "hash": "sha256:23774bd4e0804abe44dd8146217beb2050bb6f8e9f7043884f8a07b2354063f2"
+    },
+    {
+      "type": "plugin",
+      "fileName": "BothBrakesMod_v.1.3.0.zip",
+      "downloadUrl": "https://github.com/SonPamungkas/both-brakes-control/releases/download/1.3/BothBrakesMod_v.1.3.0.zip",
+      "hash": "sha256:e0e23e60ebe95a981cffe9095f502c8ea659ee45b0e3131b679e73124a80314a",
+      "gameVersion": "0.34.1",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ],
+  "downloadCount": 405
+}

@@ -1,0 +1,51 @@
+{
+  "id": "MissileCamNO",
+  "displayName": "MissileCamNO",
+  "description": "Cycle through and follow your own in-flight missiles using '[' and ']' while flying. RWR/missile warnings keep playing. Press ';' (configurable) to snap the camera back to your aircraft's cockpit.",
+  "tags": [
+    "QoL",
+    "Camera"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/vullnetyy/MissileCamNO"
+    }
+  ],
+  "authors": [
+    "vullnetyy"
+  ],
+  "githubOwner": "vullnetyy",
+  "githubRepoName": "MissileCamNO",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MissileCamNO-1.0.11.zip",
+      "version": "1.0.11",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/vullnetyy/MissileCamNO/releases/download/v1.0.11/MissileCamNO-1.0.11.zip",
+      "hash": "sha256:c5dc153c0b1a3e8691becabb1e14edff9e506e854f54d0f392b7a641dca2b1ba"
+    },
+    {
+      "fileName": "MissileCamNO-1.0.8.zip",
+      "version": "1.0.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/vullnetyy/MissileCamNO/releases/download/v1.0.8/MissileCamNO-1.0.8.zip",
+      "hash": "sha256:0e4d0c7fd5582ef9b36c9d1552c9b63c2d9d55faf6fb1d40e74ab14f075c7d48"
+    },
+    {
+      "fileName": "MissileCamNO-1.0.7.zip",
+      "version": "1.0.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/vullnetyy/MissileCamNO/releases/download/v1.0.7/MissileCamNO-1.0.7.zip",
+      "hash": "sha256:d2d6b04918625ad889134c850969e917b24ed32dbce47da645fbbe1e74489419"
+    }
+  ],
+  "downloadCount": 965
+}

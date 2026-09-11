@@ -1,0 +1,29 @@
+name: Update isClientOrServer
+description: Use this template to submit a Mod ID and update its isClientOrServer flag.
+title: "[Update isClientOrServer]: "
+labels: ["list-input"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide your values below.
+
+  - type: input
+    id: mod_id
+    attributes:
+      label: Mod ID
+      description: Enter the NOMNOM Mod ID
+      placeholder: com.fake.mod.id
+    validations:
+      required: true
+  - type: dropdown
+    id: is_client_or_server
+    attributes:
+      label: Client or Server
+      description: Is this mod for Client, Server, or Both?
+      options:
+        - Client
+        - Server
+        - Both
+    validations:
+      required: true

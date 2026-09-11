@@ -1,0 +1,38 @@
+{
+  "id": "NuclearOptionCommander",
+  "displayName": "NO Commander",
+  "description": "RTS-style features for Nucklear Option - 3D unit command, unit spawning, supply and air missions",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/DontKnowWhatImDoingHere/NOCommander"
+    }
+  ],
+  "authors": [
+    "rosa.clara"
+  ],
+  "githubOwner": "DontKnowWhatImDoingHere",
+  "githubRepoName": "NOCommander",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOptionCommander0.1.2.0.zip",
+      "version": "0.1.2.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/DontKnowWhatImDoingHere/NOCommander/releases/download/0.1.2.0/NuclearOptionCommander0.1.2.0.zip",
+      "hash": "sha256:b54c95de8296ae77025c348a71df541ba927935690af15473e8fa392477bc63f",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1363
+}

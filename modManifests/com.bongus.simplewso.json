@@ -1,0 +1,33 @@
+{
+  "id": "com.bongus.simplewso",
+  "displayName": "SimpleWSO",
+  "description": "Simple multicrew. Select a friendly AI or Player aircraft in spectate, press H (Configurable via F1 with BepinEx Configuration Manager) and thats it. Additional features include gunner indicator, target sharing with pilot and gunner via U, and multiple camera offsets with K key.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ItsBongus/NOMNOM-com-bongus-simplewso"
+    }
+  ],
+  "authors": [
+    "Bongus"
+  ],
+  "githubOwner": "ItsBongus",
+  "githubRepoName": "NOMNOM-com-bongus-simplewso",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "com.bongus.simplewso_v1.0.0.zip",
+      "downloadUrl": "https://github.com/ItsBongus/NOMNOM-com-bongus-simplewso/releases/download/v1.0.0/com.bongus.simplewso_v1.0.0.zip",
+      "hash": "sha256:5fcbc90355e5ab162cebcd1e29d562cacb2c51fa908e331637c0efebdb99ed88",
+      "gameVersion": "0.32",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ],
+  "downloadCount": 1223
+}

@@ -6,7 +6,7 @@
     "mod",
     "QoL"
   ],
-  "infoUrl": [
+  "urls": [
     {
       "name": "info",
       "url": "https://github.com/KopterBuzz/NOFrameLimiter"
@@ -24,7 +24,7 @@
       "version": "0.0.2",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.32",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
       "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793",
       "dependencies": [
@@ -35,5 +35,5 @@
       ]
     }
   ],
-  "downloadCount": 92
+  "downloadCount": 4159
 }

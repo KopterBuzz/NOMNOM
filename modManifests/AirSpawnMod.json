@@ -1,0 +1,52 @@
+{
+  "id": "AirSpawnMod",
+  "displayName": "Air Spawn",
+  "description": "Spawns your aircraft in the air at a configurable altitude and airspeed instead of on the hangar floor. Supports per-aircraft presets and speed unit selection (m/s, km/h, mph, kt).",
+  "tags": [
+    "mod",
+    "QoL",
+    "testing"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mosdef31/NOAS"
+    }
+  ],
+  "authors": [
+    "mosdef31"
+  ],
+  "githubOwner": "mosdef31",
+  "githubRepoName": "NOAS",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "AirSpawnMod.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NOAS/releases/download/v1.2.0/AirSpawnMod.dll",
+      "hash": "sha256:fcc5646795df7ed910632fb8a016cb0b6ebe9e425f63f301a58297a70881dc49"
+    },
+    {
+      "fileName": "AirSpawnMod.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mosdef31/NOAS/releases/download/v1.1.0/AirSpawnMod.dll",
+      "hash": "sha256:ae70107152735a666b547df74f80800e76a7e08585f4b8fae208be529fd5e796"
+    },
+    {
+      "type": "plugin",
+      "fileName": "AirSpawnMod.zip",
+      "downloadUrl": "https://github.com/mosdef31/NOAS/releases/download/v1.0.0/AirSpawnMod.dll",
+      "gameVersion": "0.33",
+      "version": "1.0.0",
+      "category": "release",
+      "hash": "bbcffdcba57d78f653a3f979ccf6c5280fc57501e8d314d032f7ea1a5ab50e9f"
+    }
+  ],
+  "downloadCount": 1756
+}

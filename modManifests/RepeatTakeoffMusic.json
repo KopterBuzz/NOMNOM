@@ -1,0 +1,38 @@
+{
+  "id": "RepeatTakeoffMusic",
+  "displayName": "Repeat Takeoff Music",
+  "description": "BepInEx plugin that plays each local aircraft takeoff theme once per unit (persistentID). Landing and taking off again in the same aircraft does not replay it; a new spawn gets one more play.",
+  "tags": [
+    "QoL",
+    "Flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/RepeatTakeoffMusic"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Mursisru/RepeatTakeoffMusic/releases"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Mursisru",
+  "githubRepoName": "RepeatTakeoffMusic",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "RepeatTakeoffMusic_v1.4.1.zip",
+      "version": "1.4.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/RepeatTakeoffMusic/releases/download/1.4.1/RepeatTakeoffMusic_v1.4.1.zip",
+      "hash": "sha256:08dd8400304cc5b6d18ee26611879a39f89709e3140f2dc28f6528008ad38ea2"
+    }
+  ],
+  "downloadCount": 370
+}

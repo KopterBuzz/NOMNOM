@@ -1,0 +1,70 @@
+{
+  "id": "FunnelGunSightMod",
+  "displayName": "Funnel Gun Sight",
+  "description": "EEGS-style gun funnel HUD overlay. Two curved walls show the bullet spray envelope in real time — sized to your target's wingspan, curved by your turn rate. When the target fits between the walls, you have a correct firing solution. Supports free-look and TrackIR with zero drift.",
+  "tags": [
+    "mod",
+    "HUD",
+    "combat"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mosdef31/NO-FunnelGunSight"
+    }
+  ],
+  "authors": [
+    "mosdef31"
+  ],
+  "githubOwner": "mosdef31",
+  "githubRepoName": "NO-FunnelGunSight",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "FunnelGunSightMod.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.1.0/FunnelGunSightMod.dll",
+      "hash": "sha256:6ebab6930396d94af7de13cfdaf19405a3c82bdfd1c0274d7d48304ca60d807e"
+    },
+    {
+      "fileName": "FunnelGunSightMod.dll",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.0.4/FunnelGunSightMod.dll",
+      "hash": "sha256:860ab366522c7e24165e12588a8a50919aa05f3e7732dc16ba782a8df33035d2"
+    },
+    {
+      "fileName": "FunnelGunSightMod.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.0.3/FunnelGunSightMod.dll",
+      "hash": "sha256:f8e2a4e15da3be8d2a08d68747ce38794d8b66484c1d88977f1f6d6b81f8906d"
+    },
+    {
+      "fileName": "FunnelGunSightMod.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.0.2/FunnelGunSightMod.dll",
+      "hash": "sha256:4a4ce7ed1a64625abb119d6d9842e21d120762e0c96948f71fb4b9da51dd12fa"
+    },
+    {
+      "type": "plugin",
+      "fileName": "FunnelGunSightMod.zip",
+      "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.0.1/FunnelGunSightMod.dll",
+      "gameVersion": "0.33",
+      "version": "1.0.1",
+      "category": "release",
+      "hash": "sha256:4f8491978cc99c9bdd0c5be8a2e351613f8f0e34887c3954b852ef536ca00676"
+    }
+  ],
+  "downloadCount": 4609
+}

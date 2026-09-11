@@ -1,0 +1,61 @@
+{
+  "id": "LockToneShootPing",
+  "displayName": "Lock Shoot Tone Ping",
+  "description": "Adds Lock Tones. Similar to the Lock Shoot mod by JUSTJ7780 but supports the vast majority of weapon types. Tones can scale with distance if desired. Tones can only be played once of status changed if desired. Mod contains a pack handling system allowing for the quick import of audio and settings. Instructions on how to use mod are present in the README on Github.",
+  "tags": [
+    "Sound",
+    "QoL",
+    "Flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aeriicatmeow/Lock-Shoot-Tone-Ping"
+    }
+  ],
+  "authors": [
+    "Aeriicatmeow"
+  ],
+  "githubOwner": "Aeriicatmeow",
+  "githubRepoName": "Lock-Shoot-Tone-Ping",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Lock_Shoot_Tone_Ping.dll",
+      "version": "1.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Lock-Shoot-Tone-Ping/releases/download/v1.2.4/Lock_Shoot_Tone_Ping.dll",
+      "hash": "sha256:4ef30214ffa85b82364fdd47df80b8037f7e7b91f172a2705493eba14d0fd9f5"
+    },
+    {
+      "fileName": "Lock_Shoot_Tone_Ping.dll",
+      "version": "1.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Lock-Shoot-Tone-Ping/releases/download/v1.2.3/Lock_Shoot_Tone_Ping.dll",
+      "hash": "sha256:663ff67bc2452d2751609ed94a30df3fce3c1d6a818d39ba491023b309fa4a8d"
+    },
+    {
+      "fileName": "Lock_Shoot_Tone_Ping.dll",
+      "version": "1.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Lock-Shoot-Tone-Ping/releases/download/v1.2.2/Lock_Shoot_Tone_Ping.dll",
+      "hash": "sha256:84c5727e1f0f57edc92514d0865e1bc3e8e10282c4ea5e842874d2fa105829f6"
+    },
+    {
+      "fileName": "Lock_Shoot_Tone_Ping.dll",
+      "version": "1.2.1",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Lock-Shoot-Tone-Ping/releases/download/v.1.2.1/Lock_Shoot_Tone_Ping.dll",
+      "hash": "sha256:E78F676FA04AB9F3E4338ACC760AAC99A05E7192098715B3C5D18A29A73B4C15"
+    }
+  ],
+  "downloadCount": 3609
+}

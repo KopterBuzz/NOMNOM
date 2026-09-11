@@ -1,0 +1,32 @@
+{
+  "id": "PilotModelReplacer",
+  "displayName": "Pilot Model Replacer",
+  "description": "Mod for Nuclear Option that replaces the pilot model with another character. This mod comes with 5 different characters that you can swap the pilot with and you can even create your own",
+  "tags": [
+    "Flavour"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/BruhBoi50/NuclearOption-PilotModelReplacer"
+    }
+  ],
+  "authors": [
+    "BruhBoi50"
+  ],
+  "githubOwner": "BruhBoi50",
+  "githubRepoName": "NuclearOption-PilotModelReplacer",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "PilotModelReplacer.1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/BruhBoi50/NuclearOption-PilotModelReplacer/releases/download/1.1.0/PilotModelReplacer.1.1.0.zip",
+      "hash": "sha256:33076f4deceb06291c07c70a1ce0541548f99b882bdf6f5722d02a30898878c3"
+    }
+  ],
+  "downloadCount": 285
+}

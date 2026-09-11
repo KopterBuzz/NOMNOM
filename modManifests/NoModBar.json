@@ -1,0 +1,43 @@
+{
+  "id": "NoModBar",
+  "displayName": "NO Mod Bar",
+  "description": "Give compatible Nuclear Option mods one shared home with a persistent KSP-style toolbar at the top of every game screen. Click a registered mod's button to open or close its panel, hover to see its name, and hold a rebindable key while flying to free the cursor from mouse-look. Includes in-game position, button-size, and keybind controls plus a load-order-safe registration API for mod authors.",
+  "tags": [
+    "mod",
+    "QoL",
+    "UI"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/kkingsbe/no-modbar"
+    }
+  ],
+  "authors": [
+    "kkingsbe"
+  ],
+  "githubOwner": "kkingsbe",
+  "githubRepoName": "no-modbar",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "nomodbar-1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/kkingsbe/no-modbar/releases/download/v1.0.1/nomodbar-1.0.1.zip",
+      "hash": "sha256:2da411b8e9aeb44da486716194e8f2fe900be81d590664bb890303cccd4ebf32"
+    },
+    {
+      "fileName": "nomodbar-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/kkingsbe/no-modbar/releases/download/v1.0.0/nomodbar-1.0.0.zip",
+      "hash": "sha256:d642242bb836ab78e33f8e50982972a4813d0da2b23328044d833e649ed83393"
+    }
+  ],
+  "downloadCount": 139
+}

@@ -11,7 +11,7 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/offiry0/trisurface_public/blob/main/README.md"
+      "url": "https://github.com/Combat787/ternion/blob/main/README.md"
     },
     {
       "name": "2082 discord",
@@ -32,23 +32,24 @@
     "olivefox",
     "the 2082 science team"
   ],
-  "githubOwner": "offiry0",
-  "githubRepoName": "trisurface_public",
+  "githubOwner": "Combat787",
+  "githubRepoName": "ternion",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "FS-3.Ternion_1.0.0.nobp",
-      "version": "1.0.0",
+      "fileName": "FS-3.Ternion_1.0.1.nobp",
+      "version": "1.0.1",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/offiry0/trisurface_public/releases/download/1.0.0/FS-3.Ternion_1.0.0.nobp",
-      "hash": "sha256:86814fd7ec29893d674039e271961119e7642c436b81e795b18971ead311c6f2",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Combat787/ternion/releases/download/1.0.1/FS-3.Ternion_1.0.1.nobp",
+      "hash": "sha256:f8ddd073b7590f4e801edb11a3facc9fefa58e53260b4524ba7b271d0739b1fd",
       "extends": {
         "id": "com.nikkorap.blueprinter",
-        "version": "1.8.19"
+        "version": "1.8.21"
       }
     }
   ],
-  "downloadCount": 19449
+  "downloadCount": 15809,
+  "isClientOrServer": "Both"
 }

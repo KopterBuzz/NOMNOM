@@ -1,0 +1,43 @@
+{
+  "id": "Sitrep",
+  "displayName": "SITREP",
+  "description": "Hear in-game chat as immersive radio traffic. SITREP runs Kokoro TTS locally inside Nuclear Option with 28 selectable voices, per-player voice and signal profiles, favorites, a player blacklist, and a configurable radio DSP chain. Includes a cockpit chat overlay and in-game settings console, downloads its speech models automatically on first launch, and requires no external TTS service. Supports NO Mod Bar for one-click access to the settings console.",
+  "tags": [
+    "mod",
+    "QoL",
+    "voice"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/kkingsbe/sitrep"
+    }
+  ],
+  "authors": [
+    "kkingsbe"
+  ],
+  "githubOwner": "kkingsbe",
+  "githubRepoName": "sitrep",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "sitrep-1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/kkingsbe/sitrep/releases/download/v1.0.1/sitrep-1.0.1.zip",
+      "hash": "sha256:3777e3ff36fbf749a799ffc6ec8f9aa8c32ef5212e0c7c31efeb4060672f186e"
+    },
+    {
+      "fileName": "sitrep-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/kkingsbe/sitrep/releases/download/v1.0.0/sitrep-1.0.0.zip",
+      "hash": "sha256:81a7192c8b138162096000b2d6608eb089316eca2fafc29cb350f00d1ead84ea"
+    }
+  ],
+  "downloadCount": 385
+}

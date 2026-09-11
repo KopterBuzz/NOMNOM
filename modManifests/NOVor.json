@@ -1,0 +1,44 @@
+{
+  "id": "NOVor",
+  "displayName": "NO VOR CDI",
+  "description": "Turn every airfield and mobile carrier into an in-cockpit navigation destination. A searchable, faction-aware panel shows bearing, range, runway courses, ground speed, ETA, and elevation, while heading-tape cues and a VOR-style CDI provide direct-to guidance or manual-course tracking. Includes nearest/name sorting, friendly-only filtering, a position-adjustable HUD, and configurable hotkeys. Supports NO Mod Bar for one-click access to the navigation panel.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD",
+    "Navigation"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/kkingsbe/no-vor"
+    }
+  ],
+  "authors": [
+    "kkingsbe"
+  ],
+  "githubOwner": "kkingsbe",
+  "githubRepoName": "no-vor",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "novor-1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/kkingsbe/no-vor/releases/download/v1.0.1/novor-1.0.1.zip",
+      "hash": "sha256:c5c0aef2c981c7607b6201b2956e2e59e220c527edd50ee3afbaa57b7ecfeadc"
+    },
+    {
+      "fileName": "novor-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/kkingsbe/no-vor/releases/download/v1.0.0/novor-1.0.0.zip",
+      "hash": "sha256:5b2f92e108a326c96f66b54da1b2c3e89c62e9ec7738a9c1167d9100821ba87e"
+    }
+  ],
+  "downloadCount": 200
+}

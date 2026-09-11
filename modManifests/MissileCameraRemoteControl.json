@@ -1,0 +1,100 @@
+{
+  "id": "MissileCameraRemoteControl",
+  "displayName": "Missile Camera: Remote Control",
+  "description": "Remote-control DL/SATCOM munitions via MissileCamera fullscreen: aim, throttle, afterburner, and formation follow.",
+  "tags": [
+    "QoL",
+    "Weapons"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/MissileCamera-Remote-Control"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "githubOwner": "Mursisru",
+  "githubRepoName": "MissileCamera-Remote-Control",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Mursisru_MissileCamera-Remote-Control_v2.1.3.zip",
+      "version": "2.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera-Remote-Control/releases/download/2.1.3/Mursisru_MissileCamera-Remote-Control_v2.1.3.zip",
+      "hash": "sha256:b6965e25892bcedb3acb24ab8a1e02d762fb77b8b6d9f5e894a2d0c7a01afcb5",
+      "dependencies": [
+        {
+          "id": "MissileCamera",
+          "version": "2.1.2"
+        }
+      ]
+    },
+    {
+      "fileName": "Mursisru_MissileCamera-Remote-Control_v2.1.2.zip",
+      "version": "2.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera-Remote-Control/releases/download/2.1.2/Mursisru_MissileCamera-Remote-Control_v2.1.2.zip",
+      "hash": "sha256:fca34fd4cf3943cb0f68557d76cca9be2acde4d33310128758734eeed70ef79c",
+      "dependencies": [
+        {
+          "id": "MissileCamera",
+          "version": "2.1.2"
+        }
+      ]
+    },
+    {
+      "fileName": "MissileCameraRC-2-1-0-pre.1.zip",
+      "version": "2.1.0.1",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera-Remote-Control/releases/download/2.1.0-pre.1/MissileCameraRC-2-1-0-pre.1.zip",
+      "hash": "sha256:b8ba7b86482635d5ad6ba5eb5dae621542ca4f906de2af9407d89255ef3819bc",
+      "dependencies": [
+        {
+          "id": "MissileCamera",
+          "version": "2.1.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MissileCameraRC-2-0-2.zip",
+      "version": "2.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera-Remote-Control/releases/download/2.0.2/MissileCameraRC-2-0-2.zip",
+      "hash": "sha256:cf78223ae58e66daac9068e308199de3b528f560f93f37885674563cfef2eded",
+      "dependencies": [
+        {
+          "id": "MissileCamera",
+          "version": "2.0.0"
+        }
+      ]
+    },
+    {
+      "fileName": "MissileCameraRC-2-0-0.zip",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera-Remote-Control/releases/download/2.0.0/MissileCameraRC-2-0-0.zip",
+      "hash": "sha256:a6ae7d5d9a84c4e17070043ce213d682b79abd4d47c9697c4e1820381b9ac08e",
+      "dependencies": [
+        {
+          "id": "MissileCamera",
+          "version": "2.0.0"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1208,
+  "isClientOrServer": "Client"
+}

@@ -75,6 +75,12 @@ url : the actual URL
 - Format: array of strings
 - this should be a list of authors who created the Mod
 
+### isClientOrServer
+
+- Format: string, possible values: `Client`,`Server`,`Both`
+- Whether the mod is Client Side, Server Side, or works in Both cases.
+  - e.g. NOBlackBox works both on Clients and Servers 
+
 ### githubOwner
 
 - REQUIRED IF:

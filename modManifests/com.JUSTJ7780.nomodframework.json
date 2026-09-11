@@ -1,0 +1,33 @@
+{
+  "id": "com.JUSTJ7780.nomodframework",
+  "displayName": "NO Mod Framework",
+  "description": "A lightweight in-game UI framework for Nuclear Option BepInEx mods.",
+  "tags": [
+    "Utility",
+    "Framework"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/JUSTJ7780/JUSTJ-nomodframework"
+    }
+  ],
+  "authors": [
+    "JUSTJ7780"
+  ],
+  "githubOwner": "JUSTJ7780",
+  "githubRepoName": "JUSTJ-nomodframework",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NO.UI.Framework.dll",
+      "version": "1.1.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/JUSTJ7780/JUSTJ-nomodframework/releases/download/1.1.0/NO.UI.Framework.dll",
+      "hash": "sha256:24b75fbcd9b8e930f3edfde6879549d72d90b9083d7a386a9305d4c3e9dc6635"
+    }
+  ],
+  "downloadCount": 1096
+}

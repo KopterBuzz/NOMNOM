@@ -1,7 +1,13 @@
 {
   "id": "com.basicGrowl",
-  "displayName": "Nurds BasicGrowl",
+  "displayName": "Nurds Basic Growl",
   "description": "IR seeker growl audio mod for Nuclear Option with profile-driven seeker behavior and configurable audio.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Sound",
+    "Flavor"
+  ],
   "authors": [
     "NurdVEVO"
   ],
@@ -9,16 +15,61 @@
     {
       "name": "info",
       "url": "https://github.com/NurdVEVO/Nurds-BasicGrowl"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases"
     }
   ],
+  "githubOwner": "NurdVEVO",
+  "githubRepoName": "Nurds-BasicGrowl",
+  "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "com.basicGrowl-1.0.4.zip",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases/download/1.0.4/com.basicGrowl-1.0.4.zip",
+      "hash": "sha256:018e65f6fdaa5f3679fb95f16eb77b34eddb57dbd16e60290d55e6d2cc5c4ed1"
+    },
+    {
+      "fileName": "com.basicGrowl-1.0.3.zip",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases/download/1.0.3/com.basicGrowl-1.0.3.zip",
+      "hash": "sha256:60b8f108e8613e7bf7b4f2043a754fe68812a955868483ef60648b5937f98605"
+    },
+    {
+      "fileName": "com.basicGrowl-1.0.2-source.zip",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases/download/1.0.2/com.basicGrowl-1.0.2-source.zip",
+      "hash": "sha256:5efc8e2c3ba30097a8d44d9b3f8dc178992235f244053a948986880484b492bd"
+    },
+    {
+      "type": "plugin",
+      "fileName": "com.basicGrowl-1.0.1.zip",
+      "downloadUrl": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases/download/v1.0.1/com.basicGrowl-1.0.1.zip",
+      "gameVersion": "0.33.4",
+      "version": "1.0.1",
+      "category": "release",
+      "hash": "sha256:3064c0982f6d708111c6d7561a9374a3dc91a77b2924a94a9ef16eb9f9d3a107"
+    },
     {
       "type": "plugin",
       "fileName": "com.basicGrowl-1.0.0.zip",
-      "downloadUrl": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases/download/0.32.5/com.basicGrowl-1.0.0.zip",
+      "downloadUrl": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases/download/v1.0.0/com.basicGrowl-1.0.0.zip",
       "gameVersion": "0.32.5",
       "version": "1.0.0",
-      "category": "Release"
+      "category": "release",
+      "hash": "sha256:837dfb023b5ba23d8ac9683ec23b03b3d6a7d35c3e2c4ed97ac9cd9187baca13"
     }
-  ]
+  ],
+  "downloadCount": 3715
 }

@@ -21,6 +21,51 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Com.Hellcat92.TargetGridRefHUD_2.2.0.dll",
+      "version": "2.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-TargetGridRefHUD/releases/download/2.2.0/Com.Hellcat92.TargetGridRefHUD_2.2.0.dll",
+      "hash": "sha256:fbd206f4db032867e806c7aa4a25ae02820ac4e85341a8d2ab606246672c09ca",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Com.Hellcat92.TargetGridRefHUD_2.1.0.dll",
+      "version": "2.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-TargetGridRefHUD/releases/download/2.1.0/Com.Hellcat92.TargetGridRefHUD_2.1.0.dll",
+      "hash": "sha256:c62469ddb4a097aed9cc807d136f00a7d670ebfa5f40e337c02b0a31fd942f44",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Com.Hellcat92.TargetGridRefHUD_2.0.0.dll",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-TargetGridRefHUD/releases/download/2.0.0/Com.Hellcat92.TargetGridRefHUD_2.0.0.dll",
+      "hash": "sha256:a52f25da849566e6d9dfeec1621427c3b81404ee9247dafb6bd6725eee889ffb",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "Com.Hellcat92.TargetGridRefHUD_1.2.0.dll",
       "version": "1.2.0",
       "category": "Release",
@@ -36,5 +81,5 @@
       ]
     }
   ],
-  "downloadCount": 411
+  "downloadCount": 1326
 }

@@ -1,0 +1,114 @@
+{
+  "id": "com.dsr.nors",
+  "displayName": "NORS - Nuclear Option Radio System",
+  "description": "A realistic radio communication system for Nuclear Option.",
+  "tags": [
+    "Utility",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System"
+    }
+  ],
+  "authors": [
+    "RehabRocket"
+  ],
+  "githubOwner": "NORehabRocket",
+  "githubRepoName": "NORS---Nuclear-Option-Radio-System",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.7.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.7.7/1NORS.zip",
+      "hash": "sha256:d4446afda611ee8200861afeedd414536e770389af874a95b2620704c9e383d7"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.7.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.7.4/1NORS.zip",
+      "hash": "sha256:07517b4283e9a757c3d30c0aceb72bd80628ec974779f8015fa4897f6f49e56f"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.7.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.7.3/1NORS.zip",
+      "hash": "sha256:b0caaff279e048e47aa096830ddb6b14cecb145742061bfcd0450a5c576160a3"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.7.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.7.2/1NORS.zip",
+      "hash": "sha256:be92ab3f49cbeea5f4f116dae7281f410570dea6227495ed4a46674ce1a2ba62"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.7.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.7.1/1NORS.zip",
+      "hash": "sha256:555c5f9d5218c789875584624db8c54728db5a7eb7ebcecf59bf57946c99f0d2"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.7.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.7.0/1NORS.zip",
+      "hash": "sha256:45efd67301eb63776bee271e380f7e0f53a3d45d6fe6fd462ba631ba94bcd080"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.5.0/1NORS.zip",
+      "hash": "sha256:34199fab75d6150c7fb79ccd47049b05eb65fdd2f033d5615e3489ca64aa10b8"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/V0.4.0/1NORS.zip",
+      "hash": "sha256:b31a938f22822570ac877e3c59f453e90189b09d4972403d31c699d70b29fc8d"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.3.0/1NORS.zip",
+      "hash": "sha256:f2665552c8c9efa8afc1bfd2e52fc227bcaa3128fdbc4194d59a9f59ef34fdbc"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.1.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/NORS/1NORS.zip",
+      "hash": "sha256:4b4211b339eda6c48142bcf9c190ed322acf3cfe2fefdfa3898af379e82dbd47"
+    }
+  ],
+  "downloadCount": 2288
+}

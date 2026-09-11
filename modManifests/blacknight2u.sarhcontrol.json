@@ -1,0 +1,58 @@
+{
+  "id": "blacknight2u.sarhcontrol",
+  "displayName": "Radar Missile Control",
+  "description": "Host-controlled SARH and ARH missile presets. Press F7 to configure missile types, AI/player engagements, guidance, accuracy, thrust, and speed. Press F8 to cycle Vanilla, Preset 1, and Preset 2. Multiplayer settings remain host-authoritative.",
+  "tags": [
+    "gameplay",
+    "difficulty",
+    "sarh",
+    "arh",
+    "configurable",
+    "host-only",
+    "multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/blacknight2u/NuclearOption-RadarMissileControl"
+    }
+  ],
+  "authors": [
+    "blacknight2u"
+  ],
+  "githubOwner": "blacknight2u",
+  "githubRepoName": "NuclearOption-RadarMissileControl",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "SARHControl-v0.5.2.zip",
+      "version": "0.5.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/blacknight2u/NuclearOption-RadarMissileControl/releases/download/v0.5.2/SARHControl-v0.5.2.zip",
+      "hash": "sha256:24215328d5b8a41542fe877bd081e5689be41017fa5183bbe7536ec8de30ddf6"
+    },
+    {
+      "fileName": "SARHControl-v0.5.1.zip",
+      "version": "0.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/blacknight2u/NuclearOption-RadarMissileControl/releases/download/v0.5.1/SARHControl-v0.5.1.zip",
+      "hash": "sha256:eb96fee5f5d05229d4473f42c40e613d444b38f43a3caf001862592c811b1fed"
+    },
+    {
+      "fileName": "SARHControl-v0.5.0.zip",
+      "version": "0.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/blacknight2u/NuclearOption-RadarMissileControl/releases/download/v0.5.0/SARHControl-v0.5.0.zip",
+      "hash": "sha256:f7c7aa9a0d83c92cadcdf53a80fc171372662070f086e14a9cb855c982c725ba",
+      "dependencies": [],
+      "incompatibilities": []
+    }
+  ],
+  "downloadCount": 282
+}
