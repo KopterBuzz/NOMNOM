@@ -1,12 +1,12 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Hourly Update (Dev)
+name: Hourly Update
 
 # Controls when the workflow will run
 on:
-#  schedule:
+  schedule:
     # Runs every hour at minute 0
-#    - cron: '22 * * * *'
+    - cron: '22 * * * *'
   # Optional: allows manual triggering from Actions tab
 
   # Allows you to run this workflow manually from the Actions tab
@@ -17,14 +17,14 @@ permissions:
   
 jobs:
   update-files:
-    if: github.repository == 'KopterBuzz/NOMNOM' && github.event_name != 'schedule'
+    if: github.repository == 'KopterBuzz/NOMNOM' && (github.event_name != 'schedule' || github.ref_name == 'main')
     runs-on: windows-latest
     
     steps:
       - name: Checkout specific branch
         uses: actions/checkout@v4
         with:
-          ref: dev  # Replace with your branch name
+          ref: ${{ github.ref_name }}
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Run Validation
