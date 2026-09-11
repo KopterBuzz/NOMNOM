@@ -27,7 +27,7 @@
       "version": "1.0.1",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/kingwixly/Multi-Missile/releases/download/1.0.1/Multi-Missile.dll",
       "hash": "sha256:9a192e91a6ebda67c222891c011d75171cd2f3717a2ba07b2e51bff647315be9"
     },
@@ -41,5 +41,5 @@
       "hash": "sha256:25710f1307ccff0a3238adf5921ddb5f99229722141d1cdd275d368077908784"
     }
   ],
-  "downloadCount": 653
+  "downloadCount": 701
 }
