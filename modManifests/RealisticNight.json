@@ -22,6 +22,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "BetterNight-v0.11.0.zip",
+      "version": "0.11.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/L33chKing/better-night/releases/download/v0.11.0/BetterNight-v0.11.0.zip",
+      "hash": "sha256:56ce5eed3b1913c2af6fd9b1ac8cfbdd3c710c158685e5362487662830579055",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "BetterNight-v0.10.0.zip",
       "version": "0.10.0",
       "category": "release",
@@ -52,5 +67,5 @@
       ]
     }
   ],
-  "downloadCount": 1024
+  "downloadCount": 1062
 }

@@ -21,6 +21,15 @@
   "artifacts": [
     {
       "fileName": "AircraftWaypoints.zip",
+      "version": "2.1.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.7/AircraftWaypoints.zip",
+      "hash": "sha256:4fc1691684328f39ff6b5e48d1271b150054e336c3e3ce4b2094c2c6b2171d7d"
+    },
+    {
+      "fileName": "AircraftWaypoints.zip",
       "version": "2.1.0",
       "category": "release",
       "type": "plugin",
@@ -28,5 +37,5 @@
       "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
     }
   ],
-  "downloadCount": 2700
+  "downloadCount": 2703
 }
