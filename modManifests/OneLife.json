@@ -29,6 +29,15 @@
   "artifacts": [
     {
       "fileName": "OneLife.zip",
+      "version": "0.1.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Uniplast/One-Life/releases/download/v0.1.6/OneLife.zip",
+      "hash": "sha256:49bcb81594b8cf9df4b5c345402bfd628c98eabd917a18464f47470569b450aa"
+    },
+    {
+      "fileName": "OneLife.zip",
       "version": "0.1.5",
       "category": "release",
       "type": "plugin",
