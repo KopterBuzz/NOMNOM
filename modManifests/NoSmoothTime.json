@@ -6,7 +6,9 @@
     "mod",
     "QoL",
     "Visual",
-    "lighting"
+    "lighting",
+    "night",
+    "time"
   ],
   "urls": [
     {
