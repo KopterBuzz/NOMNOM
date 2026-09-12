@@ -1,7 +1,7 @@
 {
   "id": "NoSmoothTime",
   "displayName": "NoSmoothTime",
-  "description": "Smooth per-frame global lighting for dynamic day-night cycles.",
+  "description": "Smooth global lighting for dynamic day-night cycles and night skipping.",
   "tags": [
     "mod",
     "QoL",
