@@ -21,6 +21,15 @@
   "artifacts": [
     {
       "fileName": "MusicRandomizer.dll",
+      "version": "0.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/lucaspevidor/NuclearOptionMusicRandomizer/releases/download/v0.4.0/MusicRandomizer.dll",
+      "hash": "sha256:9ac01e58a75a4a01379b426a6c50bc035b90cef1b0b0a0aec01d3d6016f165d0"
+    },
+    {
+      "fileName": "MusicRandomizer.dll",
       "version": "0.3.0",
       "category": "release",
       "type": "plugin",
@@ -38,5 +47,5 @@
       "hash": "sha256:63ca906086784554adc354fedabc2628e921c36b1aa840a5061f0245bb62c224"
     }
   ],
-  "downloadCount": 168
+  "downloadCount": 171
 }
