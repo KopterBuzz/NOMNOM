@@ -1,0 +1,42 @@
+{
+  "id": "k_HLT_TBM",
+  "displayName": "HLT Ballistic Missile Launchers",
+  "description": "adds HLT Ballistic Missile Launcher and Ballistic Missile Launcher.",
+  "tags": [
+    "mod",
+    "vehicle",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Kangkankan/HLT-TBM-launchers/blob/main/README.md"
+    },
+    {
+      "name": "discord mod forum link",
+      "url": "https://discord.com/channels/909034158205059082/1546683248204058654"
+    }
+  ],
+  "authors": [
+    "kangkankan"
+  ],
+  "githubOwner": "Kangkankan",
+  "githubRepoName": "HLT-TBM-launchers",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "HLT.TBM.launchers_1.0.0.nobp",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Kangkankan/HLT-TBM-launchers/releases/download/1.0.0/HLT.TBM.launchers_1.0.0.nobp",
+      "hash": "sha256:529a2a954bf2e2a78b4a37f9818b522286d56b66e38db58846197fea3dbe4455",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 0
+}
