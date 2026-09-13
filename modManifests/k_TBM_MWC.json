@@ -1,5 +1,5 @@
 {
-  "id": "TBMMWC",
+  "id": "k_TBM_MWC",
   "displayName": "Piledriver Maneuverable Warhead Carrier",
   "description": "A quasi-ballistic Piledriver that carries three maneuverable warheads.Include HLT/MSV launchers.",
   "tags": [
@@ -14,7 +14,7 @@
       "url": "https://github.com/Kangkankan/Piledriver-Maneuverable-Warhead-Carrier-mod/blob/main/README.md"
     },
     {
-      "name": "discord mod form link",
+      "name": "discord mod forum link",
       "url": "https://discord.com/channels/909034158205059082/1546700051844440175"
     }
   ],
@@ -38,5 +38,6 @@
         "version": "2.0.1"
       }
     }
-  ]
+  ],
+  "downloadCount": 0
 }
