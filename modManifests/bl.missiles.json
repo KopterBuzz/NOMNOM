@@ -37,6 +37,19 @@
   "artifacts": [
     {
       "fileName": "BL_Missiles.dll",
+      "version": "0.3.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Lyco-Mirai/NO.BL_Missiles/releases/download/0.3.3/BL_Missiles.dll",
+      "hash": "sha256:2fef384382d46cab05f90697c2ad6a3a52b802a29c786f8fabac2ff8c05cd585",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "BL_Missiles.dll",
       "version": "0.3.2",
       "category": "release",
       "type": "addon",
