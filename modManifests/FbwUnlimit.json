@@ -1,0 +1,41 @@
+{
+  "id": "FbwUnlimit",
+  "displayName": "FBW Unlimit",
+  "description": "Hold a key (default LeftAlt) to bypass the fly-by-wire G/AoA limiter for direct stick-to-surface control - higher AoA and harder pulls than Flight-Assist-off allows. Release to restore stock behaviour. Fully client-side and multiplayer-safe, no host install needed.",
+  "tags": [
+    "QoL",
+    "Gameplay",
+    "utility",
+    "client side"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/L33chKing/fbw-unlimit"
+    }
+  ],
+  "authors": [
+    "LeechKing"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "L33chKing",
+  "githubRepoName": "fbw-unlimit",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "FbwUnlimit-v1.0.0.zip",
+      "downloadUrl": "https://github.com/L33chKing/fbw-unlimit/releases/download/v1.0.0/FbwUnlimit-v1.0.0.zip",
+      "hash": "sha256:414a507cd7c9ee189e9cd5fad45f71137c8e55b7c917db1d15b94c1ea9818a95",
+      "gameVersion": "0.34.1",
+      "version": "1.0.0",
+      "category": "Release",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
