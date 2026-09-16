@@ -1,0 +1,33 @@
+{
+  "id": "com.MrNoHands.tts-lite",
+  "displayName": "Handy TTS Lite",
+  "description": "Featherweight TTS companion: the game's own voice, faster and cleaner. Zero downloads beyond kilobytes.",
+  "tags": [
+    "QoL",
+    "Audio"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nenad1797-oss/HandyTTS-Lite"
+    }
+  ],
+  "authors": [
+    "Mr No Hands"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "nenad1797-oss",
+  "githubRepoName": "HandyTTS-Lite",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Com.MrNoHands.TtsLite.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/nenad1797-oss/HandyTTS-Lite/releases/download/1.0.0/Com.MrNoHands.TtsLite.dll",
+      "hash": "sha256:63767e066962ec84f1de1764ee83fc8d268aa3c76d469ac75c3f0a2142c0fe3a"
+    }
+  ]
+}

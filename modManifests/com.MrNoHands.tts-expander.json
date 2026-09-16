@@ -1,0 +1,33 @@
+{
+  "id": "com.MrNoHands.tts-expander",
+  "displayName": "Handy TTS",
+  "description": "Local neural TTS for game chat: every player gets a stable, distinct voice. Fully offline.",
+  "tags": [
+    "QoL",
+    "Audio"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nenad1797-oss/HandyTTS"
+    }
+  ],
+  "authors": [
+    "Mr No Hands"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "nenad1797-oss",
+  "githubRepoName": "HandyTTS",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "HandyTTS-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/nenad1797-oss/HandyTTS/releases/download/1.0.0/HandyTTS-1.0.0.zip",
+      "hash": "sha256:39f51e805e6d6d97cbc8d2b3e10aeb75528af98a168d9b15adcdeddbc7a93f2d"
+    }
+  ]
+}
