@@ -1,0 +1,31 @@
+{
+  "id": "com.resolute.nuclearoption",
+  "displayName": "Resolute",
+  "description": "At 225 metres in length and displacing 32,000 tonnes, the Resolute class combines long-range strike capability with fleet air and ballistic missile defence. Its 276 vertical-launch cells accommodate a diverse missile battery, supported by a 155 mm railgun for surface engagements and shore bombardment.",
+  "authors": [
+    "RValeWorks"
+  ],
+  "tags": [
+    "Ship"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/RValeWorks/Resolute"
+    }
+  ],
+  "githubOwner": "RValeWorks",
+  "githubRepoName": "Resolute",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Resolute_0.7.26.zip",
+      "version": "0.7.26",
+      "downloadUrl": "https://github.com/RValeWorks/Resolute/releases/download/v0.7.26/Resolute_0.7.26.zip",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "hash": "sha256:9306a73e73b2376b69096bc7bbad5b0a81e605f104a10c96755735e0c38bd919"
+    }
+  ]
+}
