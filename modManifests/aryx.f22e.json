@@ -1,0 +1,43 @@
+{
+  "id": "aryx.f22e",
+  "displayName": "Aryx-F-22E",
+  "description": "Adds a rank 5 replica of the F-22 Raptor, upgraded to 2070s standards.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/shipyard"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx-F-22E",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Aryx_F22E_StrikeRaptor_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/releases/download/1.0.0/Aryx_F22E_StrikeRaptor_1.0.0.dll",
+      "hash": "",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    }
+  ],
+  "downloadCount": 0
+}
