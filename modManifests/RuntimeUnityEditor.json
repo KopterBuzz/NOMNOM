@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "RuntimeUnityEditor.Bepin5_v6.3.2.zip",
+      "version": "6.3.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/ManlyMarco/RuntimeUnityEditor/releases/download/v6.3.2/RuntimeUnityEditor.Bepin5_v6.3.2.zip",
+      "hash": "sha256:7cdb195fe9f3a0ae0d6d05f92125eac79977a3900ae4a8d8a625d9be7c2028a9"
+    },
+    {
       "fileName": "RuntimeUnityEditor.Bepin5_v6.3.1.zip",
       "version": "6.3.1",
       "category": "release",
@@ -38,6 +47,6 @@
       "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
     }
   ],
-  "downloadCount": 135835,
+  "downloadCount": 135862,
   "isClientOrServer": "Client"
 }
