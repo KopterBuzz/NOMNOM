@@ -1,0 +1,33 @@
+{
+  "id": "NOPlayerSlingload",
+  "displayName": "Player Slingload",
+  "description": "Slingload other players for fun and profit",
+  "tags": [
+    "mod",
+    "multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/MinecrackTyler/NOPlayerSlingload"
+    }
+  ],
+  "authors": [
+    "minecracktyler"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "MinecrackTyler",
+  "githubRepoName": "NOPlayerSlingload",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOPlayerSlingload_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/MinecrackTyler/NOPlayerSlingload/releases/download/v1.0.0/NOPlayerSlingload_1.0.0.dll",
+      "hash": "sha256:8b0e872ccc584840c971255cd849c08d347a86d762d88058592c38243767bfd2"
+    }
+  ]
+}
