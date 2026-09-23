@@ -1,0 +1,42 @@
+{
+  "id": "vet.solar.chemical",
+  "displayName": "Chemical Option",
+  "description": "Vanilla-compatible QoL features.",
+  "tags": [
+    "Mod",
+    "QoL",
+    "Client",
+    "Vet",
+	"Solar",
+    "Dynamics",
+    "Chemical",
+    "Option"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SolarDyn/Chemical-Option"
+    }
+  ],
+  "authors": [
+    "SolarSupremacy"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "SolarDyn",
+  "githubRepoName": "Chemical-Option",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "vet.solar.chemical-0.34.2.4.7z",
+      "version": "0.34.2.4",
+      "category": "release",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/SolarDyn/Chemical-Option/releases/download/v0.34.2.4/vet.solar.chemical-0.34.2.4.7z",
+      "hash": "sha256:914693c4a60032d1a84bf8ed9982068d53491604b622d9a12ec5e9d896a91fd0"
+    }
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/FuelLeak.png",
+  "imageHash": "ba3282a0a0095ba19a08382507e946dbbb703296f191e3250ca1c231ccb3da4c",
+  "downloadCount": 0
+}

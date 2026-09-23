@@ -1,0 +1,45 @@
+﻿{
+  "id": "vet.solar.collimatedhud",
+  "displayName": "Collimated HUD",
+  "description": "Realistic rendering for the game's heads-up display.",
+  "tags": [
+    "Mod",
+    "QoL",
+    "HUD",
+    "Client",
+    "Vet",
+    "Solar",
+    "Dynamics",
+    "Collimated",
+    "Visual",
+    "GFX",
+    "Rendering"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SolarDyn/Collimated-HUD"
+    }
+  ],
+  "authors": [
+    "SolarSupremacy"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "SolarDyn",
+  "githubRepoName": "Collimated-HUD",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "vet.solar.collimatedhud-1.0.5.7z",
+      "version": "1.0.5",
+      "category": "release",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/SolarDyn/Collimated-HUD/releases/download/v1.0.5/vet.solar.collimatedhud-1.0.5.7z",
+      "hash": "sha256:ebe6300678227a6416e26fd7f0758224986a29944dce10f3f126de2e916f56ee"
+    }
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/CollimatedHUD.png",
+  "imageHash": "a50838ad4f1c39eea75fbde2cb0f6769659dc69c25550478eff20a082e3f4d56",
+  "downloadCount": 0
+}
