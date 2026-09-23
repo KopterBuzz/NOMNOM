@@ -1,0 +1,37 @@
+{
+  "id" : "byt0rpilot.ShaderNightVision",
+  "displayName": "Shader Night Vision",
+  "description": "Replaces vanilla night vision with custom made shader night vision for your larping needs!",
+  "tags": [
+    "mod",
+    "QoL",
+    "Flavor",
+    "Visual",
+    "Immersion"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/the-cat-d/ShaderNightVision"
+    }
+  ],
+  "authors": [
+    "byt[0]rpilot"
+  ],
+  "isClientOrServer": "Client",
+  
+  "githubOwner": "the-cat-d",
+  "githubRepoName": "ShaderNightVision",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "ShaderNightVision-v1.0.0.dll ",
+      "downloadUrl": "https://github.com/the-cat-d/ShaderNightVision/releases/download/1.0.0/ShaderNightVision-v1.0.0.dll",
+      "gameVersion": "0.34.2",
+      "version": "1.0.0",
+      "category": "release",
+      "hash" : "sha256:3097cf591bfeea1099ff3a5e2bb61ed64a88a4221174d2f80e8a9d6705edeff4"
+    }
+  ]
+}
