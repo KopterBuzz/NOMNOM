@@ -1,0 +1,33 @@
+{
+  "id": "NCMod.NuclearOptionTrainer",
+  "displayName": "Nuclear Option Trainer",
+  "description": "In-game developer and testing trainer for tweaking flight parameters, testing weapons, and debugging units.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/XBarni999/NCMod"
+    }
+  ],
+  "authors": [
+    "Phantasm"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Phantasm",
+  "githubRepoName": "NuclearOptionTrainer",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "NuclearOptionTrainer-1.0.0.zip",
+      "downloadUrl": "https://github.com/XBarni999/NCMod/releases/tag/v1.1.2",
+      "gameVersion": "0.32",
+      "version": "1.1.2",
+      "category": "Release",
+      "hash": "sha256:9df136a7f061e63e1196e5dae40cde7c32ff5343d148f1428da9a85e7b6b7d7c"
+    }
+  ]
+}
