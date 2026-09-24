@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "HandyTTS-1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/nenad1797-oss/HandyTTS/releases/download/1.0.1/HandyTTS-1.0.1.zip",
+      "hash": "sha256:be7cc73de3ef8a01e0518a56bcac3ab8a2a23cf60d5983968194921f87a9f558"
+    },
+    {
       "fileName": "HandyTTS-1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
