@@ -27,7 +27,13 @@
       "type": "plugin",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/nenad1797-oss/HandyTTS/releases/download/1.0.0/HandyTTS-1.0.0.zip",
-      "hash": "sha256:39f51e805e6d6d97cbc8d2b3e10aeb75528af98a168d9b15adcdeddbc7a93f2d"
+      "hash": "sha256:39f51e805e6d6d97cbc8d2b3e10aeb75528af98a168d9b15adcdeddbc7a93f2d",
+      "incompatibilities": [
+        {
+          "id": "com.MrNoHands.tts-lite",
+          "version": "1.0.0"
+        }
+      ]
     }
   ],
   "downloadCount": 25
