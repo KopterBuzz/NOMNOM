@@ -23,12 +23,12 @@
   "artifacts": [
     {
       "type": "plugin",
-      "fileName": "BLIND-0.5.0.zip",
+      "fileName": "BLIND.v0.5.0.zip",
       "downloadUrl": "https://github.com/XBarni999/B.L.I.N.D/releases/tag/v0.5.0",
       "gameVersion": "0.32",
-      "version": "0.4.3",
+      "version": "0.5.0",
       "category": "Release",
-      "hash": "sha256:d01f67b993efc64b3861b110ed40a965ae47483b79357dcc6d7ad06ec30f00f9"
+      "hash": "sha256:f027125d175039deb8adb13859a66b4d62d72ad9e7c31f5871ee5b54264484de"
     }
   ]
 }
