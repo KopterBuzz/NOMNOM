@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "vet.solar.collimatedhud",
   "displayName": "Collimated HUD",
   "description": "Realistic rendering for the game's heads-up display.",
@@ -41,5 +41,5 @@
   ],
   "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/CollimatedHUD.png",
   "imageHash": "a50838ad4f1c39eea75fbde2cb0f6769659dc69c25550478eff20a082e3f4d56",
-  "downloadCount": 0
+  "downloadCount": 2
 }
