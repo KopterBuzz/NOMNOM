@@ -1,0 +1,48 @@
+﻿{
+  "id": "vet.solar.biological",
+  "displayName": "Biological Option",
+  "description": "Bugfixes and optimizations.",
+  "tags": [
+    "Mod",
+    "QoL",
+    "Bug",
+    "Fix",
+    "Client",
+    "Server",
+    "Performance",
+    "Optimisation",
+    "Optimization",
+    "Vet",
+    "Solar",
+    "Dynamics",
+    "Biological",
+    "Option"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SolarDyn/Biological-Option"
+    }
+  ],
+  "authors": [
+    "SolarSupremacy"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "SolarDyn",
+  "githubRepoName": "Biological-Option",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "vet.solar.biological-0.34.2.4.7z",
+      "version": "0.34.2.4",
+      "category": "release",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/SolarDyn/Biological-Option/releases/download/v0.34.2.4/vet.solar.biological-0.34.2.4.7z",
+      "hash": "sha256:8886211884896066a5b84002b8fbc62e7ce522c4229e558175e143c4a1653b8b"
+    }
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/NuclearPlus.png",
+  "imageHash": "a2fe8adf88a226a726616865ba477891e79607637f5e11689464363b79dda53a",
+  "downloadCount": 0
+}
