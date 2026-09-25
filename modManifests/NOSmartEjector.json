@@ -1,0 +1,34 @@
+{
+  "id": "NOSmartEjector",
+  "displayName": "NO Smart Ejector",
+  "description": "Automated countermeasure ejection system flares for missile launch and radar lock defense in Nuclear Option.",
+  "tags": [
+    "QoL",
+    "Utility",
+    "Combat"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/PWFoox/NOSmartEjector"
+    }
+  ],
+  "authors": [
+    "PWFoox"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "NOSmartEjector",
+  "githubRepoName": "NOSmartEjector",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "NOSmartEjector-v1.1.zip",
+      "version": "1.1",
+      "category": "Release",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/PWFoox/NOSmartEjector/releases/download/v1.1/NOSmartEjector-v1.1.zip",
+      "hash": "sha256:1ab961ce90322fa55723a8a2f89231f81f2aa907a86961c4b7ae07085df5fcd0"
+    }
+  ]
+}
