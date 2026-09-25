@@ -24,6 +24,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "ShaderNightVision-v1.1.0.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/the-cat-d/ShaderNightVision/releases/download/1.1.0/ShaderNightVision-v1.1.0.dll",
+      "hash": "sha256:506d0deaf85ac1af37989c2df75deb247fb7aedaec767ae4a7a9dc3f4662dc2e"
+    },
+    {
       "type": "plugin",
       "fileName": "ShaderNightVision-v1.0.0.dll ",
       "downloadUrl": "https://github.com/the-cat-d/ShaderNightVision/releases/download/1.0.0/ShaderNightVision-v1.0.0.dll",
@@ -33,5 +42,5 @@
       "hash": "sha256:3097cf591bfeea1099ff3a5e2bb61ed64a88a4221174d2f80e8a9d6705edeff4"
     }
   ],
-  "downloadCount": 187
+  "downloadCount": 198
 }
