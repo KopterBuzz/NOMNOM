@@ -7,6 +7,7 @@
     "id": "your.example.mod",
     "displayName": "Example Mod",
     "description": "This is an example manifest for a mod.",
+    "isClientOrServer": "Both",
     "tags": [
         "mod",
         "example"
@@ -62,7 +63,7 @@ For full detailed overview of the Schema, please continue reading.
 
 # JSON Manifest Properties
 
-> ## `id` <sub>`string` (<ins>Required</ins>)</sub>
+## `id` <sub>`string` (<ins>Required</ins>)</sub>
 > - Unique identifier for your mod.
 > - It is recommended to keep this identifier consistent between this property, the file name of the JSON manifest, and the name of your mod's .DLL assembly (not including versioning in the assembly name if desired).
 > ```json
@@ -83,7 +84,7 @@ For full detailed overview of the Schema, please continue reading.
 > > - `<parentModID>.<yourModName>`
 > >   - *i.e., `NOBlackBox.VanillaTacviewAssetPack`*
 
-> ## `displayName` <sub>`string` (<ins>Required</ins>)</sub>
+## `displayName` <sub>`string` (<ins>Required</ins>)</sub>
 > - Human-readable name of the mod.
 > ```json
 > {
@@ -91,7 +92,7 @@ For full detailed overview of the Schema, please continue reading.
 > }
 > ```
 
-> ## `description` <sub>`string` (<ins>Required</ins>)</sub>
+## `description` <sub>`string` (<ins>Required</ins>)</sub>
 > - A brief description of the mod.
 > ```json
 > {
@@ -99,7 +100,19 @@ For full detailed overview of the Schema, please continue reading.
 > }
 > ```
 
-> ## `tags` <sub>`array[string]`</sub>
+## `isClientOrServer` <sub>`string<"Client"|"Server"|"Both">`</sub>
+> - A string describing if the mod is client-side, server-side, or both.
+> - The only valid entries are:
+>   - `Client`
+>   - `Server`
+>   - `Both`
+> ```json
+> {
+>     "isClientOrServer": "Client" 
+> }
+> ```
+
+## `tags` <sub>`array[string]`</sub>
 > - Relevant tags for your mod.
 > ```json
 > {
@@ -111,7 +124,7 @@ For full detailed overview of the Schema, please continue reading.
 > }
 > ```
 
-> ## `urls` <sub>`array[object{"name": string, "url": string}]` (<ins>Required</ins>)</sub>
+## `urls` <sub>`array[object{"name": string, "url": string}]` (<ins>Required</ins>)</sub>
 > - Array of objects where each object contains `name` and `url`.
 > - At least one entry with `"name": "info"` and `"url"` set to a URL is required.
 > - Additional entries are optional.
@@ -126,7 +139,7 @@ For full detailed overview of the Schema, please continue reading.
 > }
 > ```
 
-> ## `authors` <sub>`array[string]`</sub>
+## `authors` <sub>`array[string]`</sub>
 > - Array of strings containing authors of the mod.
 > ```json
 > {
@@ -136,21 +149,9 @@ For full detailed overview of the Schema, please continue reading.
 > }
 > ```
 
-> ## `isClientOrServer` <sub>`string<"Client"|"Server"|"Both">`</sub>
-> - A string describing if the mod is client-side, server-side, or both.
-> - The only valid entries are:
->   - `Client`
->   - `Server`
->   - `Both`
-> ```json
-> {
->     "isClientOrServer": "Client" 
-> }
-> ```
-
-> ## `autoUpdateArtifacts` <sub>`string<"True"|"False">` (<ins>Required for auto-updating</ins>)</sub>
-> ## `githubOwner` <sub>`string` (<ins>Required for auto-updating</ins>)</sub>
-> ## `githubRepoName` <sub>`string` (<ins>Required for auto-updating</ins>)</sub>
+## `autoUpdateArtifacts` <sub>`string<"True"|"False">` (<ins>Required for auto-updating</ins>)</sub>
+## `githubOwner` <sub>`string` (<ins>Required for auto-updating</ins>)</sub>
+## `githubRepoName` <sub>`string` (<ins>Required for auto-updating</ins>)</sub>
 > - You only need these if you want to set up automatic updating from your repository.
 > - `githubOwner` and `githubRepoName` should be the same as in the URL for your repository.
 > 
@@ -165,8 +166,8 @@ For full detailed overview of the Schema, please continue reading.
 > }
 > ```
 
-> ## `imageUrl` <sub>`string`</sub>
-> ## `imageHash` <sub>`string`</sub>
+## `imageUrl` <sub>`string`</sub>
+## `imageHash` <sub>`string`</sub>
 > - Exact URL for an image that represents the mod. This is used for display purposes only.
 > - The image should be in JPEG or PNG format and at most 512x512, though as low as 128x128 should still look fine.
 > - The image hash is a SHA256 hash with no prefix, just the raw output as a string.
@@ -178,8 +179,12 @@ For full detailed overview of the Schema, please continue reading.
 > }
 > ```
 
-> ## `artifacts` <sub>`array[...]`</sub>
-> 
+---
+
+# JSON Manifest Artifact Property
+
+## `artifacts` <sub>`array[object{...}]`</sub>
+> Example artifact array containing one artifact object:
 > ```json
 > {
 >     "artifacts": [
@@ -195,49 +200,44 @@ For full detailed overview of the Schema, please continue reading.
 >     ]
 > }
 > ```
->
-> > ## `category` <sub>`string<"release"|"pre-release">` (<ins>Required</ins>)</sub>
-> > - Mod category, one of the following:
-> >   - `"release"`: Stable release.
-> >   - `"pre-release"`: Unstable/pre-release.
-> > - This is to allow users to choose betwen which available versions they'd like to install.
+
+## `artifacts`.`category` <sub>`string<"release"|"pre-release">` (<ins>Required</ins>)</sub>
+> - Mod category, one of the following:
+>   - `"release"`: Stable release.
+>   - `"pre-release"`: Unstable/pre-release.
+> - This is to allow users to choose betwen which available versions they'd like to install.
+
+## `artifacts`.`type` <sub>`string<"plugin"|"addon">` (<ins>Required</ins>)</sub>
+> - Type of mod, one of the following:
+>   - `"plugin"`: BepInEx plugin.
+>   - `"addon"`: Add-on or extension for another mod.
+
+## `artifacts`.`fileName` <sub>`string` (<ins>Required</ins>)</sub>
+> - Name of the downloadable content file available in the latest release.
+> - It is highly recommended to use an archive format such as `.zip` or `.7z`.
+
+## `artifacts`.`downloadUrl` <sub>`string` (<ins>Required</ins>)</sub>
+> - Direct download URL to the previous file in the latest release.
+
+## `artifacts`.`hash` <sub>`string` (<ins>Required</ins>)</sub>
+> - SHA256 hash of the file referenced by `fileName` and `downloadUrl`.
+> - Format should be: `"sha256:<value>"`
+
+## `artifacts`.`version` <sub>`string` (<ins>Required</ins>)</sub>
+> - Mod version, same as the assembly version.
+> - Must be easily parsable, such as `"0.0.0"`, `"0.0.0.0"`, `"v0.0.0"`, or `"v0.0.0.0"`.
+
+## `artifacts`.`gameVersion` <sub>`string` (<ins>Required</ins>)</sub>
+> - Latest game version the mod supports, such as `"0.34.2"`.
+
+## `artifacts`.`extends` <sub>`object{"id": string, "version": string}`</sub>
+> - Reference to the ID and version of the mod this mod extends if this mod is an addon.
 > 
-> > ## `type` <sub>`string<"plugin"|"addon">` (<ins>Required</ins>)</sub>
-> > - Type of mod, one of the following:
-> >   - `"plugin"`: BepInEx plugin.
-> >   - `"addon"`: Add-on or extension for another mod.
->
-> > ## `fileName` <sub>`string` (<ins>Required</ins>)</sub>
-> > - Name of the downloadable content file available in the latest release.
-> > - It is highly recommended to use an archive format such as `.zip` or `.7z`.
-> 
-> > ## `downloadUrl` <sub>`string` (<ins>Required</ins>)</sub>
-> > - Direct download URL to the previous file in the latest release.
->
-> > ## `hash` <sub>`string` (<ins>Required</ins>)</sub>
-> > - SHA256 hash of the file referenced by `fileName` and `downloadUrl`.
-> > - Format should be: `"sha256:<value>"`
->
-> > ## `version` <sub>`string` (<ins>Required</ins>)</sub>
-> > - Mod version, same as the assembly version.
-> > - Must be easily parsable, such as `"0.0.0"`, `"0.0.0.0"`, `"v0.0.0"`, or `"v0.0.0.0"`.
->
-> > ## `gameVersion` <sub>`string` (<ins>Required</ins>)</sub>
-> > - Latest game version the mod supports, such as `"0.34.2"`.
->
-> > ## `extends` <sub>`object{"id": string, "version": string}`</sub>
-> > - Reference to the ID and version of the mod this mod extends if this mod is an addon.
-> > > [!IMPORTANT]
-> > > This is required if `"category": "addon"`.
->
-> > ## `dependencies` <sub>`array[object{"id": string, "version": string}]`</sub>
-> > - Array of objects similar to the objects in `extends`.
-> > - Implement these to list mods as dependencies for your mod.
->
-> > ## `incompatibilities` <sub>`array[object{"id": string, "version": string}]`</sub>
-> > - Array of objects similar to the objects in `extends`.
-> > - Implement these to list mods that your mod is incompatible with.
-> 
+> > [!IMPORTANT]
+> >
+> > This is required if `"category": "addon"`.
+
+> Example artifact array with `extends` object:
 > ```json
 > {
 >     "artifacts": [
@@ -257,6 +257,172 @@ For full detailed overview of the Schema, please continue reading.
 >     ]
 > }
 > ```
+>
+## `artifacts`.`dependencies` <sub>`array[object{"id": string, "version": string}]`</sub>
+> - Array of objects similar to the objects in `extends`.
+> - Implement these to list mods as dependencies for your mod.
+>
+## `artifacts`.`incompatibilities` <sub>`array[object{"id": string, "version": string}]`</sub>
+> - Array of objects similar to the objects in `extends`.
+> - Implement these to list mods that your mod is incompatible with.
+
+---
+
+# Example Manifests
+I pulled some manifests from random mods and included them here as reference material. 
+
+*I did modify these a bit for consistency and brevity, but these are functionally identical to the originals and perfect to use as reference.*
+
+If you need additional references, browse through the `modManifests` directory to check out other peoples' manifests. Quality and consistency may vary but they should all be functional.
+
+```json
+{
+  "id": "com.dsr.nors",
+  "displayName": "NORS - Nuclear Option Radio System",
+  "description": "A realistic radio communication system for Nuclear Option.",
+  "isClientOrServer": "Both",
+  "tags": [
+    "Utility",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System"
+    }
+  ],
+  "authors": [
+    "RehabRocket"
+  ],
+  "autoUpdateArtifacts": "True",
+  "githubOwner": "NORehabRocket",
+  "githubRepoName": "NORS---Nuclear-Option-Radio-System",
+  "artifacts": [
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.7.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.7.7/1NORS.zip",
+      "hash": "sha256:d4446afda611ee8200861afeedd414536e770389af874a95b2620704c9e383d7"
+    },
+    {
+      "fileName": "1NORS.zip",
+      "version": "0.7.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/releases/download/0.7.4/1NORS.zip",
+      "hash": "sha256:07517b4283e9a757c3d30c0aceb72bd80628ec974779f8015fa4897f6f49e56f"
+    }
+  ]
+}
+```
+
+```json
+{
+  "id": "NO_Tactitools",
+  "displayName": "NO TactiTools",
+  "description": "Nuclear Option Tactical Tools is an immersion and QoL focused gameplay mod.",
+  "isClientOrServer": "Both",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/clumzy/NO_Tactitools"
+    }
+  ],
+  "authors": [
+    "\"George\""
+  ],
+  "autoUpdateArtifacts": "True",
+  "githubOwner": "clumzy",
+  "githubRepoName": "NO_Tactitools",
+  "artifacts": [
+    {
+      "fileName": "NOTT_PR_0.7.2.zip",
+      "version": "0.7.2",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.2/NOTT_PR_0.7.2.zip",
+      "hash": "sha256:a3dcb931850d638d14a7b147ee24ed2dfc4d90c8a19997cd68ae114fb0fa230e",
+      "dependencies": [
+        {
+          "id": "no-autopilot-mod",
+          "version": "5.5.3"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
+```
+
+```json
+{
+  "id": "com.nikkorap.blueprinter",
+  "displayName": "Blueprinter",
+  "description": "Core framework required for mods utilising blueprinter.",
+  "isClientOrServer": "Both",
+  "tags": [
+    "mod",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NOBlueprinter-Releases/blob/main/README.md"
+    },
+    {
+      "name": "2082 discord",
+      "url": "https://discord.gg/qqMwyr2qxR"
+    }
+  ],
+  "authors": [
+    "nikkorap"
+  ],
+  "autoUpdateArtifacts": "True",
+  "githubOwner": "nikkorap",
+  "githubRepoName": "NOBlueprinter-Releases",
+  "artifacts": [
+    {
+      "fileName": "Blueprinter_2.0.1.dll",
+      "version": "2.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-Releases/releases/download/2.0.1/Blueprinter_2.0.1.dll",
+      "hash": "sha256:a2cec71bda003824695b5c5b55879a50c4dad579a5597c795600428636f1f7ec"
+    },
+    {
+      "fileName": "Blueprinter_2.0.0.dll",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-Releases/releases/download/2.0.0/Blueprinter_2.0.0.dll",
+      "hash": "sha256:5d23fdeb275e07663685467e906dfdc01bc588a7ffb09f756e4fe85f7cc93016"
+    },
+    {
+      "fileName": "Blueprinter_1.8.21.dll",
+      "version": "1.8.21",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-Releases/releases/download/1.8.21/Blueprinter_1.8.21.dll",
+      "hash": "sha256:a8dcef9315feac5be3cd30b33308f8b59196a53fca58aafdb663f12a68f9d465"
+    }
+  ]
+}
+```
 
 ## Contributing Manifests
 
