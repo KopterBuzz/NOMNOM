@@ -1,0 +1,43 @@
+{
+  "id": "NO_Tactitools-plus",
+  "displayName": "NO TactiTools (plus)",
+  "description": "A fork of Nuclear Option Tactical Tools with many, many additional QoL features.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/yessidor/NO_Tactitools"
+    }
+  ],
+  "authors": [
+    "yessidor"
+  ],
+  "isClientOrServer" : "Client",
+  "githubOwner": "yessidor",
+  "githubRepoName": "NO_Tactitools",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOTT-PLUS_0.7.33.1.zip",
+      "version": "0.7.33.1",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/yessidor/NO_Tactitools/releases/download/0.7.33.1/NOTT-PLUS_0.7.33.1.zip",
+      "hash": "sha256:2b7f27681b71476c6ffaa2606605b61087b5f4fda4c1212e122a478c8ee545e2",
+      "dependencies": [
+        {
+          "id": "no-autopilot-mod",
+          "version": "5.5.3"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
