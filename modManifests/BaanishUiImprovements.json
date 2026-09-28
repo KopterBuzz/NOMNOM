@@ -1,0 +1,33 @@
+{
+  "id": "BaanishUiImprovements",
+  "displayName": "Baanish UI Improvements",
+  "description": "Map and HUD navigation aids. Draws friendly runways with their numbers on the minimap and full map, a dashed approach line for the runway you're lined up on, and a RWY label over its threshold for ATC calls. More navigation features are coming.",
+  "tags": [
+    "QoL",
+    "UI"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/baanish/baanish-ui-improvements"
+    }
+  ],
+  "authors": [
+    "baanish"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "baanish",
+  "githubRepoName": "baanish-ui-improvements",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "BaanishUiImprovements-v0.2.0-nomm.zip",
+      "version": "0.2.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/baanish-ui-improvements/releases/download/v0.2.0/BaanishUiImprovements-v0.2.0-nomm.zip",
+      "hash": "sha256:b5db4be395049a955c80e48617d0a0565fe2d435f844e86e52dd72267e730963"
+    }
+  ]
+}
