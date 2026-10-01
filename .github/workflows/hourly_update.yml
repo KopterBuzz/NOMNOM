@@ -17,14 +17,14 @@ permissions:
   
 jobs:
   update-files:
-    if: github.repository == 'KopterBuzz/NOMNOM'
+    if: github.repository == 'KopterBuzz/NOMNOM' && (github.event_name != 'schedule' || github.ref_name == 'main')
     runs-on: windows-latest
     
     steps:
       - name: Checkout specific branch
         uses: actions/checkout@v4
         with:
-          ref: main  # Replace with your branch name
+          ref: ${{ github.ref_name }}
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Run Validation
