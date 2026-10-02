@@ -30,7 +30,7 @@
       "version": "1.0.4",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.34",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/releases/download/1.0.4/Aryx_F22E_StrikeRaptor_1.0.4.dll",
       "hash": "sha256:c57b70ca9859b7638935d30ec3a60b697d8bbdf608f00d59f2ca07aae53eb46e",
       "extends": {
@@ -91,5 +91,5 @@
       }
     }
   ],
-  "downloadCount": 10142
+  "downloadCount": 14277
 }

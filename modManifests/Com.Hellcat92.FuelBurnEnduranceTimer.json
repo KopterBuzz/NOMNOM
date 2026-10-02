@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Com.Hellcat92.FuelBurnEnduranceTimer_3.2.0.dll",
+      "version": "3.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-FuelBurnEnduranceTimer/releases/download/3.2.0/Com.Hellcat92.FuelBurnEnduranceTimer_3.2.0.dll",
+      "hash": "sha256:202e2b9e05fdeed640e361b44ab6d61761fda1c08a6af2063d4460f558d52599"
+    },
+    {
       "fileName": "Com.Hellcat92.FuelBurnEnduranceTimer.dll",
       "version": "3.1.0",
       "category": "release",
@@ -57,5 +66,5 @@
       "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
     }
   ],
-  "downloadCount": 3050
+  "downloadCount": 3208
 }

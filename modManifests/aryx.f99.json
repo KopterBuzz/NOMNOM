@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx_F99_Shrike_1.1.3.dll",
+      "version": "1.1.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-F-99-Shrike/releases/download/1.1.3/Aryx_F99_Shrike_1.1.3.dll",
+      "hash": "sha256:78da6f9b5b1ae6d3a4b4f16cc02366190353abe5fd6b4bb31b7b7ed5748f0c40",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
       "fileName": "Aryx_F99_Shrike_1.1.2.dll",
       "version": "1.1.2",
       "category": "release",
@@ -156,5 +169,5 @@
       }
     }
   ],
-  "downloadCount": 61875
+  "downloadCount": 65355
 }

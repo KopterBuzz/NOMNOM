@@ -1,0 +1,38 @@
+{
+  "id": "NOCustomMaps.SwissAlps",
+  "displayName": "Swiss Alps",
+  "description": "Western Switzerland at true scale, 199,680 m square, from Geneva to Zurich and south to Mont Blanc, with real terrain, roads and six airfields. A map for NOCustomMaps. The server and every player need the same version.",
+  "tags": [
+    "Terrain",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/BatongMaster/NOSwissAlps"
+    }
+  ],
+  "authors": [
+    "BatongMaster"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "BatongMaster",
+  "githubRepoName": "NOSwissAlps",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "swissalps-0.3.0.zip",
+      "version": "0.3.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BatongMaster/NOSwissAlps/releases/download/v0.3.0/swissalps-0.3.0.zip",
+      "hash": "sha256:c73a1b4a22b7402c87f4e2a956ffbe3df0c2c9a45aefdb970316181989e1a2eb",
+      "extends": {
+        "id": "NOCustomMaps",
+        "version": "1.2.1"
+      }
+    }
+  ],
+  "downloadCount": 825
+}

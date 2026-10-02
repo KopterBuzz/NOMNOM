@@ -25,6 +25,21 @@
   "artifacts": [
     {
       "fileName": "Preset.Targets.dll",
+      "version": "1.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/JUSTJ7780/Target-Presets/releases/download/1.5.0/Preset.Targets.dll",
+      "hash": "sha256:f8996bc27b95e73eea317479a329fd67acd3e248178a7ec4f594f4ad72428df1",
+      "dependencies": [
+        {
+          "id": "com.JUSTJ7780.nomodframework",
+          "version": "1.2.0"
+        }
+      ]
+    },
+    {
+      "fileName": "Preset.Targets.dll",
       "version": "1.4.1",
       "category": "release",
       "type": "plugin",
@@ -54,5 +69,5 @@
       ]
     }
   ],
-  "downloadCount": 544
+  "downloadCount": 594
 }

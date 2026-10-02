@@ -22,6 +22,51 @@
   "artifacts": [
     {
       "fileName": "MeridianWorksMod.dll",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.2.1/MeridianWorksMod.dll",
+      "hash": "sha256:5517602db51417f602143894dde72eea0992710682edbacfaafb30f2ac486819",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.2.0/MeridianWorksMod.dll",
+      "hash": "sha256:aae19f9f5d0f8192dc437c96fbf062806ede9d84a4e4ea86e63a0cae717a84a1",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.1.0/MeridianWorksMod.dll",
+      "hash": "sha256:b5f4e78ea71d3fbee8fddc691f3852a4ac279d53b46c8f0ce3e17cbb73ac695d",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
       "version": "1.0.2",
       "category": "release",
       "type": "plugin",
@@ -66,5 +111,5 @@
       ]
     }
   ],
-  "downloadCount": 2523
+  "downloadCount": 4858
 }

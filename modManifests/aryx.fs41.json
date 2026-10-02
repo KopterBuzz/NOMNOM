@@ -26,6 +26,32 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx_FS-41.Eclipse_1.1.7.1.dll",
+      "version": "1.1.7.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.7.1/Aryx_FS-41.Eclipse_1.1.7.1.dll",
+      "hash": "sha256:a7f62f93228274895a3661a3e676943052471b678a52caf195244d22d38c91d3",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_NavalInterceptor1_1.1.7.dll",
+      "version": "1.1.7",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-FS-41-Eclipse/releases/download/1.1.7/Aryx_NavalInterceptor1_1.1.7.dll",
+      "hash": "sha256:b3755082cb01ef046abb485726fd204994f98a3d9da366647f59781f97d0110c",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
       "fileName": "Aryx_FS-41.Eclipse_1.1.6.dll",
       "version": "1.1.6",
       "category": "release",
@@ -221,5 +247,5 @@
       }
     }
   ],
-  "downloadCount": 60848
+  "downloadCount": 68523
 }
