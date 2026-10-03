@@ -22,6 +22,15 @@
   "artifacts": [
     {
       "fileName": "Lock_Shoot_Tone_Ping.dll",
+      "version": "1.2.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Lock-Shoot-Tone-Ping/releases/download/v1.2.5/Lock_Shoot_Tone_Ping.dll",
+      "hash": "sha256:e600dac6845f2688900bb0a39ba410b89f86a49e294cae9efc3004d8a4e8eeb6"
+    },
+    {
+      "fileName": "Lock_Shoot_Tone_Ping.dll",
       "version": "1.2.4",
       "category": "release",
       "type": "plugin",
@@ -57,5 +66,5 @@
       "hash": "sha256:E78F676FA04AB9F3E4338ACC760AAC99A05E7192098715B3C5D18A29A73B4C15"
     }
   ],
-  "downloadCount": 4647
+  "downloadCount": 4721
 }
