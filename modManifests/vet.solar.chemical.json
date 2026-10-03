@@ -6,11 +6,12 @@
     "Mod",
     "QoL",
     "Client",
-    "Vet",
+    "HUD",
+    "Chemical",
+    "Option",
     "Solar",
     "Dynamics",
-    "Chemical",
-    "Option"
+    "Vet"
   ],
   "urls": [
     {
@@ -37,12 +38,18 @@
     },
     {
       "type": "plugin",
-      "fileName": "vet.solar.chemical-0.34.2.4.7z",
-      "version": "0.34.2.4",
+      "fileName": "Solar.ChemicalOption.7z",
+      "version": "0.34.2.7",
       "category": "release",
       "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/SolarDyn/Chemical-Option/releases/download/v0.34.2.4/vet.solar.chemical-0.34.2.4.7z",
-      "hash": "sha256:914693c4a60032d1a84bf8ed9982068d53491604b622d9a12ec5e9d896a91fd0"
+      "downloadUrl": "https://github.com/SolarDyn/Chemical-Option/releases/download/v0.34.2.7/Solar.ChemicalOption.7z",
+      "hash": "sha256:8893e1709e380bc86267fedc3b167a282db8c38560e515a38e556672a508d9fc",
+      "dependencies": [
+        {
+          "id": "Solar.UI",
+          "version": "0.34.2.3"
+        }
+      ]
     }
   ],
   "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/FuelLeak.png",

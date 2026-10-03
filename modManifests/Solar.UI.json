@@ -1,0 +1,41 @@
+{
+  "id": "Solar.UI",
+  "displayName": "Solar UI",
+  "description": "Utilities & Integrations Library",
+  "tags": [
+    "Mod",
+    "UI",
+    "Utilities",
+    "Integrations",
+    "Solar",
+    "Dynamics",
+    "Vet"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/SolarDyn/Solar-UI"
+    }
+  ],
+  "authors": [
+    "SolarSupremacy"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "SolarDyn",
+  "githubRepoName": "Solar-UI",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "Solar.UI.7z",
+      "version": "0.34.2.3",
+      "category": "release",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/SolarDyn/Solar-UI/releases/download/v0.34.2.3/Solar.UI.7z",
+      "hash": "sha256:328318bec82528ec2782c26e6de6485fd985b28b9cf3d7b484fa90fad5edfe9f"
+    }
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/SolarUI.png",
+  "imageHash": "cc068f1a83fcfc9e0fcdef28b8d1acd26521476f347317b66292a71910b2913a",
+  "downloadCount": 0
+}
