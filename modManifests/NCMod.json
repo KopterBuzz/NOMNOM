@@ -1,0 +1,35 @@
+{
+  "id": "NCMod",
+  "displayName": "NCMod - Trainer and Cockpit Physics",
+  "description": "Dynamic cockpit camera, HUD and target-marker controls, combat damage feed, and a resizable trainer menu. Includes aircraft air starts at 500, 1000, 2000 and 5000 metres with airframe-aware speeds. Trainer actions require single-player or host authority.",
+  "tags": [
+    "mod",
+    "qol",
+    "camera",
+    "trainer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/XBarni999/NCMod"
+    }
+  ],
+  "authors": [
+    "XBarni999"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "XBarni999",
+  "githubRepoName": "NCMod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NCMod.NuclearOptionTrainer.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/XBarni999/NCMod/releases/download/v1.2.0/NCMod.NuclearOptionTrainer.dll",
+      "hash": "sha256:36516f9bf731924b9859fdd4539360917556507d4fed71d11a40b6c2400779b7"
+    }
+  ]
+}
