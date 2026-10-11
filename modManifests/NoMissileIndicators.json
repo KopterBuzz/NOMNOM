@@ -1,7 +1,7 @@
 {
   "id": "NoMissileIndicators",
   "displayName": "NO Missile Indicators",
-  "description": "A red arrow on the screen edge toward each incoming missile outside your view, pointing the way to turn. Only missiles the game's missile warning already knows about get one. Off in player-versus-player games unless you allow it.",
+  "description": "A red arrow on a ring around your HUD toward each incoming missile outside your view, pointing the way to turn. Only missiles the game's missile warning already knows about get one. Off in player-versus-player games unless you allow it.",
   "tags": [
     "QoL",
     "UI"
