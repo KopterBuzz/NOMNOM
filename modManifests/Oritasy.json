@@ -1,7 +1,7 @@
 {
   "id": "Oritasy",
   "displayName": "Oritasy",
-  "description": "Nuclear Option gameplay pack: hangar aircraft, flight assists, HUD tools, WeXon weapons, TGM-85. Standard Edition (EN/ZH). Copy zip contents into BepInEx/plugins. Replaces the old com.iallemege.oritasy listing. Do not also load the D edition (same plugin GUID).",
+  "description": "Current release is OritasySS 0.1.1. Nuclear Option gameplay pack: hangar aircraft, flight assists, HUD tools, WeXon weapons, TGM-85. Copy the zip into BepInEx/plugins. This replaces older Oritasy 0.0.9 builds.",
   "tags": [
     "Aircraft",
     "QoL",
@@ -29,7 +29,7 @@
       "type": "plugin",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.1/OritasySS_v0.1.1.zip",
-      "hash": "sha256:cfe56605e67d527093166ff19a8730f837c43f613e04cb7fd3eda4eec11330d0"
+      "hash": "sha256:343350bdd8d3585abc5526442378aee929490f553b627635ed4fa710d1882919"
     },
     {
       "fileName": "OritasySS_v0.1.1-beta.zip",
