@@ -1,0 +1,38 @@
+{
+  "id": "MiG29SMT",
+  "displayName": "MiG-29SMT",
+  "description": "The modern MiG-29SMT, a separate jet from the MiG-29 Fulcrum mod (both can be installed together). An all-glass cockpit with three large colour displays (flight display, tactical display with stores, radar warning with your own heat and radar signature, engines and systems) and an up-front control panel whose keys light up with flight events; a strike role with Kh-29L and KAB-500L laser-guided weapons and the Kh-31P anti-radiation missile, plus R-77, R-73 and R-27 missiles and the GSh-30-1 cannon; stock-style damage; SMT liveries; and rear-view mirrors that really reflect with the NO Mirrors plugin.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/IornMan1213/MiG29SMT-NuclearOption/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "IornMan1213"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "IornMan1213",
+  "githubRepoName": "MiG29SMT-NuclearOption",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MiG-29SMT-Mod_0.2.0.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29SMT-NuclearOption/releases/download/v0.2.0/MiG-29SMT-Mod_0.2.0.zip",
+      "hash": "sha256:02d3cccb8b072703b26cf4451a32b93a8526319930fff7a883ff7aab4315b7ad",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ]
+}
