@@ -102,6 +102,41 @@ url : the actual URL
 - Format: string
 - "True" if you want Auto Updates Enabled, "False" if Disabled
 
+### releaseTagPrefix
+
+- OPTIONAL
+- Format: non-empty string
+- Limits automatic discovery to release tags starting with this exact, case-sensitive prefix. The prefix is removed before parsing the remaining tag as a numeric version.
+- For example, `"releaseTagPrefix": "NuclearUnits-v"` selects `NuclearUnits-v1.2.2` and records version `1.2.2`. Tags for other mods are ignored. The remainder must be a valid .NET version, such as `1.2.2`; do not append prerelease suffixes. GitHub's prerelease flag still determines the artifact category.
+- When omitted, the updater retains its existing tag cleanup (`v`, `-pre` and `_IL2CPP`).
+
+### releaseAssetName
+
+- OPTIONAL
+- Format: non-empty string
+- Selects the release asset with this exact, case-sensitive filename instead of the first release asset. This is a literal filename, not a wildcard or regular expression.
+- For example, `"releaseAssetName": "NuclearUnits.zip"` selects that file regardless of asset order. Use the same filename across this mod's releases; each release has its own download URL.
+- If the named file is missing, the release is skipped with a warning. The updater does not fall back to another asset. Releases with no assets are also skipped.
+- When omitted, the updater retains first-asset selection.
+
+### Shared release repository example
+
+Each mod still has its own manifest, ID and independently versioned package. Multiple mods can share a GitHub publishing repository by configuring both selectors:
+
+```json
+{
+  "githubOwner": "example-author",
+  "githubRepoName": "NuclearOption-Releases",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearUnits-v",
+  "releaseAssetName": "NuclearUnits.zip"
+}
+```
+
+This is an excerpt, not a complete manifest. A second mod can point at the same repository with `"releaseTagPrefix": "NuclearSounds-v"` and `"releaseAssetName": "NuclearSounds.zip"`. Its releases and versions remain separate. Use distinct prefixes so a release cannot belong to multiple mods.
+
+The generated artifact format is unchanged. Its version, filename, download URL, hash and download count come from the selected release/asset. Existing manifests need no changes. These selectors do not change source availability, licensing or other acceptance requirements.
+
 ## Artifact Object Properties
 
 ### type
