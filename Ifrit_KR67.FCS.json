@@ -1,0 +1,36 @@
+{
+  "id": "Ifrit_KR67.FCS",
+  "displayName": "Better FBW for KR-67 Ifrit",
+  "description": "Replaces the stock KR-67 Ifrit's fly-by-wire with a much better modern flight control system. Allowing for carfree handling, even for PSM. Among with various QoL features like departure tolerance for damaged airframe and asymmetric weight compensation keeping the plane fly straight. AI Ifrits keep the stock FBW unless AIFlightControl is enabled (experimental). The optional DevUnlock plugin (separate release asset) exposes the tuning settings.",
+  "tags": [
+    "mod",
+    "QoL",
+    "aircraft",
+    "flight-control"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/duythinh2022-ui/Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit./blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "duythinh2022-ui"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "duythinh2022-ui",
+  "githubRepoName": "Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit.",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Ifrit-KR67-FCS-0.3.2.zip",
+      "version": "0.3.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit./releases/download/v0.3.2/Ifrit-KR67-FCS-0.3.2.zip",
+      "hash": "sha256:36785b1baf3dfed93325006446e21a4992b136a7c52418aa89dd4c72c005662a",
+      "dependencies": []
+    }
+  ]
+}
