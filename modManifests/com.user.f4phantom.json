@@ -1,0 +1,31 @@
+{
+  "id": "com.user.f4phantom",
+  "displayName": "F-4E Phantom II Mod",
+  "description": "[WIP] f4 phantom with damagemodel and 6x bomb",
+  "tags": [
+    "plane"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mon22144/NOMNOM-com-user-f4phantom"
+    }
+  ],
+  "authors": [
+    "Anomie"
+  ],
+  "githubOwner": "mon22144",
+  "githubRepoName": "NOMNOM-com-user-f4phantom",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "com.user.f4phantom_v1.3.0.zip",
+      "downloadUrl": "https://github.com/mon22144/NOMNOM-com-user-f4phantom/releases/download/v1.3.0/com.user.f4phantom_v1.3.0.zip",
+      "hash": "sha256:93a6ea73c4b63450ef13914ee06f9d8def3309292aa44c224f79114b952faec4",
+      "gameVersion": "0.32",
+      "version": "1.3.0",
+      "category": "Release"
+    }
+  ]
+}
