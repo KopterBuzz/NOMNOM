@@ -1,7 +1,7 @@
 {
   "id": "SAMsForAircraft",
   "displayName": "SAMs For Aircraft",
-  "description": "Adds R9, RAM-45 and NL-98 to aircraft. ARH seekers.",
+  "description": "Adds R9, RAM-45 and NL-98 to aircraft. Actually working SARH missiles for airplanes.",
   "tags": [
     "mod",
     "Weapon",
