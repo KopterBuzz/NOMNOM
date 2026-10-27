@@ -30,7 +30,7 @@
       "hash": "sha256:671e2d5172c4f4d894e7379288b6a82a45bccd41efe2d5a77ac6bb9952bf3f74",
       "extends": {
         "id": "NOCustomMaps",
-        "version": "1.3.0"
+        "version": "1.4.1"
       }
     },
     {
@@ -43,7 +43,7 @@
       "hash": "sha256:c73a1b4a22b7402c87f4e2a956ffbe3df0c2c9a45aefdb970316181989e1a2eb",
       "extends": {
         "id": "NOCustomMaps",
-        "version": "1.4.0"
+        "version": "1.4.1"
       }
     }
   ],
