@@ -1,7 +1,7 @@
 {
   "id": "com.bigloude.notacmap",
   "displayName": "NOTacMap",
-  "description": "Second-screen tactical map. Install it, start the game, and the map opens in your browser by itself (or open http://127.0.0.1:8123/). Drag that tab to your second monitor. A plugin inside the game reads only what your client already knows and shows your position, tracked units, airbases, incoming-missile warnings, lock lines, your marked targets and your weapon's range. FILTER and DISPLAY (top right) change what is shown and the colors. Other settings (port, auto-open, update rate) are in BepInEx/config/com.bigloude.notacmap.cfg, or in the F1 menu if you have the BepInEx Configuration Manager. Optional phone or tablet view on your home network, off by default: pick \"On another device\" when the map page asks.",
+  "description": "Second-screen tactical map for HOTAS pilots. Install it, start the game, and the map opens in your browser by itself (or open http://127.0.0.1:8123/). Drag that tab to your second monitor. A plugin inside the game reads only what your client already knows and shows your position, tracked units, airbases, incoming-missile warnings, lock lines, your marked targets and your weapon's range. Works in multiplayer and sends nothing to the server. FILTER and DISPLAY (top right) change what is shown and the colors. Other settings (port, auto-open, update rate) are in BepInEx/config/com.bigloude.notacmap.cfg. Optional phone or tablet view on your home network, off by default: pick \"On another device\" when the map page asks.",
   "tags": [
     "QoL",
     "Utility"
