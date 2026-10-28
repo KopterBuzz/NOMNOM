@@ -26,6 +26,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Solar.UI.7z",
+      "version": "0.34.5.15",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/SolarDyn/Solar-UI/releases/download/v0.34.5.15/Solar.UI.7z",
+      "hash": "sha256:088b9f528f1182e8d2312f1129071e75a40af21b4c13a79e169fc077b44eb24a"
+    },
+    {
       "type": "plugin",
       "fileName": "Solar.UI.7z",
       "version": "0.34.2.3",
@@ -37,5 +46,5 @@
   ],
   "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/SolarUI.png",
   "imageHash": "cc068f1a83fcfc9e0fcdef28b8d1acd26521476f347317b66292a71910b2913a",
-  "downloadCount": 225
+  "downloadCount": 226
 }
