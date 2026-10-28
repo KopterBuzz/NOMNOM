@@ -1,0 +1,33 @@
+{
+  "id": "J35XE",
+  "displayName": "J-35XE",
+  "description": "Flyable Saab J-35. The release zip contains the runtime plugin, the aircraft package, and BIA.Runtime 1.0.29.",
+  "tags": [
+    "Aircraft",
+    "mod"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/iallemege/J35XE"
+    }
+  ],
+  "authors": [
+    "IAllemege"
+  ],
+  "githubOwner": "iallemege",
+  "githubRepoName": "J35XE",
+  "autoUpdateArtifacts": "False",
+  "isClientOrServer": "Both",
+  "artifacts": [
+    {
+      "fileName": "J35XE_v0.1.zip",
+      "version": "2.6.59",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.5",
+      "downloadUrl": "https://github.com/iallemege/J35XE/releases/download/0.1/J35XE_v0.1.zip",
+      "hash": "sha256:c23360f7cff852a7a7dff68992bc4b9a498c6e5ee7f4d4710a94c3c1cef2a6ad"
+    }
+  ]
+}
