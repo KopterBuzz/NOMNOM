@@ -22,6 +22,15 @@
   "artifacts": [
     {
       "fileName": "NeutralQoL.zip",
+      "version": "0.18.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/DevHrytsan/NeutralQoL/releases/download/v0.18.2/NeutralQoL.zip",
+      "hash": "sha256:b0c62ed8aa6d931e4281d181cc5a2132edbf1ffde74188f5264e5a59b1470796"
+    },
+    {
+      "fileName": "NeutralQoL.zip",
       "version": "0.18.1",
       "category": "release",
       "type": "plugin",
@@ -48,5 +57,5 @@
       "hash": "sha256:a31b7b53a21f76c4d98beaa09759a8c3fbf5b59629e49350bc442b9d34d24952"
     }
   ],
-  "downloadCount": 220
+  "downloadCount": 222
 }
