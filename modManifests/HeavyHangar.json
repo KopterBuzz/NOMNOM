@@ -22,6 +22,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Heavy-Hangar_0.2.0.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/NO-HeavyHangar/releases/download/v0.2.0/Heavy-Hangar_0.2.0.zip",
+      "hash": "sha256:f3ad298bd0b04c3723e0c37122c6fd2e3a0cecd3991ecd1378b69986e57e8dd5",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
       "fileName": "Heavy-Hangar_0.1.0.zip",
       "version": "0.1.0",
       "category": "release",
@@ -35,5 +48,5 @@
       }
     }
   ],
-  "downloadCount": 694
+  "downloadCount": 706
 }

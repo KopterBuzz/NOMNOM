@@ -21,6 +21,21 @@
   "artifacts": [
     {
       "fileName": "Apul.NO_AirborneResupply.zip",
+      "version": "0.34.3.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_AirborneResupply/releases/download/v0.34.3.1/Apul.NO_AirborneResupply.zip",
+      "hash": "sha256:ce84a8e891f872962a34c356f77426e331cfd3143cc05e856ebeae2e9dccaa88",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_AirborneResupply.zip",
       "version": "0.34.2.5",
       "category": "release",
       "type": "plugin",
@@ -95,5 +110,5 @@
       ]
     }
   ],
-  "downloadCount": 651
+  "downloadCount": 665
 }

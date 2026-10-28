@@ -23,6 +23,21 @@
   "artifacts": [
     {
       "fileName": "NO_ChatUI.zip",
+      "version": "0.34.3.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_ChatUI/releases/download/v0.34.3.1/NO_ChatUI.zip",
+      "hash": "sha256:ae38af1e672b6076c3a4cbc23cdddc7b12cfbdd9d57c4b615b5dc90df181a894",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NO_ChatUI.zip",
       "version": "0.34.2.3",
       "category": "release",
       "type": "plugin",
@@ -67,5 +82,5 @@
       ]
     }
   ],
-  "downloadCount": 190
+  "downloadCount": 193
 }
