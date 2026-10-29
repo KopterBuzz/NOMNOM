@@ -1,0 +1,34 @@
+{
+  "id": "SoundLimit",
+  "displayName": "SoundLimit",
+  "description": "Lets more sounds play at once (64 to 255, tracked 512 to 1024), so big fights stop dropping the quieter sounds. Client audio only.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Audio"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Tomosnuclearbombos/nuclear-option-soundlimit"
+    }
+  ],
+  "authors": [
+    "TomosBombos"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Tomosnuclearbombos",
+  "githubRepoName": "nuclear-option-soundlimit",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "SoundLimit.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.3",
+      "downloadUrl": "https://github.com/Tomosnuclearbombos/nuclear-option-soundlimit/releases/download/v1.0.0/SoundLimit.dll",
+      "hash": "sha256:de848f759b6490454c0fb1a279d25497a881b7831874350947e26a734372552e"
+    }
+  ]
+}
