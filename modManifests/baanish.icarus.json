@@ -22,6 +22,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Icarus-v0.2.0-nomm.zip",
+      "version": "0.2.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/F-204-Icarus-II/releases/download/v0.2.0/Icarus-v0.2.0-nomm.zip",
+      "hash": "sha256:7793c6bea8dda8da11906698529803cd8ad519e450b3533f4079a391bb63e5b2",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
       "fileName": "Icarus-v0.1.0-nomm.zip",
       "version": "0.1.0",
       "category": "preRelease",
@@ -37,5 +52,5 @@
       ]
     }
   ],
-  "downloadCount": 842
+  "downloadCount": 952
 }
