@@ -28,6 +28,15 @@
   "artifacts": [
     {
       "fileName": "NuclearMapTrails.zip",
+      "version": "0.1.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapTrails-v0.1.4/NuclearMapTrails.zip",
+      "hash": "sha256:f05618643f55449876b137f1ff61d5a5645d52197638abaac38fe4d3b7fdd25d"
+    },
+    {
+      "fileName": "NuclearMapTrails.zip",
       "version": "0.1.3",
       "category": "release",
       "type": "plugin",
@@ -63,5 +72,5 @@
       "hash": "sha256:b94dac5732f717c6c0617afc500ccfc08ab99e5b3d36cfd54bd8b07017e4481b"
     }
   ],
-  "downloadCount": 30
+  "downloadCount": 36
 }

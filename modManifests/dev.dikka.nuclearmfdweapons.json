@@ -29,6 +29,15 @@
   "artifacts": [
     {
       "fileName": "NuclearMfdWeapons.zip",
+      "version": "0.1.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMfdWeapons-v0.1.7/NuclearMfdWeapons.zip",
+      "hash": "sha256:91456aee7cc225f81baa892c7b248a6216d3e801ef8b9b43b7be1bde921de289"
+    },
+    {
+      "fileName": "NuclearMfdWeapons.zip",
       "version": "0.1.6",
       "category": "release",
       "type": "plugin",
@@ -55,5 +64,5 @@
       "hash": "sha256:becff2b07668a1bc1cb93ceb0ab213a691ee11d5dac03aec1c64f084bced44f4"
     }
   ],
-  "downloadCount": 90
+  "downloadCount": 98
 }

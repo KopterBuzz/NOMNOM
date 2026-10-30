@@ -29,6 +29,15 @@
   "artifacts": [
     {
       "fileName": "NuclearMapPlayerNames.zip",
+      "version": "0.2.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapPlayerNames-v0.2.6/NuclearMapPlayerNames.zip",
+      "hash": "sha256:1bf30fbf5f864373ffa0fc3dbe4341c8cff09c87870449158f21bfd9884275f9"
+    },
+    {
+      "fileName": "NuclearMapPlayerNames.zip",
       "version": "0.2.5",
       "category": "release",
       "type": "plugin",
@@ -64,5 +73,5 @@
       "hash": "sha256:2aeb1945d4e0cba4b0d0fd41a1221ac00bb3769afb88c1936f2608fc06e44f8e"
     }
   ],
-  "downloadCount": 125
+  "downloadCount": 134
 }
