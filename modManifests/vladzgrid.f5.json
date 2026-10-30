@@ -1,0 +1,39 @@
+{
+  "id": "vladzgrid.f5",
+  "displayName": "F-5E Tiger II (Beta)",
+  "description": "Playable beta F-5E adaptation: tier 2, $14M, seven external stations, dedicated icon, exterior pilot, twin animated afterburners, live cockpit/HUD and source landing-gear animation. Local flight/weapon checks documented; multiplayer and full manual circuits are not certified. Requires Blueprinter 2.0.1.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "url": "https://github.com/Braianvladzgrid/f5e-tiger-ii-nuclear-option",
+      "name": "info"
+    }
+  ],
+  "authors": [
+    "Braianvladzgrid",
+    "Prestes Hangar / Dave Culp / FGUK / Zexe (model)"
+  ],
+  "githubOwner": "Braianvladzgrid",
+  "githubRepoName": "f5e-tiger-ii-nuclear-option",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "F5E_TigerII_0.1.0-beta.zip",
+  "artifacts": [
+    {
+      "fileName": "F5E_TigerII_0.1.0-beta.zip",
+      "version": "0.1.0",
+      "category": "prerelease",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Braianvladzgrid/f5e-tiger-ii-nuclear-option/releases/download/v0.1.0/F5E_TigerII_0.1.0-beta.zip",
+      "hash": "sha256:cf7602315cdfb745fa1d5590e919052dca97d2c9b47bd58cc0e67ea791fe260c",
+      "extends": {
+        "version": "2.0.1",
+        "id": "com.nikkorap.blueprinter"
+      }
+    }
+  ]
+}
