@@ -22,6 +22,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "MiG-29SMT-Mod_0.2.1.2.zip",
+      "version": "0.2.1.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29SMT-NuclearOption/releases/download/v0.2.1.2/MiG-29SMT-Mod_0.2.1.2.zip",
+      "hash": "sha256:2ec8cfa5e9dfaf3b8778e8d3d99316bc929241454452b2631f110e6fcbfa91f6",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
       "fileName": "MiG-29SMT-Mod_0.2.1.1.zip",
       "version": "0.2.1.1",
       "category": "release",
@@ -61,5 +74,5 @@
       }
     }
   ],
-  "downloadCount": 3955
+  "downloadCount": 4085
 }

@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "MiG-29-Fulcrum_0.9.3.2.zip",
+      "version": "0.9.3.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.9.3.2/MiG-29-Fulcrum_0.9.3.2.zip",
+      "hash": "sha256:c8ab7fb0600382492317124c61f89ad74e20bded5bbb7e515b2ac6f44e47f247",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
       "fileName": "MiG-29-Fulcrum_0.9.3.1.zip",
       "version": "0.9.3.1",
       "category": "release",
@@ -195,5 +208,5 @@
       }
     }
   ],
-  "downloadCount": 13513
+  "downloadCount": 13702
 }
