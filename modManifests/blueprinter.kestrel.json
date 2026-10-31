@@ -31,7 +31,7 @@
       "version": "2.4.0",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/nikkorap/NOKestrel/releases/download/2.4.0/FQ-106_2.4.0.dll",
       "hash": "sha256:cb823e73406304f38903a622641fea2af1d78981dd2ebb5f437a6fb86944acd1",
       "extends": {
@@ -79,5 +79,5 @@
       }
     }
   ],
-  "downloadCount": 49045
+  "downloadCount": 49146
 }
