@@ -14,7 +14,7 @@ body:
     attributes:
       label: Version number
       description: Enter the Nuclear Option Game Version Value
-      placeholder: 0.34.5
+      placeholder: 0.34.6
     validations:
       required: true
 
