@@ -25,7 +25,7 @@
       "version": "0.4.1",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/BatongMaster/NOSwissAlps/releases/download/v0.4.1/swissalps-0.4.1.zip",
       "hash": "sha256:d366411d32cc439349748bc634af06683eeda9036c3006db735ad005531e2f8c",
       "extends": {
@@ -60,5 +60,5 @@
       }
     }
   ],
-  "downloadCount": 10083
+  "downloadCount": 10198
 }

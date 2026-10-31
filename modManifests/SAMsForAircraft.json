@@ -25,7 +25,7 @@
       "version": "0.2.8",
       "category": "release",
       "type": "addOn",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/EMTmastash/SAMs-for-aircraft/releases/download/0.2.8/SAMs.for.aircraft_0.2.8.dll",
       "hash": "sha256:453b89a8a719006d082a9c60e5d28b7514fa2639b5b5bd08ef745255695db327",
       "extends": {
@@ -78,5 +78,5 @@
       ]
     }
   ],
-  "downloadCount": 367
+  "downloadCount": 394
 }

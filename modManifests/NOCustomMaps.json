@@ -25,7 +25,7 @@
       "version": "1.4.1",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/BatongMaster/NOCustomMaps/releases/download/v1.4.1/NOCustomMaps-1.4.1.zip",
       "hash": "sha256:64e2e738d7ddcfdc415c6bb3f4d00b6fbab09b5918a00e0810a6d7ea7dd3bf9d"
     },
@@ -57,5 +57,5 @@
       "hash": "sha256:dcad92ae51da5b46f38e709c81d07a8f448b2f08243a78b3814a28e137238af7"
     }
   ],
-  "downloadCount": 8315
+  "downloadCount": 8412
 }
