@@ -1,0 +1,41 @@
+{
+  "id": "vladzgrid.a37",
+  "displayName": "A-37B Dragonfly Uruguay (Beta)",
+  "description": "Uruguayan A-37B adaptation: tier 1, $13M, two dry turbojets, eight external stations, internal 7.62 mm minigun, animated source landing gear, analog cockpit and FAU markings. Requires Blueprinter 2.0.1. Multiplayer is not certified.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "url": "https://github.com/Braianvladzgrid/a37b-dragonfly-uruguay-nuclear-option",
+      "name": "info"
+    }
+  ],
+  "authors": [
+    "Braianvladzgrid",
+    "Emmanuel Baranger / helijah (aircraft)",
+    "Bertrand Augras (pilot)"
+  ],
+  "githubOwner": "Braianvladzgrid",
+  "githubRepoName": "a37b-dragonfly-uruguay-nuclear-option",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "A37B_Dragonfly_Uruguay_0.1.0-beta.zip",
+  "artifacts": [
+    {
+      "fileName": "A37B_Dragonfly_Uruguay_0.1.0-beta.zip",
+      "version": "0.1.0",
+      "category": "prerelease",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Braianvladzgrid/a37b-dragonfly-uruguay-nuclear-option/releases/download/v0.1.0/A37B_Dragonfly_Uruguay_0.1.0-beta.zip",
+      "hash": "sha256:67b0e3cd077fad99be199cd9bb69c6d646c252822beef400fd449f33f61e1b56",
+      "extends": {
+        "version": "2.0.1",
+        "id": "com.nikkorap.blueprinter"
+      }
+    }
+  ]
+}
+
