@@ -26,7 +26,7 @@
       "version": "0.1.1",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/TheStrykerMGS/RykerIndustries-munition-pack/releases/download/v0.1.1/Stryker_MunitionsPack_0.1.1.nobp",
       "hash": "sha256:4227030cb8309081f39df6610cc04e47964b5c337dcd6ad616e241e206ee7a45",
       "dependencies": [
@@ -37,5 +37,5 @@
       ]
     }
   ],
-  "downloadCount": 1704
+  "downloadCount": 1721
 }

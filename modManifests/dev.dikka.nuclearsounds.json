@@ -31,7 +31,7 @@
       "version": "0.1.5",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.1",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSounds-v0.1.5/NuclearSounds.zip",
       "hash": "sha256:790df8046f97ae2913e2c470dcc4b8a82b1b2b5cd174e87f31d9836217ddc4ac"
     },
@@ -63,5 +63,5 @@
       "hash": "sha256:6ee4d65c0c993f673fb8df4638e271a08eb27aa97c921c62d491cb1ed6c4e1f5"
     }
   ],
-  "downloadCount": 72
+  "downloadCount": 76
 }

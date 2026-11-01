@@ -32,7 +32,7 @@
       "version": "0.2.5",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.1",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearDeathBlackout-v0.2.5/NuclearDeathBlackout.zip",
       "hash": "sha256:9449be133b39576a3a7a372934bcd395ef5925a825e75cfd62443e8c0c52bc0f"
     },
@@ -64,5 +64,5 @@
       "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
     }
   ],
-  "downloadCount": 844
+  "downloadCount": 852
 }
