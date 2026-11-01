@@ -31,7 +31,7 @@
       "version": "0.2.0",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.1",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearControllerGestures-v0.2.0/NuclearControllerGestures.zip",
       "hash": "sha256:be4480f2c4434e67a4fb26e57edeba1b326ca721e93de075a5b20dc5db8bb5e2"
     },
