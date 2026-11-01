@@ -1,0 +1,62 @@
+{
+  "id": "NOMirrors",
+  "displayName": "NO Mirrors",
+  "description": "Working cockpit mirrors for Nuclear Option. A BepInEx plugin that makes mirror glass reflect: each mirror renders the view behind the pilot, only while on screen and at a capped rate. Aircraft modders add mirrors without code by naming the glass object NOMirror (settings can go in the name), and other plugins can use its small API. Used by the MiG-29 Fulcrum mod.",
+  "tags": [
+    "mod",
+    "QoL",
+    "library"
+  ],
+  "isClientOrServer": "Client",
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/IornMan1213/NuclearOption-Mirrors/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "IornMan1213"
+  ],
+  "githubOwner": "IornMan1213",
+  "githubRepoName": "NuclearOption-Mirrors",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOMirrors.dll",
+      "version": "0.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/NuclearOption-Mirrors/releases/download/v0.0.4/NOMirrors.dll",
+      "hash": "sha256:0eadcf2a8e6c2944039f8db3a0cdf3982343e0e9e5260b9d195027599b6a2b6d"
+    },
+    {
+      "fileName": "NOMirrors.dll",
+      "version": "0.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/NuclearOption-Mirrors/releases/download/v0.0.3/NOMirrors.dll",
+      "hash": "sha256:0107d7db2c1a80aca013d110b098bdf5b0d07ee04f9f5e2d684dc0acbed7c304"
+    },
+    {
+      "fileName": "NOMirrors.dll",
+      "version": "0.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/NuclearOption-Mirrors/releases/download/v0.0.2/NOMirrors.dll",
+      "hash": "sha256:e16866138eb8d0f45bab3da4041e55c6697a1f17647d7d9ff5a88ae391866d96"
+    },
+    {
+      "fileName": "NOMirrors.dll",
+      "version": "0.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/NuclearOption-Mirrors/releases/download/v0.0.1/NOMirrors.dll",
+      "hash": "sha256:626645001525a51f2ae93e44af573e4960eb400726c468cc9a5b508eb972a96c"
+    }
+  ],
+  "downloadCount": 523
+}

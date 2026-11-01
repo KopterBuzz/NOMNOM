@@ -1,0 +1,46 @@
+{
+  "id": "FS41JammingPod",
+  "displayName": "FS-41 Native Jamming Pod",
+  "description": "Adds the native Nuclear Option Radar Jamming Pod to the Aryx FS-41 Eclipse.",
+  "tags": [
+    "mod",
+    "Aircraft",
+    "blueprinter",
+    "ECM"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ghepa05-ops/FS41-Native-Jamming-Pod"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/ghepa05-ops/FS41-Native-Jamming-Pod/releases"
+    }
+  ],
+  "authors": [
+    "ghepa05-ops"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "ghepa05-ops",
+  "githubRepoName": "FS41-Native-Jamming-Pod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "FS41-Native-Jamming-Pod-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/ghepa05-ops/FS41-Native-Jamming-Pod/releases/download/v1.0.0/FS41-Native-Jamming-Pod-1.0.0.zip",
+      "hash": "sha256:a980e4bdc729eb4789b7bc8ce4043aa60cacc4bcc5dbd43f3e429071381e97c9",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1222
+}

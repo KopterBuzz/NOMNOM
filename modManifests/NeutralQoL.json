@@ -1,0 +1,61 @@
+{
+  "id": "NeutralQoL",
+  "displayName": "NeutralQoL",
+  "description": "Small fixes and useful extras for menus, the HUD, the map and controls. Client side only.",
+  "tags": [
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/DevHrytsan/NeutralQoL"
+    }
+  ],
+  "authors": [
+    "DevHrytsan"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "DevHrytsan",
+  "githubRepoName": "NeutralQoL",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "NeutralQoL.zip",
+  "artifacts": [
+    {
+      "fileName": "NeutralQoL.zip",
+      "version": "0.18.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/DevHrytsan/NeutralQoL/releases/download/v0.18.2/NeutralQoL.zip",
+      "hash": "sha256:b0c62ed8aa6d931e4281d181cc5a2132edbf1ffde74188f5264e5a59b1470796"
+    },
+    {
+      "fileName": "NeutralQoL.zip",
+      "version": "0.18.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/DevHrytsan/NeutralQoL/releases/download/v0.18.1/NeutralQoL.zip",
+      "hash": "sha256:d20aec8a5e2acb7024c2a2c0ce6eaafd548d0cc9735382bedb94f97da7e9876b"
+    },
+    {
+      "fileName": "NeutralQoL.zip",
+      "version": "0.18.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/DevHrytsan/NeutralQoL/releases/download/v0.18.0/NeutralQoL.zip",
+      "hash": "sha256:1f72363d34dff15ea3a4ed6de0888007f58c174a2bf72afe045b926f3f7929ac"
+    },
+    {
+      "fileName": "NeutralQoL.zip",
+      "version": "0.17.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/DevHrytsan/NeutralQoL/releases/download/v0.17.0/NeutralQoL.zip",
+      "hash": "sha256:a31b7b53a21f76c4d98beaa09759a8c3fbf5b59629e49350bc442b9d34d24952"
+    }
+  ],
+  "downloadCount": 317
+}

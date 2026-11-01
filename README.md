@@ -45,8 +45,9 @@ If Custom DLL or Executable Files in your Mod Release(s) are found to be inconsi
 
 3.1
 
-If your Mod uses, adapts or contains Third-Party Assets that are under any specific licenses, you must give credit to the Original Creator or Copyright Holder of the Assets, and display the Licenses under which these Assets were made available. Failure to do so may result in the specific Submission(s) that breach this clause being denied, or the specific Mod(s) found to be breaching this clause to be delisted.
-  - Example: Using a 3d model of an aircraft or a vehicle that was made by someone else and released under e.g. Creative Commons License, but not crediting the author and displaying the License in the project's repository.
+If your Mod uses, adapts or contains any Third Parties' Work that are under any specific licenses, you must give credit to the Original Creator or Copyright Holder of the Work, and display the Licenses under which this Work was made available. Failure to do so may result in the specific Submission(s) that breach this clause being denied, or the specific Mod(s) found to be breaching this clause to be delisted.
+  - Example 1: Using a 3d model of an aircraft or a vehicle that was made by someone else and released under e.g. Creative Commons License, but not crediting the author and displaying the License in the project's repository.
+  - Example 2: Forking someone else's Mod project and publishing it as your own.
 
 3.2
 
@@ -54,12 +55,13 @@ If you have been granted permission by Shockfront Studios to use in-game assets 
   - Example: having Assets in your Mod project that are Ripped straight from the game, for any purpose. 
 
 #### 4. Other Requirements
+- Any Mod that would give the user an unfair advantage over other players, e.g. Manipulating aircraft spawn, flight model and physics, player funds, inventory, ammunition, fuel, automatically engaging weapons, countermeasures, automatically locking targets, making targets visible that are not in the player's Faction's database, or similar features are only passable if they only work if the HOST also runs the Mod and the HOST has enabled such features of the Mod.
 - In order for NOMNOM to automatically discover new Mod Releases for Registered Mods, they must be available as GitHub Repository Release Package.
   - If you use a different delivery method, you must submit a Pull Request to get New Releases registered. Follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
-- GitHub Repositories for your Mods should contain releases for ONLY ONE mod per Repository. Do not put releases for multiple mods under one Repository.
-- If Your Mod Release(s) contain multiple Release Assets, the first Release Asset on the top of the list must be the one intended for NOMNOM.
+- By default, GitHub Repositories for your Mods must contain releases for ONLY ONE mod per Repository. Multiple mods may share a release repository when each mod's manifest configures a distinct `releaseTagPrefix` and an exact `releaseAssetName`. See the [shared release repository example](SCHEMA.md#shared-release-repository-example).
+- If Your Mod Release(s) contain multiple Release Assets, the first Release Asset on the top of the list must be the one intended for NOMNOM, unless the manifest configures `releaseAssetName` to select the intended file explicitly.
   - The Release Asset must contain all the content for the Mod to function, with exception of dependency or extension relationships, aka other Mod(s) that Your Mod(s) rely on to function. See [Schema Documentation](SCHEMA.md#how-to-contribute-mod-manifests) for additional details on this.
   - If your Mod consists of Multiple Files, upload the Release Asset as a Compressed Archive (e.g. zip,rar,7z)
-- Your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc).
+- Your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc). When `releaseTagPrefix` is configured, the part after the prefix must be a valid numeric version (e.g. `NuclearUnits-v1.2.2` with prefix `NuclearUnits-v`). [See this for reference.](https://learn.microsoft.com/en-us/dotnet/api/system.version?view=net-10.0#remarks)
 - Your Mod(s) must work with BepInEx 5.
 

@@ -22,6 +22,15 @@
   "artifacts": [
     {
       "fileName": "LoadoutPresets_1.0.0.dll",
+      "version": "0.0.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/RudrNaik/NO-LoadoutPresets/releases/download/v0.0.7/LoadoutPresets_1.0.0.dll",
+      "hash": "sha256:fd607c58bbe25c004ae46783068a628f965d0b556acedbe798df7b4893920753"
+    },
+    {
+      "fileName": "LoadoutPresets_1.0.0.dll",
       "version": "0.0.6",
       "category": "release",
       "type": "plugin",
@@ -66,5 +75,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 5380
+  "downloadCount": 9292
 }

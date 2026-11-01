@@ -1,0 +1,71 @@
+{
+  "id": "ORTIZ-Ops-FieldCommand",
+  "displayName": "ORTIZ Ops - FieldCommand",
+  "description": "Buy ground units, ships, static defences and supplies with your own money and place them yourself on the map or with a free camera. Map orders (focus fire, missile defence, hold), playable KAR/BOTE units with module selection, RTS-style stratagems (artillery, carpet bombing, missile strikes, nukes, parachute airdrops). Single-player/host only.",
+  "tags": [
+    "Gameplay",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand"
+    }
+  ],
+  "authors": [
+    "ORTIZ"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "ortizdevelop",
+  "githubRepoName": "ORTIZ-Ops-FieldCommand",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "ORTIZ-Ops-FieldCommand.dll",
+  "artifacts": [
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.10.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.10.1/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:13ad0c6dbfcd67d07a1f114a43137a97204e2b072b2135bc9c0841489bda8eba"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.10.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.10.0/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:1d1301d1b13f034e4557223fe58456165b706b6a0172cc5264a34ebd00d5e5ff"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.9.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.9.4/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:c78589d8ab3f63c20c966cc70314969081cc83e113b92bf3f93939c96a05b30f"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.9.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.9.3/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:4c142b1b8730b4cede3844cd21ec40fff3e770751bcb5ede59cd189d23eb0b6d"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.9.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.9.1/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:5dcac9d50851f22d7921835771cb415b66160d7c669a033331fcc5f5ee5e419b"
+    }
+  ],
+  "downloadCount": 111
+}

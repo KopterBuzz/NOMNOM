@@ -1,0 +1,103 @@
+{
+  "id": "com.bigloude.notacmap",
+  "displayName": "NOTacMap",
+  "description": "Second-screen tactical map for HOTAS pilots. Install it, start the game, and the map opens in your browser by itself (or open http://127.0.0.1:8123/). Drag that tab to your second monitor. A plugin inside the game reads only what your client already knows and shows your position, tracked units, airbases, incoming-missile warnings, lock lines, your marked targets and your weapon's range. Works in multiplayer and sends nothing to the server. FILTER and DISPLAY (top right) change what is shown and the colors. Other settings (port, auto-open, update rate) are in BepInEx/config/com.bigloude.notacmap.cfg. Optional phone or tablet view on your home network, off by default: pick \"On another device\" when the map page asks.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Big-LouDE/NOTacMap"
+    },
+    {
+      "name": "issues",
+      "url": "https://github.com/Big-LouDE/NOTacMap/issues"
+    }
+  ],
+  "authors": [
+    "Big-LouDE"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Big-LouDE",
+  "githubRepoName": "NOTacMap",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "com.bigloude.notacmap_v1.2.4.zip",
+      "version": "1.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Big-LouDE/NOTacMap/releases/download/v1.2.4/com.bigloude.notacmap_v1.2.4.zip",
+      "hash": "sha256:73736f578efbe24e64c036fef96ccfec0ff22e7a7f357eef0b714063356fa885"
+    },
+    {
+      "fileName": "com.bigloude.notacmap_v1.2.3.zip",
+      "version": "1.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Big-LouDE/NOTacMap/releases/download/v1.2.3/com.bigloude.notacmap_v1.2.3.zip",
+      "hash": "sha256:96a5397fe1fd8e90d683b62fbdccd53e4aa3f1bd057cd44bc402e61ac92c383a"
+    },
+    {
+      "fileName": "com.bigloude.notacmap_v1.2.2.zip",
+      "version": "1.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Big-LouDE/NOTacMap/releases/download/v1.2.2/com.bigloude.notacmap_v1.2.2.zip",
+      "hash": "sha256:741d2deaac2af35a81c5fb9a2197c4c7c0ae556bb690608db3e6c0c0c23e16d4"
+    },
+    {
+      "fileName": "com.bigloude.notacmap_v1.2.1.zip",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Big-LouDE/NOTacMap/releases/download/v1.2.1/com.bigloude.notacmap_v1.2.1.zip",
+      "hash": "sha256:a4d84f12df4f758640cce1a03df4bf494657ee59f6a27b8071eac3866e9153a9"
+    },
+    {
+      "fileName": "com.bigloude.notacmap_v1.2.0.zip",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Big-LouDE/NOTacMap/releases/download/v1.2.0/com.bigloude.notacmap_v1.2.0.zip",
+      "hash": "sha256:5cf9fc81ef3cdd9ce83e54ce5136c3343e13e814cc5975753560e76e3384a70b"
+    },
+    {
+      "fileName": "com.bigloude.notacmap_v1.1.1.zip",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Big-LouDE/NOTacMap/releases/download/v1.1.1/com.bigloude.notacmap_v1.1.1.zip",
+      "hash": "sha256:d9683efa2e8c23bd97e9d77c698aa31ea665e7ca1abf03516acd286aa858f321"
+    },
+    {
+      "fileName": "com.bigloude.notacmap_v1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Big-LouDE/NOTacMap/releases/download/v1.1.0/com.bigloude.notacmap_v1.1.0.zip",
+      "hash": "sha256:f034e4276fd1e8fd6828434c5a09140b330f4bf1bc00febf105a0723eadaace8"
+    },
+    {
+      "type": "plugin",
+      "fileName": "com.bigloude.notacmap_v1.0.0.zip",
+      "downloadUrl": "https://github.com/Big-LouDE/NOTacMap/releases/download/v1.0.0/com.bigloude.notacmap_v1.0.0.zip",
+      "hash": "sha256:7e4975453527a00d59fa3024b25223f759d2a2e6b726545715ffa2b2cb66a772",
+      "gameVersion": "0.34.1",
+      "version": "1.0.0",
+      "category": "Release"
+    }
+  ],
+  "downloadCount": 505,
+  "imageUrl": "https://raw.githubusercontent.com/Big-LouDE/NOTacMap/63b7a4b1dde6dca567f041b475d57cd90fcdfcc9/thunderstore/icon.png",
+  "imageHash": "35a9158bc20b9daec9481fc6b623b9456ce7bd34e7be6e605eacc251c2a71359"
+}

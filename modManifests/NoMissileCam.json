@@ -1,0 +1,59 @@
+{
+  "id": "NoMissileCam",
+  "displayName": "Missile Cam",
+  "description": "Ride your own missiles, or watch your target. Press ] and the camera follows your missile all the way to the hit, then moves to your next one in flight. Press [ to watch your selected target, and \\ to go back to the cockpit. Keys and joystick buttons can be changed in game with Ctrl+F8.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Camera"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/Talamander/no-missile-cam/5ed2d35f6b60f04cb7e6dc8f4314a4e1e53be8cc/docs/media/icon-512.png",
+  "imageHash": "9b200f79a859e450ab7ffbec41e52b4703fcdc26174be4fa1dcee3580ad31635",
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Talamander/no-missile-cam"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Talamander/no-missile-cam/releases"
+    }
+  ],
+  "authors": [
+    "Talamander"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Talamander",
+  "githubRepoName": "no-missile-cam",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NoMissileCam-0.3.5-plugins.zip",
+      "version": "0.3.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/no-missile-cam/releases/download/v0.3.5/NoMissileCam-0.3.5-plugins.zip",
+      "hash": "sha256:e56c1d1745eeb97f0903b8a397dfc2db94854bf4187cb393f385c6deb7d84bd8"
+    },
+    {
+      "fileName": "NoMissileCam-0.3.4-plugins.zip",
+      "version": "0.3.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/no-missile-cam/releases/download/v0.3.4/NoMissileCam-0.3.4-plugins.zip",
+      "hash": "sha256:21fd78cf84f4da9cf40bc6ad51ca802375deb8c032c60bf48d655627ed6a6630"
+    },
+    {
+      "fileName": "NoMissileCam-0.3.3-plugins.zip",
+      "version": "0.3.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/no-missile-cam/releases/download/v0.3.3/NoMissileCam-0.3.3-plugins.zip",
+      "hash": "sha256:f160d8464641126ce271ce594fa1176267f0b72d35b2f9f5989915bfb5467cd7"
+    }
+  ],
+  "downloadCount": 436
+}

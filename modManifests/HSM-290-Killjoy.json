@@ -1,0 +1,56 @@
+{
+  "id": "HSM-290-Killjoy",
+  "displayName": "HSM-290 \"Killjoy\"",
+  "description": "Adds a two-stage air-launched aeroballistic missile with separate HE contact-fused and nuclear airburst variants, booster separation, guided ballistic descent and animated warhead fins. Supports KR-67 Ifrit, Alkyon AB-4 and SFB-81 Darkreach. Configured launch range increases with carrier altitude, up to 360 km from 10 km altitude; minimum range is 48 km. Requires Blueprinter 2.0.1.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/XBarni999/HSM-290-Killjoy/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "XBarni999"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "XBarni999",
+  "githubRepoName": "HSM-290-Killjoy",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "HSM-290-Killjoy.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/XBarni999/HSM-290-Killjoy/releases/download/v1.2.0/HSM-290-Killjoy.dll",
+      "hash": "sha256:c1258b0a3e869abe79dd44f8a96e386ab8ca397f31c714e6e6a10f2ffd4f5413",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "HSM-290-Killjoy.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/XBarni999/HSM-290-Killjoy/releases/download/v1.1.0/HSM-290-Killjoy.dll",
+      "hash": "sha256:f21c39350236221e4f4d11735ff8a4407e98275249e9251c85b00ea07b2f53b0",
+      "dependencies": [
+        {
+          "version": "2.0.1",
+          "id": "com.nikkorap.blueprinter"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1241
+}

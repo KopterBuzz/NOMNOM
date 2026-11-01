@@ -34,6 +34,8 @@
     "githubOwner" : {"type": "string"},
     "githubRepoName" : {"type": "string"},
     "autoUpdateArtifacts" : {"type": "string"},
+    "releaseTagPrefix": {"type": "string", "minLength": 1},
+    "releaseAssetName": {"type": "string", "minLength": 1},
     "artifacts": {
       "type": "array",
       "items": {

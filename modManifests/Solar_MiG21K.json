@@ -1,0 +1,65 @@
+{
+  "id": "Solar_MiG21K",
+  "displayName": "MiG-21K Koschei",
+  "description": "Adds the MiG-21K Koschei. A rank 2 supersonic multirole interceptor.",
+  "tags": [
+    "mod",
+    "Aircraft",
+    "blueprinter",
+    "solar"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/KyleisRed/MiG-21K-Koschei"
+    }
+  ],
+  "authors": [
+    "solar",
+    "GryphusOne"
+  ],
+  "githubOwner": "KyleisRed",
+  "githubRepoName": "MiG-21K-Koschei",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MiG-21_1.0.1.nobp",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/KyleisRed/MiG-21K-Koschei/releases/download/v1.0.1/MiG-21_1.0.1.nobp",
+      "hash": "sha256:aa06b600818cc9217b1a6879e357b0a00a4a4ff75ef660f4fef3792bd1a7e8f5",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MiG-21_1.0.0.nobp",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/KyleisRed/MiG-21K-Koschei/releases/download/v1.0.0/MiG-21_1.0.0.nobp",
+      "hash": "sha256:24a483e408dbf5e035213cc33b9c571ab46efb15ee7b8efb670538f77cc4eb60",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 6437
+}

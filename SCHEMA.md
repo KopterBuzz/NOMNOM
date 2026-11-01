@@ -1,6 +1,6 @@
 # NOMNOM Schema
 
-The manifest items consist of two main models:
+The manifest items are JSON files that consist of two main models:
 - Mod
 - Artifact
 
@@ -11,6 +11,55 @@ For Example:
     - Xyz.ExampleMod-1.11.0
     - Xyz.ExampleMod-1.10.1
     - Xyz.ExampleMod-1.9.9
+ 
+Example in Json:
+
+For The meaning of all data points, please read the schema explanation below this example.
+```
+{
+  "id": "Xyz.ExampleMod",
+  "displayName": "Example Mod",
+  "description": "Example Mod",
+  "tags": [
+    "example"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ExampleModder/ExampleMod"
+    }
+  ],
+  "authors": [
+    "ExampleModder"
+  ],
+  "githubOwner": "ExampleModder",
+  "githubRepoName": "ExampleMod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ExampleMod.dll",
+      "version": "1.0.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/ExampleModder/ExampleMod/releases/1.0.0.0/ExampleMod.dll",
+      "hash": "sha256:8beea1b9dfea10b55fcffa38c66ca4305157beaeb09b314d87fbfb8f8b99aae9",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ],
+      "incompatibilities": [
+        {
+          "id": "Xyz.ExampleMod2",
+          "version": "1.2.3.4"
+        }
+      ]
+    }
+  ]
+}
+```
 
 This structure allows forming the following relationships:
 - Dependency Chains
@@ -101,6 +150,41 @@ url : the actual URL
      YOU WANT YOUR MOD MANIFEST TO BE AUTO-UPDATED BY NOMNOM
 - Format: string
 - "True" if you want Auto Updates Enabled, "False" if Disabled
+
+### releaseTagPrefix
+
+- OPTIONAL
+- Format: non-empty string
+- Limits automatic discovery to release tags starting with this exact, case-sensitive prefix. The prefix is removed before parsing the remaining tag as a numeric version.
+- For example, `"releaseTagPrefix": "NuclearUnits-v"` selects `NuclearUnits-v1.2.2` and records version `1.2.2`. Tags for other mods are ignored. The remainder must be a valid .NET version, such as `1.2.2`; do not append prerelease suffixes. GitHub's prerelease flag still determines the artifact category.
+- When omitted, the updater retains its existing tag cleanup (`v`, `-pre` and `_IL2CPP`).
+
+### releaseAssetName
+
+- OPTIONAL
+- Format: non-empty string
+- Selects the release asset with this exact, case-sensitive filename instead of the first release asset. This is a literal filename, not a wildcard or regular expression.
+- For example, `"releaseAssetName": "NuclearUnits.zip"` selects that file regardless of asset order. Use the same filename across this mod's releases; each release has its own download URL.
+- If the named file is missing, the release is skipped with a warning. The updater does not fall back to another asset. Releases with no assets are also skipped.
+- When omitted, the updater retains first-asset selection.
+
+### Shared release repository example
+
+Each mod still has its own manifest, ID and independently versioned package. Multiple mods can share a GitHub publishing repository by configuring both selectors:
+
+```json
+{
+  "githubOwner": "example-author",
+  "githubRepoName": "NuclearOption-Releases",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearUnits-v",
+  "releaseAssetName": "NuclearUnits.zip"
+}
+```
+
+This is an excerpt, not a complete manifest. A second mod can point at the same repository with `"releaseTagPrefix": "NuclearSounds-v"` and `"releaseAssetName": "NuclearSounds.zip"`. Its releases and versions remain separate. Use distinct prefixes so a release cannot belong to multiple mods.
+
+The generated artifact format is unchanged. Its version, filename, download URL, hash and download count come from the selected release/asset. Existing manifests need no changes. These selectors do not change source availability, licensing or other acceptance requirements.
 
 ## Artifact Object Properties
 

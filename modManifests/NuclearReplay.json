@@ -1,0 +1,69 @@
+{
+  "id": "NuclearReplay",
+  "displayName": "Nuclear Replay",
+  "description": "Records the matches you host and replays them inside the game: free camera, 7 camera styles, speed 0.25x to 4x, and Clip this to save any moment as a video. Replays are watched offline from the main menu.",
+  "tags": [
+    "mod",
+    "Utility",
+    "Camera",
+    "multiplayer"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/Talamander/nuclear-replay/4491274358fee1b64a08e95d4a75a3159df84bad/docs/media/icon-512.png",
+  "imageHash": "191254633045463813d27cb0a4855da07ee98fd4a09828db1fbb3fdf6359ce15",
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Talamander/nuclear-replay"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Talamander/nuclear-replay/releases"
+    }
+  ],
+  "authors": [
+    "Talamander"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Talamander",
+  "githubRepoName": "nuclear-replay",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearReplay-0.6.0-plugins.zip",
+      "version": "0.6.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/nuclear-replay/releases/download/v0.6.0/NuclearReplay-0.6.0-plugins.zip",
+      "hash": "sha256:e9980fbf8f3d112b7c75fc5e2464fc6da06fc190aefa9b6200bbef57da384e53"
+    },
+    {
+      "fileName": "NuclearReplay-0.5.2-plugins.zip",
+      "version": "0.5.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/nuclear-replay/releases/download/v0.5.2/NuclearReplay-0.5.2-plugins.zip",
+      "hash": "sha256:74582219136a9f61b20b46e4ac7043b84f50afcd94fed00a7a0e769cf9378b2a"
+    },
+    {
+      "fileName": "NuclearReplay-0.5.1-plugins.zip",
+      "version": "0.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/nuclear-replay/releases/download/v0.5.1/NuclearReplay-0.5.1-plugins.zip",
+      "hash": "sha256:bbd4c2b90c13b3eea4b566f40052124a4870dc380493831397efa75cb74745ce"
+    },
+    {
+      "fileName": "NuclearReplay-0.5.0-plugins.zip",
+      "version": "0.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/nuclear-replay/releases/download/v0.5.0/NuclearReplay-0.5.0-plugins.zip",
+      "hash": "sha256:99df596c3eee73e57024d7848e31271a5e4f6cac5b512af77541f0865b6da752"
+    }
+  ],
+  "downloadCount": 578
+}

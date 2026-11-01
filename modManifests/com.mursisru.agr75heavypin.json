@@ -1,7 +1,7 @@
 {
   "id": "com.mursisru.agr75heavypin",
-  "displayName": "AGR-75 Heavypin",
-  "description": "Heavy laser-guided air-to-ground rocket for Nuclear Option. 75 kg launch mass, 11.5 kg HE, 2.5 s burn, 2.2 Mach, ~15 km range. 4x and 6x AGR launcher mounts for aircraft and helicopters. Requires Blueprinter.",
+  "displayName": "AGR-75 Sledgepin",
+  "description": "Heavy laser-guided air-to-ground rocket for Nuclear Option. 75 kg launch mass, 22 kg HE, 3.5 s burn, 3.2 Mach, ~22 km range. 4x and 6x AGR launcher mounts for aircraft and helicopters. Requires Blueprinter.",
   "tags": [
     "mod",
     "Weapon",
@@ -11,11 +11,11 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/Mursisru/AGR-75-Heavypin/blob/master/README.md"
+      "url": "https://github.com/Mursisru/AGR-75-Sledgepin/blob/master/README.md"
     },
     {
       "name": "releases",
-      "url": "https://github.com/Mursisru/AGR-75-Heavypin/releases"
+      "url": "https://github.com/Mursisru/AGR-75-Sledgepin/releases"
     }
   ],
   "authors": [
@@ -23,9 +23,24 @@
   ],
   "isClientOrServer": "Client",
   "githubOwner": "Mursisru",
-  "githubRepoName": "AGR-75-Heavypin",
+  "githubRepoName": "AGR-75-Sledgepin",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "Mursisru_AGR-75-Sledgepin_v2.0.0.zip",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/AGR-75-Sledgepin/releases/download/2.0.0/Mursisru_AGR-75-Sledgepin_v2.0.0.zip",
+      "hash": "sha256:42a503f93661875013eea3d9834aa719fd2eb555febda9ff0b3f1802f5ed9571",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
     {
       "fileName": "Mursisru_AGR-75-Heavypin_v1.1.0.zip",
       "version": "1.1.0",
@@ -57,5 +72,5 @@
       ]
     }
   ],
-  "downloadCount": 699
+  "downloadCount": 5253
 }

@@ -1,0 +1,41 @@
+{
+  "id": "baanish.centurion",
+  "displayName": "MRB-100 Centurion",
+  "description": "A heavy bomber and AWACS with a telescoping truss-braced wing, a laser C-RAM and nose, tail and dorsal radars. Spawns from medium hangars for both factions. Needs Blueprinter; every player in a lobby needs the mod.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/baanish/MRB-100-Centurion#readme"
+    }
+  ],
+  "authors": [
+    "baanish"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "baanish",
+  "githubRepoName": "MRB-100-Centurion",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Centurion-v0.1.3-nomm.zip",
+      "version": "0.1.3",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/MRB-100-Centurion/releases/download/v0.1.3/Centurion-v0.1.3-nomm.zip",
+      "hash": "sha256:83b50963c986b6538f47d570af2c6041ca61c4b4b17779b9b5c6882dd45eee78",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 3457
+}

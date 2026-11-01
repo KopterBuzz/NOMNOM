@@ -1,0 +1,42 @@
+{
+  "id": "Apex-6",
+  "displayName": "Apex-6 / Apex-8",
+  "description": "Adds optically guided jet-powered attack drones, aircraft launch rails, a six-drone Apex-6 ground launcher, a four-drone Apex-8 ground launcher, and parachute-deployed cargo swarms. Cargo pallets carry eight Apex-6 or four Apex-8 drones and are available on VL-49 Tarantula and the optional MC-260 Chimera mod. Includes upward drone ejection, sequential launches, and ammunition visuals. Requires Blueprinter 2.0.1 or newer.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "Aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/XBarni999/Apex-6"
+    }
+  ],
+  "authors": [
+    "XBarni999"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "XBarni999",
+  "githubRepoName": "Apex-6",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Apex-6.dll",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/Apex-6/releases/download/v1.2.1/Apex-6.dll",
+      "hash": "sha256:8501e36d6f8a13d5f40d12e0b1a22febf6384fb0406f5a994611a19c99beeb22",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 3851
+}

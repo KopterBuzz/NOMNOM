@@ -4,25 +4,56 @@
   "description": "Client-side Nuclear Option mod that cuts to black and briefly mutes audio when the local main pilot dies.",
   "tags": [
     "Immersion",
-    "QoL"
+    "Visual",
+    "Sound"
   ],
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/NOMNOM-NuclearDeathBlackout"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearDeathBlackout"
     },
     {
       "name": "source",
-      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
+  "isClientOrServer": "Client",
   "githubOwner": "dikkadev",
-  "githubRepoName": "NOMNOM-NuclearDeathBlackout",
+  "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearDeathBlackout-v",
+  "releaseAssetName": "NuclearDeathBlackout.zip",
   "artifacts": [
+    {
+      "fileName": "NuclearDeathBlackout.zip",
+      "version": "0.2.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearDeathBlackout-v0.2.5/NuclearDeathBlackout.zip",
+      "hash": "sha256:9449be133b39576a3a7a372934bcd395ef5925a825e75cfd62443e8c0c52bc0f"
+    },
+    {
+      "fileName": "NuclearDeathBlackout.zip",
+      "version": "0.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearDeathBlackout-v0.2.4/NuclearDeathBlackout.zip",
+      "hash": "sha256:e9a9fe5242788037733a3b396b98891e8203d5a73849d81265211a2b9efa9a69"
+    },
+    {
+      "fileName": "NuclearDeathBlackout.zip",
+      "version": "0.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearDeathBlackout-v0.2.3/NuclearDeathBlackout.zip",
+      "hash": "sha256:24818567061460f06850f8819d5c9d04bb7026722e753d5b0c5bd04c97792b54"
+    },
     {
       "fileName": "NuclearDeathBlackout-v0.2.0.zip",
       "version": "0.2.0",
@@ -33,5 +64,5 @@
       "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
     }
   ],
-  "downloadCount": 1575
+  "downloadCount": 835
 }

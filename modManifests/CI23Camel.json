@@ -1,0 +1,50 @@
+{
+  "id": "CI23Camel",
+  "displayName": "CI-23 Camel",
+  "description": "Adds the CI-23 Camel, a cricket with a jet engine (and some other changes)",
+  "tags": [
+    "Aircraft"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/BirreD/CI-23_Camel"
+    }
+  ],
+  "authors": [
+    "BirreD"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "BirreD",
+  "githubRepoName": "CI-23_Camel",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "CI-23.Camel_1.2.2.nobp",
+      "version": "1.2.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BirreD/CI-23_Camel/releases/download/1.2.2/CI-23.Camel_1.2.2.nobp",
+      "hash": "sha256:323e8478c1d2b2918d29ad4cceabd35b6d2c51d4e58a39354369b87b2f344f36",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "type": "addon",
+      "fileName": "CI-23.Camel_1.2.0.nobp",
+      "category": "release",
+      "version": "1.2.0",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BirreD/CI-23_Camel/releases/download/1.2.0/CI-23.Camel_1.2.0.nobp",
+      "hash": "sha256:1f9daa6db6f7d48fec121547696c7589bc9d82599cd8b800fd6df80de12bd45b",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 4202
+}

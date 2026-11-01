@@ -1,0 +1,60 @@
+{
+  "id": "Phantasms-Arsenal",
+  "displayName": "Phantasm's Arsenal",
+  "description": "An actively updated combined weapon pack bringing Poseidon anti-ship cruise missiles, HSM-290 Killjoy conventional and nuclear ballistic missiles, Apex attack drones and cargo pallets, and Circuit Breaker's Blackout microwave suppression missile, Locust contact mines and Lawn Chair/Zhdan sensor mines into one DLL with an embedded Blueprinter bundle. Future weapon updates will be delivered through this combined pack; the existing standalone mod repositories and manifests remain unchanged. Remove the separate Poseidon, Killjoy, Apex and Circuit Breaker DLLs and bundles before installing to avoid duplicate weapons and runtime patches. Requires Blueprinter 2.0.1 or newer.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/XBarni999/Phantasms-Arsenal"
+    },
+    {
+      "name": "release",
+      "url": "https://github.com/XBarni999/Phantasms-Arsenal/releases/tag/v1.0.3"
+    }
+  ],
+  "authors": [
+    "XBarni999"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "XBarni999",
+  "githubRepoName": "Phantasms-Arsenal",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Phantasms-Arsenal-1.1.5.zip",
+      "version": "1.1.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/Phantasms-Arsenal/releases/download/v1.1.5/Phantasms-Arsenal-1.1.5.zip",
+      "hash": "sha256:a22feab18ba3364a845c639ab321c3eb28cac41186e486e7c1515a9b4b3f81a0",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Phantasms-Arsenal.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/Phantasms-Arsenal/releases/download/v1.0.3/Phantasms-Arsenal.dll",
+      "hash": "sha256:891626d6081227fcabf3162b77f93be4023d9be02a0a9e3b413f096a74f4f406",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1660
+}

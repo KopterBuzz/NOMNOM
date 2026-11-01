@@ -1,0 +1,102 @@
+{
+  "id": "Apul.NO_BoteSmootherFix",
+  "displayName": "BOTE Network Smoother Fix",
+  "description": "Small fix for an NRE in a BOTE prefix that can cause clients to become unusable midst mission.",
+  "tags": [
+    "mod",
+    "fix",
+    "BOTE"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Appulcake/NO_BoteSmootherFix"
+    }
+  ],
+  "authors": [
+    "Appulcake"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Appulcake",
+  "githubRepoName": "NO_BoteSmootherFix",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Apul.NO_BoteSmootherFix.zip",
+      "version": "0.34.2.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_BoteSmootherFix/releases/download/v0.34.2.6/Apul.NO_BoteSmootherFix.zip",
+      "hash": "sha256:ec2aef56a80bbfff66cceb6b60331dffd0928e4497d7e3e3742e842ed53590a6",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        },
+        {
+          "id": "bote",
+          "version": "1.5.4"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_BoteSmootherFix.zip",
+      "version": "0.34.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_BoteSmootherFix/releases/download/v0.34.2.3/Apul.NO_BoteSmootherFix.zip",
+      "hash": "sha256:c688be4a702f2ee5213218fbefbd896030613c29ca920527f7270d904d8f88bb",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        },
+        {
+          "id": "bote",
+          "version": "1.5.2"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_BoteSmootherFix.zip",
+      "version": "0.34.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_BoteSmootherFix/releases/download/v0.34.2.2/Apul.NO_BoteSmootherFix.zip",
+      "hash": "sha256:e7bb8ef9bd6f23d3df1781c66c512b2beef6840addeeb074f4b7fe5103dc3e3f",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        },
+        {
+          "id": "bote",
+          "version": "1.5.2"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_BoteSmootherFix.zip",
+      "version": "0.34.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_BoteSmootherFix/releases/download/v0.34.2.1/Apul.NO_BoteSmootherFix.zip",
+      "hash": "sha256:33cb4f72b2269e6310026bd2c63ea727fbf279b87138ade57a763590533993e6",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        },
+        {
+          "id": "bote",
+          "version": "1.5.2"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1354
+}

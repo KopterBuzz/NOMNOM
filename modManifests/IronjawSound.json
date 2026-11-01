@@ -1,0 +1,91 @@
+{
+  "id": "IronjawSound",
+  "displayName": "Ironjaw Sound",
+  "description": "A new map: an 82 km square of fjords, glaciers and island airfields, with seven runways, seven helicopter bases, the port town of Port Ansel and a 2.3 km bridge. Comes with 15 missions, including an Escalation, a Confrontation, a supply war, strike and defence missions, Free Flight and three air races. Everyone in a multiplayer game needs it. Needs NOMapLoader.",
+  "tags": [
+    "Terrain",
+    "Map"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/Talamander/ironjaw-sound/63db185189e14e22bf27dd5cbae9b25b0368ccfc/docs/media/icon-512.png",
+  "imageHash": "525da90aa8dafada1d73aa3254c8098428b3f8f7774b6cc4002a92858d4e2fa4",
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Talamander/ironjaw-sound"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Talamander/ironjaw-sound/releases"
+    }
+  ],
+  "authors": [
+    "Talamander"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Talamander",
+  "githubRepoName": "ironjaw-sound",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "IronjawSound-1.0.3.zip",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/ironjaw-sound/releases/download/v1.0.3/IronjawSound-1.0.3.zip",
+      "hash": "sha256:986976136cd729bd836ad6b9c51cc61c35a7195e0114278edcd8083afd4c4234",
+      "dependencies": [
+        {
+          "id": "NOMapLoader",
+          "version": "1.0.5"
+        }
+      ]
+    },
+    {
+      "fileName": "IronjawSound-1.0.2.zip",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/ironjaw-sound/releases/download/v1.0.2/IronjawSound-1.0.2.zip",
+      "hash": "sha256:83658f65e98bfa6ea43522f488d5c69b384dc66e6b94e44643b5e20234cc9e56",
+      "dependencies": [
+        {
+          "id": "NOMapLoader",
+          "version": "1.0.5"
+        }
+      ]
+    },
+    {
+      "fileName": "IronjawSound-1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/ironjaw-sound/releases/download/v1.0.1/IronjawSound-1.0.1.zip",
+      "hash": "sha256:626995484ad86bb50f167b11fb8649a4a3072090bc7683fd6907a54ec104a45c",
+      "dependencies": [
+        {
+          "id": "NOMapLoader",
+          "version": "1.0.5"
+        }
+      ]
+    },
+    {
+      "fileName": "IronjawSound-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/ironjaw-sound/releases/download/v1.0.0/IronjawSound-1.0.0.zip",
+      "hash": "sha256:27f64258c7ea882e3832e97cbe7ff68e4c96474d5ae246460d0a8201d7e464e1",
+      "dependencies": [
+        {
+          "id": "NOMapLoader",
+          "version": "1.0.5"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 2784
+}

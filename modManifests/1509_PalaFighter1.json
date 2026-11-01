@@ -1,0 +1,55 @@
+{
+  "id": "1509_PalaFighter1",
+  "displayName": "KR-33 Agni",
+  "description": "The KR-33 Agni. a rank 3 A2A focused multi role jet for PALA.",
+  "tags": [
+    "mod",
+    "Aircraft",
+    "blueprinter",
+    "phoenix1509"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/phoenix15099/KR-33/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "Phoenix1509",
+    "KermiGodFrog",
+    "Javiairplane",
+    "OliveFox",
+    "the science team (BetaTesters)"
+  ],
+  "githubOwner": "phoenix15099",
+  "githubRepoName": "KR-33",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "1509_PalaFighter1_1.0.1.nobp",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/phoenix15099/KR-33/releases/download/V1.0.1/1509_PalaFighter1_1.0.1.nobp",
+      "hash": "sha256:d4bef8d30fb0bb153dfb18c3d13f97237f0ba66e14f1df39c6eeb8a155808092",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "1509_PalaFighter1_1.0.0.nobp",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/phoenix15099/KR-33/releases/download/V1.0.0/1509_PalaFighter1_1.0.0.nobp",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 10397
+}

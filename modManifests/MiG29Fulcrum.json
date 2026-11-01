@@ -1,0 +1,212 @@
+{
+  "id": "MiG29Fulcrum",
+  "displayName": "MiG-29 Fulcrum",
+  "description": "A flyable MiG-29 (9.12) with its own flight model tuned to real-world data, a cockpit modelled from scratch where every instrument works (20 needles, a rolling attitude ball, HSI, 24-light caution panel, SPO-15 radar warning receiver, gear lights), R-27R / R-27T / R-73 / R-60M missiles, the GSh-30-1 cannon, droppable PTB-1500 / PTB-1150 fuel tanks, flares and radar chaff from its own tail-boom dispensers, a working canopy and gear doors, its own damage display and four liveries.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/IornMan1213/MiG29-NuclearOption/blob/main/README.md"
+    },
+    {
+      "name": "project page",
+      "url": "https://iornman1213.github.io/MiG29-NuclearOption/"
+    }
+  ],
+  "authors": [
+    "IornMan1213"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "IornMan1213",
+  "githubRepoName": "MiG29-NuclearOption",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MiG-29-Fulcrum_0.9.3.2.zip",
+      "version": "0.9.3.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.9.3.2/MiG-29-Fulcrum_0.9.3.2.zip",
+      "hash": "sha256:c8ab7fb0600382492317124c61f89ad74e20bded5bbb7e515b2ac6f44e47f247",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.9.3.1.zip",
+      "version": "0.9.3.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.9.3.1/MiG-29-Fulcrum_0.9.3.1.zip",
+      "hash": "sha256:e2dd65ca18f49ff81d3022718c7ff6153d9e60ca992d40dca40c506f1bc7fcf9",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.9.3.zip",
+      "version": "0.9.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.9.3/MiG-29-Fulcrum_0.9.3.zip",
+      "hash": "sha256:3dbe589d122e51c3bd1c977bf1e1780bbfe8530936902901cdb82139e6ca3312",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.9.2.zip",
+      "version": "0.9.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.9.2/MiG-29-Fulcrum_0.9.2.zip",
+      "hash": "sha256:95987382ceb63956be5ba6c216508d06a22fb18b3ab23007ed2a49a7a66e7b87",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.9.1.zip",
+      "version": "0.9.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.9.1/MiG-29-Fulcrum_0.9.1.zip",
+      "hash": "sha256:5c042cd10c72c6675692f8f5b29854aa07ade3722d9896cb603972cab241536f",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.9.0.zip",
+      "version": "0.9.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.9.0/MiG-29-Fulcrum_0.9.0.zip",
+      "hash": "sha256:08115d4e0060a1e13920810a531d2e242800d7f7542f6ae9c040d61dc911a578",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.8.9.zip",
+      "version": "0.8.9",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.8.9/MiG-29-Fulcrum_0.8.9.zip",
+      "hash": "sha256:a08e1b0073d055d0721431e290bb4c24dbf76abf678bcf9a1112fa3e83b3b4ea",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.8.8.zip",
+      "version": "0.8.8",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.8.8/MiG-29-Fulcrum_0.8.8.zip",
+      "hash": "sha256:008f316b4d07079807a8f4b8eaf5becf1dc9d091e02ad9756654bc1b7c2066e1",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.8.7.zip",
+      "version": "0.8.7",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.8.7/MiG-29-Fulcrum_0.8.7.zip",
+      "hash": "sha256:eb00d1afcdf2f69062f837a29262c7c47f16f4e3471d3940ae33c7c4d7ef4cf4",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.8.6.zip",
+      "version": "0.8.6",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.8.6/MiG-29-Fulcrum_0.8.6.zip",
+      "hash": "sha256:ad97134974faff0fa29a2a8c4e09ba54cdec1c15721e4ccf5e1f79e6f1b30e71",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.8.5.zip",
+      "version": "0.8.5",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.8.5/MiG-29-Fulcrum_0.8.5.zip",
+      "hash": "sha256:53caeb26074d12db047e059b23a111c8a28b0422ce7d13f0be33dd782b3ee0cd",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.8.1.zip",
+      "version": "0.8.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.8.1/MiG-29-Fulcrum_0.8.1.zip",
+      "hash": "sha256:0f96276c110d5d0f2b1b6c6af4a9f3287a57637cf1342430c173f4f10f9aa8e9",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.8.0.zip",
+      "version": "0.8.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.8.0/MiG-29-Fulcrum_0.8.0.zip",
+      "hash": "sha256:a3d78dcea646925f7c0dd8963af5a5224af508d8fe3e5759a59da88be97b4550",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "MiG-29-Fulcrum_0.7.1.zip",
+      "version": "0.7.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/MiG29-NuclearOption/releases/download/v0.7.1/MiG-29-Fulcrum_0.7.1.zip",
+      "hash": "sha256:de94a421e1e3e228f5f9ece893e75b1333fb6311ff78945bdf45711224036e39",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 14424
+}

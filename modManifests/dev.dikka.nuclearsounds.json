@@ -1,0 +1,58 @@
+{
+  "id": "dev.dikka.nuclearsounds",
+  "displayName": "NuclearSounds",
+  "description": "Client-side designation tones, voice callouts, and fuel/terrain warnings with estimated fuel time.",
+  "tags": [
+    "Sound",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearSounds"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearSounds-v",
+  "releaseAssetName": "NuclearSounds.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearSounds.zip",
+      "version": "0.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSounds-v0.1.3/NuclearSounds.zip",
+      "hash": "sha256:be8241708f37f0a5b3c3c9256026b23fedf8ffd813309de0ac62866dd3ceac8f"
+    },
+    {
+      "fileName": "NuclearSounds.zip",
+      "version": "0.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSounds-v0.1.2/NuclearSounds.zip",
+      "hash": "sha256:1aa400f883524bd0ec22de426eb3c8af9bfc01f670c16df315bac388a3373782"
+    },
+    {
+      "fileName": "NuclearSounds.zip",
+      "version": "0.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSounds-v0.1.1/NuclearSounds.zip",
+      "hash": "sha256:6ee4d65c0c993f673fb8df4638e271a08eb27aa97c921c62d491cb1ed6c4e1f5"
+    }
+  ],
+  "downloadCount": 71
+}

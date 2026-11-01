@@ -1,0 +1,39 @@
+{
+  "id": "com.darkskies.skingate",
+  "displayName": "DarkSkies SkinGate",
+  "description": "DarkSkies Milsim - Discord squadron roles to per-SteamID livery allowlist. Host syncs allowlist.json to joiners over Steam NetworkingMessages; hangar UI filters and SetLiveryKey enforcement.",
+  "tags": [
+    "Utility",
+    "QoL",
+    "Server"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/datfacesoldier95/DarkSkies-SkinGate"
+    },
+    {
+      "name": "download",
+      "url": "https://github.com/datfacesoldier95/DarkSkies-SkinGate/releases/latest"
+    }
+  ],
+  "authors": [
+    "DarkSkies"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "datfacesoldier95",
+  "githubRepoName": "DarkSkies-SkinGate",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "DarkSkies-SkinGate-1.1.9.zip",
+      "version": "1.1.9",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/datfacesoldier95/DarkSkies-SkinGate/releases/download/v1.1.9/DarkSkies-SkinGate-1.1.9.zip",
+      "hash": "sha256:c8639fadf34b15dd29712669208c5c3c38f477165fa0ef90e82bad1afbf92d89"
+    }
+  ],
+  "downloadCount": 79
+}

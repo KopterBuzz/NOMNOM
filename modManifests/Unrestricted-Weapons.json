@@ -23,6 +23,21 @@
   "artifacts": [
     {
       "fileName": "UnrestrictedWeapons.dll",
+      "version": "1.6.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/JUSTJ7780/Unrestricted-Weapons/releases/download/1.6.0/UnrestrictedWeapons.dll",
+      "hash": "sha256:85b9a7b74f85d5edd0773ba0b5b0730120609ffd5d59e4b64a8994c6b02ca85b",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "UnrestrictedWeapons.dll",
       "version": "1.5.0",
       "category": "release",
       "type": "plugin",
@@ -37,5 +52,5 @@
       ]
     }
   ],
-  "downloadCount": 6923
+  "downloadCount": 10442
 }

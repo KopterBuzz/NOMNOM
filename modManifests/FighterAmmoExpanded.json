@@ -1,0 +1,50 @@
+{
+  "id": "FighterAmmoExpanded",
+  "displayName": "Fighter Ammunition Expanded",
+  "description": "Adds more variety to ammunition (and guns)",
+  "tags": [
+    "Flavour"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/BirreD/FAE"
+    }
+  ],
+  "authors": [
+    "BirreD"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "BirreD",
+  "githubRepoName": "FAE",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Fighter.Ammunition.Expanded_1.5.1.nobp",
+      "version": "1.5.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BirreD/FAE/releases/download/1.5.1/Fighter.Ammunition.Expanded_1.5.1.nobp",
+      "hash": "sha256:e3d722cba649b68d6e42274dd6dcc8d2381679edc0deed7992980672e1eb4cb8",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "type": "addon",
+      "fileName": "Fighter.Ammunition.Expanded_1.5.0.nobp",
+      "category": "release",
+      "version": "1.5.0",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BirreD/FAE/releases/download/1.5.0/Fighter.Ammunition.Expanded_1.5.0.nobp",
+      "hash": "sha256:a55182e8e715cbe852b92263052ce6cb5c8bc8922fc4e682ca3f9d9911c72a75",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 2567
+}

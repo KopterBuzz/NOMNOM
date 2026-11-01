@@ -1,0 +1,42 @@
+{
+  "id": "HangballMkII",
+  "displayName": "Hangball Mk.II",
+  "description": "Hang-Aloft Node Guided (HANG) variant of the Eyeball Mk.II. When a target is selected, it flies over the target and deploys a parachute, hanging to scan and spot for Datalink as it descends. Without a target, the Hangball deploys the chute when it runs out of energy instead of self-destructing.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "Missile",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/NicksSoftwareFun/nuclear-option-hangball-mod"
+    }
+  ],
+  "authors": [
+    "NicksSoftwareFun"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "NicksSoftwareFun",
+  "githubRepoName": "nuclear-option-hangball-mod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "HangballMkII.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NicksSoftwareFun/nuclear-option-hangball-mod/releases/download/v1.0/HangballMkII.dll",
+      "hash": "sha256:ED2C5DF7B62878A000D263ABF9D9A61EBCE162F39ABEC09E57B5123DF473261A",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 2
+}

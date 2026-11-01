@@ -1,0 +1,48 @@
+{
+  "id": "NOCustomMaps.CascadiaFalling",
+  "displayName": "Cascadia Falling",
+  "description": "The Pacific Northwest at true scale, a 400 km square from Vancouver to Yakima, with real terrain, roads and cities, nine airfields, four FOBs, seven helipads, three naval bases and four nuclear silo fields. A map for NOCustomMaps; its PvP invasion mission, Cascadia Falling, is on the Steam Workshop. The host and every player need the same version.",
+  "tags": [
+    "Terrain",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/netmaster296/CascadiaFalling"
+    },
+    {
+      "name": "Steam Workshop mission",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825716792"
+    }
+  ],
+  "authors": [
+    "netmaster296"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "netmaster296",
+  "githubRepoName": "CascadiaFalling",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "cascadia-0.1.0.zip",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/netmaster296/CascadiaFalling/releases/download/v0.1.0/cascadia-0.1.0.zip",
+      "hash": "sha256:ea9d17f1cbca56355ece44be91900599ebfd631f023de31bada7043cfd0907df",
+      "extends": {
+        "id": "NOCustomMaps",
+        "version": "1.4.0"
+      },
+      "dependencies": [
+        {
+          "id": "NOGridLetters",
+          "version": "1.1.0"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1711
+}

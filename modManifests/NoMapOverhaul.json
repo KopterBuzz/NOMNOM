@@ -1,0 +1,52 @@
+{
+  "id": "NoMapOverhaul",
+  "displayName": "NO Map Overhaul",
+  "description": "Map mod. Draws friendly runways with their numbers on the minimap and full map, a dashed approach line and a RWY callout for ATC on the runway you're lined up on, planning tools on the full map (bearing and range, range circles, notes that tag contacts, a pen, and a waypoint route), and optional airbase names. Formerly Baanish UI Improvements.",
+  "tags": [
+    "QoL",
+    "UI"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/baanish/NO-Map-Overhaul"
+    }
+  ],
+  "authors": [
+    "baanish"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "baanish",
+  "githubRepoName": "NO-Map-Overhaul",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NoMapOverhaul-v0.6.0-nomm.zip",
+      "version": "0.6.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/NO-Map-Overhaul/releases/download/v0.6.0/NoMapOverhaul-v0.6.0-nomm.zip",
+      "hash": "sha256:5909ec6961abef93c0a82259523edb2f96084d3ea96f90fed3473ae697b7d4dd"
+    },
+    {
+      "fileName": "NoMapOverhaul-v0.5.1-nomm.zip",
+      "version": "0.5.1",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/NO-Map-Overhaul/releases/download/v0.5.1/NoMapOverhaul-v0.5.1-nomm.zip",
+      "hash": "sha256:a710e3b026e956a538cbf5a48faa94527ee38780f36f89a3bd53f9e3c7c9cd71"
+    },
+    {
+      "fileName": "NoMapOverhaul-v0.5.0-nomm.zip",
+      "version": "0.5.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/NO-Map-Overhaul/releases/download/v0.5.0/NoMapOverhaul-v0.5.0-nomm.zip",
+      "hash": "sha256:d7aba3f84cd835eaa5a84ff1e1fd4b068b32c4f5d6742051bdba99c7d57428e7"
+    }
+  ],
+  "downloadCount": 558
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MapMouseSelect",
+  "displayName": "Map Mouse Select",
+  "description": "Box/marquee selection on the map, more target designation hotkeys in flight, safe exit hotkey, frame limiter and misc. other bugfixes and improvements.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Client-Side",
+    "Accessibility",
+    "Bugfixes",
+    "Targeting",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Metadorius/MapMouseSelect"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Metadorius/MapMouseSelect/releases"
+    }
+  ],
+  "authors": [
+    "Kerbiter"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Metadorius",
+  "githubRepoName": "MapMouseSelect",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "com.kerbiter.mapmouseselect_v0.3.0.zip",
+      "version": "0.3.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Metadorius/MapMouseSelect/releases/download/v0.3.0/com.kerbiter.mapmouseselect_v0.3.0.zip",
+      "hash": "sha256:5021850f8fe50d34812d9a4e3ae998a2d3abfee774c25e794b0443793660c939",
+      "dependencies": [],
+      "incompatibilities": []
+    }
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/Metadorius/MapMouseSelect/6e08c30fd6d5315d6ce84650c2f91956e2cb7ab7/docs/media/icon.png",
+  "imageHash": "adfedc00aa6e4f1a3f1ed94552dcc9298de1dc2e6663cbd82718a104899352b1",
+  "downloadCount": 506
+}

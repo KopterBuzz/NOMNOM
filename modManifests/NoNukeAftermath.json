@@ -1,0 +1,59 @@
+{
+  "id": "NoNukeAftermath",
+  "displayName": "Nuke Aftermath",
+  "description": "A far bigger nuclear blast that leaves a mark. The game's own fireball and mushroom cloud grow about 1.6 times bigger and last longer, with a brighter flash, a dust wall along the ground and a condensation ring. Afterwards the ground stays burnt, charred trunks lie flat pointing away from ground zero, and fires and smoke burn for minutes. Client-only and visual-only: other players do not need it, and it changes no damage or gameplay.",
+  "tags": [
+    "mod",
+    "Visual",
+    "Flavor"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/Talamander/no-nuke-aftermath/4db691df24d3acbb2bfca3eb621ab26f1318c606/docs/media/icon-512.png",
+  "imageHash": "4d22d124f66d7e88d7f997219224549d2749b229e70b4fa6f403fad8e0578277",
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Talamander/no-nuke-aftermath"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Talamander/no-nuke-aftermath/releases"
+    }
+  ],
+  "authors": [
+    "Talamander"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Talamander",
+  "githubRepoName": "no-nuke-aftermath",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NoNukeAftermath-0.2.2-plugins.zip",
+      "version": "0.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/no-nuke-aftermath/releases/download/v0.2.2/NoNukeAftermath-0.2.2-plugins.zip",
+      "hash": "sha256:df61f1eac0755e382dbad297fb2c1284fb56d7943de8d9915f5c2645e9025347"
+    },
+    {
+      "fileName": "NoNukeAftermath-0.2.1-plugins.zip",
+      "version": "0.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/no-nuke-aftermath/releases/download/v0.2.1/NoNukeAftermath-0.2.1-plugins.zip",
+      "hash": "sha256:dd8584b9745560d136456c2504c5771acbbb267825e03ca4f98519cee100fc3f"
+    },
+    {
+      "fileName": "NoNukeAftermath-0.2.0-plugins.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/no-nuke-aftermath/releases/download/v0.2.0/NoNukeAftermath-0.2.0-plugins.zip",
+      "hash": "sha256:7e32a546b4ce21d698d23aa54ff872e825e655da65513926d6e6930de7b89c99"
+    }
+  ],
+  "downloadCount": 1816
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PlayableVehicles",
+  "displayName": "Playable Vehicles",
+  "description": "Drive your faction's ground vehicles in third person: tanks, IFVs, SAM launchers, artillery, supply trucks. Aim and fire the turrets yourself, buy vehicles at vehicle depots, use the fire control computer for artillery and missiles, tow launchers and carry containers. HUD built from the game's own HUD. Single player and multiplayer (host and drivers need the mod).",
+  "tags": [
+    "Gameplay",
+    "vehicle",
+    "multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Rap3/NuclearOption-PlayableVehicles"
+    },
+    {
+      "name": "issues",
+      "url": "https://github.com/Rap3/NuclearOption-PlayableVehicles/issues"
+    }
+  ],
+  "authors": [
+    "Rap3"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Rap3",
+  "githubRepoName": "NuclearOption-PlayableVehicles",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "PlayableVehicles.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Rap3/NuclearOption-PlayableVehicles/releases/download/v1.0.3/PlayableVehicles.dll",
+      "hash": "sha256:75ed7ce12dbad07e6308d451c9254870e3dd49ae3b41329da3d2a8e15fabc4c6"
+    },
+    {
+      "fileName": "PlayableVehicles.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Rap3/NuclearOption-PlayableVehicles/releases/download/1.0.2/PlayableVehicles.dll",
+      "hash": "sha256:ba5c87437e870026b77d2597ded59bcb16ea3a35dba291e5007b725f79385f84"
+    },
+    {
+      "fileName": "PlayableVehicles.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Rap3/NuclearOption-PlayableVehicles/releases/download/v1.0.0/PlayableVehicles.dll",
+      "hash": "sha256:33d5363ba6f8329c9a809c900595c7c5e178e85e25fe615d9b6ca625e957cff4"
+    }
+  ],
+  "downloadCount": 1130
+}

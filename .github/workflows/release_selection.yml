@@ -1,0 +1,34 @@
+name: Release Selection Tests
+
+on:
+  push:
+    paths:
+      - Get-ModReleaseArtifact.ps1
+      - Update-ModArtifact.ps1
+      - ValidationSchema.json
+      - tests/**
+      - .github/workflows/release_selection.yml
+  pull_request:
+    branches: [main, dev, staging]
+    paths:
+      - Get-ModReleaseArtifact.ps1
+      - Update-ModArtifact.ps1
+      - ValidationSchema.json
+      - tests/**
+      - .github/workflows/release_selection.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  release-selection:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test release selection and updater integration
+        shell: pwsh
+        run: ./tests/ReleaseSelection.Tests.ps1

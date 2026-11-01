@@ -1,0 +1,52 @@
+{
+  "id": "HeavyHangar",
+  "displayName": "Heavy Aircraft Hangar",
+  "description": "A hangar big enough for the largest aircraft (built for the B-52, fits any): 114 x 78 m with an 84 x 17 m telescoping door, lit at night. A plugin places one at each land airbase with a long runway, routes oversize aircraft to it, and spawns them outside the door of stock hangars where there is none. Also available in the mission editor.",
+  "tags": [
+    "mod",
+    "building",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/IornMan1213/NO-HeavyHangar/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "IornMan1213"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "IornMan1213",
+  "githubRepoName": "NO-HeavyHangar",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Heavy-Hangar_0.2.0.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/NO-HeavyHangar/releases/download/v0.2.0/Heavy-Hangar_0.2.0.zip",
+      "hash": "sha256:f3ad298bd0b04c3723e0c37122c6fd2e3a0cecd3991ecd1378b69986e57e8dd5",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "Heavy-Hangar_0.1.0.zip",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/IornMan1213/NO-HeavyHangar/releases/download/v0.1.0/Heavy-Hangar_0.1.0.zip",
+      "hash": "sha256:a448f2f8efe30ab39801f6776949443dffda317b80963c454670dadb774dc29b",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 1099
+}

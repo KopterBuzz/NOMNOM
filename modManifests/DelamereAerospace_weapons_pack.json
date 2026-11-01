@@ -1,0 +1,37 @@
+{
+  "id": "DelamereAerospace_weapons_pack",
+  "displayName": "DelamereAerospace Weapons Pack",
+  "description": "Additions of various new weapons.",
+  "tags": [
+    "weapon",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ValStartaker/DelamereAerospace_weapons_pack/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "ValStartaker"
+  ],
+  "githubOwner": "ValStartaker",
+  "githubRepoName": "DelamereAerospace_weapons_pack",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "DelamereAerospace_weapons_pack_1.1.1.zip",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/ValStartaker/DelamereAerospace_weapons_pack/releases/download/1.1.1/DelamereAerospace_weapons_pack_1.1.1.zip",
+      "hash": "sha256:8929beef6252b5f978bf75655f5b68d730192b6314e58b8e34780d678c7dd9ab",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 2907
+}

@@ -1,0 +1,77 @@
+{
+  "id": "dev.dikka.nuclearminimap",
+  "displayName": "NuclearMinimap",
+  "description": "Native minimap orientation and hold zoom, with an optional cockpit map display and configurable HUD visibility.",
+  "tags": [
+    "Map",
+    "HUD",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMinimap"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearMinimap-v",
+  "releaseAssetName": "NuclearMinimap.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearMinimap.zip",
+      "version": "0.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMinimap-v0.5.0/NuclearMinimap.zip",
+      "hash": "sha256:ac2819a74c0f31661477aa6d9e72cf9d9919466e1b5723588f4598343706a88c"
+    },
+    {
+      "fileName": "NuclearMinimap.zip",
+      "version": "0.4.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMinimap-v0.4.1/NuclearMinimap.zip",
+      "hash": "sha256:5794b10481c856483eb226986515151a3e10c01180d96b7c936c3c2298c10275"
+    },
+    {
+      "fileName": "NuclearMinimap.zip",
+      "version": "0.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMinimap-v0.4.0/NuclearMinimap.zip",
+      "hash": "sha256:8897756d44fa93e938da0d9f89a2ae0ff3f4813802202e1ba5fd3ecdca548faf"
+    },
+    {
+      "fileName": "NuclearMinimap.zip",
+      "version": "0.3.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMinimap-v0.3.3/NuclearMinimap.zip",
+      "hash": "sha256:2420bde1a7099ae185603007fc35dfa8f57b0a6f0ba06fd832e6d8e7ba058325"
+    },
+    {
+      "fileName": "NuclearMinimap.zip",
+      "version": "0.3.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMinimap-v0.3.2/NuclearMinimap.zip",
+      "hash": "sha256:fa30cea310f9d715d2c744aa2a75e64ff863b6fe87d4cb9f3fee968bdabc734e"
+    }
+  ],
+  "downloadCount": 73
+}

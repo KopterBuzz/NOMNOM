@@ -1,0 +1,37 @@
+{
+  "id": "NOGridLetters",
+  "displayName": "NOGridLetters",
+  "description": "Readable tactical-map grid on large maps: rows past Z read A*, B*, C* ... instead of punctuation and lower-case letters, and zoomed-in column labels read 12-0, 12-1 ... instead of 120, 121, so a callout is e.g. D*f12-3. Client-side only; changes nothing else.",
+  "tags": [
+    "mod",
+    "Map",
+    "UI",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/netmaster296/NOGridLetters"
+    }
+  ],
+  "authors": [
+    "netmaster296"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "netmaster296",
+  "githubRepoName": "NOGridLetters",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOGridLetters.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/netmaster296/NOGridLetters/releases/download/v1.1.0/NOGridLetters.dll",
+      "hash": "sha256:23b3a69decd93a2d3d306c50b05a95e4df6314e854c5f79d369dfdf8784e9904",
+      "dependencies": []
+    }
+  ],
+  "downloadCount": 796
+}

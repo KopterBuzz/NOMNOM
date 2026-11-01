@@ -1,0 +1,95 @@
+{
+  "id": "aryx.f22e",
+  "displayName": "Aryx-F-22E",
+  "description": "Adds a rank 5 replica of the F-22 Raptor, upgraded to 2070s standards.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/shipyard"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx_F22E_StrikeRaptor",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Aryx_F22E_StrikeRaptor_1.0.4.dll",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/releases/download/1.0.4/Aryx_F22E_StrikeRaptor_1.0.4.dll",
+      "hash": "sha256:c57b70ca9859b7638935d30ec3a60b697d8bbdf608f00d59f2ca07aae53eb46e",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_F22E_StrikeRaptor_1.0.3.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/releases/download/1.0.3/Aryx_F22E_StrikeRaptor_1.0.3.dll",
+      "hash": "sha256:f0831520a62bb27e1bb58ec20f3e25b424118169745c88b25e9e612e06365736",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_F22E_StrikeRaptor_1.0.2.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/releases/download/1.0.2/Aryx_F22E_StrikeRaptor_1.0.2.dll",
+      "hash": "sha256:6ac8efd55ee4ea41feba56bed608fb61b4091cbc2dbe863bd7f343d681c13782",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_F22E_StrikeRaptor_1.0.1.dll",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/releases/download/1.0.1/Aryx_F22E_StrikeRaptor_1.0.1.dll",
+      "hash": "sha256:209dc3335ccd55220a9bab610b70c0f87d66b82518b83de081687d51a0525db2",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx_F22E_StrikeRaptor_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/releases/download/1.0.0/Aryx_F22E_StrikeRaptor_1.0.0.dll",
+      "hash": "",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    }
+  ],
+  "downloadCount": 23728
+}

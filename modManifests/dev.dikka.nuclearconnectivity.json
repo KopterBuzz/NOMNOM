@@ -3,26 +3,56 @@
   "displayName": "NuclearConnectivity",
   "description": "Client-side Nuclear Option mod for external integrations, currently Steam Timeline combat markers.",
   "tags": [
-    "QoL",
-    "Integration"
+    "Integration",
+    "Utility"
   ],
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/NOMNOM-NuclearConnectivity"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearConnectivity"
     },
     {
       "name": "source",
-      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
+  "isClientOrServer": "Client",
   "githubOwner": "dikkadev",
-  "githubRepoName": "NOMNOM-NuclearConnectivity",
+  "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearConnectivity-v",
+  "releaseAssetName": "NuclearConnectivity.zip",
   "artifacts": [
+    {
+      "fileName": "NuclearConnectivity.zip",
+      "version": "0.2.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearConnectivity-v0.2.5/NuclearConnectivity.zip",
+      "hash": "sha256:8b9859d3cd0da869e000030462f395b3f8db4122e9b2693b7ba4ad1ce83be019"
+    },
+    {
+      "fileName": "NuclearConnectivity.zip",
+      "version": "0.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearConnectivity-v0.2.4/NuclearConnectivity.zip",
+      "hash": "sha256:c13e179d7d9bde9e2fb0fa97d6ca14a6c12d60536a512b199b094c5084238380"
+    },
+    {
+      "fileName": "NuclearConnectivity.zip",
+      "version": "0.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearConnectivity-v0.2.3/NuclearConnectivity.zip",
+      "hash": "sha256:a599dfa3c606a0074722afacc13b0b18ec6d36ec55ea50c5756634d2a6a1533a"
+    },
     {
       "fileName": "NuclearConnectivity-v0.2.0.zip",
       "version": "0.2.0",
@@ -33,5 +63,5 @@
       "hash": "sha256:0511ebb64fd6da8fef8780c4dcd81d8b9bc7e54d203ac55503b0813fe22c022b"
     }
   ],
-  "downloadCount": 129
+  "downloadCount": 50
 }

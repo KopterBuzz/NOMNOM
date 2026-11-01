@@ -1,0 +1,38 @@
+{
+  "id": "vladzgrid.su25",
+  "displayName": "Su-25 Frogfoot",
+  "description": "Experimental flyable Su-25 adaptation: tier 2, $25M, ten weapon stations, dedicated icon, cockpit, native HUD and custom landing-gear animation. Requires Blueprinter 2.0.1.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Braianvladzgrid/su25-frogfoot-nuclear-option"
+    }
+  ],
+  "authors": [
+    "Braianvladzgrid"
+  ],
+  "githubOwner": "Braianvladzgrid",
+  "githubRepoName": "su25-frogfoot-nuclear-option",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Su25_Frogfoot_0.1.4.zip",
+      "version": "0.1.4",
+      "category": "prerelease",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Braianvladzgrid/su25-frogfoot-nuclear-option/releases/download/v0.1.4/Su25_Frogfoot_0.1.4.zip",
+      "hash": "sha256:dabedb4ef6a781bdfaccea9168f663f440589a4530be2ad17e45465522f5ac71",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 2661
+}

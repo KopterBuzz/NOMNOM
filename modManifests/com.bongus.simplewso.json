@@ -9,16 +9,44 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/ItsBongus/NOMNOM-com-bongus-simplewso"
+      "url": "https://github.com/Motmir/SimpleWSO"
     }
   ],
   "authors": [
-    "Bongus"
+    "Bongus",
+    "Motmir"
   ],
-  "githubOwner": "ItsBongus",
-  "githubRepoName": "NOMNOM-com-bongus-simplewso",
+  "githubOwner": "Motmir",
+  "githubRepoName": "SimpleWSO",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "com.bongus.simplewso_v1.1.2.zip",
+      "version": "1.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Motmir/SimpleWSO/releases/download/1.1.2/com.bongus.simplewso_v1.1.2.zip",
+      "hash": "sha256:08d7dec335802d997e733244bee5c68a832944fd2e4c067fa2540053432ffd8e"
+    },
+    {
+      "fileName": "com.bongus.simplewso_v1.1.1.zip",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Motmir/SimpleWSO/releases/download/1.1.1/com.bongus.simplewso_v1.1.1.zip",
+      "hash": "sha256:bad47434e803acfd41acf9c5e2576369e69ce2f873801d315f05a85eafcf65b5"
+    },
+    {
+      "type": "plugin",
+      "fileName": "com.bongus.simplewso_v1.1.0.zip",
+      "downloadUrl": "https://github.com/Motmir/SimpleWSO/releases/download/1.1.0/com.bongus.simplewso_v1.1.0.zip",
+      "hash": "sha256:37f2bbe3c7c8cf65594776e6503cf3dd26c743deb2a5aeab4e6fc5f061d02d9d",
+      "gameVersion": "0.34.2",
+      "version": "1.1.0",
+      "category": "Release"
+    },
     {
       "type": "plugin",
       "fileName": "com.bongus.simplewso_v1.0.0.zip",
@@ -29,5 +57,5 @@
       "category": "Release"
     }
   ],
-  "downloadCount": 1166
+  "downloadCount": 677
 }

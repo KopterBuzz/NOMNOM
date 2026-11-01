@@ -3,27 +3,66 @@
   "displayName": "NuclearMapPlayerNames",
   "description": "Client-side Nuclear Option mod that shows multiplayer usernames next to player-controlled aircraft on the dynamic map.",
   "tags": [
-    "QoL",
     "Map",
-    "Multiplayer"
+    "multiplayer",
+    "QoL"
   ],
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/NOMNOM-NuclearMapPlayerNames"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapPlayerNames"
     },
     {
       "name": "source",
-      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
+  "isClientOrServer": "Client",
   "githubOwner": "dikkadev",
-  "githubRepoName": "NOMNOM-NuclearMapPlayerNames",
+  "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearMapPlayerNames-v",
+  "releaseAssetName": "NuclearMapPlayerNames.zip",
   "artifacts": [
+    {
+      "fileName": "NuclearMapPlayerNames.zip",
+      "version": "0.2.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapPlayerNames-v0.2.6/NuclearMapPlayerNames.zip",
+      "hash": "sha256:1bf30fbf5f864373ffa0fc3dbe4341c8cff09c87870449158f21bfd9884275f9"
+    },
+    {
+      "fileName": "NuclearMapPlayerNames.zip",
+      "version": "0.2.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapPlayerNames-v0.2.5/NuclearMapPlayerNames.zip",
+      "hash": "sha256:78d0eee3d55a432790a3ca8e6cb6eda0b74ac0a300cee2bc5ce40d81cdf8ac7f"
+    },
+    {
+      "fileName": "NuclearMapPlayerNames.zip",
+      "version": "0.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapPlayerNames-v0.2.4/NuclearMapPlayerNames.zip",
+      "hash": "sha256:7c01f0c5ac6eb4d6adc16601a35317774f7b382040a820a1fd1511dde103b4db"
+    },
+    {
+      "fileName": "NuclearMapPlayerNames.zip",
+      "version": "0.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapPlayerNames-v0.2.3/NuclearMapPlayerNames.zip",
+      "hash": "sha256:545cb1bef6b94c95d1ec27c19ce084f5ee24a5427542c91662818a36a8fddb8c"
+    },
     {
       "fileName": "NuclearMapPlayerNames-v0.2.0.zip",
       "version": "0.2.0",
@@ -34,5 +73,5 @@
       "hash": "sha256:2aeb1945d4e0cba4b0d0fd41a1221ac00bb3769afb88c1936f2608fc06e44f8e"
     }
   ],
-  "downloadCount": 625
+  "downloadCount": 167
 }

@@ -1,0 +1,56 @@
+{
+  "id": "MultiplayerLobbyFixes",
+  "displayName": "Multiplayer Lobby Fixes",
+  "description": "A mod that fixes the server list (best-effort until devs fix it for real), overhauls it and the filter list, and fixes all known to me issues with Steam joins.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Client-Side",
+    "Bugfixes",
+    "Multiplayer",
+    "Server Browser",
+    "Steam"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Metadorius/MultiplayerLobbyFixes"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Metadorius/MultiplayerLobbyFixes/releases"
+    }
+  ],
+  "authors": [
+    "Kerbiter"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Metadorius",
+  "githubRepoName": "MultiplayerLobbyFixes",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "com.kerbiter.multiplayerlobbyfixes_v0.2.0.zip",
+      "version": "0.2.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Metadorius/MultiplayerLobbyFixes/releases/download/v0.2.0/com.kerbiter.multiplayerlobbyfixes_v0.2.0.zip",
+      "hash": "sha256:e32f56b3c6755f4fc79b74e0c0e5553aa2744ed9eab25c4aa4b7401b23639aaf"
+    },
+    {
+      "fileName": "com.kerbiter.multiplayerlobbyfixes_v0.1.0.zip",
+      "version": "0.1.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Metadorius/MultiplayerLobbyFixes/releases/download/v0.1.0/com.kerbiter.multiplayerlobbyfixes_v0.1.0.zip",
+      "hash": "sha256:8f89f2fc50986e1b13cac740b59a428b437d431a4da455fbe82d13cf508d9de2",
+      "dependencies": [],
+      "incompatibilities": []
+    }
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/Metadorius/MultiplayerLobbyFixes/e56bbb61957a50018e9244196918bb340b1c86da/icon.png",
+  "imageHash": "53b31b20ec71865ae2647606a80e093ab05d89d94c062ac35135aeb1a3e048c2",
+  "downloadCount": 224
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Apul.NO_Optimisation",
+  "displayName": "NO Optimisation",
+  "description": "Optimisation mod (client and server).",
+  "tags": [
+    "mod",
+    "Performance",
+    "Optimization",
+    "Optimisation"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Appulcake/NO_Optimisation"
+    }
+  ],
+  "authors": [
+    "Appulcake"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Appulcake",
+  "githubRepoName": "NO_Optimisation",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Apul.NO_Optimisation.zip",
+      "version": "0.34.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_Optimisation/releases/download/v0.34.2.3/Apul.NO_Optimisation.zip",
+      "hash": "sha256:84abc2b1662e3672a9926b551e72309908cc071989f42f3348a9067606360759",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1933
+}

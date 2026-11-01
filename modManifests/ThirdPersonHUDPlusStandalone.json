@@ -23,6 +23,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NuclearOption-Third-Person-HUD-Standalone-v1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/HillMangYo/NuclearOption-Third-Person-HUD-Standalone/releases/download/1.1.0/NuclearOption-Third-Person-HUD-Standalone-v1.1.0.zip",
+      "hash": "sha256:ae94786fb5577a561b48d8ecdeeababe3691dc044333c8eaba6d5d77c604eb2d",
+      "incompatibilities": [
+        {
+          "id": "NO_Tactitools",
+          "version": "0.7.2"
+        }
+      ]
+    },
+    {
       "fileName": "NuclearOption-Third-Person-HUD-Standalone-v1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -39,5 +54,5 @@
       ]
     }
   ],
-  "downloadCount": 143
+  "downloadCount": 1849
 }

@@ -1,0 +1,82 @@
+{
+  "id": "SAMsForAircraft",
+  "displayName": "SAMs For Aircraft",
+  "description": "Adds R9, RAM-45 and NL-98 to aircraft. Working SARH mechanics for airplanes.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/EMTmastash/SAMs-for-aircraft/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "Tyen"
+  ],
+  "githubOwner": "EMTmastash",
+  "githubRepoName": "SAMs-for-aircraft",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "SAMs.for.aircraft_0.2.8.dll",
+      "version": "0.2.8",
+      "category": "release",
+      "type": "addOn",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/EMTmastash/SAMs-for-aircraft/releases/download/0.2.8/SAMs.for.aircraft_0.2.8.dll",
+      "hash": "sha256:453b89a8a719006d082a9c60e5d28b7514fa2639b5b5bd08ef745255695db327",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "SAMs.for.aircraft_0.2.2.dll",
+      "version": "0.2.2",
+      "category": "release",
+      "type": "addOn",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/EMTmastash/SAMs-for-aircraft/releases/download/0.2.2/SAMs.for.aircraft_0.2.2.dll",
+      "hash": "sha256:a6d512b31cc64d45d79baa26a6542140851a47874e5bd248c417d538fd0a6b80",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "SAMs.for.Aircraft_0.0.8.zip",
+      "version": "0.0.8",
+      "category": "release",
+      "type": "addOn",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/EMTmastash/SAMs-for-aircraft/releases/download/0.0.8/SAMs.for.Aircraft_0.0.8.zip",
+      "hash": "sha256:37a1bc59d94368ee5c813ee546cbfb082400d3dda8500c64c4a40a5dc58b14d4",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 500
+}

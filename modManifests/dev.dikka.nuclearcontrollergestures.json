@@ -1,0 +1,67 @@
+{
+  "id": "dev.dikka.nuclearcontrollergestures",
+  "displayName": "NuclearControllerGestures",
+  "description": "Configurable additive controller double-press bindings for native button actions; original controls remain available.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearControllerGestures"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearControllerGestures-v",
+  "releaseAssetName": "NuclearControllerGestures.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearControllerGestures.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearControllerGestures-v0.2.0/NuclearControllerGestures.zip",
+      "hash": "sha256:be4480f2c4434e67a4fb26e57edeba1b326ca721e93de075a5b20dc5db8bb5e2"
+    },
+    {
+      "fileName": "NuclearControllerGestures.zip",
+      "version": "0.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearControllerGestures-v0.1.3/NuclearControllerGestures.zip",
+      "hash": "sha256:d2ae6dbc76b9230f92b8dc9674a264f38cc4f7256fd5ed1afbf05edffcb19ade"
+    },
+    {
+      "fileName": "NuclearControllerGestures.zip",
+      "version": "0.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearControllerGestures-v0.1.2/NuclearControllerGestures.zip",
+      "hash": "sha256:f2708d52cb81f44965470e1dc3205a691f96e5aa39516f2e9ada77756b89aa8b"
+    },
+    {
+      "fileName": "NuclearControllerGestures.zip",
+      "version": "0.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearControllerGestures-v0.1.1/NuclearControllerGestures.zip",
+      "hash": "sha256:1f572f62540d4cc7da88bf4555930330cc2540c323c64368f1fb53f29fa2a285"
+    }
+  ],
+  "downloadCount": 39
+}

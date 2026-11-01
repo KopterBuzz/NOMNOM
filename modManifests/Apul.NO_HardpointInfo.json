@@ -1,0 +1,71 @@
+{
+  "id": "Apul.NO_HardpointInfo",
+  "displayName": "Hardpoint Info",
+  "description": "A mod to add more (configurable) hardpoint info in loadout menu.",
+  "tags": [
+    "mod",
+    "qol",
+    "info"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Appulcake/NO_HardpointInfo"
+    }
+  ],
+  "authors": [
+    "Appulcake"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Appulcake",
+  "githubRepoName": "NO_HardpointInfo",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Apul.NO_HardpointInfo.zip",
+      "version": "0.34.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_HardpointInfo/releases/download/v0.34.2.3/Apul.NO_HardpointInfo.zip",
+      "hash": "sha256:0f2d890957084ac5363f12117e59d9b4203b8c779cb64c7c547c6aaf2da316e8",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_HardpointInfo.zip",
+      "version": "0.34.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_HardpointInfo/releases/download/v0.34.2.2/Apul.NO_HardpointInfo.zip",
+      "hash": "sha256:a7b7ac3a0ee02b524f755401a985f5b8f349c44e2d9c28d176a6b645f9bea85c",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_HardpointInfo.zip",
+      "version": "0.34.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_HardpointInfo/releases/download/v0.34.2.1/Apul.NO_HardpointInfo.zip",
+      "hash": "sha256:32d8d585d55cb1c2ea0219cede71b277e4e573e01669c49694a5aeb16f1238bf",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 310
+}

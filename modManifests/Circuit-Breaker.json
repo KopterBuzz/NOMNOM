@@ -1,0 +1,58 @@
+{
+  "id": "Circuit-Breaker",
+  "displayName": "Circuit Breaker",
+  "description": "Adds the AGM-180 Blackout microwave suppression cruise missile and CBU-82M Locust mine dispenser. Blackout emits for 20 seconds within 10 km of its remembered launch target and suppresses enemy ground electronics plus aircraft radar and datalink, including allies; recovery takes four seconds after last exposure. Locust deploys eight 7 kg HE mines using CCIP. Includes vanilla and selected mod-aircraft compatibility, excluding MiG-29. One DLL with an embedded Blueprinter bundle. Early testing release; requires Blueprinter 2.0.1 or newer.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/XBarni999/Circuit-Breaker/540abfcd56d0eb8dc7b0b9b81e36dd883c325833/docs/gallery/blackout.png",
+  "imageHash": "sha256:2f26a0e2dfa792f1fbe8bc482b1a26e8062833db18472305866b4842794d0874",
+  "urls": [
+    {
+      "url": "https://github.com/XBarni999/Circuit-Breaker",
+      "name": "info"
+    }
+  ],
+  "authors": [
+    "XBarni999"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "XBarni999",
+  "githubRepoName": "Circuit-Breaker",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Circuit-Breaker.dll",
+      "version": "0.1.21",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/Circuit-Breaker/releases/download/v0.1.21/Circuit-Breaker.dll",
+      "hash": "sha256:5df5ec3b8c7f4ad0a69c01de033d9aed9c40254a8299b797bb963e5fe81f45ae",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Circuit-Breaker.dll",
+      "version": "0.1.16",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/Circuit-Breaker/releases/download/v0.1.16/Circuit-Breaker.dll",
+      "hash": "sha256:47c2179d3208ee4e5b2fa32350cb010d2516a50c905abf729f858be8a97b4340",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1316
+}

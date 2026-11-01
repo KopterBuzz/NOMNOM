@@ -1,0 +1,33 @@
+{
+  "id": "LaunchAuthorizationPlus",
+  "displayName": "Launch Authorization+",
+  "description": "Evaluates each selected target against its own launch acceptable region instead of all-or-nothing. Flags targets out of range/arc/lase, and can restrict fire to only the targets that currently qualify (Strict), with an optional one-launch-per-target mode (Strict Fire Once). Covers missiles, bombs, laser-guided weapons and glide bombs.",
+  "tags": [
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Heck-0/LaunchAuthorizationPlus"
+    }
+  ],
+  "authors": [
+    "Heck-0"
+  ],
+  "githubOwner": "Heck-0",
+  "githubRepoName": "LaunchAuthorizationPlus",
+  "autoUpdateArtifacts": "True",
+  "isClientOrServer": "Client",
+  "artifacts": [
+    {
+      "fileName": "LaunchAuthorizationPlus.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Heck-0/LaunchAuthorizationPlus/releases/download/v1.0.0/LaunchAuthorizationPlus.dll",
+      "hash": "sha256:b0605039b15a30db94fd09db162d37bad009981e363dcde84fcb67d6fbfa35b8"
+    }
+  ],
+  "downloadCount": 195
+}

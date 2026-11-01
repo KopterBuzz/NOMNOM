@@ -3,26 +3,56 @@
   "displayName": "NuclearUnits",
   "description": "Client-side Nuclear Option mod that lets players choose units per HUD readout instead of relying only on the game's global metric/imperial setting.",
   "tags": [
-    "QoL",
-    "HUD"
+    "HUD",
+    "QoL"
   ],
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/NOMNOM-NuclearUnits"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearUnits"
     },
     {
       "name": "source",
-      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
+  "isClientOrServer": "Client",
   "githubOwner": "dikkadev",
-  "githubRepoName": "NOMNOM-NuclearUnits",
+  "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearUnits-v",
+  "releaseAssetName": "NuclearUnits.zip",
   "artifacts": [
+    {
+      "fileName": "NuclearUnits.zip",
+      "version": "1.2.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearUnits-v1.2.6/NuclearUnits.zip",
+      "hash": "sha256:cdd0688f246f1b47941e7b94e23030796f5e51f4cd347214a4465ec3266d1803"
+    },
+    {
+      "fileName": "NuclearUnits.zip",
+      "version": "1.2.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearUnits-v1.2.5/NuclearUnits.zip",
+      "hash": "sha256:074d6a428fc308c53130d85497e0f808b4241b38386bd75adca87d5af8fd5098"
+    },
+    {
+      "fileName": "NuclearUnits.zip",
+      "version": "1.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearUnits-v1.2.4/NuclearUnits.zip",
+      "hash": "sha256:19a97c7aea79da4f067f09a5149effb80ed3f8856f96b9fb928128d69288ea47"
+    },
     {
       "fileName": "NuclearUnits-v1.2.1.zip",
       "version": "1.2.1",
@@ -33,5 +63,5 @@
       "hash": "sha256:33cb88f7abc7a7bd9a3ab3542042a78313ef4242b0191e506d675666446becbe"
     }
   ],
-  "downloadCount": 494
+  "downloadCount": 128
 }

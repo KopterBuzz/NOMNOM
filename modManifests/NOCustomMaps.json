@@ -1,0 +1,61 @@
+{
+  "id": "NOCustomMaps",
+  "displayName": "NOCustomMaps",
+  "description": "Loads custom maps (.nomap files) into Nuclear Option, so they can be picked for missions and multiplayer like the built-in maps. Maps listed as add-ons of this mod are installed with it.",
+  "tags": [
+    "Terrain",
+    "mod"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/BatongMaster/NOCustomMaps"
+    }
+  ],
+  "authors": [
+    "BatongMaster"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "BatongMaster",
+  "githubRepoName": "NOCustomMaps",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOCustomMaps-1.4.1.zip",
+      "version": "1.4.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/BatongMaster/NOCustomMaps/releases/download/v1.4.1/NOCustomMaps-1.4.1.zip",
+      "hash": "sha256:64e2e738d7ddcfdc415c6bb3f4d00b6fbab09b5918a00e0810a6d7ea7dd3bf9d"
+    },
+    {
+      "fileName": "NOCustomMaps-1.4.0.zip",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BatongMaster/NOCustomMaps/releases/download/v1.4.0/NOCustomMaps-1.4.0.zip",
+      "hash": "sha256:552e2fd672ea66458c5530a40182c2d17c2df8b560001d4ec15bddd999561868"
+    },
+    {
+      "fileName": "NOCustomMaps-1.3.0.zip",
+      "version": "1.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BatongMaster/NOCustomMaps/releases/download/v1.3.0/NOCustomMaps-1.3.0.zip",
+      "hash": "sha256:3e2b90e70963202d62f5fda722dc17840a6d164d1e6e9a9a228a518f82b4b5d7"
+    },
+    {
+      "fileName": "NOCustomMaps-1.2.1.zip",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BatongMaster/NOCustomMaps/releases/download/v1.2.1/NOCustomMaps-1.2.1.zip",
+      "hash": "sha256:dcad92ae51da5b46f38e709c81d07a8f448b2f08243a78b3814a28e137238af7"
+    }
+  ],
+  "downloadCount": 8851
+}

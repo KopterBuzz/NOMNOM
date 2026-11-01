@@ -1,0 +1,68 @@
+{
+  "id": "dev.dikka.nuclearmfdweapons",
+  "displayName": "NuclearMfdWeapons",
+  "description": "Cockpit weapon, ammunition and countermeasure display with a brief loadout preview and optional stock HUD.",
+  "tags": [
+    "UI",
+    "Weapon",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMfdWeapons"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearMfdWeapons-v",
+  "releaseAssetName": "NuclearMfdWeapons.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearMfdWeapons.zip",
+      "version": "0.1.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMfdWeapons-v0.1.7/NuclearMfdWeapons.zip",
+      "hash": "sha256:91456aee7cc225f81baa892c7b248a6216d3e801ef8b9b43b7be1bde921de289"
+    },
+    {
+      "fileName": "NuclearMfdWeapons.zip",
+      "version": "0.1.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMfdWeapons-v0.1.6/NuclearMfdWeapons.zip",
+      "hash": "sha256:1e07654511d44b5d238459f10646a2be1e875e1871f4232f76e9687622817b4f"
+    },
+    {
+      "fileName": "NuclearMfdWeapons.zip",
+      "version": "0.1.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMfdWeapons-v0.1.5/NuclearMfdWeapons.zip",
+      "hash": "sha256:91467c188c95d71ef6b4a22ac1a5b951b278fa4014ac54a2b928f836bcd7b4a2"
+    },
+    {
+      "fileName": "NuclearMfdWeapons.zip",
+      "version": "0.1.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMfdWeapons-v0.1.4/NuclearMfdWeapons.zip",
+      "hash": "sha256:becff2b07668a1bc1cb93ceb0ab213a691ee11d5dac03aec1c64f084bced44f4"
+    }
+  ],
+  "downloadCount": 121
+}

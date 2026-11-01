@@ -1,0 +1,104 @@
+{
+  "id": "PoseidonTELRuntime",
+  "displayName": "R-460 Poseidon",
+  "description": "Anti-ship cruise missile for aircraft and a mobile TEL launcher with naval target filtering.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "vehicle",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/XBarni999/R-460-Poseidon/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "XBarni999"
+  ],
+  "githubOwner": "XBarni999",
+  "githubRepoName": "R-460-Poseidon",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "R-460-Poseidon-v1.5.4.zip",
+      "version": "1.5.4",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/R-460-Poseidon/releases/download/v1.5.4/R-460-Poseidon-v1.5.4.zip",
+      "hash": "sha256:83c2309345c0e08a6f97176a05218a9ad2e6ca0e3ad67f74c3d9e0fd0273bffd",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "R-460-Poseidon-v1.5.3.zip",
+      "version": "1.5.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/R-460-Poseidon/releases/download/v1.5.3/R-460-Poseidon-v1.5.3.zip",
+      "hash": "sha256:310f778e85ac3c6e3eca5756a4d6554435949d33dddee50ecb8ea8e653f97834",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "R-460.Poseidon_1.5.2.zip",
+      "version": "1.5.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/R-460-Poseidon/releases/download/v1.5.2/R-460.Poseidon_1.5.2.zip",
+      "hash": "sha256:0157b8d0f351bc2e618caf41089f865ac987a941aa6bc8a1e3345e87f21152de",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "R-460.Poseidon_1.5.1.zip",
+      "version": "1.5.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/R-460-Poseidon/releases/download/v1.5.1/R-460.Poseidon_1.5.1.zip",
+      "hash": "sha256:53a32ee02ea9cb5d386adb682952d779beba67ab4f464f7f89bf4c1ae5a4a073",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "R-460-Poseidon-v1.5.0.zip",
+      "version": "1.5.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/R-460-Poseidon/releases/download/v1.5.0/R-460-Poseidon-v1.5.0.zip",
+      "hash": "sha256:b216830b9d5af7aeb37c0e2de311e760e8196365a7fb7e58f218efdede574438",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "R-460.Poseidon_1.4.5.zip",
+      "version": "1.4.5",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/XBarni999/R-460-Poseidon/releases/tag/v1.4.5/R-460.Poseidon_1.4.5.zip",
+      "hash": "sha256:c70001010ddab129da02e0b7a47e4638a0a31713114b9b74e0d9592e9b1d86e4",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 1929
+}

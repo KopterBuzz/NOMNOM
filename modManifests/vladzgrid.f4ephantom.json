@@ -1,0 +1,53 @@
+{
+  "id": "vladzgrid.f4ephantom",
+  "displayName": "F-4E Phantom II",
+  "description": "Adds a playable rank-1 F-4E Phantom II ($20 million) with gray livery, weapon pylons, twin exhausts and native cockpit/flight systems.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Braianvladzgrid/F4E-Phantom-NuclearOption"
+    }
+  ],
+  "authors": [
+    "Braianvladzgrid",
+    "Kenny3D89 (aircraft model)"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Braianvladzgrid",
+  "githubRepoName": "F4E-Phantom-NuclearOption",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "F-4E.Phantom.II_1.1.5.nobp",
+      "version": "1.1.5",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Braianvladzgrid/F4E-Phantom-NuclearOption/releases/download/1.1.5/F-4E.Phantom.II_1.1.5.nobp",
+      "hash": "sha256:d09759e7684b5410769253a9a7eddf2bcdb79cd2b896f18e4ac2a33e0f87ea92",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
+      "fileName": "F-4E.Phantom.II_1.1.4.nobp",
+      "version": "1.1.4",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Braianvladzgrid/F4E-Phantom-NuclearOption/releases/download/1.1.4/F-4E.Phantom.II_1.1.4.nobp",
+      "hash": "sha256:d0cbcdceb92a0966beba85f1de7fda5d912d333b6dbf9fe2c4c063d4df693ef1",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    }
+  ],
+  "downloadCount": 4859
+}

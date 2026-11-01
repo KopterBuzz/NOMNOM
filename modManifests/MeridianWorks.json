@@ -1,0 +1,131 @@
+{
+  "id": "MeridianWorks",
+  "displayName": "Meridian Works",
+  "description": "A guided weapon pack from the Meridian Combine, an arms exporter that sells to both sides. Twelve rounds: radar and heat seeking air to air missiles, optical, laser and anti radiation air to ground missiles, glide and penetrator bombs, and an infrared rocket pod that shoots down incoming missiles. Each has its own pylon and weapon bay fittings across the roster, offered only where an aircraft already carries something of the same size and weight. They appear in the Encyclopedia, AI flights carry them, and carrying any Meridian mount raises the aircraft's lased target limit to six as a floor rather than a bonus, so it will not compound with another mod that raises the same limit. Requires Blueprinter. The asset bundle ships inside the DLL, so it is one file.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter"
+  ],
+  "isClientOrServer": "Both",
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mosdef31/NO-Meridian-Works/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "mosdef31"
+  ],
+  "githubOwner": "mosdef31",
+  "githubRepoName": "NO-Meridian-Works",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.2.2/MeridianWorksMod.dll",
+      "hash": "sha256:8d0bfb2231b7ed628c12368397c79af0b18c1d43e09981c4eeb719a3272b1214",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.2.1/MeridianWorksMod.dll",
+      "hash": "sha256:5517602db51417f602143894dde72eea0992710682edbacfaafb30f2ac486819",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.2.0/MeridianWorksMod.dll",
+      "hash": "sha256:aae19f9f5d0f8192dc437c96fbf062806ede9d84a4e4ea86e63a0cae717a84a1",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.1.0/MeridianWorksMod.dll",
+      "hash": "sha256:b5f4e78ea71d3fbee8fddc691f3852a4ac279d53b46c8f0ce3e17cbb73ac695d",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.0.2/MeridianWorksMod.dll",
+      "hash": "sha256:ca123da4f34222c09b493c3768597b4c92b99967f416801bae1704985a6243c6",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.0.1/MeridianWorksMod.dll",
+      "hash": "sha256:a19c2888962cf73f5e5cf0e037da67f622867efc728468367ee306b3afa31331",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "fileName": "MeridianWorksMod.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-Meridian-Works/releases/download/v1.0.0/MeridianWorksMod.dll",
+      "hash": "sha256:18e31de809290d3ec8ecca8a3a9befc9037e2191e5f705cdfec8738e67971203",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.0.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 10336
+}

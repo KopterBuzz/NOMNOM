@@ -1,5 +1,6 @@
 param($modPath,$gitHubToken = $(Get-Content ".\testing_gitignore.token"), [bool]$test)
 . .\Get-GitHubReleases.ps1
+. .\Get-ModReleaseArtifact.ps1
 Function SaveAndClose($mod_,[bool]$test_)
 {
 
@@ -25,7 +26,15 @@ Function SortByVersion($artifacts_)
     $output = @()
     foreach ($artifact in $artifacts_)
     {
-        $version = [version]$artifact.version
+        $version = $null
+        try {
+          $version = [version]$artifact.version
+        } catch
+        {
+          Write-Host "$error"
+          continue
+        }
+        if ($version -eq $null) {continue}
         $obj = [PSCustomObject]@{
             version = $version
             artifact = $artifact
@@ -33,9 +42,9 @@ Function SortByVersion($artifacts_)
         $output+=$obj
         remove-variable obj
     }
-    return ($output | sort version -Descending | select -ExpandProperty artifact)
+    return ($output | Sort-Object version -Descending | Select-Object -ExpandProperty artifact)
 }
-
+Write-Host $("Updating "+ $modPath)
 $mod = $null
 try {
     $mod = get-content $modPath | ConvertFrom-Json
@@ -85,20 +94,20 @@ if ($releases)
 {
     foreach ($release in $releases)
     {
-        $ErrorActionPreference = 'SilentlyContinue'
-        if ($release.IsDraft){continue}
-        
-        $version = [version]($release.TagName -replace "v|\-pre|_IL2CPP","")
+        $selected = Get-ModReleaseArtifact -Mod $mod -Release $release
+        if (!$selected) { continue }
+
+        $version = [version]$selected.Version
         if (($version -gt [version]($artifacts[0].version) -and $($mod.autoUpdateArtifacts) -eq "True") -or !$artifacts)
         {
             $obj = [PSCustomObject]@{
-                fileName = $release.Assets[0].fileName
-                version = $release.TagName -replace "v|\-pre|_IL2CPP",""
+                fileName = $selected.Asset.FileName
+                version = $selected.Version
                 category = $(if ($release.IsPrerelease){"preRelease"}else{"release"})
                 type = $type
                 gameVersion = $gameVersion
-                downloadUrl = $release.Assets[0].DownloadUrl
-                hash = $release.Assets[0].digest #this will have to be removed later, thanks github api
+                downloadUrl = $selected.Asset.DownloadUrl
+                hash = $selected.Asset.digest #this will have to be removed later, thanks github api
             }
             if ($extends)
             {
@@ -116,9 +125,8 @@ if ($releases)
             Remove-Variable obj
         }
 
-        $downloadCount+=$release.Assets[0].downloadCount
+        $downloadCount+=$selected.Asset.DownloadCount
     }
-    $ErrorActionPreference = 'Continue'
     $mod.artifacts = @(SortByVersion -artifacts_ $artifacts)
 }
 if ($mod.downloadCount) {

@@ -1,12 +1,14 @@
 {
   "id": "NoSmoothTime",
   "displayName": "NoSmoothTime",
-  "description": "Smooth per-frame global lighting for dynamic day-night cycles.",
+  "description": "Smooth global lighting for dynamic day-night cycles and night skipping.",
   "tags": [
     "mod",
     "QoL",
     "Visual",
-    "lighting"
+    "lighting",
+    "night",
+    "time"
   ],
   "urls": [
     {
@@ -17,11 +19,28 @@
   "authors": [
     "NiJeTi"
   ],
-  "isClientOrServer": "Client",
   "githubOwner": "NiJeTi",
   "githubRepoName": "NoSmoothTime",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "NoSmoothTime.dll",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NiJeTi/NoSmoothTime/releases/download/v1.2.1/NoSmoothTime.dll",
+      "hash": "sha256:f9fb028a83db7e5500b303c04d11110421df6d1feefe435755e73ddd09b3d4f5"
+    },
+    {
+      "fileName": "NoSmoothTime.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NiJeTi/NoSmoothTime/releases/download/v1.2.0/NoSmoothTime.dll",
+      "hash": "sha256:a6c515b20598934e21de42f0796e61c0dda56f4f49d00ab7182534460426e85d"
+    },
     {
       "fileName": "NoSmoothTime.dll",
       "version": "1.1.0",
@@ -32,5 +51,6 @@
       "hash": "sha256:7f4094305adf9fda13233bfb021a706413a50c174a0c7f49d17af5ac58ebfe31"
     }
   ],
-  "downloadCount": 203
+  "downloadCount": 1013,
+  "isClientOrServer": "Both"
 }

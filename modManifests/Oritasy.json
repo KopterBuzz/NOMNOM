@@ -1,7 +1,7 @@
 {
   "id": "Oritasy",
   "displayName": "Oritasy",
-  "description": "Nuclear Option gameplay pack: hangar aircraft, flight assists, HUD tools, WeXon weapons, TGM-85. Standard Edition (EN/ZH). Copy zip contents into BepInEx/plugins. Replaces the old com.iallemege.oritasy listing. Do not also load the D edition (same plugin GUID).",
+  "description": "Current release is OritasySS 0.1.1. Nuclear Option gameplay pack: hangar aircraft, flight assists, HUD tools, WeXon weapons, TGM-85. Copy the zip into BepInEx/plugins. This replaces older Oritasy 0.0.9 builds.",
   "tags": [
     "Aircraft",
     "QoL",
@@ -22,6 +22,42 @@
   "autoUpdateArtifacts": "True",
   "isClientOrServer": "Both",
   "artifacts": [
+    {
+      "fileName": "OritasySS.dll",
+      "version": "0.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.3/OritasySS.dll",
+      "hash": "sha256:5ed3ddd2310b2d9bd9e11b300d2896fc96e4b756d52d7396106d479a6198f051"
+    },
+    {
+      "fileName": "OritasySS.dll",
+      "version": "0.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.2/OritasySS.dll",
+      "hash": "sha256:cd2107179e7264da9b210eed3e5885024ebe5e331072a66dbea36232b15eaf34"
+    },
+    {
+      "fileName": "OritasySS_v0.1.1.zip",
+      "version": "0.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.1/OritasySS_v0.1.1.zip",
+      "hash": "sha256:343350bdd8d3585abc5526442378aee929490f553b627635ed4fa710d1882919"
+    },
+    {
+      "fileName": "OritasySS_v0.1.zip",
+      "version": "0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1/OritasySS_v0.1.zip",
+      "hash": "sha256:824fa5b8369be230065912cbd711b47697a5953e3c9aad725dbc2748af34e1cf"
+    },
     {
       "type": "plugin",
       "fileName": "Oritasy_0.0.9.211.zip",
@@ -59,5 +95,5 @@
       "category": "release"
     }
   ],
-  "downloadCount": 641
+  "downloadCount": 2718
 }

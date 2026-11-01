@@ -26,6 +26,110 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "AryxWeaponsPack_1.1.1.dll",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.1.1/AryxWeaponsPack_1.1.1.dll",
+      "hash": "sha256:acb6e94fff6354bee7a5f28893fd28837cafadf298b945270c029aa1f0b3e996",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.1.0.1.dll",
+      "version": "1.1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.1.0.1/AryxWeaponsPack_1.1.0.1.dll",
+      "hash": "sha256:d9751381f64004fd5c62dcd4622afdf5be1c823e8396f4024db50be22f992587",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.1.0.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.1.0/AryxWeaponsPack_1.1.0.dll",
+      "hash": "sha256:08329ce8dc42857a32981a4b4d99b0df5620cc64ae6ee7060565199ed5b9252a",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.9.1.dll",
+      "version": "1.0.9.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.9.2/AryxWeaponsPack_1.0.9.1.dll",
+      "hash": "sha256:770402263f7f9371b69b20c4d62f554e7e20b40584c2484546b5ba3ca17b69b9",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "Aryx.Weapon.Pack_1.0.9.1.nobp",
+      "version": "1.0.9.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.9.1/Aryx.Weapon.Pack_1.0.9.1.nobp",
+      "hash": "sha256:e40a01a8f98a3f12eef93f7382ba76ad7307caf8f7f6094830fd999358064d4e",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.9.dll",
+      "version": "1.0.9",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.9/AryxWeaponsPack_1.0.9.dll",
+      "hash": "sha256:ba145121c856e6ff0020e50360b2006d981dd7bf49e79ddc5064dcf663cc6adf",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.8.3.dll",
+      "version": "1.0.8.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.8.3/AryxWeaponsPack_1.0.8.3.dll",
+      "hash": "sha256:94f4f75edce714f2f40b073c4da7e6db8e7925da58ee80d481eb20e47dd650b3",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
+      "fileName": "AryxWeaponsPack_1.0.8.2.dll",
+      "version": "1.0.8.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/AryxWeaponryPack/releases/download/1.0.8.2/AryxWeaponsPack_1.0.8.2.dll",
+      "hash": "sha256:3696300d93c4b401143030586869fd81728e50ca2ed31e706bcb57fd4ea08786",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
       "fileName": "AryxWeaponsPack_1.0.8.1.dll",
       "version": "1.0.8.1",
       "category": "release",
@@ -156,5 +260,5 @@
       }
     }
   ],
-  "downloadCount": 24035
+  "downloadCount": 58519
 }

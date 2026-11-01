@@ -1,0 +1,222 @@
+{
+  "id": "NavalPower",
+  "displayName": "Naval Power",
+  "description": "Command ships, airfields and their air wings, Sea Power style: task forces in formation, named air wings that fly and fight together, strikes, escorts, manual weapons, ROE, EMCON, damage control, carrier and airfield flight operations, camera feeds, and taking the controls yourself. Commanding requires single-player or the mission host.",
+  "tags": [
+    "Ship",
+    "Command",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ghost225/NOnaval_power"
+    }
+  ],
+  "authors": [
+    "ghost225"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/ghost225/NOnaval_power/75ab7723a0d2ef4d8072eae3dd354d5d80095b26/assets/icon.png",
+  "imageHash": "11c6a5c14457ce85337bd2e8b10323cd28c8b65673a4945ff71a9aba0eda1634",
+  "githubOwner": "ghost225",
+  "githubRepoName": "NOnaval_power",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.1.0/NavalPower.dll",
+      "hash": "sha256:b67764a2303f79d7034a1831cb9d1f8b205af053ddaa1b283d41ab511c2b1d43",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.9",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.9/NavalPower.dll",
+      "hash": "sha256:13b3bf8cecba7424341a87865f3d64cb2d68ae0abb7220c981bd679f71225854",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.8/NavalPower.dll",
+      "hash": "sha256:d9a0af56603146d05525c3dd60c67d65d7f232770be149dbcb365cc9157ce55e",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.7/NavalPower.dll",
+      "hash": "sha256:b718474b522f3a33c7ef703c2a923cf2bc7ffeba60f06e33ed6f465a11d2af0c",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.6/NavalPower.dll",
+      "hash": "sha256:1030b9e89cccc8ef0811d6843b3f2b0cdda1be926ffbf2fbac2ba92a61db9aa6",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.5/NavalPower.dll",
+      "hash": "sha256:594fe5b396715983afc1fa165cdf65faf2c7b2f9d5599f9b85cb057bb451bf8a",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.4/NavalPower.dll",
+      "hash": "sha256:937ef4c6dd9c81942d96ed44df77702eb75ac788495823df1456e980decc9ad2",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.3/NavalPower.dll",
+      "hash": "sha256:4f9b1a3a9d6d2ba522ce0b3fcf67c91e74fba08a878c4697661464d3a9f0987f",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.2/NavalPower.dll",
+      "hash": "sha256:18caa61785e5e0aa6351dae52bce5083f0db0322021b1b1dd6216b4d453c91a5",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.1/NavalPower.dll",
+      "hash": "sha256:8935c5eab864b11d97853c09ad4bb57e10e12e8691341e7643854e55d56398a9",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v1.0.0/NavalPower.dll",
+      "hash": "sha256:19038c142d6ab187e15733554461ef2a0b03342155fce398611dd302167444d2",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "0.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v0.1.2/NavalPower.dll",
+      "hash": "sha256:3ec04df13b21a9adfb83ecc3ec61f9f0c3eda32e4b89c6149aa46d4674ae46c6",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    },
+    {
+      "fileName": "NavalPower.dll",
+      "version": "0.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/ghost225/NOnaval_power/releases/download/v0.1.1/NavalPower.dll",
+      "hash": "sha256:57f5ca908f0e2c4a0ce7941f19b0f30cfa43b6defb2e511435b44a21bd4d23ab",
+      "incompatibilities": [
+        {
+          "id": "com.resolute.command",
+          "version": "0.1.8"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1478
+}
