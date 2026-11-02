@@ -25,7 +25,7 @@
       "version": "0.7.35.1",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/yessidor/NO_Tactitools/releases/download/0.7.35.1/NOTT-PLUS_0.7.35.1.zip",
       "hash": "sha256:23e0a3450e5647d5c4c38ce3860d867eb9502fbb78dc34581bb5d0b972ef7552",
       "dependencies": [
@@ -116,5 +116,5 @@
       ]
     }
   ],
-  "downloadCount": 755
+  "downloadCount": 757
 }
