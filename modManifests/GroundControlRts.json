@@ -24,11 +24,11 @@
   "artifacts": [
     {
       "fileName": "GroundControlRts.zip",
-      "version": "0.9.9.9",
+      "version": "1.0.0.0",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.34.6",
-      "downloadUrl": "https://github.com/simonsimme/Ground-Controll-RTS/releases/download/0.9.9.9/GroundControlRts.zip",
+      "downloadUrl": "https://github.com/simonsimme/Ground-Controll-RTS/releases/download/1.0.0.0/GroundControlRts.zip",
       "hash": "sha256:799ab1ade7fa619ab82687cc0fdc43288f8ac7f110b416895021b585e556c1df",
       "incompatibilities": [
         {
