@@ -22,6 +22,15 @@
   "artifacts": [
     {
       "fileName": "ORTIZ-Ops-MissionPresets.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-MissionPresets/releases/download/v1.2.0/ORTIZ-Ops-MissionPresets.dll",
+      "hash": "sha256:0435c38db2e080f7ff3752ccbb508821577c9a3e893bbfed6f5a30b64f68940f"
+    },
+    {
+      "fileName": "ORTIZ-Ops-MissionPresets.dll",
       "version": "1.1.0",
       "category": "release",
       "type": "plugin",
@@ -48,5 +57,5 @@
       "hash": "sha256:0560cf08576a3ed8c0aa103aba3d2b2912d304638651263de0f9998b2ce7dc1f"
     }
   ],
-  "downloadCount": 46
+  "downloadCount": 50
 }
