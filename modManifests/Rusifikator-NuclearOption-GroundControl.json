@@ -1,0 +1,33 @@
+{
+  "id": "Rusifikator-NuclearOption-GroundControl",
+  "displayName": "Rusifikator Nuclear Option + Ground Control",
+  "description": "Русификатор Nuclear Option + Ground Control: русский перевод игры и мода Ground Control (RTS). Перевод без рывков, шрифт с кириллицей, автоподбор размера текста. Russian translation of the game and the Ground Control (RTS) mod.",
+  "tags": [
+    "mod",
+    "Localization"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Ilyasik2001/Rusifikator-NuclearOption-GroundControl"
+    }
+  ],
+  "authors": [
+    "Tatarok"
+  ],
+  "githubOwner": "Ilyasik2001",
+  "githubRepoName": "Rusifikator-NuclearOption-GroundControl",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Rusifikator-NuclearOption-GroundControl-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Ilyasik2001/Rusifikator-NuclearOption-GroundControl/releases/download/v1.0.0/Rusifikator-NuclearOption-GroundControl-1.0.0.zip",
+      "hash": "sha256:8c1ca234e5bd6af353ad6131b5b18dbe2a2c5371659a93c1e30dd961513d472c",
+      "dependencies": []
+    }
+  ]
+}
