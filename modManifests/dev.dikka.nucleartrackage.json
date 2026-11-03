@@ -28,6 +28,15 @@
   "artifacts": [
     {
       "fileName": "NuclearTrackAge.zip",
+      "version": "0.1.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearTrackAge-v0.1.6/NuclearTrackAge.zip",
+      "hash": "sha256:8e7a7f56bedb2984de977e792b0b7e0d1673b7385b12b80be233014855e73128"
+    },
+    {
+      "fileName": "NuclearTrackAge.zip",
       "version": "0.1.5",
       "category": "release",
       "type": "plugin",
@@ -63,5 +72,5 @@
       "hash": "sha256:88a3c2e6ff6d5da6a58909625020f058a28fb1f3846b87b07ff0e5111a8cfa58"
     }
   ],
-  "downloadCount": 345
+  "downloadCount": 348
 }
