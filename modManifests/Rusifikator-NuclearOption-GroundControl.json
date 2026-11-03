@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Rusifikator-NuclearOption-GroundControl.1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/Ilyasik2001/Rusifikator-NuclearOption-GroundControl/releases/download/v1.0.1/Rusifikator-NuclearOption-GroundControl.1.0.1.zip",
+      "hash": "sha256:d925b6329e4f680d9dc818f378b54bfd2d7ce4774fb82b03907b814646e9ac8e"
+    },
+    {
       "fileName": "Rusifikator-NuclearOption-GroundControl-1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -29,5 +38,6 @@
       "hash": "sha256:8c1ca234e5bd6af353ad6131b5b18dbe2a2c5371659a93c1e30dd961513d472c",
       "dependencies": []
     }
-  ]
+  ],
+  "downloadCount": 5
 }
