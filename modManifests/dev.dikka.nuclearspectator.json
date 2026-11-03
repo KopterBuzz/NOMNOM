@@ -1,0 +1,40 @@
+{
+  "id": "dev.dikka.nuclearspectator",
+  "displayName": "NuclearSpectator",
+  "description": "Better spectating while you have no aircraft: the watched aircraft's cockpit screens and moving stick in its cockpit view, view movement and horizon lock, rotors that already spin on helicopters in flight, an info panel, next/previous aircraft keys and following the nearest aircraft when the watched one is lost.",
+  "tags": [
+    "QoL",
+    "HUD",
+    "Multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearSpectator"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearSpectator-v",
+  "releaseAssetName": "NuclearSpectator.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearSpectator.zip",
+      "version": "0.1.12",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSpectator-v0.1.12/NuclearSpectator.zip",
+      "hash": "sha256:dab3172dbddbeb698e206a336739adf67c04e551d4d05e798b524252fd712314"
+    }
+  ]
+}

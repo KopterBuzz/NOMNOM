@@ -1,0 +1,39 @@
+{
+  "id": "dev.dikka.nuclearlivefeed",
+  "displayName": "NuclearLiveFeed",
+  "description": "Streams your side's live battlefield picture to the live map page at map.scramd.com in Chrome or Edge, with optional target selection from the page.",
+  "tags": [
+    "Map",
+    "Integration"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearLiveFeed"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearLiveFeed-v",
+  "releaseAssetName": "NuclearLiveFeed.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearLiveFeed.zip",
+      "version": "0.3.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearLiveFeed-v0.3.2/NuclearLiveFeed.zip",
+      "hash": "sha256:e834ad02cfee34de3c256f215b2630c3fc3a93940fe02e9451bc8f3e880dc44c"
+    }
+  ]
+}
