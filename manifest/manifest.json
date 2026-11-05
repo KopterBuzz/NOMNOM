@@ -363,7 +363,7 @@
         ]
       }
     ],
-    "downloadCount": 13830
+    "downloadCount": 13832
   },
   {
     "id": "AIAircraftLimit",
@@ -437,7 +437,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 3233
+    "downloadCount": 3234
   },
   {
     "id": "AirSpawnMod",
@@ -898,7 +898,7 @@
         "version": "3.0.0",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.34.2",
+        "gameVersion": "0.34.5",
         "downloadUrl": "https://github.com/duythinh2022-ui/Advanced-flight-controls-addon-for-Aryx-s-F-22E-mod-for-Nuclear-Option./releases/download/v3.0.0/Aryx_F22E_StrikeRaptor_FCS_Dev.zip",
         "hash": "sha256:a90dc92cc60fdab4809deeb77da0bfa1829013bf609433a61e2bb473f2cf6c0d",
         "dependencies": [
@@ -1530,7 +1530,7 @@
         }
       }
     ],
-    "downloadCount": 117187
+    "downloadCount": 117191
   },
   {
     "id": "aryx.f22e",
@@ -1625,7 +1625,7 @@
         }
       }
     ],
-    "downloadCount": 24897
+    "downloadCount": 24901
   },
   {
     "id": "aryx.f99",
@@ -1811,7 +1811,7 @@
         }
       }
     ],
-    "downloadCount": 85371
+    "downloadCount": 85375
   },
   {
     "id": "aryx.fs41",
@@ -2088,7 +2088,7 @@
         }
       }
     ],
-    "downloadCount": 87762
+    "downloadCount": 87767
   },
   {
     "id": "aryx.mc260",
@@ -2456,7 +2456,7 @@
         }
       }
     ],
-    "downloadCount": 129580
+    "downloadCount": 129585
   },
   {
     "id": "aryx.mig15",
@@ -2590,7 +2590,7 @@
         }
       }
     ],
-    "downloadCount": 48958
+    "downloadCount": 48963
   },
   {
     "id": "aryx.navex",
@@ -2754,7 +2754,7 @@
         }
       }
     ],
-    "downloadCount": 27483
+    "downloadCount": 27488
   },
   {
     "id": "aryx.rah72",
@@ -2953,7 +2953,7 @@
         }
       }
     ],
-    "downloadCount": 87524
+    "downloadCount": 87528
   },
   {
     "id": "aryx.weaponpack",
@@ -3217,7 +3217,7 @@
         }
       }
     ],
-    "downloadCount": 59827
+    "downloadCount": 59831
   },
   {
     "id": "AShM500Yashma",
@@ -3421,7 +3421,7 @@
         ]
       }
     ],
-    "downloadCount": 3986
+    "downloadCount": 3987
   },
   {
     "id": "BayDoorsMod",
@@ -3778,7 +3778,7 @@
         ]
       }
     ],
-    "downloadCount": 15088,
+    "downloadCount": 15090,
     "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/efc58fe1c08110853788e221e24876f299ca69d0/Store/F117A-Nighthawk-NOMM.png",
     "imageHash": "032ef6db858a87786e13e2f6c36f8f6b111aac338755c0045d8036521b88b247"
   },
@@ -3921,7 +3921,7 @@
         }
       }
     ],
-    "downloadCount": 50816
+    "downloadCount": 50819
   },
   {
     "id": "blueprinter.ternion",
@@ -4193,7 +4193,7 @@
         }
       }
     ],
-    "downloadCount": 57625
+    "downloadCount": 57628
   },
   {
     "id": "BVR-BalanceAndVarietyRework",
@@ -5042,7 +5042,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 577,
+    "downloadCount": 578,
     "imageUrl": "https://raw.githubusercontent.com/Big-LouDE/NOTacMap/63b7a4b1dde6dca567f041b475d57cd90fcdfcc9/thunderstore/icon.png",
     "imageHash": "35a9158bc20b9daec9481fc6b623b9456ce7bd34e7be6e605eacc251c2a71359"
   },
@@ -6394,7 +6394,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 113272
+    "downloadCount": 113276
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -6638,7 +6638,7 @@
         "hash": "sha256:1a396e7c9474a7b20333e1b1efb0c34eacedff9b57923ce6e67e680aac6cb014"
       }
     ],
-    "downloadCount": 4152
+    "downloadCount": 4159
   },
   {
     "id": "DelamereAerospace_weapons_pack",
@@ -6904,7 +6904,7 @@
         "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
       }
     ],
-    "downloadCount": 1186
+    "downloadCount": 1188
   },
   {
     "id": "dev.dikka.nucleardelivery",
@@ -8511,7 +8511,7 @@
         ]
       }
     ],
-    "downloadCount": 1377
+    "downloadCount": 1378
   },
   {
     "id": "IbisDoorGunToggle",
@@ -8771,7 +8771,7 @@
         "version": "0.5.6",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.34.2",
+        "gameVersion": "0.34.5",
         "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit/releases/download/v0.5.6/Ifrit-KR67-FCS-0.5.6.zip",
         "hash": "sha256:ba88164e78c083844abd4b4d8053c57e504c1ab9802f6e2bd38648c0df14ea78"
       },
@@ -12485,7 +12485,7 @@
         "hash": "sha256:0ece977a524ed76bf99b79704e661fdf9f3dea74cddcaafa9e558d36b0640c56"
       }
     ],
-    "downloadCount": 7718,
+    "downloadCount": 7719,
     "isClientOrServer": "Both"
   },
   {
@@ -14482,7 +14482,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 41006
+    "downloadCount": 41010
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -15014,7 +15014,8 @@
         "hash": "sha256:0af5bd580d11285c5723828da014cf99f00e784dd14b7b40ea700a63e127449b"
       }
     ],
-    "downloadCount": 813
+    "downloadCount": 813,
+    "isAiAssisted": "True"
   },
   {
     "id": "NOCustomMaps.CascadiaFalling",
@@ -15196,7 +15197,7 @@
         }
       }
     ],
-    "downloadCount": 12484
+    "downloadCount": 12485
   },
   {
     "id": "NOFFB",
@@ -18515,7 +18516,7 @@
         "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
       }
     ],
-    "downloadCount": 39105
+    "downloadCount": 39108
   },
   {
     "id": "NuclearReplay",
@@ -19510,7 +19511,7 @@
         ]
       }
     ],
-    "downloadCount": 8573
+    "downloadCount": 8576
   },
   {
     "id": "Phantasms-Arsenal",
@@ -20153,7 +20154,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 144973,
+    "downloadCount": 144974,
     "isClientOrServer": "Client"
   },
   {
@@ -20238,7 +20239,7 @@
         ]
       }
     ],
-    "downloadCount": 1896
+    "downloadCount": 1897
   },
   {
     "id": "SAMsForAircraft",
@@ -20562,7 +20563,7 @@
         ]
       }
     ],
-    "downloadCount": 7253
+    "downloadCount": 7254
   },
   {
     "id": "Solar.UI",
