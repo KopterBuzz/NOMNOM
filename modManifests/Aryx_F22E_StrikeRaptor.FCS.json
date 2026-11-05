@@ -27,7 +27,7 @@
       "version": "3.0.0",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.5",
       "downloadUrl": "https://github.com/duythinh2022-ui/Advanced-flight-controls-addon-for-Aryx-s-F-22E-mod-for-Nuclear-Option./releases/download/v3.0.0/Aryx_F22E_StrikeRaptor_FCS_Dev.zip",
       "hash": "sha256:a90dc92cc60fdab4809deeb77da0bfa1829013bf609433a61e2bb473f2cf6c0d",
       "dependencies": [
