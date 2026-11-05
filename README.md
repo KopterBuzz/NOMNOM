@@ -18,12 +18,27 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 
 ### Mod Submission Acceptance Policy:
 
-#### 1. Open-Source Mandate
+#### 1. Open-Source and AI Assistance Declaration Mandate
+
+1.1 Open-Source
 
 If your Mod contains custom DLL or Executable Files, those DLL or Executable Files Must Be Open-Sourced and the Source Code must not contain any obfuscation. Submission requests that do not comply will be denied.
   - Clarifications:
     - If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any Custom DLL or Executable Files, there is no cause for concern.
-    - During periods of Retroactive Enforcement of the Mod Submission Acceptance Policy, Owners of any Mods that are found to be in breach of this clause will be contacted privately and asked to comply and will be given a reasonable Grace Period. Failing to take action to ensure compliance before the Grace Period's deadline expires will result in delisting the specific Mod(s) that breach this clause.
+
+1.2 AI Assistance Declartaion
+
+If your Mod was created with substantial AI Assistance, it must be declared for transparency.
+
+A Mod is considered AI-assisted if any of these apply:
+  - AI was used to generate assets such as images, models, textures, audio or similar
+  - uses agentic AI for assembly, compilation or build
+    - Example: if your mod uses 100% human made and free-to-use assets, but your AI agent sourced them autonomously and assembled them for your project, you must still declare AI assistance was used.
+  - a significant amount of the Mod's codebase is created with generative AI.
+
+Upon failure to self-declare AI Assistance, we uphold the right to mark any Mods AI Assisted should there be significant amount of evidence supporting the case.
+
+Repeated failure to self-declare AI Assistance may result in your Mods being delisted and future submissions declined.
 
 #### 2. Zero Tolerance Clauses
 

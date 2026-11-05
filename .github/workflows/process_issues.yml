@@ -133,3 +133,47 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh issue close ${{ github.event.issue.number }} --reason "completed"
+
+  update_ai_assisted:
+    name: Update isAiAssisted
+    if: github.event.label.name == 'isAiAssisted Update' && github.repository == 'KopterBuzz/NOMNOM'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Parse Issue
+        id: parse
+        shell: pwsh
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_ID: ${{ github.event.issue.number }}
+        run: |
+          .\.github\scripts\parse_isAiAssisted_issue.ps1 -IssueBody $env:ISSUE_BODY -IssueId $env:ISSUE_ID
+
+      - name: Report Failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          $ErrorText = Get-Content error.txt -Raw -ErrorAction SilentlyContinue
+          if (-not $ErrorText) { $ErrorText = "An error occurred during parsing." }
+          $Body = '❌ **Validation Failed:** Please check the workflow logs for details.' + "`n`n" + '```text' + "`n" + $ErrorText + "`n" + '```'
+          gh issue comment ${{ github.event.issue.number }} -b $Body
+        shell: pwsh
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add isAiAssistedUpdateCache/
+          git commit -m "Update isAiAssisted cache for issue #${{ github.event.issue.number }}"
+          git pull
+          git push
+
+      - name: Close Issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue close ${{ github.event.issue.number }} --reason "completed"
