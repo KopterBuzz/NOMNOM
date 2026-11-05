@@ -1,0 +1,43 @@
+{
+  "id": "ArcadeCam",
+  "displayName": "ArcadeCam",
+  "description": "Controller-focused camera and HUD for Nuclear Option, with cinematic and Orbit styles, free look, target tracking, weapon camera/audio and optional WT Mouse Aim integration. Fork of ChaseCamPlus by CarloApri.",
+  "tags": [
+    "QoL",
+    "camera",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "url": "https://github.com/deworadityapanji-ai/ArcadeCam",
+      "name": "info"
+    }
+  ],
+  "authors": [
+    "AstroKylo1",
+    "CarloApri (ChaseCamPlus)"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "deworadityapanji-ai",
+  "githubRepoName": "ArcadeCam",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "v",
+  "releaseAssetName": "ArcadeCam.dll",
+  "artifacts": [
+    {
+      "fileName": "ArcadeCam.dll",
+      "version": "1.13.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/deworadityapanji-ai/ArcadeCam/releases/download/v1.13.0/ArcadeCam.dll",
+      "hash": "sha256:73f5eccae36dd0da7f84a02424700ae53b9b4f012123706d0345473633ba27cb",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
