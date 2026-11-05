@@ -30,7 +30,7 @@
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.34.1",
-      "downloadUrl": "https://github.com/deworadityapanji-ai/ArcadeCam/releases/download/v1.13.0/ArcadeCam.dll",
+      "downloadUrl": "https://github.com/deworadityapanji-ai/ArcadeCam/releases/download/1.13/ArcadeCam.dll",
       "hash": "sha256:73f5eccae36dd0da7f84a02424700ae53b9b4f012123706d0345473633ba27cb",
       "dependencies": [
         {
@@ -39,5 +39,6 @@
         }
       ]
     }
-  ]
+  ],
+  "isAiAssisted": "True"
 }
