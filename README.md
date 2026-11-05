@@ -14,16 +14,33 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 
 ### How to Add your Nuclear Option Mod to NOMNOM
 - You must Understand and Comply with the [Mod Submission Acceptance Policy](README.md#mod-submission-acceptance-policy)
-- To create a new submission for registering a new Mod on NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
+- To create a new submission for registering a new Mod on NOMNOM, follow [these instructions.](Docs/SCHEMA.md#how-to-contribute-mod-manifests)
 
 ### Mod Submission Acceptance Policy:
 
-#### 1. Open-Source Mandate
+#### 1. Open-Source and AI Assistance Declaration Mandate
+
+1.1 Open-Source
 
 If your Mod contains custom DLL or Executable Files, those DLL or Executable Files Must Be Open-Sourced and the Source Code must not contain any obfuscation. Submission requests that do not comply will be denied.
   - Clarifications:
     - If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any Custom DLL or Executable Files, there is no cause for concern.
-    - During periods of Retroactive Enforcement of the Mod Submission Acceptance Policy, Owners of any Mods that are found to be in breach of this clause will be contacted privately and asked to comply and will be given a reasonable Grace Period. Failing to take action to ensure compliance before the Grace Period's deadline expires will result in delisting the specific Mod(s) that breach this clause.
+
+1.2 AI Assistance Declartaion
+
+If your Mod was created with substantial AI Assistance, it must be declared for transparency.
+
+A Mod is considered AI Assisted if any of these apply:
+  - AI was used to generate assets such as images, models, textures, audio or similar
+  - Uses agentic AI for assembly, compilation or build
+    - Example: if your Mod uses 100% human made and free-to-use assets, but your AI agent sourced them autonomously and assembled them for your project, you must still declare AI Assistance was used.
+  - A significant amount of the Mod's codebase is created with generative AI.
+
+To update or declare the AI Assistance status of a Mod, follow [these instructions](Docs/HOWTO_UPDATE_ISAIASSISTED.md).
+
+Upon failure to self-declare AI Assistance, we uphold the right to mark any Mods AI Assisted should there be significant amount of evidence supporting the case.
+
+Repeated failure to self-declare AI Assistance may result in your Mods being delisted and future submissions declined.
 
 #### 2. Zero Tolerance Clauses
 
@@ -57,10 +74,10 @@ If you have been granted permission by Shockfront Studios to use in-game assets 
 #### 4. Other Requirements
 - Any Mod that would give the user an unfair advantage over other players, e.g. Manipulating aircraft spawn, flight model and physics, player funds, inventory, ammunition, fuel, automatically engaging weapons, countermeasures, automatically locking targets, making targets visible that are not in the player's Faction's database, or similar features are only passable if they only work if the HOST also runs the Mod and the HOST has enabled such features of the Mod.
 - In order for NOMNOM to automatically discover new Mod Releases for Registered Mods, they must be available as GitHub Repository Release Package.
-  - If you use a different delivery method, you must submit a Pull Request to get New Releases registered. Follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
-- By default, GitHub Repositories for your Mods must contain releases for ONLY ONE mod per Repository. Multiple mods may share a release repository when each mod's manifest configures a distinct `releaseTagPrefix` and an exact `releaseAssetName`. See the [shared release repository example](SCHEMA.md#shared-release-repository-example).
+  - If you use a different delivery method, you must submit a Pull Request to get New Releases registered. Follow [these instructions.](Docs/SCHEMA.md#how-to-contribute-mod-manifests)
+- By default, GitHub Repositories for your Mods must contain releases for ONLY ONE mod per Repository. Multiple mods may share a release repository when each mod's manifest configures a distinct `releaseTagPrefix` and an exact `releaseAssetName`. See the [shared release repository example](Docs/SCHEMA.md#shared-release-repository-example).
 - If Your Mod Release(s) contain multiple Release Assets, the first Release Asset on the top of the list must be the one intended for NOMNOM, unless the manifest configures `releaseAssetName` to select the intended file explicitly.
-  - The Release Asset must contain all the content for the Mod to function, with exception of dependency or extension relationships, aka other Mod(s) that Your Mod(s) rely on to function. See [Schema Documentation](SCHEMA.md#how-to-contribute-mod-manifests) for additional details on this.
+  - The Release Asset must contain all the content for the Mod to function, with exception of dependency or extension relationships, aka other Mod(s) that Your Mod(s) rely on to function. See [Schema Documentation](Docs/SCHEMA.md#how-to-contribute-mod-manifests) for additional details on this.
   - If your Mod consists of Multiple Files, upload the Release Asset as a Compressed Archive (e.g. zip,rar,7z)
 - Your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc). When `releaseTagPrefix` is configured, the part after the prefix must be a valid numeric version (e.g. `NuclearUnits-v1.2.2` with prefix `NuclearUnits-v`). [See this for reference.](https://learn.microsoft.com/en-us/dotnet/api/system.version?view=net-10.0#remarks)
 - Your Mod(s) must work with BepInEx 5.

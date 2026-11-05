@@ -1,0 +1,41 @@
+{
+  "id": "dev.dikka.nuclearnightvision",
+  "displayName": "NuclearNightVision",
+  "description": "Night vision fades in and out instead of switching instantly, with configurable fade times.",
+  "tags": [
+    "QoL",
+    "Visual",
+    "Immersion"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearNightVision"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearNightVision-v",
+  "releaseAssetName": "NuclearNightVision.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearNightVision.zip",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearNightVision-v0.1.0/NuclearNightVision.zip",
+      "hash": "sha256:3a4541abe89cefc406ebbe4ec4a26df36b4358ba40365959efb582b14bba7c41"
+    }
+  ],
+  "downloadCount": 16
+}

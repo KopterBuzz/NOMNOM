@@ -23,6 +23,21 @@
   "artifacts": [
     {
       "fileName": "TenpinMod.dll",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/mosdef31/NO-AGR-31-Tenpin/releases/download/v1.4.0/TenpinMod.dll",
+      "hash": "sha256:05200d8e7916bc6fe8bf20197cd181e729253b61a36f1ba2e7ae2286fac0fee9",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "TenpinMod.dll",
       "version": "1.3.0",
       "category": "release",
       "type": "plugin",
@@ -172,5 +187,5 @@
       ]
     }
   ],
-  "downloadCount": 12699
+  "downloadCount": 13848
 }

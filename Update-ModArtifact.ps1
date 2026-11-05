@@ -80,7 +80,7 @@ Try {
     $releases = Get-GitHubReleases -Owner $mod.githubOwner -Repository $mod.githubRepoName -Token $gitHubToken
 } Catch {
     Write-Host "Failed to Fetch GitHub Releases for $($mod.id) $($mod.githubOwner) $($mod.githubRepoName)"
-    $mod | convertto-json -Depth 100 | out-file ".\test\$($mod.id).json" -Encoding utf8NoBOM
+    try { $mod | convertto-json -Depth 100 | out-file ".\test\$($mod.id).json" -Encoding utf8NoBOM } catch { Write-Host "Failed to write test output for $($mod.id): $_" }
 }
 write-host $releases.count
 

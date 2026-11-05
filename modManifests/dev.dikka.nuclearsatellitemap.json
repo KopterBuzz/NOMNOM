@@ -1,0 +1,40 @@
+{
+  "id": "dev.dikka.nuclearsatellitemap",
+  "displayName": "NuclearSatelliteMap",
+  "description": "Satellite imagery with transparent water on the native map, with per-view opacity. Includes the Heartland and Ignus map data.",
+  "tags": [
+    "Map",
+    "Visual"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearSatelliteMap"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearSatelliteMap-v",
+  "releaseAssetName": "NuclearSatelliteMap.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearSatelliteMap.zip",
+      "version": "0.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSatelliteMap-v0.2.2/NuclearSatelliteMap.zip",
+      "hash": "sha256:0e99359756c9ad5758c3b22508e8baf167f0df1a869910464cb04df53cf29be7"
+    }
+  ],
+  "downloadCount": 32
+}

@@ -33,7 +33,14 @@
     },
     "githubOwner" : {"type": "string"},
     "githubRepoName" : {"type": "string"},
-    "autoUpdateArtifacts" : {"type": "string"},
+    "autoUpdateArtifacts" : {
+      "type": "string",
+      "enum": ["True","False"]
+    },
+    "isAiAssisted" : {
+      "type": "string",
+      "enum": ["True","False"]
+    },
     "releaseTagPrefix": {"type": "string", "minLength": 1},
     "releaseAssetName": {"type": "string", "minLength": 1},
     "artifacts": {

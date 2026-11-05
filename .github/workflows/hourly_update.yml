@@ -59,6 +59,10 @@ jobs:
         shell: pwsh
         run: .\.github\scripts\Update-IsClientOrServer.ps1
 
+      - name: Update AI Assisted Status
+        shell: pwsh
+        run: .\.github\scripts\Update-IsAiAssisted.ps1
+
       - name: Commit and push changes
         shell: pwsh
         env:
