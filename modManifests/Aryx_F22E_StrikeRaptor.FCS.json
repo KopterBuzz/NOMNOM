@@ -23,6 +23,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "F22E-StrikeRaptor-FCS-3.0.1.zip",
+      "version": "3.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.5",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Advanced-flight-controls-addon-for-Aryx-s-F-22E-mod-for-Nuclear-Option./releases/download/v3.0.1/F22E-StrikeRaptor-FCS-3.0.1.zip",
+      "hash": "sha256:4f8fab2b2fa4521d5643444fb9b5cd74a576817d0b893347481ee0032e2febfc",
+      "dependencies": [
+        {
+          "id": "aryx.f22e",
+          "version": "1.0.4"
+        }
+      ]
+    },
+    {
       "fileName": "Aryx_F22E_StrikeRaptor_FCS_Dev.zip",
       "version": "3.0.0",
       "category": "release",
@@ -278,5 +293,5 @@
       ]
     }
   ],
-  "downloadCount": 6887
+  "downloadCount": 6905
 }

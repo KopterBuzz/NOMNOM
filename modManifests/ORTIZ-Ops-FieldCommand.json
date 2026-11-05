@@ -23,6 +23,78 @@
   "artifacts": [
     {
       "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.22.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.22.1/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:f2e4988227e989e6c6c06be7a3e687f1a260dedc2e3266c79c8faf89c8c95253"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.22.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.22.0/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:9810f9a81c0ee0e4d01646cbf3963bf04df7f289802fdba87550280aa6b6da88"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.21.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.21.0/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:35923e23eb4b31369548c2b6d19b94aade9a2a2aa0f1ca6a56dc93017ec125f8"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.20.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.20.0/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:3d2eb6c381950943332f76e6d992ffcece6bacc1c0b0f37f216cecab2cc904b4"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.18.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.18.0/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:bacb3006804ff3f9ce71276aff7f0880b0c81d64a0f138e697a8b92f28a963fe"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.17.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.17.0/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:3b8616560454c22fd1f1bd0d6cb6efa308ffd62b2a623d657e8bc09cc3a0c0bc"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.16.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.16.0/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:d7885c2bec28d9265456f5a5bfa9fea2ab88ad68393bad0091b5ab75c7791c3a"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
+      "version": "0.15.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ortizdevelop/ORTIZ-Ops-FieldCommand/releases/download/v0.15.0/ORTIZ-Ops-FieldCommand.dll",
+      "hash": "sha256:f6a02f8783a1c95fd3269395ed1e75a3cc9f30dd3ee8b2e9cbbe609f46ce6e0c"
+    },
+    {
+      "fileName": "ORTIZ-Ops-FieldCommand.dll",
       "version": "0.14.2",
       "category": "release",
       "type": "plugin",
@@ -139,5 +211,5 @@
       "hash": "sha256:5dcac9d50851f22d7921835771cb415b66160d7c669a033331fcc5f5ee5e419b"
     }
   ],
-  "downloadCount": 259
+  "downloadCount": 270
 }
