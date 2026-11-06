@@ -27,7 +27,7 @@
       "version": "0.13.1",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.5",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit/releases/download/v0.13.1/Ifrit-KR67-FCS-0.13.1.zip",
       "hash": "sha256:c265ce42f816b73f733e63250811769d412f8a8d319629f6558a812da2534ebf"
     },
@@ -69,5 +69,5 @@
       "dependencies": []
     }
   ],
-  "downloadCount": 770
+  "downloadCount": 800
 }
