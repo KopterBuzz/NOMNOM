@@ -21,7 +21,6 @@
   "githubOwner": "deworadityapanji-ai",
   "githubRepoName": "ArcadeCam",
   "autoUpdateArtifacts": "True",
-  "releaseTagPrefix": "v",
   "releaseAssetName": "ArcadeCam.dll",
   "artifacts": [
     {
