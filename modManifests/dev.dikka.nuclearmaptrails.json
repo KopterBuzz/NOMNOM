@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearMapTrails-v",
   "releaseAssetName": "NuclearMapTrails.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearMapTrails/docs/assets/icon.png",
+  "imageHash": "28185216b3546f6dda9272a0396dfcf62b39370d197f243679fb08cbed19f26e",
   "artifacts": [
     {
       "fileName": "NuclearMapTrails.zip",

@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearTargeting-v",
   "releaseAssetName": "NuclearTargeting.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearTargeting/docs/assets/icon.png",
+  "imageHash": "bf23671d9c0f299376a0c769c4c280713a6ea0d860e4cdb3dcad05683c15ecc5",
   "artifacts": [
     {
       "fileName": "NuclearTargeting.zip",

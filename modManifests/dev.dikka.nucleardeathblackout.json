@@ -26,6 +26,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearDeathBlackout-v",
   "releaseAssetName": "NuclearDeathBlackout.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearDeathBlackout/docs/assets/icon.png",
+  "imageHash": "5992833b68027760ba82fe4db5ebd887d6725106ddbb0199c4865b9185937330",
   "artifacts": [
     {
       "fileName": "NuclearDeathBlackout.zip",

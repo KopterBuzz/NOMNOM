@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearConnectivity-v",
   "releaseAssetName": "NuclearConnectivity.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearConnectivity/docs/assets/icon.png",
+  "imageHash": "db48bfaee8dc15855aa38a872b70026dbfa083ea9b1aa8d0494415cbbd6d30c9",
   "artifacts": [
     {
       "fileName": "NuclearConnectivity.zip",

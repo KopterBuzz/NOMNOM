@@ -26,6 +26,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearSpectator-v",
   "releaseAssetName": "NuclearSpectator.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearSpectator/docs/assets/icon.png",
+  "imageHash": "55555f391977a6ee8853716b40106e6cd5612fe5854ea4661283911657607418",
   "artifacts": [
     {
       "fileName": "NuclearSpectator.zip",

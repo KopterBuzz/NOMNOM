@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearTrackAge-v",
   "releaseAssetName": "NuclearTrackAge.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearTrackAge/docs/assets/icon.png",
+  "imageHash": "d245e304194cb78be383cf9a71cf7715f3f0f667457b34f0d0226a5edf6f1d58",
   "artifacts": [
     {
       "fileName": "NuclearTrackAge.zip",
