@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearSatelliteMap-v",
   "releaseAssetName": "NuclearSatelliteMap.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearSatelliteMap/docs/assets/icon.png",
+  "imageHash": "51d4c097ad7021545844888e993e2009b45a2278731cb8a84553eb21b6741b08",
   "artifacts": [
     {
       "fileName": "NuclearSatelliteMap.zip",

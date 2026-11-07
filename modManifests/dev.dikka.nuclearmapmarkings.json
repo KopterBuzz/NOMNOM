@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearMapMarkings-v",
   "releaseAssetName": "NuclearMapMarkings.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearMapMarkings/docs/assets/icon.png",
+  "imageHash": "98861f5a93814dc896bfd766653741dd323634c481abd4d418e220cfcde99e6f",
   "artifacts": [
     {
       "fileName": "NuclearMapMarkings.zip",

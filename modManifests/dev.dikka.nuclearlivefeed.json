@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearLiveFeed-v",
   "releaseAssetName": "NuclearLiveFeed.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearLiveFeed/docs/assets/icon.png",
+  "imageHash": "23fa2c6d4aaf2985d2468705efc6d3d06819b099f11a44132edcdac15e47f0b6",
   "artifacts": [
     {
       "fileName": "NuclearLiveFeed.zip",

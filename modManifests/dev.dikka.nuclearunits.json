@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearUnits-v",
   "releaseAssetName": "NuclearUnits.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearUnits/docs/assets/icon.png",
+  "imageHash": "2c1fc50dd58cd2125324290329d8b946e818d890869de1fe0e480508b4f1e0fc",
   "artifacts": [
     {
       "fileName": "NuclearUnits.zip",
