@@ -26,6 +26,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearNightVision-v",
   "releaseAssetName": "NuclearNightVision.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearNightVision/docs/assets/icon.png",
+  "imageHash": "c9a321e5fd8b8f2b0b702170579499a61046d5122e0a3783ac680241fa30ddb0",
   "artifacts": [
     {
       "fileName": "NuclearNightVision.zip",

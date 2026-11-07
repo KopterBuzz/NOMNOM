@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearSounds-v",
   "releaseAssetName": "NuclearSounds.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearSounds/docs/assets/icon.png",
+  "imageHash": "f7a996a58888d37c2c22a3cf9eff1ca882e2f2750e49f13f0efbd20d29d2eaea",
   "artifacts": [
     {
       "fileName": "NuclearSounds.zip",

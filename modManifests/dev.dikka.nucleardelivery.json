@@ -26,6 +26,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearDelivery-v",
   "releaseAssetName": "NuclearDelivery.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearDelivery/docs/assets/icon.png",
+  "imageHash": "b3e09aa043d94cc46c68e1c4ae784da8d191726a25f5f16114aa56e28c3c3854",
   "artifacts": [
     {
       "fileName": "NuclearDelivery.zip",

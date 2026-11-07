@@ -25,6 +25,8 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearControllerGestures-v",
   "releaseAssetName": "NuclearControllerGestures.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearControllerGestures/docs/assets/icon.png",
+  "imageHash": "bd391384080d0f2319e201bb42f061dd3f2639658dd8f4b464e680decc7e8425",
   "artifacts": [
     {
       "fileName": "NuclearControllerGestures.zip",
