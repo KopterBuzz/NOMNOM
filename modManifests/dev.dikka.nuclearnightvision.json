@@ -29,6 +29,15 @@
   "artifacts": [
     {
       "fileName": "NuclearNightVision.zip",
+      "version": "0.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearNightVision-v0.1.1/NuclearNightVision.zip",
+      "hash": "sha256:3a1fb1d3df0eb0548c7f1aeada03899d4014ba9d159f7207c68cdf341fbfead7"
+    },
+    {
+      "fileName": "NuclearNightVision.zip",
       "version": "0.1.0",
       "category": "release",
       "type": "plugin",
@@ -37,5 +46,5 @@
       "hash": "sha256:3a4541abe89cefc406ebbe4ec4a26df36b4358ba40365959efb582b14bba7c41"
     }
   ],
-  "downloadCount": 32
+  "downloadCount": 33
 }

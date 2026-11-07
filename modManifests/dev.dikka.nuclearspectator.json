@@ -29,6 +29,15 @@
   "artifacts": [
     {
       "fileName": "NuclearSpectator.zip",
+      "version": "0.1.13",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSpectator-v0.1.13/NuclearSpectator.zip",
+      "hash": "sha256:bb69dcfdb2a84af3cc9387db646fb5b570bbdc424125efed403f4068aa130c41"
+    },
+    {
+      "fileName": "NuclearSpectator.zip",
       "version": "0.1.12",
       "category": "release",
       "type": "plugin",
@@ -37,5 +46,5 @@
       "hash": "sha256:dab3172dbddbeb698e206a336739adf67c04e551d4d05e798b524252fd712314"
     }
   ],
-  "downloadCount": 15
+  "downloadCount": 17
 }

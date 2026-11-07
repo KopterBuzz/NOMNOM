@@ -28,6 +28,15 @@
   "artifacts": [
     {
       "fileName": "NuclearMapMarkings.zip",
+      "version": "0.1.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapMarkings-v0.1.7/NuclearMapMarkings.zip",
+      "hash": "sha256:e2151be90099753f5a82561d4c76cf30a28f9cd75be69e970c371b02f16138b7"
+    },
+    {
+      "fileName": "NuclearMapMarkings.zip",
       "version": "0.1.6",
       "category": "release",
       "type": "plugin",
@@ -36,5 +45,5 @@
       "hash": "sha256:333d318d4c31804a9936e27c1f2cb0f5d2d9d9b96e3c1927c90016d7bfc0ee4b"
     }
   ],
-  "downloadCount": 38
+  "downloadCount": 40
 }

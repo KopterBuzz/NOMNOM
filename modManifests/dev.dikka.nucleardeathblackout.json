@@ -29,6 +29,15 @@
   "artifacts": [
     {
       "fileName": "NuclearDeathBlackout.zip",
+      "version": "0.2.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearDeathBlackout-v0.2.7/NuclearDeathBlackout.zip",
+      "hash": "sha256:8b382ff11e43354450fd79f9268a498191ab720723c7110bcc69313017556a5b"
+    },
+    {
+      "fileName": "NuclearDeathBlackout.zip",
       "version": "0.2.6",
       "category": "release",
       "type": "plugin",
@@ -73,5 +82,5 @@
       "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
     }
   ],
-  "downloadCount": 1312
+  "downloadCount": 1323
 }

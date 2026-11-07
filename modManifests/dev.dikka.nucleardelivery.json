@@ -29,6 +29,15 @@
   "artifacts": [
     {
       "fileName": "NuclearDelivery.zip",
+      "version": "0.1.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearDelivery-v0.1.8/NuclearDelivery.zip",
+      "hash": "sha256:9fde8ceb118e628f10ecabbb02a6f60070c9bd895ec8729e0cb4d62d90bfa81e"
+    },
+    {
+      "fileName": "NuclearDelivery.zip",
       "version": "0.1.7",
       "category": "release",
       "type": "plugin",
@@ -73,5 +82,5 @@
       "hash": "sha256:7735bd4cda0cd26193a39b7e7bef67eb83ab4eaedec36eef452a56f640bdbd16"
     }
   ],
-  "downloadCount": 225
+  "downloadCount": 235
 }
