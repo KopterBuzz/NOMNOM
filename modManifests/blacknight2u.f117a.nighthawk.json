@@ -28,7 +28,7 @@
       "version": "0.6.0",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/blacknight2u/nuclear-option-f117/releases/download/v0.6.0/F-117A-Nighthawk-v0.6.0.zip",
       "hash": "sha256:0a571ebf95d908be718505d5c66922020f9fd6a6485b06ecdc80b401761999e8",
       "dependencies": [
@@ -144,7 +144,7 @@
       ]
     }
   ],
-  "downloadCount": 15452,
+  "downloadCount": 15716,
   "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/efc58fe1c08110853788e221e24876f299ca69d0/Store/F117A-Nighthawk-NOMM.png",
   "imageHash": "032ef6db858a87786e13e2f6c36f8f6b111aac338755c0045d8036521b88b247"
 }

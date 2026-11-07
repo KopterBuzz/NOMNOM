@@ -21,6 +21,25 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "SAMs.for.aircraft_0.3.1.dll",
+      "version": "0.3.1",
+      "category": "release",
+      "type": "addOn",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/EMTmastash/SAMs-for-aircraft/releases/download/0.3.1/SAMs.for.aircraft_0.3.1.dll",
+      "hash": "sha256:9e59e41ef89afa0294d8fbd027ae594f3cd1fb19636c116a19913f088e9b479d",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
       "fileName": "SAMs.for.aircraft_0.3.0.dll",
       "version": "0.3.0",
       "category": "release",
@@ -116,5 +135,5 @@
       ]
     }
   ],
-  "downloadCount": 870
+  "downloadCount": 905
 }

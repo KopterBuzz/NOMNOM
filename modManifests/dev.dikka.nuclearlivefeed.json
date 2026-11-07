@@ -30,6 +30,15 @@
   "artifacts": [
     {
       "fileName": "NuclearLiveFeed.zip",
+      "version": "0.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearLiveFeed-v0.4.0/NuclearLiveFeed.zip",
+      "hash": "sha256:94d9ae5ccc1b479e9258a6979f3bb9480dd5cc64cbc60243e52e48c677f4dc40"
+    },
+    {
+      "fileName": "NuclearLiveFeed.zip",
       "version": "0.3.3",
       "category": "release",
       "type": "plugin",
@@ -47,5 +56,5 @@
       "hash": "sha256:e834ad02cfee34de3c256f215b2630c3fc3a93940fe02e9451bc8f3e880dc44c"
     }
   ],
-  "downloadCount": 25
+  "downloadCount": 27
 }
