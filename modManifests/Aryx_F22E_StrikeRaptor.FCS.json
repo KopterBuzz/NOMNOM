@@ -33,7 +33,7 @@
       "dependencies": [
         {
           "id": "aryx.f22e",
-          "version": "1.0.4"
+          "version": "1.0.5"
         }
       ]
     },
@@ -308,5 +308,5 @@
       ]
     }
   ],
-  "downloadCount": 7463
+  "downloadCount": 7626
 }

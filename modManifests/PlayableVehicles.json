@@ -27,6 +27,15 @@
   "artifacts": [
     {
       "fileName": "PlayableVehicles.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Rap3/NuclearOption-PlayableVehicles/releases/download/v1.1.0/PlayableVehicles.dll",
+      "hash": "sha256:69c0cdb2e39731c16f9032ea89cdb213c8baed3bf77285f39c253ad0665730c6"
+    },
+    {
+      "fileName": "PlayableVehicles.dll",
       "version": "1.0.3",
       "category": "release",
       "type": "plugin",
@@ -53,5 +62,5 @@
       "hash": "sha256:33d5363ba6f8329c9a809c900595c7c5e178e85e25fe615d9b6ca625e957cff4"
     }
   ],
-  "downloadCount": 1380
+  "downloadCount": 1404
 }
