@@ -1,0 +1,29 @@
+{
+  "id": "P220Primrose",
+  "displayName": "P220 Primrose",
+  "description": "A Primeva Link airliner converted for military service: dorsal AEW radar, rear weapons bay, wing pylons, a defensive tail laser, a folding fin for the medium hangar and three liveries.",
+  "tags": ["mod", "Aircraft", "blueprinter"],
+  "urls": [
+    { "name": "info", "url": "https://github.com/NicksSoftwareFun/Nuclear-Option-P220-Primrose-Aircraft-Mod" }
+  ],
+  "authors": ["NicksSoftwareFun"],
+  "isClientOrServer": "Both",
+  "githubOwner": "NicksSoftwareFun",
+  "githubRepoName": "Nuclear-Option-P220-Primrose-Aircraft-Mod",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "P220Primrose.dll",
+  "artifacts": [
+    {
+      "fileName": "P220Primrose.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NicksSoftwareFun/Nuclear-Option-P220-Primrose-Aircraft-Mod/releases/download/v1.0.0/P220Primrose.dll",
+      "hash": "sha256:06C2905070279D81C141805CFC22A941F053A65A7005CEA9CC0672FC09126028",
+      "dependencies": [
+        { "id": "com.nikkorap.blueprinter", "version": "2.1.1" }
+      ]
+    }
+  ]
+}
