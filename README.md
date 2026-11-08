@@ -18,7 +18,7 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 
 ### Mod Submission Acceptance Policy:
 
-#### 1. Source Availability and AI Assistance Declaration Mandate
+#### 1. Source Code Availability and AI Assistance Declaration Mandate
 
 1.1 Open-Source
 
