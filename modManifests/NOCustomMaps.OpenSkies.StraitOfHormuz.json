@@ -1,0 +1,40 @@
+{
+  "id": "NOCustomMaps.OpenSkies.StraitOfHormuz",
+  "displayName": "Strait of Hormuz (Open Skies)",
+  "description": "The real Strait of Hormuz at true scale, a 261 km square from Sharjah and the Gulf coast in the south-west to Bandar Abbas and the Iranian ranges in the north, with real terrain, sea floor, roads and 7 airfields. A map for NOCustomMaps; its missions (free flight, a main battle, a strike and PvP escalation) are on the Steam Workshop. The host and every player need the same version. Part of Open Skies.",
+  "tags": [
+    "Terrain",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/metasprojects/open-skies-releases"
+    }
+  ],
+  "authors": [
+    "Meta"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "metasprojects",
+  "githubRepoName": "open-skies-releases",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseTagPrefix": "hormuz-v",
+  "releaseAssetName": "hormuz.zip",
+  "artifacts": [
+    {
+      "fileName": "hormuz.zip",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/metasprojects/open-skies-releases/releases/download/hormuz-v0.1.0/hormuz.zip",
+      "hash": "sha256:b5b8d5b082c7c6c12cd56c5edacb4639f93e6d0db1e5c28c19643eff376bd79e",
+      "extends": {
+        "id": "NOCustomMaps",
+        "version": "1.4.2"
+      }
+    }
+  ]
+}
