@@ -11,6 +11,7 @@
   "githubOwner": "NicksSoftwareFun",
   "githubRepoName": "Nuclear-Option-P220-Primrose-Aircraft-Mod",
   "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
   "releaseAssetName": "P220Primrose.dll",
   "artifacts": [
     {
