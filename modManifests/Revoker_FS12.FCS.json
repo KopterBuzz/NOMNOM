@@ -21,6 +21,7 @@
   "githubOwner": "duythinh2022-ui",
   "githubRepoName": "Better-FBW-for-FS-12-Revoker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Revoker",
   "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
   "artifacts": [
     {
       "fileName": "FS12-Revoker-FCS-0.8.2.zip",
