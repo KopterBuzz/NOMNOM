@@ -32,6 +32,21 @@
   "artifacts": [
     {
       "fileName": "A19J.dll",
+      "version": "0.1.3",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/markus21alpha-dot/A19J/releases/download/v0.1.3/A19J.dll",
+      "hash": "sha256:7eabc38a1965c0c4a117c27170139817350de31afbe0e4e31a3ea0663ac54601",
+      "dependencies": [
+        {
+          "version": "2.1.1",
+          "id": "com.nikkorap.blueprinter"
+        }
+      ]
+    },
+    {
+      "fileName": "A19J.dll",
       "version": "0.1.2",
       "category": "preRelease",
       "type": "plugin",
@@ -45,5 +60,6 @@
         }
       ]
     }
-  ]
+  ],
+  "downloadCount": 296
 }
