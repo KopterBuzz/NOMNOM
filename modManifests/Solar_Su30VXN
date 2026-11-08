@@ -1,0 +1,46 @@
+{
+  "id": "Solar_Su30VXN",
+  "displayName": "Su-30VXN Gandiva",
+  "description": "This mod brings the Su-30VXN into the game, a rank 5 supermaneuverable multirole fighter aircraft. Full fidelity model, not asset ripped.",
+  "tags": [
+    "mod",
+    "Aircraft",
+    "blueprinter",
+    "solar"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/KyleisRed/Su-30VXN-Gandiva"
+    }
+  ],
+  "authors": [
+    "solar",
+    "GryphusOne",
+    "faith"
+  ],
+  "githubOwner": "KyleisRed",
+  "githubRepoName": "Su-30VXN-Gandiva",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "SolarSu30.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/KyleisRed/Su-30VXN-Gandiva/releases/download/v1.0.0/SolarSu30.dll",
+      "hash": "sha256:9c9f9ba2be8ca40da80768279c77aae5e9df74525a541346382b5fa315138d84",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.1.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    }
+  ]
+}
