@@ -26,7 +26,7 @@ If your Mod contains custom DLL or Executable Files, those DLL or Executable Fil
   - Clarifications:
     - If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any Custom DLL or Executable Files, there is no cause for concern.
 
-1.2 AI Assistance Declartaion
+1.2 AI Assistance Declaration
 
 If your Mod was created with substantial AI Assistance, it must be declared for transparency.
 
