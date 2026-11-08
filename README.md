@@ -18,11 +18,11 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 
 ### Mod Submission Acceptance Policy:
 
-#### 1. Open-Source and AI Assistance Declaration Mandate
+#### 1. Source Availability and AI Assistance Declaration Mandate
 
 1.1 Open-Source
 
-If your Mod contains custom DLL or Executable Files, those DLL or Executable Files Must Be Open-Sourced and the Source Code must not contain any obfuscation. Submission requests that do not comply will be denied.
+If your Mod contains custom DLL or Executable Files, those DLL or Executable Files Must Be Open-Source or Source-Available and the Source Code must not contain any obfuscation. Submission requests that do not comply will be denied.
   - Clarifications:
     - If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any Custom DLL or Executable Files, there is no cause for concern.
 
