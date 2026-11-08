@@ -1,0 +1,47 @@
+{
+  "id": "Revoker_FS12.FCS",
+  "displayName": "Better FBW for FS-12 Revoker",
+  "description": "Replaces the stock FS-12 Revoker's fly-by-wire with a much better modern flight control system, using the same control laws as my F-22E and Ifrit FCS mods. The FCS allows carefree handling and full authority control across the entire envelop, even for easy post stall maneuvering. The FCS is also higly resistance to departure on damaged airframe, asymmetric loadout compensation, fuel balancing for asymmetric loadout. Multiplayer: the flight-model changes only apply when the host also runs the mod and has enabled it (HostAllowFcs / HostLockVariant); otherwise everyone flies the stock Revoker. The optional dev plugin (separate release asset) exposes the tuning settings.",
+  "tags": [
+    "mod",
+    "QoL",
+    "aircraft",
+    "flight-control"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-12-Revoker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Revoker/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "duythinh2022-ui"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "duythinh2022-ui",
+  "githubRepoName": "Better-FBW-for-FS-12-Revoker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Revoker",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "FS12-Revoker-FCS-0.8.3.zip",
+      "version": "0.8.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-12-Revoker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Revoker/releases/download/v0.8.3/FS12-Revoker-FCS-0.8.3.zip",
+      "hash": "sha256:3be7e91dc11381bb34d1ba3a56f0d4d8dfd7d1a298f707447d3544b2c0f9f545"
+    },
+    {
+      "fileName": "FS12-Revoker-FCS-0.8.2.zip",
+      "version": "0.8.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-12-Revoker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Revoker/releases/download/v0.8.2/FS12-Revoker-FCS-0.8.2.zip",
+      "hash": "sha256:24a51d600d831efe78f7192f317e979994f50c9e2bd416f060c76534a3bad34f",
+      "dependencies": []
+    }
+  ],
+  "downloadCount": 118
+}

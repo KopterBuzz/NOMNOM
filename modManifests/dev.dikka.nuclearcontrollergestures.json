@@ -25,7 +25,18 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearControllerGestures-v",
   "releaseAssetName": "NuclearControllerGestures.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearControllerGestures/docs/assets/icon.png",
+  "imageHash": "bd391384080d0f2319e201bb42f061dd3f2639658dd8f4b464e680decc7e8425",
   "artifacts": [
+    {
+      "fileName": "NuclearControllerGestures.zip",
+      "version": "0.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearControllerGestures-v0.2.2/NuclearControllerGestures.zip",
+      "hash": "sha256:ffa803df6f2efa3e4bacb159cea36810dd0306bde950fe7eac8270535a5e2c5e"
+    },
     {
       "fileName": "NuclearControllerGestures.zip",
       "version": "0.2.1",
@@ -72,5 +83,5 @@
       "hash": "sha256:1f572f62540d4cc7da88bf4555930330cc2540c323c64368f1fb53f29fa2a285"
     }
   ],
-  "downloadCount": 50
+  "downloadCount": 61
 }

@@ -25,7 +25,18 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearUnits-v",
   "releaseAssetName": "NuclearUnits.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearUnits/docs/assets/icon.png",
+  "imageHash": "2c1fc50dd58cd2125324290329d8b946e818d890869de1fe0e480508b4f1e0fc",
   "artifacts": [
+    {
+      "fileName": "NuclearUnits.zip",
+      "version": "1.2.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearUnits-v1.2.8/NuclearUnits.zip",
+      "hash": "sha256:8b7dbd24ef707f4ac7aff21ab10030ead79f795d26727e0ea3c58033ec14d3f7"
+    },
     {
       "fileName": "NuclearUnits.zip",
       "version": "1.2.7",
@@ -72,5 +83,5 @@
       "hash": "sha256:33cb88f7abc7a7bd9a3ab3542042a78313ef4242b0191e506d675666446becbe"
     }
   ],
-  "downloadCount": 178
+  "downloadCount": 227
 }

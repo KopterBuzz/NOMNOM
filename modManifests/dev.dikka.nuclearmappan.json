@@ -1,0 +1,43 @@
+{
+  "id": "dev.dikka.nuclearmappan",
+  "displayName": "NuclearMapPan",
+  "description": "Moves the expanded map faster with a controller stick, with an adjustable stick curve and top speed.",
+  "tags": [
+    "QoL",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapPan"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearMapPan-v",
+  "releaseAssetName": "NuclearMapPan.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/95c263382e61a5fc8a127e7aae3468f5ecc264c7/NuclearMapPan/docs/assets/icon.png",
+  "imageHash": "08dbc8e701f2a01695ae89e79a2988d5ea3de022cd1135c1a959bff2590b10aa",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearMapPan.zip",
+      "version": "0.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapPan-v0.1.1/NuclearMapPan.zip",
+      "hash": "sha256:57ed0c2c3a0577d437f3de4cebc859ed4d81f856e5c49935037e780d2b103d98"
+    }
+  ],
+  "downloadCount": 1
+}

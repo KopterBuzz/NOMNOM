@@ -1,5 +1,5 @@
 name: Update isAiAssisted
-description: Use this template to submit a Mod ID and update its isAiAssisted flag.
+description: Use this template to submit a list of Mod IDs and update their isAiAssisted flag.
 title: "[Update isAiAssisted]: "
 labels: ["list-input"]
 body:
@@ -8,19 +8,21 @@ body:
       value: |
         Please provide your values below. Refer to the [AI Assistance Declaration](https://github.com/KopterBuzz/NOMNOM#1-open-source-and-ai-assistance-declaration-mandate) in the README for criteria.
 
-  - type: input
-    id: mod_id
+  - type: textarea
+    id: mod_id_strings
     attributes:
-      label: Mod ID
-      description: Enter the NOMNOM Mod ID
-      placeholder: com.fake.mod.id
+      label: MOD IDs
+      description: Enter the NOMNOM Mod IDs, one per line. The AI Assisted value below applies to every listed mod.
+      placeholder: |
+        com.fake.mod.id
+        modder.mod
     validations:
       required: true
   - type: dropdown
     id: is_ai_assisted
     attributes:
       label: AI Assisted
-      description: Was this mod created with substantial generative or agentic AI assistance?
+      description: Were these mods created with substantial generative or agentic AI assistance?
       options:
         - "True"
         - "False"

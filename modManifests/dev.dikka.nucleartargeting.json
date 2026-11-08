@@ -25,7 +25,18 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearTargeting-v",
   "releaseAssetName": "NuclearTargeting.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearTargeting/docs/assets/icon.png",
+  "imageHash": "bf23671d9c0f299376a0c769c4c280713a6ea0d860e4cdb3dcad05683c15ecc5",
   "artifacts": [
+    {
+      "fileName": "NuclearTargeting.zip",
+      "version": "0.2.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearTargeting-v0.2.6/NuclearTargeting.zip",
+      "hash": "sha256:c7b6ba3ee87a14b731acfb6eabccdea352a72fb19049c0067676945ff9027c67"
+    },
     {
       "fileName": "NuclearTargeting.zip",
       "version": "0.2.5",
@@ -72,5 +83,5 @@
       "hash": "sha256:6d49f506f239d26c735e2127af7b57a3e7e0c8a02d5b6371283beef6d64333fe"
     }
   ],
-  "downloadCount": 79
+  "downloadCount": 106
 }

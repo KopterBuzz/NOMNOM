@@ -25,7 +25,18 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearSatelliteMap-v",
   "releaseAssetName": "NuclearSatelliteMap.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearSatelliteMap/docs/assets/icon.png",
+  "imageHash": "51d4c097ad7021545844888e993e2009b45a2278731cb8a84553eb21b6741b08",
   "artifacts": [
+    {
+      "fileName": "NuclearSatelliteMap.zip",
+      "version": "0.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSatelliteMap-v0.2.3/NuclearSatelliteMap.zip",
+      "hash": "sha256:a48c9bbab2362b9d42702a56de4e9ae1215fa6613e8c4abb47af8d4aea2c048f"
+    },
     {
       "fileName": "NuclearSatelliteMap.zip",
       "version": "0.2.2",
@@ -36,5 +47,5 @@
       "hash": "sha256:0e99359756c9ad5758c3b22508e8baf167f0df1a869910464cb04df53cf29be7"
     }
   ],
-  "downloadCount": 46
+  "downloadCount": 148
 }

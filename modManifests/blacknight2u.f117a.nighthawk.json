@@ -1,7 +1,7 @@
 {
   "id": "blacknight2u.f117a.nighthawk",
   "displayName": "F-117A Nighthawk",
-  "description": "Radar couldn't see the aircraft. It saw the bird perched on it. The legendary F-117A Nighthawk brings extreme stealth to Nuclear Option—built to penetrate the heaviest air defenses, strike unseen, and vanish before the enemy can respond. Available in Nighthawk Black and Farewell Flag liveries.",
+  "description": "The legendary Nighthawk returns. Penetrate the heaviest defenses, strike unseen, and vanish before the enemy can respond.",
   "tags": [
     "mod",
     "aircraft",
@@ -23,6 +23,51 @@
   "githubRepoName": "nuclear-option-f117",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "F-117A-Nighthawk-v0.6.4.zip",
+      "version": "0.6.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/blacknight2u/nuclear-option-f117/releases/download/v0.6.4/F-117A-Nighthawk-v0.6.4.zip",
+      "hash": "sha256:b7681ad63819725b0ce26929c523f048eb281f6527f436074e26f076572f2d21",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "F-117A-Nighthawk-v0.6.0.zip",
+      "version": "0.6.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/blacknight2u/nuclear-option-f117/releases/download/v0.6.0/F-117A-Nighthawk-v0.6.0.zip",
+      "hash": "sha256:0a571ebf95d908be718505d5c66922020f9fd6a6485b06ecdc80b401761999e8",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "F-117A-Nighthawk-v0.5.1.zip",
+      "version": "0.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/blacknight2u/nuclear-option-f117/releases/download/v0.5.1/F-117A-Nighthawk-v0.5.1.zip",
+      "hash": "sha256:c5e232b9f8a7c7f1290d322fe768f8182e1e9da8c16c50d286d3043117ca2fc2",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
     {
       "fileName": "F-117A-Nighthawk-v0.5.0.zip",
       "version": "0.5.0",
@@ -114,7 +159,7 @@
       ]
     }
   ],
-  "downloadCount": 15233,
-  "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/efc58fe1c08110853788e221e24876f299ca69d0/Store/F117A-Nighthawk-NOMM.png",
-  "imageHash": "032ef6db858a87786e13e2f6c36f8f6b111aac338755c0045d8036521b88b247"
+  "downloadCount": 16723,
+  "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/cceb334cf031e52d9bce063043d6e1da6191b268/Store/F117A-Nighthawk-NOMM.png",
+  "imageHash": "174ed28bfccdf5aeb623940144b9f2c3763305f86088256fed9abf89a34f5728"
 }

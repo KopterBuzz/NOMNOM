@@ -1,0 +1,41 @@
+{
+  "id": "NOCustomMaps.OpenSkies.TaiwanStrait",
+  "displayName": "Taiwan Strait (Open Skies)",
+  "description": "The real Taiwan Strait at true scale, a 261 km square from the Fuzhou coast and Matsu in the west to Taipei and the Central Mountain Range in the east, with real terrain, sea floor, roads and 7 airfields. A map for NOCustomMaps; its missions (free flight, a main battle, a strike and PvP escalation) are on the Steam Workshop. The host and every player need the same version. Part of Open Skies.",
+  "tags": [
+    "Terrain",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/metasprojects/open-skies-releases"
+    }
+  ],
+  "authors": [
+    "Meta"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "metasprojects",
+  "githubRepoName": "open-skies-releases",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseTagPrefix": "taiwanstrait-v",
+  "releaseAssetName": "taiwanstrait.zip",
+  "artifacts": [
+    {
+      "fileName": "taiwanstrait.zip",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/metasprojects/open-skies-releases/releases/download/taiwanstrait-v0.1.0/taiwanstrait.zip",
+      "hash": "sha256:7521abac5e0d4215a0fc46849883f15c9fc48b9bfad6366681d6ea1a7d9598a8",
+      "extends": {
+        "id": "NOCustomMaps",
+        "version": "1.4.2"
+      }
+    }
+  ],
+  "downloadCount": 13
+}

@@ -1,0 +1,41 @@
+{
+  "id": "NOCustomMaps.OpenSkies.FalklandIslands",
+  "displayName": "Falkland Islands (Open Skies)",
+  "description": "The real Falkland Islands at true scale, a 261 km square from Jason Islands and West Point Island in the north-west to Beauchene Island and the open South Atlantic south of Lafonia, with real terrain, sea floor, roads and 2 airfields. A map for NOCustomMaps; its missions (free flight, a main battle, a strike and PvP escalation) are on the Steam Workshop. The host and every player need the same version. Part of Open Skies.",
+  "tags": [
+    "Terrain",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/metasprojects/open-skies-releases"
+    }
+  ],
+  "authors": [
+    "Meta"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "metasprojects",
+  "githubRepoName": "open-skies-releases",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseTagPrefix": "falklands-v",
+  "releaseAssetName": "falklands.zip",
+  "artifacts": [
+    {
+      "fileName": "falklands.zip",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/metasprojects/open-skies-releases/releases/download/falklands-v0.1.0/falklands.zip",
+      "hash": "sha256:9f5a415bda61f199284d54a1d828f688eb5f0086c69577ca32ec781e836b6ffd",
+      "extends": {
+        "id": "NOCustomMaps",
+        "version": "1.4.2"
+      }
+    }
+  ],
+  "downloadCount": 11
+}

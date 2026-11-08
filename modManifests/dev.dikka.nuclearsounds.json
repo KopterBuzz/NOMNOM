@@ -25,7 +25,18 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearSounds-v",
   "releaseAssetName": "NuclearSounds.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearSounds/docs/assets/icon.png",
+  "imageHash": "f7a996a58888d37c2c22a3cf9eff1ca882e2f2750e49f13f0efbd20d29d2eaea",
   "artifacts": [
+    {
+      "fileName": "NuclearSounds.zip",
+      "version": "0.1.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSounds-v0.1.6/NuclearSounds.zip",
+      "hash": "sha256:3b37efd2a3be5d2a3cff496fd28c838b77f8b6b3f6bfaf9954128c81bd7e5513"
+    },
     {
       "fileName": "NuclearSounds.zip",
       "version": "0.1.5",
@@ -63,5 +74,5 @@
       "hash": "sha256:6ee4d65c0c993f673fb8df4638e271a08eb27aa97c921c62d491cb1ed6c4e1f5"
     }
   ],
-  "downloadCount": 127
+  "downloadCount": 190
 }

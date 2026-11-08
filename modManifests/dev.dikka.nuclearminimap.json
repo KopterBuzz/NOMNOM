@@ -26,7 +26,18 @@
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearMinimap-v",
   "releaseAssetName": "NuclearMinimap.zip",
+  "imageUrl": "https://raw.githubusercontent.com/dikkadev/nuclear-option-client-mods/9c3876c1f7a1abb99361a9bcb1a58521f24e63e4/NuclearMinimap/docs/assets/icon.png",
+  "imageHash": "d4a90b2e2b6255fc9027eeb3771d615ee9237b5b2e284f3d73a7590bd81c9e4c",
   "artifacts": [
+    {
+      "fileName": "NuclearMinimap.zip",
+      "version": "0.5.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMinimap-v0.5.3/NuclearMinimap.zip",
+      "hash": "sha256:8651bd1b53255abfba099daf85a4a173026d5f4338dbb4125a6e32461e975c73"
+    },
     {
       "fileName": "NuclearMinimap.zip",
       "version": "0.5.2",
@@ -82,5 +93,5 @@
       "hash": "sha256:fa30cea310f9d715d2c744aa2a75e64ff863b6fe87d4cb9f3fee968bdabc734e"
     }
   ],
-  "downloadCount": 117
+  "downloadCount": 163
 }

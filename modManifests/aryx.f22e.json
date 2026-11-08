@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx_F22E_StrikeRaptor_1.0.5.dll",
+      "version": "1.0.5",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor/releases/download/1.0.5/Aryx_F22E_StrikeRaptor_1.0.5.dll",
+      "hash": "sha256:95e59a4924c92a6ed9da9681bfd821e18b670714abe6af984906670904a85fa0",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.21"
+      }
+    },
+    {
       "fileName": "Aryx_F22E_StrikeRaptor_1.0.4.dll",
       "version": "1.0.4",
       "category": "release",
@@ -91,5 +104,5 @@
       }
     }
   ],
-  "downloadCount": 25171
+  "downloadCount": 28419
 }
