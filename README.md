@@ -20,7 +20,7 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 
 #### 1. Source Code Availability and AI Assistance Declaration Mandate
 
-1.1 Open-Source
+1.1 Source Code Availability
 
 If your Mod contains custom DLL or Executable Files, those DLL or Executable Files Must Be Open-Source or Source-Available and the Source Code must not contain any obfuscation. Submission requests that do not comply will be denied.
   - Clarifications:
