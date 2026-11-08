@@ -157,7 +157,7 @@ url : the actual URL
 - REQUIRED IF:
      YOUR MOD WAS CREATED WITH SUBSTANTIAL AI ASSISTANCE
 - Format: string, possible values: `"True"`, `"False"`
-- Declares whether the mod was created with substantial generative or agentic AI assistance for transparency, as mandated by the [Mod Submission Acceptance Policy (Section 1.2)](../README.md#1-open-source-and-ai-assistance-declaration-mandate).
+- Declares whether the mod was created with substantial generative or agentic AI assistance for transparency, as mandated by the [Mod Submission Acceptance Policy (Section 1.2)](../README.md#1-source-code-availability-and-ai-assistance-declaration-mandate).
 - If the mod was created without substantial AI assistance, specify `"False"` (or omit).
 - **Compliance & Enforcement:** As outlined in the policy, failure to self-declare AI assistance may result in NOMNOM maintainers retroactively marking the mod as AI-assisted upon discovery of supporting evidence. Repeated failure to self-declare may lead to the mod being delisted and future submissions declined.
 
