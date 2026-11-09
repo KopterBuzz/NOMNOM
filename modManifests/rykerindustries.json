@@ -22,6 +22,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Stryker_MunitionsPack_0.1.3.nobp",
+      "version": "0.1.3",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/TheStrykerMGS/RykerIndustries-munition-pack/releases/download/v0.1.3/Stryker_MunitionsPack_0.1.3.nobp",
+      "hash": "sha256:4a63e483cce61bfaa2a22bc10ee791620d2211e44d1c627857a8d570bdcf4fdc",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
       "fileName": "Stryker_MunitionsPack_0.1.1.nobp",
       "version": "0.1.1",
       "category": "release",
@@ -37,5 +52,5 @@
       ]
     }
   ],
-  "downloadCount": 2100
+  "downloadCount": 2152
 }

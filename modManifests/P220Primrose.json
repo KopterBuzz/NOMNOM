@@ -25,6 +25,21 @@
   "artifacts": [
     {
       "fileName": "P220Primrose.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NicksSoftwareFun/Nuclear-Option-P220-Primrose-Aircraft-Mod/releases/download/v1.0.2/P220Primrose.dll",
+      "hash": "sha256:7b91d956b148a2652b0430997513938222f3b8d172bc1262a23ea4785c12ab2e",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "P220Primrose.dll",
       "version": "1.0.1",
       "category": "release",
       "type": "plugin",
@@ -39,5 +54,5 @@
       ]
     }
   ],
-  "downloadCount": 114
+  "downloadCount": 311
 }
