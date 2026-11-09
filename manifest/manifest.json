@@ -22993,5 +22993,45 @@
       }
     ],
     "downloadCount": 298
-  }
+  },
+{
+  "id": "New-Loadouts",
+  "displayName": "New Loadouts",
+  "description": "Overhauls the hangar loadout UI with independent left and right weapon pylons, interactive 3D hardpoint markers, a live wing weight-balance HUD, optional loadout mirroring, and adaptive UI scaling. Includes a searchable weapon catalog, filters, favorites, native ordnance highlighting, and per-aircraft loadout presets.",
+  "tags": [
+    "mod",
+    "QoL",
+    "UI",
+    "Loadouts"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nonze-inz8/New-Loadouts"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/nonze-inz8/New-Loadouts/releases"
+    }
+  ],
+  "authors": [
+    "Nonze"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "nonze-inz8",
+  "githubRepoName": "New-Loadouts",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "NewLoadouts.dll",
+  "artifacts": [
+    {
+      "fileName": "NewLoadouts.dll",
+      "version": "5.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/nonze-inz8/New-Loadouts/releases/download/v5.0.0/NewLoadouts.dll",
+      "hash": null
+    }
+  ]
+}
 ]
