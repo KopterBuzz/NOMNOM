@@ -147,12 +147,18 @@ try
     Write-Host "Validating $($parsedMod.id)..."
     #$parsedMod
 
-    Write-Host "Validating Id matches file name: $($parsedMod.id) $((get-item $Path).Name): $(Validate-IdMatchesFileName -id $parsedMod.id)"
+    $isNameMatchID = Validate-IdMatchesFileName -id $parsedMod.id
+    Write-Host "Validating Id matches file name: $($parsedMod.id) $((get-item $Path).Name): $($isNameMatchID)"
+    if (!$isNameMatchID)
+    {
+        Write-Host $("Id $($parsedMod.id) does not match file name $((get-item $Path).Name)") -ForegroundColor Red
+        Exit 1
+    }
     $isIdUnique = Validate-IdAlreadyExists -id $parsedMod.Id
     Write-Host "Validating Id is Unique: $($parsedMod.id): $isIdUnique"
     if (!$isIdUnique)
     {
-        Write-Host $("Id $($parsedMod.id) is NOT UNIQUE!")
+        Write-Host $("Id $($parsedMod.id) is NOT UNIQUE!") -ForegroundColor Red
         Exit 1
     }
     Write-Host "Validating urls $($parsedMod.urls): $(Validate-urls -urls $parsedMod.urls)"
@@ -167,14 +173,14 @@ try
         Write-Host "Validating fileName: $($result)"
         if (!$result)
         {
-            Write-Host $("$($artifact.fileName) IS INVALID!")
+            Write-Host $("$($artifact.fileName) IS INVALID!") -ForegroundColor Red
             Exit 1
         }
         $result = Validate-ArtifactURL -URL $artifact.downloadUrl
         Write-Host "Validating artifactUrl: $($result)"
         if (!$result)
         {
-            Write-Host $("$($artifact.downloadUrl) IS INVALID!")
+            Write-Host $("$($artifact.downloadUrl) IS INVALID!") -ForegroundColor Red
             Exit 1
         }
         #Write-Host "Validating fileHash: $(Validate-FileHashFormat -hashString $artifact.hash)"
@@ -182,14 +188,14 @@ try
         Write-Host "Validating version: $($result)"
         if (!$result)
         {
-            Write-Host $("$($artifact.version) IS INVALID!")
+            Write-Host $("$($artifact.version) IS INVALID!") -ForegroundColor Red
             Exit 1
         }
         $result = Validate-Version -versionString $artifact.gameVersion
         Write-Host "Validating gameVersion: $($result)"
         if (!$result)
         {
-            Write-Host $("$($artifact.gameVersion) IS INVALID!")
+            Write-Host $("$($artifact.gameVersion) IS INVALID!") -ForegroundColor Red
             Exit 1
         }        
         if ($artifact.dependencies)
