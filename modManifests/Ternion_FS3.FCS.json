@@ -1,0 +1,42 @@
+{
+  "id": "Ternion_FS3.FCS",
+  "displayName": "Better FBW for FS-3 Ternion",
+  "description": "Replaces the FS-3 Ternion's fly-by-wire with a much better modern flight control system, using the same control laws as my F-22E and Ifrit FCS mods. The FCS allows carefree handling and full authority control across the entire envelop, even for easy post stall maneuvering. The FCS is also higly resistance to departure on damaged airframe, asymmetric loadout compensation, fuel balancing for asymmetric loadout, VMC protection with an engine out. Multiplayer: the flight-model changes only apply when the host also runs the mod and has enabled it (HostAllowFcs / HostLockVariant); otherwise everyone flies the Ternion with its own fly-by-wire. The optional dev plugin (separate release asset) exposes the tuning settings.",
+  "tags": [
+    "mod",
+    "QoL",
+    "aircraft",
+    "flight-control"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "duythinh2022-ui"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "duythinh2022-ui",
+  "githubRepoName": "Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "FS3-Ternion-FCS-0.2.0.zip",
+      "version": "0.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion/releases/download/v0.2.0/FS3-Ternion-FCS-0.2.0.zip",
+      "hash": "sha256:ca976dbd7b3361a58ef7559207c3ba317c752a96e47fa3dd070550fda47d04be",
+      "dependencies": [
+        {
+          "id": "blueprinter.ternion",
+          "version": "1.0.1"
+        }
+      ]
+    }
+  ]
+}
