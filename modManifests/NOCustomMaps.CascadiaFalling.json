@@ -1,7 +1,7 @@
 {
   "id": "NOCustomMaps.CascadiaFalling",
   "displayName": "Cascadia Falling",
-  "description": "The Pacific Northwest at true scale, a 400 km square from Vancouver to Yakima, with real terrain, roads and cities, nine airfields, four FOBs, seven helipads, three naval bases and four nuclear silo fields. A map for NOCustomMaps; its PvP invasion mission, Cascadia Falling, is on the Steam Workshop. The host and every player need the same version.",
+  "description": "The Pacific Northwest at true scale, a 400 km square from Vancouver to Yakima, with real terrain, roads and cities: sixteen airfields laid out as they really are, seventeen FOBs, seven helipads, three naval bases, eight mountain radar sites and four nuclear silo fields. A map for NOCustomMaps 1.4.2 on game 0.34.6; its PvP invasion mission, Cascadia Falling, is on the Steam Workshop. The host and every player need the same version.",
   "tags": [
     "Terrain",
     "Map"
@@ -25,16 +25,16 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "cascadia-0.1.0.zip",
-      "version": "0.1.0",
+      "fileName": "cascadia-0.1.1.zip",
+      "version": "0.1.1",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/netmaster296/CascadiaFalling/releases/download/v0.1.0/cascadia-0.1.0.zip",
-      "hash": "sha256:ea9d17f1cbca56355ece44be91900599ebfd631f023de31bada7043cfd0907df",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/netmaster296/CascadiaFalling/releases/download/v0.1.1/cascadia-0.1.1.zip",
+      "hash": "sha256:e23cabf212c1cfbc2c94b6f96769fb1217b49adb5a07f9eae10d4d50d18ce4bf",
       "extends": {
         "id": "NOCustomMaps",
-        "version": "1.4.0"
+        "version": "1.4.2"
       },
       "dependencies": [
         {
