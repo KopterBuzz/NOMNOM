@@ -1,0 +1,35 @@
+{
+  "id": "AceCombatReloads",
+  "displayName": "Ace Combat Reloads",
+  "description": "In-flight reload reserves for missiles, bombs, rockets, guns, flares and chaff, Ace Combat style. Host and clients need the mod; clients use the host's settings.",
+  "tags": [
+    "Gameplay",
+    "Weapon"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Dandy-Yak/Ace-Combat-Style-Reloads-For-Nuclear-Option"
+    }
+  ],
+  "authors": [
+    "Dandy Yak",
+    "Astrogator"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Dandy-Yak",
+  "githubRepoName": "Ace-Combat-Style-Reloads-For-Nuclear-Option",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "AceCombatReloads.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Dandy-Yak/Ace-Combat-Style-Reloads-For-Nuclear-Option/releases/download/1.2.0/AceCombatReloads.dll",
+      "hash": "sha256:f41a51c3597f1b465d4c1c0f2fb2cab0481478754953deeb8971faf57666acc7"
+    }
+  ]
+}
