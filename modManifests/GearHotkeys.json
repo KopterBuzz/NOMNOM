@@ -1,0 +1,41 @@
+{
+  "id": "GearHotkeys",
+  "displayName": "Nuclear Option Gear Hotkeys",
+  "description": "Adds separate configurable keyboard and joystick/HOTAS inputs for deploying and retracting landing gear. Uses BepInEx Configuration Manager to configure bindings.",
+  "tags": [
+    "QoL",
+    "Controls"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/thexboxpc1/NO-gear-hotkeys"
+    }
+  ],
+  "authors": [
+    "thexboxpc1"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "thexboxpc1",
+  "githubRepoName": "NO-gear-hotkeys",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseAssetName": "GearHotkeys.dll",
+  "artifacts": [
+    {
+      "fileName": "GearHotkeys.dll",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/thexboxpc1/NO-gear-hotkeys/releases/download/2.0.0/GearHotkeys.dll",
+      "hash": "sha256:3eee0d7a48f9612e08e5453291f3fb1e73f900529f08b1532226e96130045b3b",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
