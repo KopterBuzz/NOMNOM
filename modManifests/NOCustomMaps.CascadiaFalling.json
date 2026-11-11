@@ -29,7 +29,7 @@
       "version": "0.1.1",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.34.2",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/netmaster296/CascadiaFalling/releases/download/v0.1.1/cascadia-0.1.1.zip",
       "hash": "sha256:e23cabf212c1cfbc2c94b6f96769fb1217b49adb5a07f9eae10d4d50d18ce4bf",
       "extends": {
@@ -63,6 +63,6 @@
       ]
     }
   ],
-  "downloadCount": 3279,
+  "downloadCount": 3367,
   "isAiAssisted": "False"
 }
