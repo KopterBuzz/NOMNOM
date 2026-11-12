@@ -1,0 +1,42 @@
+{
+  "id": "Su30_VXN.FCS",
+  "displayName": "Better FBW for Su-30VXN Flanker",
+  "description": "Replaces the Su-30VXN Gandiva's fly-by-wire with a much better modern flight control system, using similar control laws as other FCS mods. The FCS allows carefree handling and full authority control across the entire envelop, even for easy post stall maneuvering. The FCS is also higly resistance to departure on damaged airframe, asymmetric loadout compensation, fuel balancing for asymmetric loadout, VMC protection with an engine out. Multiplayer: the flight-model changes only apply when the host also runs the mod and has enabled it (HostAllowFcs / HostLockVariant); otherwise everyone flies the Su-30VXN with its own fly-by-wire. The optional dev plugin (separate release asset) exposes the tuning settings.",
+  "tags": [
+    "mod",
+    "QoL",
+    "aircraft",
+    "flight-control"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/duythinh2022-ui/Better-FBW-for-SU-30VXN-Flanker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-SU-30VXN"
+    }
+  ],
+  "authors": [
+    "duythinh2022-ui"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "duythinh2022-ui",
+  "githubRepoName": "Better-FBW-for-SU-30VXN-Flanker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-SU-30VXN",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "Flanker-Su30-VXN-FCS-0.5.6.zip",
+      "version": "0.5.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-SU-30VXN-Flanker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-SU-30VXN/releases/download/v0.5.6/Flanker-Su30-VXN-FCS-0.5.6.zip",
+      "hash": "sha256:2ead3b8296acfedf7d515da7bd69d535b877c8deead795ada8e222677b55dd25",
+      "dependencies": [
+        {
+          "id": "Solar_Su30VXN",
+          "version": "1.0.1"
+        }
+      ]
+    }
+  ]
+}
