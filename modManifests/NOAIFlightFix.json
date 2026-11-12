@@ -1,0 +1,36 @@
+{
+  "id": "NOAIFlightFix",
+  "displayName": "NO AI Flight Fix",
+  "description": "Host-side fix for two faults in the game's fixed-wing AI: diving into the ground at full throttle while attacking a building, and sinking into the ground in a hard turn right after take-off. It changes AI aircraft only, never player aircraft, and writes no networked state, so install it on the host or dedicated server. If WingCommand is installed on the same host, set its AiSharpTurns option to false, or most fresh AI take-offs still crash.",
+  "tags": [
+    "mod",
+    "Gameplay",
+    "Server"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/netmaster296/NOAIFlightFix"
+    }
+  ],
+  "authors": [
+    "netmaster296"
+  ],
+  "isClientOrServer": "Server",
+  "githubOwner": "netmaster296",
+  "githubRepoName": "NOAIFlightFix",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "NOAIFlightFix.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/netmaster296/NOAIFlightFix/releases/download/v1.2.0/NOAIFlightFix.dll",
+      "hash": "sha256:816c9b9bb3134dd7c00a3d038882bff4af627f728426e198608ff198443f3521",
+      "dependencies": []
+    }
+  ]
+}
