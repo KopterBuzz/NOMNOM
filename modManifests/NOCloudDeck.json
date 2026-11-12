@@ -1,0 +1,36 @@
+{
+  "id": "NOCloudDeck",
+  "displayName": "NO Cloud Deck",
+  "description": "Visual weather for the Cascadia Falling map: turns the stock cloud layer into a deck with a floor (clear air below the cloud base), regional cloud and rain from real Pacific Northwest climate data, and occasional distant lightning. Client-side and visual only: it activates only on Cascadia Falling missions and writes no gameplay or networked state. Players running it see less far through the weather than players without it, so for fair PvP every player should run it on default settings. Optional for that mission.",
+  "tags": [
+    "mod",
+    "Visual",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/netmaster296/NOCloudDeck"
+    }
+  ],
+  "authors": [
+    "netmaster296"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "netmaster296",
+  "githubRepoName": "NOCloudDeck",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "NOCloudDeck.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/netmaster296/NOCloudDeck/releases/download/v1.2.0/NOCloudDeck.dll",
+      "hash": "sha256:9e48847dcfc95f49228827be79156a4100082f53fa40647a9a2557407f9cb8c5",
+      "dependencies": []
+    }
+  ]
+}
