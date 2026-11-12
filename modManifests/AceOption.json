@@ -1,0 +1,43 @@
+{
+  "id": "AceOption",
+  "displayName": "Ace Option",
+  "description": "An Ace Combat-inspired quality-of-life mod with configurable chase camera and HUD, target focus, a separate gun trigger, flight-control shortcuts and missile camera.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD",
+    "Camera",
+    "Controls"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Thabuki/NO-AceOption"
+    }
+  ],
+  "authors": [
+    "Thabuki"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Thabuki",
+  "githubRepoName": "NO-AceOption",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "AceOption-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Thabuki/NO-AceOption/releases/download/v1.0.0/AceOption-1.0.0.zip",
+      "hash": "sha256:b2210eb3f3098a7a1ca7f7e3118d59cb41b11ddddd22224e6cc13d089d8107b8",
+      "incompatibilities": [
+        {
+          "id": "ChaseCamPlus",
+          "version": "2.0.0"
+        }
+      ]
+    }
+  ]
+}
