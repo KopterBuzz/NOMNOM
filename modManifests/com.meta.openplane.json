@@ -1,0 +1,42 @@
+{
+    "id": "com.meta.openplane",
+    "displayName": "OpenPlane",
+    "description": "Fly planes you converted from Flyout or built yourself with the OpenPlane app (.oplane files). Each plane is built on a stock airframe, with its own shape, flight model, colours, cockpit and weapon stations. Blueprinter add-on.",
+    "tags": [
+        "mod",
+        "aircraft",
+        "blueprinter"
+    ],
+    "urls": [
+        {
+            "name": "info",
+            "url": "https://github.com/metasprojects/OpenPlane"
+        }
+    ],
+    "authors": [
+        "Meta"
+    ],
+    "isClientOrServer": "Both",
+    "githubOwner": "metasprojects",
+    "githubRepoName": "OpenPlane",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "releaseAssetName": "OpenPlane-nomm.zip",
+    "artifacts": [
+        {
+            "fileName": "OpenPlane-nomm.zip",
+            "version": "0.1.0",
+            "category": "release",
+            "type": "plugin",
+            "gameVersion": "0.34.6",
+            "downloadUrl": "https://github.com/metasprojects/OpenPlane/releases/download/v0.1.0/OpenPlane-nomm.zip",
+            "hash": "sha256:ce9acfaaaa4e89a5d5367d8ed39dd18d108fe5c1ad735d9ae2db6662386498c4",
+            "dependencies": [
+                {
+                    "id": "com.nikkorap.blueprinter",
+                    "version": "2.1.1"
+                }
+            ]
+        }
+    ]
+}
