@@ -1,0 +1,37 @@
+{
+  "id": "p2082.expansion82",
+  "displayName": "Expansion 2082",
+  "description": "Adds several new units and buildings, including the infamous Atrox-class cruiser.",
+  "tags": [
+    "mod",
+    "Combat",
+    "Vehicle",
+    "P2082",
+    "Ship"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/kingwixly/Expansion2082/"
+    }
+  ],
+  "authors": [
+    "Primeva 2082 Team"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "kingwixly",
+  "githubRepoName": "Expansion2082",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "p2082.expansion82.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/kingwixly/Expansion2082/releases/download/1.0.0/p2082.expansion82.dll",
+      "hash": "sha256:18ff0fc117e0cdf92fa2dc5160356468e74da98016b2d37cb3c2d862c6899cb6"
+    }
+  ],
+  "isAiAssisted": "False"
+}
