@@ -259,3 +259,6 @@ try {
 }
 
 Write-Host "$script:checks release selection checks passed."
+# Expected failing child-process cases must not become GitHub's final native
+# exit code after every assertion has passed.
+exit 0
