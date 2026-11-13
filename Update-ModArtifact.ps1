@@ -61,9 +61,8 @@ if (!$mod)
 
 $downloadCount = 0
 
-if ($($mod.autoUpdateArtifacts) -ne "True") {
-    SaveAndClose -mod_ $mod -test_ $test
-}
+# Release adoption is opt-in; download statistics are refreshed independently.
+$updateArtifacts = $mod.autoUpdateArtifacts -eq "True"
 
 $artifacts = @($mod.artifacts)
 $artifacts.Values
@@ -80,7 +79,9 @@ Try {
     $releases = Get-GitHubReleases -Owner $mod.githubOwner -Repository $mod.githubRepoName -Token $gitHubToken
 } Catch {
     Write-Host "Failed to Fetch GitHub Releases for $($mod.id) $($mod.githubOwner) $($mod.githubRepoName)"
-    try { $mod | convertto-json -Depth 100 | out-file ".\test\$($mod.id).json" -Encoding utf8NoBOM } catch { Write-Host "Failed to write test output for $($mod.id): $_" }
+    # An unavailable API response is not a zero download count. Preserve the
+    # previous statistics (or their absence), as well as the pinned artifacts.
+    SaveAndClose -mod_ $mod -test_ $test
 }
 write-host $releases.count
 
@@ -98,7 +99,7 @@ if ($releases)
         if (!$selected) { continue }
 
         $version = [version]$selected.Version
-        if (($version -gt [version]($artifacts[0].version) -and $($mod.autoUpdateArtifacts) -eq "True") -or !$artifacts)
+        if ($updateArtifacts -and (($version -gt [version]($artifacts[0].version)) -or !$artifacts))
         {
             $obj = [PSCustomObject]@{
                 fileName = $selected.Asset.FileName
@@ -127,7 +128,9 @@ if ($releases)
 
         $downloadCount+=$selected.Asset.DownloadCount
     }
-    $mod.artifacts = @(SortByVersion -artifacts_ $artifacts)
+    if ($updateArtifacts) {
+        $mod.artifacts = @(SortByVersion -artifacts_ $artifacts)
+    }
 }
 if ($mod.downloadCount) {
     $mod.downloadCount = $downloadCount

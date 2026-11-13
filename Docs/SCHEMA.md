@@ -151,6 +151,8 @@ url : the actual URL
      YOU WANT YOUR MOD MANIFEST TO BE AUTO-UPDATED BY NOMNOM
 - Format: string
 - "True" if you want Auto Updates Enabled, "False" if Disabled
+- This flag controls release artifact updates only. With `"False"` (or no opt-in), the existing `artifacts` list, including its order and metadata, is preserved.
+- When `githubOwner` and `githubRepoName` are configured, download statistics are refreshed independently of this flag, using the same release and asset selectors. A failed GitHub request preserves the previous count instead of reporting zero.
 
 ### isAiAssisted
 
