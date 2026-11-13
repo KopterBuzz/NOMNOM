@@ -300,7 +300,7 @@
         "hash": "sha256:f41a51c3597f1b465d4c1c0f2fb2cab0481478754953deeb8971faf57666acc7"
       }
     ],
-    "downloadCount": 114
+    "downloadCount": 116
   },
   {
     "id": "AGR31Tenpin",
@@ -1471,7 +1471,7 @@
         ]
       }
     ],
-    "downloadCount": 10839,
+    "downloadCount": 10840,
     "isAiAssisted": "True"
   },
   {
@@ -1853,7 +1853,7 @@
         }
       }
     ],
-    "downloadCount": 122280,
+    "downloadCount": 122281,
     "isAiAssisted": "False"
   },
   {
@@ -2796,7 +2796,7 @@
         }
       }
     ],
-    "downloadCount": 135477,
+    "downloadCount": 135478,
     "isAiAssisted": "False"
   },
   {
@@ -3562,7 +3562,7 @@
         }
       }
     ],
-    "downloadCount": 62286,
+    "downloadCount": 62287,
     "isAiAssisted": "False"
   },
   {
@@ -4331,7 +4331,7 @@
         }
       }
     ],
-    "downloadCount": 53223,
+    "downloadCount": 53224,
     "isAiAssisted": "False"
   },
   {
@@ -5779,7 +5779,7 @@
         "hash": "sha256:4b4211b339eda6c48142bcf9c190ed322acf3cfe2fefdfa3898af379e82dbd47"
       }
     ],
-    "downloadCount": 4671,
+    "downloadCount": 4672,
     "imageUrl": "https://raw.githubusercontent.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/refs/heads/main/icon.png",
     "imageHash": "ea6fda81798f846fbadea9cb6dc55b305277a4418686006cba39100476597a94",
     "isAiAssisted": "False"
@@ -6914,7 +6914,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 117882,
+    "downloadCount": 117886,
     "isAiAssisted": "False"
   },
   {
@@ -7907,7 +7907,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 227
+    "downloadCount": 228
   },
   {
     "id": "dev.dikka.nuclearmfdweapons",
@@ -8147,7 +8147,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 165
+    "downloadCount": 166
   },
   {
     "id": "dev.dikka.nuclearsatellitemap",
@@ -8942,7 +8942,7 @@
         "hash": "sha256:4f8491978cc99c9bdd0c5be8a2e351613f8f0e34887c3954b852ef536ca00676"
       }
     ],
-    "downloadCount": 12849,
+    "downloadCount": 12850,
     "isAiAssisted": "False"
   },
   {
@@ -9092,7 +9092,7 @@
         ]
       }
     ],
-    "downloadCount": 4708,
+    "downloadCount": 4709,
     "isAiAssisted": "False"
   },
   {
@@ -9188,7 +9188,7 @@
         }
       }
     ],
-    "downloadCount": 1615,
+    "downloadCount": 1616,
     "isAiAssisted": "False"
   },
   {
@@ -9778,7 +9778,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 2141,
+    "downloadCount": 2145,
     "isAiAssisted": "True"
   },
   {
@@ -9930,7 +9930,7 @@
         ]
       }
     ],
-    "downloadCount": 6499,
+    "downloadCount": 6500,
     "isAiAssisted": "False"
   },
   {
@@ -9964,7 +9964,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 769,
+    "downloadCount": 770,
     "isAiAssisted": "False"
   },
   {
@@ -12805,7 +12805,7 @@
         "hash": "sha256:E78F676FA04AB9F3E4338ACC760AAC99A05E7192098715B3C5D18A29A73B4C15"
       }
     ],
-    "downloadCount": 7798,
+    "downloadCount": 7800,
     "isAiAssisted": "False"
   },
   {
@@ -12837,7 +12837,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 3004,
+    "downloadCount": 3005,
     "isAiAssisted": "False"
   },
   {
@@ -15537,7 +15537,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 43086,
+    "downloadCount": 43087,
     "isAiAssisted": "False"
   },
   {
@@ -16323,7 +16323,7 @@
         "hash": "sha256:dcad92ae51da5b46f38e709c81d07a8f448b2f08243a78b3814a28e137238af7"
       }
     ],
-    "downloadCount": 13719,
+    "downloadCount": 13722,
     "isAiAssisted": "False"
   },
   {
@@ -16447,7 +16447,7 @@
         }
       }
     ],
-    "downloadCount": 647
+    "downloadCount": 648
   },
   {
     "id": "NOCustomMaps.OpenSkies.StraitOfHormuz",
@@ -16488,7 +16488,7 @@
         }
       }
     ],
-    "downloadCount": 836
+    "downloadCount": 837
   },
   {
     "id": "NOCustomMaps.OpenSkies.TaiwanStrait",
@@ -19755,7 +19755,7 @@
         "hash": "sha256:b57ff0cae168fccb1b6e927d4b9bc2681f244b70c5c6e40b28d6d01eb82d3011"
       }
     ],
-    "downloadCount": 721,
+    "downloadCount": 722,
     "isAiAssisted": "False"
   },
   {
@@ -19955,7 +19955,7 @@
         "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
       }
     ],
-    "downloadCount": 41888,
+    "downloadCount": 41891,
     "isAiAssisted": "False"
   },
   {
@@ -20826,6 +20826,15 @@
     "artifacts": [
       {
         "fileName": "p2082.expansion82.dll",
+        "version": "1.0.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/kingwixly/Expansion2082/releases/download/1.0.1/p2082.expansion82.dll",
+        "hash": "sha256:dfb2d0de80853b68b85d5af36f12e0dbcf3fb2e6def4608ee9c47b7e18acff5f"
+      },
+      {
+        "fileName": "p2082.expansion82.dll",
         "version": "1.0.0",
         "category": "release",
         "type": "plugin",
@@ -20835,7 +20844,7 @@
       }
     ],
     "isAiAssisted": "False",
-    "downloadCount": 1357
+    "downloadCount": 1358
   },
   {
     "id": "P220Primrose",
@@ -21296,7 +21305,7 @@
         "hash": "sha256:33076f4deceb06291c07c70a1ce0541548f99b882bdf6f5722d02a30898878c3"
       }
     ],
-    "downloadCount": 556,
+    "downloadCount": 557,
     "isAiAssisted": "False"
   },
   {
@@ -21829,7 +21838,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 808
+    "downloadCount": 813
   },
   {
     "id": "RITA_RVWS",
@@ -22542,7 +22551,7 @@
         ]
       }
     ],
-    "downloadCount": 5718,
+    "downloadCount": 5720,
     "isAiAssisted": "False"
   },
   {
@@ -22745,7 +22754,7 @@
         ]
       }
     ],
-    "downloadCount": 105
+    "downloadCount": 107
   },
   {
     "id": "TarantulaTiltSensitivity",
@@ -22939,7 +22948,7 @@
         ]
       }
     ],
-    "downloadCount": 306
+    "downloadCount": 308
   },
   {
     "id": "TernionVaporTuner",
@@ -23218,7 +23227,7 @@
         ]
       }
     ],
-    "downloadCount": 2423,
+    "downloadCount": 2424,
     "isAiAssisted": "False"
   },
   {
@@ -23709,7 +23718,7 @@
         }
       }
     ],
-    "downloadCount": 7020,
+    "downloadCount": 7022,
     "isAiAssisted": "False"
   },
   {
