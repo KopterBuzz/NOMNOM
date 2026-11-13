@@ -1,0 +1,36 @@
+{
+  "id": "AnyFactionLiveries",
+  "displayName": "Any Faction Liveries",
+  "description": "Allows aircraft to use liveries belonging to other factions, such as using PALA liveries on BDF aircraft and BDF liveries on PALA aircraft.",
+  "tags": [
+    "QoL",
+    "Customization"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/thexboxpc1/NO-any-faction-liverys"
+    }
+  ],
+  "authors": [
+    "thexboxpc1"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "thexboxpc1",
+  "githubRepoName": "NO-any-faction-liverys",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseAssetName": "AnyFactionLiveries.dll",
+  "artifacts": [
+    {
+      "fileName": "AnyFactionLiveries.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/thexboxpc1/NO-any-faction-liverys/releases/download/1.0.0/AnyFactionLiveries.dll",
+      "hash": "sha256:3d5f31c35999f79f86d1a4fb232ac0a347b2413a9fbaea8c3503256c1bc204fe"
+    }
+  ],
+  "downloadCount": 35
+}

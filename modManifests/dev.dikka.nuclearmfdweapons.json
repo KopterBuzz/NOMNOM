@@ -10,18 +10,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMfdWeapons"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMfdWeapons"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearMfdWeapons-v",
@@ -84,6 +84,6 @@
       "hash": "sha256:becff2b07668a1bc1cb93ceb0ab213a691ee11d5dac03aec1c64f084bced44f4"
     }
   ],
-  "downloadCount": 354,
-  "isAiAssisted": "True"
+  "isAiAssisted": "True",
+  "downloadCount": 425
 }

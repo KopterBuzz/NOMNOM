@@ -9,18 +9,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapTrails"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMapTrails"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearMapTrails-v",
@@ -92,6 +92,6 @@
       "hash": "sha256:b94dac5732f717c6c0617afc500ccfc08ab99e5b3d36cfd54bd8b07017e4481b"
     }
   ],
-  "downloadCount": 153,
-  "isAiAssisted": "True"
+  "isAiAssisted": "True",
+  "downloadCount": 223
 }

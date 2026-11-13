@@ -10,18 +10,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearDeathBlackout"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearDeathBlackout"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearDeathBlackout-v",
@@ -84,6 +84,6 @@
       "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
     }
   ],
-  "downloadCount": 1733,
+  "downloadCount": 1882,
   "isAiAssisted": "True"
 }

@@ -9,18 +9,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearControllerGestures"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearControllerGestures"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearControllerGestures-v",
@@ -83,6 +83,6 @@
       "hash": "sha256:1f572f62540d4cc7da88bf4555930330cc2540c323c64368f1fb53f29fa2a285"
     }
   ],
-  "downloadCount": 78,
+  "downloadCount": 124,
   "isAiAssisted": "True"
 }

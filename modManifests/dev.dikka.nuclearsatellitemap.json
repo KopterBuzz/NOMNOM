@@ -9,18 +9,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearSatelliteMap"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearSatelliteMap"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearSatelliteMap-v",
@@ -47,6 +47,6 @@
       "hash": "sha256:0e99359756c9ad5758c3b22508e8baf167f0df1a869910464cb04df53cf29be7"
     }
   ],
-  "downloadCount": 205,
-  "isAiAssisted": "True"
+  "isAiAssisted": "True",
+  "downloadCount": 275
 }

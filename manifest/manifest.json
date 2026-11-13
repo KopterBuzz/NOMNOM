@@ -52,7 +52,7 @@
         }
       }
     ],
-    "downloadCount": 12708,
+    "downloadCount": 13183,
     "isAiAssisted": "False"
   },
   {
@@ -131,7 +131,7 @@
         }
       }
     ],
-    "downloadCount": 13037,
+    "downloadCount": 13257,
     "isAiAssisted": "False"
   },
   {
@@ -174,7 +174,7 @@
         }
       }
     ],
-    "downloadCount": 9616,
+    "downloadCount": 9693,
     "isAiAssisted": "False"
   },
   {
@@ -255,7 +255,43 @@
         ]
       }
     ],
-    "downloadCount": 1285
+    "downloadCount": 1759
+  },
+  {
+    "id": "AceCombatReloads",
+    "displayName": "Ace Combat Reloads",
+    "description": "In-flight reload reserves for missiles, bombs, rockets, guns, flares and chaff, Ace Combat style. Host and clients need the mod; clients use the host's settings.",
+    "tags": [
+      "Gameplay",
+      "Weapon"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Dandy-Yak/Ace-Combat-Style-Reloads-For-Nuclear-Option"
+      }
+    ],
+    "authors": [
+      "Dandy Yak",
+      "Astrogator"
+    ],
+    "isClientOrServer": "Both",
+    "githubOwner": "Dandy-Yak",
+    "githubRepoName": "Ace-Combat-Style-Reloads-For-Nuclear-Option",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "artifacts": [
+      {
+        "fileName": "AceCombatReloads.dll",
+        "version": "1.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/Dandy-Yak/Ace-Combat-Style-Reloads-For-Nuclear-Option/releases/download/1.2.0/AceCombatReloads.dll",
+        "hash": "sha256:f41a51c3597f1b465d4c1c0f2fb2cab0481478754953deeb8971faf57666acc7"
+      }
+    ],
+    "downloadCount": 100
   },
   {
     "id": "AGR31Tenpin",
@@ -446,7 +482,7 @@
         ]
       }
     ],
-    "downloadCount": 15543,
+    "downloadCount": 16007,
     "isAiAssisted": "False"
   },
   {
@@ -480,7 +516,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 9508,
+    "downloadCount": 9578,
     "isAiAssisted": "False"
   },
   {
@@ -522,7 +558,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 3287,
+    "downloadCount": 3328,
     "isAiAssisted": "False"
   },
   {
@@ -582,8 +618,44 @@
         "hash": "bbcffdcba57d78f653a3f979ccf6c5280fc57501e8d314d032f7ea1a5ab50e9f"
       }
     ],
-    "downloadCount": 2729,
+    "downloadCount": 2776,
     "isAiAssisted": "False"
+  },
+  {
+    "id": "AnyFactionLiveries",
+    "displayName": "Any Faction Liveries",
+    "description": "Allows aircraft to use liveries belonging to other factions, such as using PALA liveries on BDF aircraft and BDF liveries on PALA aircraft.",
+    "tags": [
+      "QoL",
+      "Customization"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/thexboxpc1/NO-any-faction-liverys"
+      }
+    ],
+    "authors": [
+      "thexboxpc1"
+    ],
+    "isClientOrServer": "Client",
+    "githubOwner": "thexboxpc1",
+    "githubRepoName": "NO-any-faction-liverys",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "releaseAssetName": "AnyFactionLiveries.dll",
+    "artifacts": [
+      {
+        "fileName": "AnyFactionLiveries.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/thexboxpc1/NO-any-faction-liverys/releases/download/1.0.0/AnyFactionLiveries.dll",
+        "hash": "sha256:3d5f31c35999f79f86d1a4fb232ac0a347b2413a9fbaea8c3503256c1bc204fe"
+      }
+    ],
+    "downloadCount": 35
   },
   {
     "id": "Apex-6",
@@ -625,7 +697,7 @@
         ]
       }
     ],
-    "downloadCount": 4832,
+    "downloadCount": 5027,
     "isAiAssisted": "False"
   },
   {
@@ -740,7 +812,7 @@
         ]
       }
     ],
-    "downloadCount": 1350,
+    "downloadCount": 1436,
     "isAiAssisted": "False"
   },
   {
@@ -915,7 +987,7 @@
         ]
       }
     ],
-    "downloadCount": 379,
+    "downloadCount": 423,
     "isAiAssisted": "False"
   },
   {
@@ -958,7 +1030,7 @@
         ]
       }
     ],
-    "downloadCount": 2337,
+    "downloadCount": 2426,
     "isAiAssisted": "False"
   },
   {
@@ -1003,7 +1075,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 362
+    "downloadCount": 441
   },
   {
     "id": "Aryx_F22E_StrikeRaptor.FCS",
@@ -1029,6 +1101,51 @@
     "githubRepoName": "Advanced-flight-controls-addon-for-Aryx-s-F-22E-mod-for-Nuclear-Option.",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "F22E-StrikeRaptor-FCS-4.3.0.zip",
+        "version": "4.3.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Advanced-flight-controls-addon-for-Aryx-s-F-22E-mod-for-Nuclear-Option./releases/download/v4.3.0/F22E-StrikeRaptor-FCS-4.3.0.zip",
+        "hash": "sha256:b89c09b8bd7172ae2f6910d1e21298e90216213e7e8e1b8ae78c007bd76252f8",
+        "dependencies": [
+          {
+            "id": "aryx.f22e",
+            "version": "1.0.5"
+          }
+        ]
+      },
+      {
+        "fileName": "F22E-StrikeRaptor-FCS-4.2.0.zip",
+        "version": "4.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Advanced-flight-controls-addon-for-Aryx-s-F-22E-mod-for-Nuclear-Option./releases/download/v4.2.0/F22E-StrikeRaptor-FCS-4.2.0.zip",
+        "hash": "sha256:9fa08fcfcc0b3445fa66f32ae9de60e83d405df62aa931b8953e4ca14510be2b",
+        "dependencies": [
+          {
+            "id": "aryx.f22e",
+            "version": "1.0.5"
+          }
+        ]
+      },
+      {
+        "fileName": "F22E-StrikeRaptor-FCS-4.1.4.zip",
+        "version": "4.1.4",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Advanced-flight-controls-addon-for-Aryx-s-F-22E-mod-for-Nuclear-Option./releases/download/v4.1.4/F22E-StrikeRaptor-FCS-4.1.4.zip",
+        "hash": "sha256:fd79d5e5e86d4361897005d1d55bf04929173a3f37e91e640bb7c8ec011f6343",
+        "dependencies": [
+          {
+            "id": "aryx.f22e",
+            "version": "1.0.5"
+          }
+        ]
+      },
       {
         "fileName": "F22E-StrikeRaptor-FCS-3.2.1.zip",
         "version": "3.2.1",
@@ -1345,7 +1462,7 @@
         ]
       }
     ],
-    "downloadCount": 9358,
+    "downloadCount": 10670,
     "isAiAssisted": "True"
   },
   {
@@ -1727,7 +1844,7 @@
         }
       }
     ],
-    "downloadCount": 120950,
+    "downloadCount": 122165,
     "isAiAssisted": "False"
   },
   {
@@ -1836,7 +1953,7 @@
         }
       }
     ],
-    "downloadCount": 30780,
+    "downloadCount": 32384,
     "isAiAssisted": "False"
   },
   {
@@ -2023,7 +2140,7 @@
         }
       }
     ],
-    "downloadCount": 88245,
+    "downloadCount": 89205,
     "isAiAssisted": "False"
   },
   {
@@ -2301,7 +2418,7 @@
         }
       }
     ],
-    "downloadCount": 91791,
+    "downloadCount": 93009,
     "isAiAssisted": "False"
   },
   {
@@ -2670,7 +2787,7 @@
         }
       }
     ],
-    "downloadCount": 134052,
+    "downloadCount": 135345,
     "isAiAssisted": "False"
   },
   {
@@ -2805,7 +2922,7 @@
         }
       }
     ],
-    "downloadCount": 51984,
+    "downloadCount": 52764,
     "isAiAssisted": "False"
   },
   {
@@ -2888,7 +3005,7 @@
         }
       }
     ],
-    "downloadCount": 41125,
+    "downloadCount": 41470,
     "isAiAssisted": "False"
   },
   {
@@ -2971,7 +3088,7 @@
         }
       }
     ],
-    "downloadCount": 29850,
+    "downloadCount": 30609,
     "isAiAssisted": "False"
   },
   {
@@ -3171,7 +3288,7 @@
         }
       }
     ],
-    "downloadCount": 90180,
+    "downloadCount": 91067,
     "isAiAssisted": "False"
   },
   {
@@ -3436,7 +3553,7 @@
         }
       }
     ],
-    "downloadCount": 61541,
+    "downloadCount": 62223,
     "isAiAssisted": "False"
   },
   {
@@ -3488,7 +3605,7 @@
         }
       }
     ],
-    "downloadCount": 4968,
+    "downloadCount": 5065,
     "isAiAssisted": "False"
   },
   {
@@ -3572,7 +3689,7 @@
         ]
       }
     ],
-    "downloadCount": 5670,
+    "downloadCount": 6104,
     "isAiAssisted": "False"
   },
   {
@@ -3644,7 +3761,7 @@
         ]
       }
     ],
-    "downloadCount": 5484,
+    "downloadCount": 5932,
     "isAiAssisted": "False"
   },
   {
@@ -3686,7 +3803,7 @@
         ]
       }
     ],
-    "downloadCount": 988,
+    "downloadCount": 1014,
     "imageUrl": "https://raw.githubusercontent.com/mosdef31/NO-Bay-Doors/main/images/baydoors_icon_512.png",
     "imageHash": "e1176dd966942df347c6a1724f351eac7114295a9bfe3e05fc3dd2bcd245d293",
     "isAiAssisted": "False"
@@ -3721,7 +3838,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4341,
+    "downloadCount": 4358,
     "isAiAssisted": "False"
   },
   {
@@ -3887,7 +4004,7 @@
         }
       }
     ],
-    "downloadCount": 7333,
+    "downloadCount": 7498,
     "isAiAssisted": "False"
   },
   {
@@ -4051,7 +4168,7 @@
         ]
       }
     ],
-    "downloadCount": 18362,
+    "downloadCount": 19381,
     "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/cceb334cf031e52d9bce063043d6e1da6191b268/Store/F117A-Nighthawk-NOMM.png",
     "imageHash": "174ed28bfccdf5aeb623940144b9f2c3763305f86088256fed9abf89a34f5728",
     "isAiAssisted": "False"
@@ -4121,7 +4238,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 635,
+    "downloadCount": 683,
     "isAiAssisted": "False"
   },
   {
@@ -4205,7 +4322,7 @@
         }
       }
     ],
-    "downloadCount": 52549,
+    "downloadCount": 53175,
     "isAiAssisted": "False"
   },
   {
@@ -4260,7 +4377,7 @@
         }
       }
     ],
-    "downloadCount": 29989,
+    "downloadCount": 30500,
     "isClientOrServer": "Both",
     "isAiAssisted": "False"
   },
@@ -4479,8 +4596,49 @@
         }
       }
     ],
-    "downloadCount": 59081,
+    "downloadCount": 59632,
     "isAiAssisted": "False"
+  },
+  {
+    "id": "br.japensou.nuclearoption.vortexctol",
+    "displayName": "FS 20 Vortex Family",
+    "description": "Single-player FS-20A and FS-20C variants alongside the stock B, with a native-style selector, C tailhook and optional shared A/B/C stock in one plugin. C: 110/165 kN; A/C: up to +11 G. Online sessions are blocked.",
+    "authors": [
+      "Jpgamer4045d"
+    ],
+    "tags": [
+      "Aircraft",
+      "Singleplayer"
+    ],
+    "isClientOrServer": "Client",
+    "isAiAssisted": "True",
+    "githubOwner": "jptecr2314",
+    "githubRepoName": "FS-20-Vortex-Family",
+    "autoUpdateArtifacts": "False",
+    "releaseAssetName": "FS-20-Vortex-Family.zip",
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/jptecr2314/FS-20-Vortex-Family"
+      }
+    ],
+    "artifacts": [
+      {
+        "fileName": "FS-20-Vortex-Family.zip",
+        "version": "0.5.8",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "dependencies": [
+          {
+            "id": "com.nikkorap.blueprinter",
+            "version": "2.1.1"
+          }
+        ],
+        "downloadUrl": "https://github.com/jptecr2314/FS-20-Vortex-Family/releases/download/v0.5.8/FS-20-Vortex-Family.zip",
+        "hash": "sha256:1c7297371a19d84e031d69ea3cc602c1b87215138e9b4a3a5a871d4b9ac6d5a0"
+      }
+    ]
   },
   {
     "id": "BVR-BalanceAndVarietyRework",
@@ -4572,7 +4730,7 @@
         }
       }
     ],
-    "downloadCount": 2448,
+    "downloadCount": 2528,
     "isAiAssisted": "False"
   },
   {
@@ -4607,7 +4765,7 @@
         "hash": "sha256:6dee4b2501f10dc0339f4e3aa577341c5bb12aebe858a173c1f5333984949f94"
       }
     ],
-    "downloadCount": 890,
+    "downloadCount": 922,
     "isAiAssisted": "False"
   },
   {
@@ -4636,6 +4794,15 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "ShaderNightVision-v1.1.2.dll",
+        "version": "1.1.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/the-cat-d/ShaderNightVision/releases/download/1.1.2/ShaderNightVision-v1.1.2.dll",
+        "hash": "sha256:d49f32d892f28d72abb5cc0fafe9407186e3dffd9504d0d28e7027ff59984f08"
+      },
+      {
         "fileName": "ShaderNightVision-v1.1.1.dll",
         "version": "1.1.1",
         "category": "release",
@@ -4663,7 +4830,7 @@
         "hash": "sha256:3097cf591bfeea1099ff3a5e2bb61ed64a88a4221174d2f80e8a9d6705edeff4"
       }
     ],
-    "downloadCount": 1512,
+    "downloadCount": 1592,
     "isAiAssisted": "False"
   },
   {
@@ -4697,7 +4864,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1153,
+    "downloadCount": 1166,
     "isAiAssisted": "False"
   },
   {
@@ -4739,7 +4906,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2799,
+    "downloadCount": 2828,
     "isAiAssisted": "False"
   },
   {
@@ -4775,7 +4942,7 @@
         "hash": "sha256:259cd6f69804b68691e20a4e41800db32c5f4daab85e44358b25b0c1221672cf"
       }
     ],
-    "downloadCount": 855,
+    "downloadCount": 892,
     "isAiAssisted": "False"
   },
   {
@@ -4810,7 +4977,7 @@
         "hash": "sha256:aae68ea57f93cfe6046ccc954fa8ff7e35f0c364dcb541d14da24299130c8863"
       }
     ],
-    "downloadCount": 2065,
+    "downloadCount": 2122,
     "isAiAssisted": "False"
   },
   {
@@ -4957,7 +5124,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 2471,
+    "downloadCount": 2561,
     "isAiAssisted": "False"
   },
   {
@@ -5019,7 +5186,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2552,
+    "downloadCount": 2607,
     "isAiAssisted": "False"
   },
   {
@@ -5054,7 +5221,7 @@
         "hash": "sha256:08b7cd5ce9a8688de7c3acc4832288a03f4f654de405aadf204283fb03ef75b1"
       }
     ],
-    "downloadCount": 1644,
+    "downloadCount": 1674,
     "isAiAssisted": "False"
   },
   {
@@ -5105,7 +5272,7 @@
         }
       }
     ],
-    "downloadCount": 5654,
+    "downloadCount": 5954,
     "isAiAssisted": "False"
   },
   {
@@ -5164,7 +5331,7 @@
         ]
       }
     ],
-    "downloadCount": 1556,
+    "downloadCount": 1633,
     "isAiAssisted": "False"
   },
   {
@@ -5249,7 +5416,7 @@
         "hash": "sha256:837dfb023b5ba23d8ac9683ec23b03b3d6a7d35c3e2c4ed97ac9cd9187baca13"
       }
     ],
-    "downloadCount": 5693,
+    "downloadCount": 5842,
     "isAiAssisted": "False"
   },
   {
@@ -5351,7 +5518,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 655,
+    "downloadCount": 726,
     "imageUrl": "https://raw.githubusercontent.com/Big-LouDE/NOTacMap/63b7a4b1dde6dca567f041b475d57cd90fcdfcc9/thunderstore/icon.png",
     "imageHash": "35a9158bc20b9daec9481fc6b623b9456ce7bd34e7be6e605eacc251c2a71359",
     "isAiAssisted": "False"
@@ -5415,7 +5582,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 821,
+    "downloadCount": 872,
     "isAiAssisted": "False"
   },
   {
@@ -5455,7 +5622,7 @@
         "hash": "sha256:c8639fadf34b15dd29712669208c5c3c38f477165fa0ef90e82bad1afbf92d89"
       }
     ],
-    "downloadCount": 85,
+    "downloadCount": 97,
     "isAiAssisted": "False"
   },
   {
@@ -5588,7 +5755,7 @@
         "hash": "sha256:4b4211b339eda6c48142bcf9c190ed322acf3cfe2fefdfa3898af379e82dbd47"
       }
     ],
-    "downloadCount": 4564,
+    "downloadCount": 4669,
     "imageUrl": "https://raw.githubusercontent.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/refs/heads/main/icon.png",
     "imageHash": "ea6fda81798f846fbadea9cb6dc55b305277a4418686006cba39100476597a94",
     "isAiAssisted": "False"
@@ -5633,7 +5800,7 @@
         "hash": "sha256:03858353393143de47bf3043910129e803458de6c80fac29b1b3c8f7a868f5ef"
       }
     ],
-    "downloadCount": 3410,
+    "downloadCount": 3425,
     "isAiAssisted": "False"
   },
   {
@@ -5704,7 +5871,7 @@
         "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
       }
     ],
-    "downloadCount": 4611,
+    "downloadCount": 4714,
     "isAiAssisted": "False"
   },
   {
@@ -5790,7 +5957,7 @@
         ]
       }
     ],
-    "downloadCount": 2050,
+    "downloadCount": 2100,
     "isAiAssisted": "False"
   },
   {
@@ -5846,7 +6013,7 @@
         ]
       }
     ],
-    "downloadCount": 2886,
+    "downloadCount": 2923,
     "isAiAssisted": "False"
   },
   {
@@ -5917,7 +6084,7 @@
         ]
       }
     ],
-    "downloadCount": 6983,
+    "downloadCount": 7050,
     "isAiAssisted": "False"
   },
   {
@@ -5960,7 +6127,7 @@
         "hash": "sha256:24b75fbcd9b8e930f3edfde6879549d72d90b9083d7a386a9305d4c3e9dc6635"
       }
     ],
-    "downloadCount": 1839,
+    "downloadCount": 1880,
     "isAiAssisted": "False"
   },
   {
@@ -6000,7 +6167,7 @@
         ]
       }
     ],
-    "downloadCount": 572,
+    "downloadCount": 589,
     "isAiAssisted": "False"
   },
   {
@@ -6074,7 +6241,7 @@
         ]
       }
     ],
-    "downloadCount": 707,
+    "downloadCount": 738,
     "isAiAssisted": "False"
   },
   {
@@ -6126,7 +6293,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 3674,
+    "downloadCount": 3729,
     "isAiAssisted": "False"
   },
   {
@@ -6160,7 +6327,7 @@
         "hash": "sha256:ceca2a5c7c816187da113d34dd6d07c2903ddedac0f5f8deefd03388d916b5ef"
       }
     ],
-    "downloadCount": 299,
+    "downloadCount": 316,
     "isAiAssisted": "False"
   },
   {
@@ -6210,7 +6377,7 @@
         ]
       }
     ],
-    "downloadCount": 173,
+    "downloadCount": 195,
     "isAiAssisted": "False"
   },
   {
@@ -6251,7 +6418,7 @@
         ]
       }
     ],
-    "downloadCount": 58,
+    "downloadCount": 69,
     "isAiAssisted": "False"
   },
   {
@@ -6328,7 +6495,7 @@
         ]
       }
     ],
-    "downloadCount": 5796,
+    "downloadCount": 5941,
     "isAiAssisted": "False"
   },
   {
@@ -6405,7 +6572,7 @@
         ]
       }
     ],
-    "downloadCount": 5365,
+    "downloadCount": 5502,
     "isAiAssisted": "False"
   },
   {
@@ -6497,7 +6664,7 @@
         ]
       }
     ],
-    "downloadCount": 8494,
+    "downloadCount": 8698,
     "isAiAssisted": "False"
   },
   {
@@ -6604,7 +6771,7 @@
         ]
       }
     ],
-    "downloadCount": 9436,
+    "downloadCount": 9622,
     "isAiAssisted": "False"
   },
   {
@@ -6723,7 +6890,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 116617,
+    "downloadCount": 117752,
     "isAiAssisted": "False"
   },
   {
@@ -6793,7 +6960,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 4027,
+    "downloadCount": 4073,
     "isAiAssisted": "False"
   },
   {
@@ -6827,7 +6994,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 5270,
+    "downloadCount": 5352,
     "isAiAssisted": "False"
   },
   {
@@ -6867,7 +7034,7 @@
         ]
       }
     ],
-    "downloadCount": 1493,
+    "downloadCount": 1525,
     "isAiAssisted": "False"
   },
   {
@@ -6909,7 +7076,7 @@
         "hash": "sha256:9306a73e73b2376b69096bc7bbad5b0a81e605f104a10c96755735e0c38bd919"
       }
     ],
-    "downloadCount": 3542,
+    "downloadCount": 3669,
     "isAiAssisted": "False"
   },
   {
@@ -6972,7 +7139,7 @@
         "hash": "sha256:1a396e7c9474a7b20333e1b1efb0c34eacedff9b57923ce6e67e680aac6cb014"
       }
     ],
-    "downloadCount": 8531,
+    "downloadCount": 9527,
     "isAiAssisted": "False"
   },
   {
@@ -7010,7 +7177,7 @@
         }
       }
     ],
-    "downloadCount": 3282,
+    "downloadCount": 3386,
     "isAiAssisted": "False"
   },
   {
@@ -7024,18 +7191,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearConnectivity"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearConnectivity"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearConnectivity-v",
@@ -7098,7 +7265,7 @@
         "hash": "sha256:0511ebb64fd6da8fef8780c4dcd81d8b9bc7e54d203ac55503b0813fe22c022b"
       }
     ],
-    "downloadCount": 93,
+    "downloadCount": 127,
     "isAiAssisted": "True"
   },
   {
@@ -7112,18 +7279,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearControllerGestures"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearControllerGestures"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearControllerGestures-v",
@@ -7186,7 +7353,7 @@
         "hash": "sha256:1f572f62540d4cc7da88bf4555930330cc2540c323c64368f1fb53f29fa2a285"
       }
     ],
-    "downloadCount": 78,
+    "downloadCount": 124,
     "isAiAssisted": "True"
   },
   {
@@ -7201,18 +7368,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearDeathBlackout"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearDeathBlackout"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearDeathBlackout-v",
@@ -7275,7 +7442,7 @@
         "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
       }
     ],
-    "downloadCount": 1733,
+    "downloadCount": 1882,
     "isAiAssisted": "True"
   },
   {
@@ -7290,18 +7457,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearDelivery"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearDelivery"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearDelivery-v",
@@ -7364,7 +7531,7 @@
         "hash": "sha256:7735bd4cda0cd26193a39b7e7bef67eb83ab4eaedec36eef452a56f640bdbd16"
       }
     ],
-    "downloadCount": 393,
+    "downloadCount": 472,
     "isAiAssisted": "True"
   },
   {
@@ -7378,18 +7545,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearLiveFeed"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearLiveFeed"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearLiveFeed-v",
@@ -7425,7 +7592,7 @@
         "hash": "sha256:e834ad02cfee34de3c256f215b2630c3fc3a93940fe02e9451bc8f3e880dc44c"
       }
     ],
-    "downloadCount": 63,
+    "downloadCount": 93,
     "isAiAssisted": "True"
   },
   {
@@ -7439,18 +7606,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapMarkings"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMapMarkings"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearMapMarkings-v",
@@ -7477,8 +7644,8 @@
         "hash": "sha256:333d318d4c31804a9936e27c1f2cb0f5d2d9d9b96e3c1927c90016d7bfc0ee4b"
       }
     ],
-    "downloadCount": 156,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 232
   },
   {
     "id": "dev.dikka.nuclearmappan",
@@ -7491,18 +7658,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapPan"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMapPan"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearMapPan-v",
@@ -7521,7 +7688,7 @@
         "hash": "sha256:57ed0c2c3a0577d437f3de4cebc859ed4d81f856e5c49935037e780d2b103d98"
       }
     ],
-    "downloadCount": 20
+    "downloadCount": 38
   },
   {
     "id": "dev.dikka.nuclearmapplayernames",
@@ -7535,18 +7702,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapPlayerNames"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMapPlayerNames"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearMapPlayerNames-v",
@@ -7618,8 +7785,8 @@
         "hash": "sha256:2aeb1945d4e0cba4b0d0fd41a1221ac00bb3769afb88c1936f2608fc06e44f8e"
       }
     ],
-    "downloadCount": 423,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 480
   },
   {
     "id": "dev.dikka.nuclearmaptrails",
@@ -7632,18 +7799,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapTrails"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMapTrails"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearMapTrails-v",
@@ -7715,8 +7882,8 @@
         "hash": "sha256:b94dac5732f717c6c0617afc500ccfc08ab99e5b3d36cfd54bd8b07017e4481b"
       }
     ],
-    "downloadCount": 153,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 223
   },
   {
     "id": "dev.dikka.nuclearmfdweapons",
@@ -7730,18 +7897,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMfdWeapons"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMfdWeapons"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearMfdWeapons-v",
@@ -7804,8 +7971,8 @@
         "hash": "sha256:becff2b07668a1bc1cb93ceb0ab213a691ee11d5dac03aec1c64f084bced44f4"
       }
     ],
-    "downloadCount": 354,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 425
   },
   {
     "id": "dev.dikka.nuclearminimap",
@@ -7819,18 +7986,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMinimap"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMinimap"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearMinimap-v",
@@ -7902,8 +8069,8 @@
         "hash": "sha256:fa30cea310f9d715d2c744aa2a75e64ff863b6fe87d4cb9f3fee968bdabc734e"
       }
     ],
-    "downloadCount": 204,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 267
   },
   {
     "id": "dev.dikka.nuclearnightvision",
@@ -7917,18 +8084,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearNightVision"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearNightVision"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearNightVision-v",
@@ -7955,8 +8122,8 @@
         "hash": "sha256:3a4541abe89cefc406ebbe4ec4a26df36b4358ba40365959efb582b14bba7c41"
       }
     ],
-    "downloadCount": 98,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 160
   },
   {
     "id": "dev.dikka.nuclearsatellitemap",
@@ -7969,18 +8136,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearSatelliteMap"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearSatelliteMap"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearSatelliteMap-v",
@@ -8007,8 +8174,8 @@
         "hash": "sha256:0e99359756c9ad5758c3b22508e8baf167f0df1a869910464cb04df53cf29be7"
       }
     ],
-    "downloadCount": 205,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 275
   },
   {
     "id": "dev.dikka.nuclearsounds",
@@ -8021,18 +8188,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearSounds"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearSounds"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearSounds-v",
@@ -8086,8 +8253,8 @@
         "hash": "sha256:6ee4d65c0c993f673fb8df4638e271a08eb27aa97c921c62d491cb1ed6c4e1f5"
       }
     ],
-    "downloadCount": 247,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 312
   },
   {
     "id": "dev.dikka.nuclearspectator",
@@ -8101,18 +8268,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearSpectator"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearSpectator"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearSpectator-v",
@@ -8139,8 +8306,8 @@
         "hash": "sha256:dab3172dbddbeb698e206a336739adf67c04e551d4d05e798b524252fd712314"
       }
     ],
-    "downloadCount": 57,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 94
   },
   {
     "id": "dev.dikka.nucleartargeting",
@@ -8153,18 +8320,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearTargeting"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearTargeting"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearTargeting-v",
@@ -8227,8 +8394,8 @@
         "hash": "sha256:6d49f506f239d26c735e2127af7b57a3e7e0c8a02d5b6371283beef6d64333fe"
       }
     ],
-    "downloadCount": 128,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 180
   },
   {
     "id": "dev.dikka.nucleartrackage",
@@ -8241,18 +8408,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearTrackAge"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearTrackAge"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearTrackAge-v",
@@ -8315,8 +8482,8 @@
         "hash": "sha256:88a3c2e6ff6d5da6a58909625020f058a28fb1f3846b87b07ff0e5111a8cfa58"
       }
     ],
-    "downloadCount": 667,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 741
   },
   {
     "id": "dev.dikka.nuclearunits",
@@ -8329,18 +8496,18 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearUnits"
+        "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearUnits"
       },
       {
         "name": "source",
-        "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+        "url": "https://github.com/scramd/nuclear-option-client-mods"
       }
     ],
     "authors": [
       "dikkadev"
     ],
     "isClientOrServer": "Client",
-    "githubOwner": "dikkadev",
+    "githubOwner": "scramd",
     "githubRepoName": "nuclear-option-client-mods",
     "autoUpdateArtifacts": "True",
     "releaseTagPrefix": "NuclearUnits-v",
@@ -8403,8 +8570,8 @@
         "hash": "sha256:33cb88f7abc7a7bd9a3ab3542042a78313ef4242b0191e506d675666446becbe"
       }
     ],
-    "downloadCount": 261,
-    "isAiAssisted": "True"
+    "isAiAssisted": "True",
+    "downloadCount": 304
   },
   {
     "id": "F16VaporTuner",
@@ -8448,7 +8615,7 @@
         ]
       }
     ],
-    "downloadCount": 16635,
+    "downloadCount": 16836,
     "isAiAssisted": "False"
   },
   {
@@ -8499,7 +8666,7 @@
         }
       }
     ],
-    "downloadCount": 2895,
+    "downloadCount": 3001,
     "isAiAssisted": "False"
   },
   {
@@ -8558,7 +8725,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 18732,
+    "downloadCount": 18906,
     "isAiAssisted": "False"
   },
   {
@@ -8605,7 +8772,7 @@
         ]
       }
     ],
-    "downloadCount": 1573,
+    "downloadCount": 1660,
     "isAiAssisted": "False"
   },
   {
@@ -8710,7 +8877,7 @@
         "hash": "sha256:4f8491978cc99c9bdd0c5be8a2e351613f8f0e34887c3954b852ef536ca00676"
       }
     ],
-    "downloadCount": 12659,
+    "downloadCount": 12837,
     "isAiAssisted": "False"
   },
   {
@@ -8749,6 +8916,48 @@
     "isAiAssisted": "False"
   },
   {
+    "id": "GearHotkeys",
+    "displayName": "Nuclear Option Gear Hotkeys",
+    "description": "Adds separate configurable keyboard and joystick/HOTAS inputs for deploying and retracting landing gear. Uses BepInEx Configuration Manager to configure bindings.",
+    "tags": [
+      "QoL",
+      "Controls"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/thexboxpc1/NO-gear-hotkeys"
+      }
+    ],
+    "authors": [
+      "thexboxpc1"
+    ],
+    "isClientOrServer": "Client",
+    "githubOwner": "thexboxpc1",
+    "githubRepoName": "NO-gear-hotkeys",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "releaseAssetName": "GearHotkeys.dll",
+    "artifacts": [
+      {
+        "fileName": "GearHotkeys.dll",
+        "version": "2.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/thexboxpc1/NO-gear-hotkeys/releases/download/2.0.0/GearHotkeys.dll",
+        "hash": "sha256:3eee0d7a48f9612e08e5453291f3fb1e73f900529f08b1532226e96130045b3b",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 20
+  },
+  {
     "id": "GroundControlRts",
     "displayName": "Ground Control (RTS)",
     "description": "An RTS command layer for Nuclear Option: select units, queue routes, give attack orders, build an economy, task aircraft and capture airbases, then drop back into a cockpit and fly the war you just planned.",
@@ -8772,6 +8981,21 @@
     "githubRepoName": "Ground-Controll-RTS",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "GroundControlRts.zip",
+        "version": "1.0.0.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/simonsimme/Ground-Controll-RTS/releases/download/1.0.0.2/GroundControlRts.zip",
+        "hash": "sha256:89c6117ddeb02c7276e79727b865530819f1bef6900d7a013eacf45c51b1c0a6",
+        "incompatibilities": [
+          {
+            "id": "NuclearOptionCommander",
+            "version": "0.1.2.0"
+          }
+        ]
+      },
       {
         "fileName": "GroundControlRts.zip",
         "version": "1.0.0.1",
@@ -8803,7 +9027,7 @@
         ]
       }
     ],
-    "downloadCount": 4051,
+    "downloadCount": 4661,
     "isAiAssisted": "False"
   },
   {
@@ -8899,7 +9123,7 @@
         }
       }
     ],
-    "downloadCount": 1524,
+    "downloadCount": 1607,
     "isAiAssisted": "False"
   },
   {
@@ -8934,7 +9158,7 @@
         "hash": "sha256:9a052051a0d563ea1b76fefa60d7ef51cf0721e0cafc58ec189832df1c867b54"
       }
     ],
-    "downloadCount": 77,
+    "downloadCount": 91,
     "isAiAssisted": "False"
   },
   {
@@ -9073,7 +9297,7 @@
         "hash": "sha256:f6414b84d1df84c691cdb80fa9db75cce592e066d66fe807e9e379f36449c5fe"
       }
     ],
-    "downloadCount": 4153,
+    "downloadCount": 4219,
     "isAiAssisted": "False"
   },
   {
@@ -9130,7 +9354,7 @@
         ]
       }
     ],
-    "downloadCount": 1588,
+    "downloadCount": 1674,
     "isAiAssisted": "False"
   },
   {
@@ -9255,7 +9479,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3388,
+    "downloadCount": 3476,
     "isAiAssisted": "False"
   },
   {
@@ -9361,7 +9585,7 @@
         "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
       }
     ],
-    "downloadCount": 2770,
+    "downloadCount": 2845,
     "isAiAssisted": "False"
   },
   {
@@ -9388,6 +9612,24 @@
     "githubRepoName": "Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "Ifrit-KR67-FCS-1.2.0.zip",
+        "version": "1.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit/releases/download/v1.2.0/Ifrit-KR67-FCS-1.2.0.zip",
+        "hash": "sha256:d6ebdfb444dbfff5e1ed608a0ff7294ea0c95be4064e8ec8bb29876eebfc6c99"
+      },
+      {
+        "fileName": "Ifrit-KR67-FCS-1.1.2.zip",
+        "version": "1.1.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit/releases/download/v1.1.2/Ifrit-KR67-FCS-1.1.2.zip",
+        "hash": "sha256:3f99b6ca11d409beb66dc0e903cca107ea5f69f3f746a65bb2b517c056c25840"
+      },
       {
         "fileName": "Ifrit-KR67-FCS-1.0.0.zip",
         "version": "1.0.0",
@@ -9462,7 +9704,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 1594,
+    "downloadCount": 2083,
     "isAiAssisted": "True"
   },
   {
@@ -9493,6 +9735,21 @@
     "githubRepoName": "ironjaw-sound",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "IronjawSound-1.1.2.zip",
+        "version": "1.1.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/Talamander/ironjaw-sound/releases/download/v1.1.2/IronjawSound-1.1.2.zip",
+        "hash": "sha256:92710d952bad9d7c04abdd2c03d7d8e1a0c4eccc77055505f32244e37695fbf9",
+        "dependencies": [
+          {
+            "id": "NOMapLoader",
+            "version": "1.0.5"
+          }
+        ]
+      },
       {
         "fileName": "IronjawSound-1.1.1.zip",
         "version": "1.1.1",
@@ -9584,7 +9841,7 @@
         ]
       }
     ],
-    "downloadCount": 5664,
+    "downloadCount": 6410,
     "isAiAssisted": "False"
   },
   {
@@ -9618,7 +9875,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 751,
+    "downloadCount": 769,
     "isAiAssisted": "False"
   },
   {
@@ -9661,7 +9918,7 @@
         }
       }
     ],
-    "downloadCount": 1673,
+    "downloadCount": 1711,
     "isAiAssisted": "False"
   },
   {
@@ -9718,7 +9975,7 @@
         }
       }
     ],
-    "downloadCount": 3354,
+    "downloadCount": 3438,
     "isAiAssisted": "False"
   },
   {
@@ -9781,7 +10038,7 @@
         "hash": "sha256:571ad2daa961de9cdd9c56df23a983369ed06423452306433c410ddb331e8b50"
       }
     ],
-    "downloadCount": 10308,
+    "downloadCount": 10508,
     "isAiAssisted": "False"
   },
   {
@@ -9861,7 +10118,7 @@
         }
       }
     ],
-    "downloadCount": 44966,
+    "downloadCount": 45226,
     "isAiAssisted": "False"
   },
   {
@@ -9903,7 +10160,7 @@
         ]
       }
     ],
-    "downloadCount": 1773,
+    "downloadCount": 1799,
     "isAiAssisted": "False"
   },
   {
@@ -10026,7 +10283,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 15969,
+    "downloadCount": 16224,
     "isAiAssisted": "False"
   },
   {
@@ -10060,7 +10317,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 8060,
+    "downloadCount": 8118,
     "isAiAssisted": "False"
   },
   {
@@ -10093,7 +10350,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 12761,
+    "downloadCount": 12873,
     "isAiAssisted": "False"
   },
   {
@@ -10127,7 +10384,7 @@
         "hash": "sha256:b0605039b15a30db94fd09db162d37bad009981e363dcde84fcb67d6fbfa35b8"
       }
     ],
-    "downloadCount": 231,
+    "downloadCount": 252,
     "isAiAssisted": "False"
   },
   {
@@ -10161,7 +10418,7 @@
         "hash": "sha256:3632f0ebf44e752a506526c95b5cd244356abce8318cb6868f925755b5c08f81"
       }
     ],
-    "downloadCount": 3456,
+    "downloadCount": 3538,
     "isAiAssisted": "False"
   },
   {
@@ -10323,7 +10580,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 9953,
+    "downloadCount": 10120,
     "isAiAssisted": "False"
   },
   {
@@ -10384,7 +10641,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 911,
+    "downloadCount": 940,
     "isAiAssisted": "False"
   },
   {
@@ -10733,7 +10990,7 @@
         ]
       }
     ],
-    "downloadCount": 1129,
+    "downloadCount": 1177,
     "isAiAssisted": "False"
   },
   {
@@ -11082,7 +11339,7 @@
         ]
       }
     ],
-    "downloadCount": 1053,
+    "downloadCount": 1101,
     "isAiAssisted": "False"
   },
   {
@@ -11458,7 +11715,7 @@
         ]
       }
     ],
-    "downloadCount": 748,
+    "downloadCount": 801,
     "isAiAssisted": "False"
   },
   {
@@ -11969,7 +12226,7 @@
         ]
       }
     ],
-    "downloadCount": 1672,
+    "downloadCount": 1745,
     "isAiAssisted": "False"
   },
   {
@@ -12318,7 +12575,7 @@
         ]
       }
     ],
-    "downloadCount": 263,
+    "downloadCount": 311,
     "isAiAssisted": "False"
   },
   {
@@ -12388,7 +12645,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 210,
+    "downloadCount": 242,
     "isAiAssisted": "False"
   },
   {
@@ -12459,7 +12716,7 @@
         "hash": "sha256:E78F676FA04AB9F3E4338ACC760AAC99A05E7192098715B3C5D18A29A73B4C15"
       }
     ],
-    "downloadCount": 7581,
+    "downloadCount": 7782,
     "isAiAssisted": "False"
   },
   {
@@ -12491,7 +12748,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 2948,
+    "downloadCount": 3000,
     "isAiAssisted": "False"
   },
   {
@@ -12539,7 +12796,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/Metadorius/MapMouseSelect/6e08c30fd6d5315d6ce84650c2f91956e2cb7ab7/docs/media/icon.png",
     "imageHash": "adfedc00aa6e4f1a3f1ed94552dcc9298de1dc2e6663cbd82718a104899352b1",
-    "downloadCount": 654,
+    "downloadCount": 697,
     "isAiAssisted": "False"
   },
   {
@@ -12686,7 +12943,7 @@
         ]
       }
     ],
-    "downloadCount": 13217,
+    "downloadCount": 13630,
     "isAiAssisted": "False"
   },
   {
@@ -12764,7 +13021,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 989,
+    "downloadCount": 1027,
     "isAiAssisted": "False"
   },
   {
@@ -12796,7 +13053,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 2029,
+    "downloadCount": 2046,
     "isAiAssisted": "False"
   },
   {
@@ -13022,7 +13279,7 @@
         }
       }
     ],
-    "downloadCount": 19964,
+    "downloadCount": 21163,
     "isAiAssisted": "False"
   },
   {
@@ -13114,7 +13371,7 @@
         }
       }
     ],
-    "downloadCount": 8609,
+    "downloadCount": 9571,
     "isAiAssisted": "False"
   },
   {
@@ -13166,7 +13423,7 @@
         "hash": "sha256:0ece977a524ed76bf99b79704e661fdf9f3dea74cddcaafa9e558d36b0640c56"
       }
     ],
-    "downloadCount": 8136,
+    "downloadCount": 8267,
     "isClientOrServer": "Both",
     "isAiAssisted": "False"
   },
@@ -13267,7 +13524,7 @@
         ]
       }
     ],
-    "downloadCount": 2077,
+    "downloadCount": 2120,
     "isClientOrServer": "Client",
     "isAiAssisted": "False"
   },
@@ -13320,7 +13577,7 @@
         "hash": "sha256:d2d6b04918625ad889134c850969e917b24ed32dbce47da645fbbe1e74489419"
       }
     ],
-    "downloadCount": 1313,
+    "downloadCount": 1345,
     "isAiAssisted": "False"
   },
   {
@@ -13355,7 +13612,7 @@
         "hash": "sha256:ebf280e432360ac02535eeee6873458c8ac0371ef3c657d8a8c0671d1e087a66"
       }
     ],
-    "downloadCount": 69,
+    "downloadCount": 79,
     "isAiAssisted": "False"
   },
   {
@@ -13526,7 +13783,7 @@
         "hash": "sha256:25710f1307ccff0a3238adf5921ddb5f99229722141d1cdd275d368077908784"
       }
     ],
-    "downloadCount": 16455,
+    "downloadCount": 16869,
     "isAiAssisted": "False"
   },
   {
@@ -13583,7 +13840,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/Metadorius/MultiplayerLobbyFixes/e56bbb61957a50018e9244196918bb340b1c86da/icon.png",
     "imageHash": "53b31b20ec71865ae2647606a80e093ab05d89d94c062ac35135aeb1a3e048c2",
-    "downloadCount": 291,
+    "downloadCount": 338,
     "isAiAssisted": "False"
   },
   {
@@ -13635,7 +13892,7 @@
         "hash": "sha256:63ca906086784554adc354fedabc2628e921c36b1aa840a5061f0245bb62c224"
       }
     ],
-    "downloadCount": 357,
+    "downloadCount": 386,
     "isAiAssisted": "False"
   },
   {
@@ -13858,7 +14115,7 @@
         ]
       }
     ],
-    "downloadCount": 1735,
+    "downloadCount": 1842,
     "isAiAssisted": "False"
   },
   {
@@ -13901,7 +14158,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 4813,
+    "downloadCount": 4932,
     "isAiAssisted": "False"
   },
   {
@@ -13976,7 +14233,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 712,
+    "downloadCount": 740,
     "isAiAssisted": "False"
   },
   {
@@ -14042,7 +14299,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 156,
+    "downloadCount": 180,
     "isAiAssisted": "False"
   },
   {
@@ -14094,7 +14351,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 7386,
+    "downloadCount": 7523,
     "isAiAssisted": "False"
   },
   {
@@ -14196,7 +14453,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 1110,
+    "downloadCount": 1161,
     "isAiAssisted": "False"
   },
   {
@@ -14238,7 +14495,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 710,
+    "downloadCount": 723,
     "isAiAssisted": "False"
   },
   {
@@ -14280,7 +14537,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 10328,
+    "downloadCount": 10456,
     "isAiAssisted": "False"
   },
   {
@@ -14310,7 +14567,7 @@
         "version": "0.18.3",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.34.1",
+        "gameVersion": "0.34.6",
         "downloadUrl": "https://github.com/DevHrytsan/NeutralQoL/releases/download/v0.18.3/NeutralQoL.zip",
         "hash": "sha256:a762498297d95d1892ffd31b28522318b458395002fe58743a1ee097f18179ba"
       },
@@ -14351,7 +14608,7 @@
         "hash": "sha256:a31b7b53a21f76c4d98beaa09759a8c3fbf5b59629e49350bc442b9d34d24952"
       }
     ],
-    "downloadCount": 414,
+    "downloadCount": 549,
     "isAiAssisted": "False"
   },
   {
@@ -14438,7 +14695,7 @@
         ]
       }
     ],
-    "downloadCount": 300,
+    "downloadCount": 332,
     "isAiAssisted": "False"
   },
   {
@@ -14559,7 +14816,7 @@
         ]
       }
     ],
-    "downloadCount": 959,
+    "downloadCount": 1029,
     "isAiAssisted": "False"
   },
   {
@@ -14755,7 +15012,7 @@
         ]
       }
     ],
-    "downloadCount": 23855,
+    "downloadCount": 24006,
     "isAiAssisted": "False"
   },
   {
@@ -15191,7 +15448,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 42538,
+    "downloadCount": 43044,
     "isAiAssisted": "False"
   },
   {
@@ -15224,7 +15481,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1314,
+    "downloadCount": 1341,
     "isAiAssisted": "False"
   },
   {
@@ -15264,7 +15521,7 @@
         ]
       }
     ],
-    "downloadCount": 2122,
+    "downloadCount": 2143,
     "isAiAssisted": "False"
   },
   {
@@ -15303,8 +15560,88 @@
         "hash": "sha256:8f669bef6cce12b4bbc45621e19a9d064469e05c1bfc2eb4c874a06da4343e1c"
       }
     ],
-    "downloadCount": 173,
+    "downloadCount": 188,
     "isAiAssisted": "False"
+  },
+  {
+    "id": "NOAIFlightFix",
+    "displayName": "NO AI Flight Fix",
+    "description": "Host-side fix for two faults in the game's fixed-wing AI: diving into the ground at full throttle while attacking a building, and sinking into the ground in a hard turn right after take-off. It changes AI aircraft only, never player aircraft, and writes no networked state, so install it on the host or dedicated server. If WingCommand is installed on the same host, set its AiSharpTurns option to false, or most fresh AI take-offs still crash.",
+    "tags": [
+      "mod",
+      "Gameplay",
+      "Server"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/netmaster296/NOAIFlightFix"
+      }
+    ],
+    "authors": [
+      "netmaster296"
+    ],
+    "isClientOrServer": "Server",
+    "githubOwner": "netmaster296",
+    "githubRepoName": "NOAIFlightFix",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "artifacts": [
+      {
+        "fileName": "NOAIFlightFix.dll",
+        "version": "1.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/netmaster296/NOAIFlightFix/releases/download/v1.2.0/NOAIFlightFix.dll",
+        "hash": "sha256:816c9b9bb3134dd7c00a3d038882bff4af627f728426e198608ff198443f3521",
+        "dependencies": []
+      }
+    ],
+    "downloadCount": 8
+  },
+  {
+    "id": "NOAirbaseLightsFix",
+    "displayName": "NO Airbase Lights Fix",
+    "description": "Removes the phantom rows of runway lights that appear at night and dawn at every custom-map airbase with NOCustomMaps 1.4.2: the game's light toggle re-enables the hidden donor airbase's lights. Client-side and visual only; it acts only on NOCustomMaps airbases and stands down on newer NOCustomMaps versions until checked. Upstream report: BatongMaster/NOCustomMaps#2.",
+    "tags": [
+      "mod",
+      "Visual",
+      "Map",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/netmaster296/NOAirbaseLightsFix"
+      }
+    ],
+    "authors": [
+      "netmaster296"
+    ],
+    "isClientOrServer": "Client",
+    "githubOwner": "netmaster296",
+    "githubRepoName": "NOAirbaseLightsFix",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "artifacts": [
+      {
+        "fileName": "NOAirbaseLightsFix.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/netmaster296/NOAirbaseLightsFix/releases/download/v1.0.0/NOAirbaseLightsFix.dll",
+        "hash": "sha256:c202e1b5fdb73ccc31c1d630c6bba81f431c9f955e4f47462be8c8cbbc094375",
+        "dependencies": [
+          {
+            "id": "NOCustomMaps",
+            "version": "1.4.2"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 8
   },
   {
     "id": "NOBlackBox",
@@ -15391,8 +15728,45 @@
     "imageUrl": "https://www.tacview.net/img/ico-tacview.png",
     "imageHash": "ce9298cdcef30b7694a2dcc58bc50222b9b41954da553ff6588133964df605fa",
     "isClientOrServer": "Both",
-    "downloadCount": 7549,
+    "downloadCount": 7607,
     "isAiAssisted": "False"
+  },
+  {
+    "id": "NOCloudDeck",
+    "displayName": "NO Cloud Deck",
+    "description": "Visual weather for the Cascadia Falling map: turns the stock cloud layer into a deck with a floor (clear air below the cloud base), regional cloud and rain from real Pacific Northwest climate data, and occasional distant lightning. Client-side and visual only: it activates only on Cascadia Falling missions and writes no gameplay or networked state. Players running it see less far through the weather than players without it, so for fair PvP every player should run it on default settings. Optional for that mission.",
+    "tags": [
+      "mod",
+      "Visual",
+      "Map"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/netmaster296/NOCloudDeck"
+      }
+    ],
+    "authors": [
+      "netmaster296"
+    ],
+    "isClientOrServer": "Client",
+    "githubOwner": "netmaster296",
+    "githubRepoName": "NOCloudDeck",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "artifacts": [
+      {
+        "fileName": "NOCloudDeck.dll",
+        "version": "1.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/netmaster296/NOCloudDeck/releases/download/v1.2.0/NOCloudDeck.dll",
+        "hash": "sha256:9e48847dcfc95f49228827be79156a4100082f53fa40647a9a2557407f9cb8c5",
+        "dependencies": []
+      }
+    ],
+    "downloadCount": 6
   },
   {
     "id": "NOCobra",
@@ -15443,7 +15817,7 @@
         "hash": "sha256:f26f4b2da6f8ecfa0e5c383ee2ac26c7bb8cdf793e12446612d34521f3442418"
       }
     ],
-    "downloadCount": 1058,
+    "downloadCount": 1098,
     "isAiAssisted": "False"
   },
   {
@@ -15621,7 +15995,7 @@
         "hash": "sha256:0d65fdb6fb55601346750c0e9251bcd14e52a631bf4fa540aba835d781401d74"
       }
     ],
-    "downloadCount": 2121,
+    "downloadCount": 2234,
     "isAiAssisted": "False"
   },
   {
@@ -15707,7 +16081,7 @@
         ]
       }
     ],
-    "downloadCount": 1030,
+    "downloadCount": 1069,
     "isAiAssisted": "False"
   },
   {
@@ -15740,7 +16114,7 @@
         "hash": "sha256:0af5bd580d11285c5723828da014cf99f00e784dd14b7b40ea700a63e127449b"
       }
     ],
-    "downloadCount": 816,
+    "downloadCount": 826,
     "isAiAssisted": "False"
   },
   {
@@ -15770,6 +16144,25 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "cascadia-0.1.1.zip",
+        "version": "0.1.1",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/netmaster296/CascadiaFalling/releases/download/v0.1.1/cascadia-0.1.1.zip",
+        "hash": "sha256:e23cabf212c1cfbc2c94b6f96769fb1217b49adb5a07f9eae10d4d50d18ce4bf",
+        "extends": {
+          "id": "NOCustomMaps",
+          "version": "1.4.0"
+        },
+        "dependencies": [
+          {
+            "id": "NOGridLetters",
+            "version": "1.1.0"
+          }
+        ]
+      },
+      {
         "fileName": "cascadia-0.1.0.zip",
         "version": "0.1.0",
         "category": "release",
@@ -15789,7 +16182,7 @@
         ]
       }
     ],
-    "downloadCount": 3234,
+    "downloadCount": 3921,
     "isAiAssisted": "False"
   },
   {
@@ -15860,7 +16253,7 @@
         "hash": "sha256:dcad92ae51da5b46f38e709c81d07a8f448b2f08243a78b3814a28e137238af7"
       }
     ],
-    "downloadCount": 12997,
+    "downloadCount": 13665,
     "isAiAssisted": "False"
   },
   {
@@ -15902,7 +16295,7 @@
         }
       }
     ],
-    "downloadCount": 398
+    "downloadCount": 648
   },
   {
     "id": "NOCustomMaps.OpenSkies.KoreanPeninsula",
@@ -15943,7 +16336,7 @@
         }
       }
     ],
-    "downloadCount": 525
+    "downloadCount": 943
   },
   {
     "id": "NOCustomMaps.OpenSkies.LofotenNarvik",
@@ -15984,7 +16377,7 @@
         }
       }
     ],
-    "downloadCount": 380
+    "downloadCount": 624
   },
   {
     "id": "NOCustomMaps.OpenSkies.StraitOfHormuz",
@@ -16025,7 +16418,7 @@
         }
       }
     ],
-    "downloadCount": 423
+    "downloadCount": 799
   },
   {
     "id": "NOCustomMaps.OpenSkies.TaiwanStrait",
@@ -16066,7 +16459,7 @@
         }
       }
     ],
-    "downloadCount": 391
+    "downloadCount": 673
   },
   {
     "id": "NOCustomMaps.SwissAlps",
@@ -16130,7 +16523,7 @@
         }
       }
     ],
-    "downloadCount": 14286,
+    "downloadCount": 14901,
     "isAiAssisted": "False"
   },
   {
@@ -16200,7 +16593,7 @@
         ]
       }
     ],
-    "downloadCount": 939,
+    "downloadCount": 965,
     "isAiAssisted": "False"
   },
   {
@@ -16234,7 +16627,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 253,
+    "downloadCount": 265,
     "isAiAssisted": "False"
   },
   {
@@ -16274,7 +16667,7 @@
         ]
       }
     ],
-    "downloadCount": 5076,
+    "downloadCount": 5111,
     "isAiAssisted": "False"
   },
   {
@@ -16306,13 +16699,13 @@
         "version": "1.1.0",
         "category": "release",
         "type": "plugin",
-        "gameVersion": "0.34.2",
+        "gameVersion": "0.34.6",
         "downloadUrl": "https://github.com/netmaster296/NOGridLetters/releases/download/v1.1.0/NOGridLetters.dll",
         "hash": "sha256:23b3a69decd93a2d3d306c50b05a95e4df6314e854c5f79d369dfdf8784e9904",
         "dependencies": []
       }
     ],
-    "downloadCount": 1599,
+    "downloadCount": 1827,
     "isAiAssisted": "False"
   },
   {
@@ -16349,7 +16742,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 413,
+    "downloadCount": 433,
     "isAiAssisted": "False"
   },
   {
@@ -16453,7 +16846,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 4207,
+    "downloadCount": 4452,
     "isAiAssisted": "False"
   },
   {
@@ -16478,6 +16871,15 @@
     "githubRepoName": "NO-Map-Overhaul",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "NoMapOverhaul-v0.6.1-nomm.zip",
+        "version": "0.6.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/baanish/NO-Map-Overhaul/releases/download/v0.6.1/NoMapOverhaul-v0.6.1-nomm.zip",
+        "hash": "sha256:e0bf1138b1fbc9802a0dfe71c5b2a644f08378386040e27f8dd8c0b9f7421371"
+      },
       {
         "fileName": "NoMapOverhaul-v0.6.0-nomm.zip",
         "version": "0.6.0",
@@ -16506,7 +16908,7 @@
         "hash": "sha256:d7aba3f84cd835eaa5a84ff1e1fd4b068b32c4f5d6742051bdba99c7d57428e7"
       }
     ],
-    "downloadCount": 863,
+    "downloadCount": 970,
     "isAiAssisted": "False"
   },
   {
@@ -16569,7 +16971,7 @@
         "hash": "sha256:626645001525a51f2ae93e44af573e4960eb400726c468cc9a5b508eb972a96c"
       }
     ],
-    "downloadCount": 602,
+    "downloadCount": 655,
     "isAiAssisted": "False"
   },
   {
@@ -16629,7 +17031,7 @@
         "hash": "sha256:f160d8464641126ce271ce594fa1176267f0b72d35b2f9f5989915bfb5467cd7"
       }
     ],
-    "downloadCount": 565,
+    "downloadCount": 623,
     "isAiAssisted": "False"
   },
   {
@@ -16673,7 +17075,7 @@
         "hash": "sha256:b2a46d825f3c3d16fa2d08759e1a76ca05d999ca8999cf58de444e01db6bc7bb"
       }
     ],
-    "downloadCount": 285,
+    "downloadCount": 317,
     "isAiAssisted": "False"
   },
   {
@@ -16717,7 +17119,7 @@
         "hash": "sha256:d642242bb836ab78e33f8e50982972a4813d0da2b23328044d833e649ed83393"
       }
     ],
-    "downloadCount": 280,
+    "downloadCount": 304,
     "isAiAssisted": "False"
   },
   {
@@ -16777,7 +17179,7 @@
         "hash": "sha256:7e32a546b4ce21d698d23aa54ff872e825e655da65513926d6e6930de7b89c99"
       }
     ],
-    "downloadCount": 2532,
+    "downloadCount": 2696,
     "isAiAssisted": "False"
   },
   {
@@ -16812,7 +17214,7 @@
         "hash": "sha256:8b0e872ccc584840c971255cd849c08d347a86d762d88058592c38243767bfd2"
       }
     ],
-    "downloadCount": 761,
+    "downloadCount": 795,
     "isAiAssisted": "False"
   },
   {
@@ -16868,7 +17270,7 @@
         "hash": "sha256:7f4094305adf9fda13233bfb021a706413a50c174a0c7f49d17af5ac58ebfe31"
       }
     ],
-    "downloadCount": 1074,
+    "downloadCount": 1115,
     "isClientOrServer": "Both",
     "isAiAssisted": "False"
   },
@@ -16915,7 +17317,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 352,
+    "downloadCount": 381,
     "isAiAssisted": "False"
   },
   {
@@ -16960,7 +17362,7 @@
         "hash": "sha256:5b2f92e108a326c96f66b54da1b2c3e89c62e9ec7738a9c1167d9100821ba87e"
       }
     ],
-    "downloadCount": 383,
+    "downloadCount": 411,
     "isAiAssisted": "False"
   },
   {
@@ -17277,7 +17679,7 @@
         ]
       }
     ],
-    "downloadCount": 23629,
+    "downloadCount": 23797,
     "isAiAssisted": "False"
   },
   {
@@ -18573,7 +18975,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/roke77/NOXMFD/main/docs/images/icon.png",
     "imageHash": "c8cbf823cb5147537769080ef8753109bf1bac3515d17d1c70af68c336294de0",
-    "downloadCount": 9735,
+    "downloadCount": 10277,
     "isAiAssisted": "False"
   },
   {
@@ -18625,7 +19027,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 6670,
+    "downloadCount": 6725,
     "isAiAssisted": "False"
   },
   {
@@ -18688,7 +19090,7 @@
         "hash": "sha256:2408fe71dbf38ec325cc22feec1a75b59849bd29933a4e6131df62273f4a950e"
       }
     ],
-    "downloadCount": 4422,
+    "downloadCount": 4484,
     "isAiAssisted": "False"
   },
   {
@@ -18721,7 +19123,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 485,
+    "downloadCount": 498,
     "isAiAssisted": "False"
   },
   {
@@ -18927,7 +19329,7 @@
         ]
       }
     ],
-    "downloadCount": 7180,
+    "downloadCount": 7316,
     "isAiAssisted": "False"
   },
   {
@@ -18973,7 +19375,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 1257,
+    "downloadCount": 1326,
     "isAiAssisted": "False"
   },
   {
@@ -19009,7 +19411,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 507,
+    "downloadCount": 540,
     "isAiAssisted": "False"
   },
   {
@@ -19046,7 +19448,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 718,
+    "downloadCount": 760,
     "isAiAssisted": "False"
   },
   {
@@ -19110,7 +19512,7 @@
         ]
       }
     ],
-    "downloadCount": 1223,
+    "downloadCount": 1263,
     "isAiAssisted": "False"
   },
   {
@@ -19149,7 +19551,7 @@
         ]
       }
     ],
-    "downloadCount": 3148,
+    "downloadCount": 3172,
     "isAiAssisted": "False"
   },
   {
@@ -19185,7 +19587,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 526,
+    "downloadCount": 541,
     "isAiAssisted": "False"
   },
   {
@@ -19283,7 +19685,7 @@
         "hash": "sha256:b57ff0cae168fccb1b6e927d4b9bc2681f244b70c5c6e40b28d6d01eb82d3011"
       }
     ],
-    "downloadCount": 667,
+    "downloadCount": 719,
     "isAiAssisted": "False"
   },
   {
@@ -19483,7 +19885,7 @@
         "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
       }
     ],
-    "downloadCount": 41051,
+    "downloadCount": 41821,
     "isAiAssisted": "False"
   },
   {
@@ -19516,6 +19918,15 @@
     "githubRepoName": "nuclear-replay",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "NuclearReplay-0.7.1-plugins.zip",
+        "version": "0.7.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/Talamander/nuclear-replay/releases/download/v0.7.1/NuclearReplay-0.7.1-plugins.zip",
+        "hash": "sha256:522aa9e1325f50f2aa21e3e078b607a32a90b99583669868d7a396ffa8fc417e"
+      },
       {
         "fileName": "NuclearReplay-0.7.0-plugins.zip",
         "version": "0.7.0",
@@ -19562,7 +19973,7 @@
         "hash": "sha256:99df596c3eee73e57024d7848e31271a5e4f6cac5b512af77541f0865b6da752"
       }
     ],
-    "downloadCount": 1017,
+    "downloadCount": 1216,
     "isAiAssisted": "False"
   },
   {
@@ -19648,7 +20059,7 @@
         ]
       }
     ],
-    "downloadCount": 4086,
+    "downloadCount": 4137,
     "isAiAssisted": "False"
   },
   {
@@ -19735,7 +20146,7 @@
         "hash": "sha256:7cad781255ba7e946c7554c9bc7bbdd01a33b48e8543c0a244d749b1e5a3250e"
       }
     ],
-    "downloadCount": 341,
+    "downloadCount": 379,
     "isAiAssisted": "False"
   },
   {
@@ -19835,7 +20246,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 3132,
+    "downloadCount": 3284,
     "isAiAssisted": "False"
   },
   {
@@ -19974,7 +20385,7 @@
         "hash": "sha256:9829adb5135f08d0b129453cb685628a7def130371f8f9770f5d3baf28feb66e"
       }
     ],
-    "downloadCount": 12552,
+    "downloadCount": 12745,
     "isAiAssisted": "False"
   },
   {
@@ -20010,7 +20421,7 @@
         "hash": "sha256:295535c345327aaf3f4a9e91ff51f635ef3a4bda8b4ffcf1337841e32b718ee4"
       }
     ],
-    "downloadCount": 70,
+    "downloadCount": 125,
     "isAiAssisted": "False"
   },
   {
@@ -20244,7 +20655,7 @@
         "hash": "sha256:5dcac9d50851f22d7921835771cb415b66160d7c669a033331fcc5f5ee5e419b"
       }
     ],
-    "downloadCount": 400,
+    "downloadCount": 506,
     "isAiAssisted": "False"
   },
   {
@@ -20306,8 +20717,46 @@
         "hash": "sha256:0560cf08576a3ed8c0aa103aba3d2b2912d304638651263de0f9998b2ce7dc1f"
       }
     ],
-    "downloadCount": 92,
+    "downloadCount": 130,
     "isAiAssisted": "False"
+  },
+  {
+    "id": "p2082.expansion82",
+    "displayName": "Expansion 2082",
+    "description": "Adds several new units and buildings, including the infamous Atrox-class cruiser.",
+    "tags": [
+      "mod",
+      "Combat",
+      "Vehicle",
+      "P2082",
+      "Ship"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/kingwixly/Expansion2082/"
+      }
+    ],
+    "authors": [
+      "Primeva 2082 Team"
+    ],
+    "isClientOrServer": "Both",
+    "githubOwner": "kingwixly",
+    "githubRepoName": "Expansion2082",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "p2082.expansion82.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/kingwixly/Expansion2082/releases/download/1.0.0/p2082.expansion82.dll",
+        "hash": "sha256:18ff0fc117e0cdf92fa2dc5160356468e74da98016b2d37cb3c2d862c6899cb6"
+      }
+    ],
+    "isAiAssisted": "False",
+    "downloadCount": 1234
   },
   {
     "id": "P220Primrose",
@@ -20365,7 +20814,7 @@
         ]
       }
     ],
-    "downloadCount": 1293
+    "downloadCount": 2061
   },
   {
     "id": "Pauel3312.NOKillWeapons",
@@ -20425,7 +20874,7 @@
         "hash": "sha256:b8899af8d033a66218213b8a041f3d6ca5eddcb21e6617205822eab7cbdd477e"
       }
     ],
-    "downloadCount": 3502,
+    "downloadCount": 3564,
     "isAiAssisted": "False"
   },
   {
@@ -20486,7 +20935,7 @@
         "hash": "sha256:5a0d349411bfc2eccffdf0cfa29d82c2563766f52da82326a56ab9d639322af4"
       }
     ],
-    "downloadCount": 3297,
+    "downloadCount": 3356,
     "isAiAssisted": "False"
   },
   {
@@ -20601,7 +21050,7 @@
         "hash": "sha256:141f8733266f619096b85699271f673c1afc0404d30912d3c25817f2c9b22756"
       }
     ],
-    "downloadCount": 2721,
+    "downloadCount": 2813,
     "isAiAssisted": "False"
   },
   {
@@ -20674,7 +21123,7 @@
         ]
       }
     ],
-    "downloadCount": 11062,
+    "downloadCount": 11817,
     "isAiAssisted": "False"
   },
   {
@@ -20735,7 +21184,7 @@
         ]
       }
     ],
-    "downloadCount": 2166,
+    "downloadCount": 2296,
     "isAiAssisted": "False"
   },
   {
@@ -20768,7 +21217,7 @@
         "hash": "sha256:33076f4deceb06291c07c70a1ce0541548f99b882bdf6f5722d02a30898878c3"
       }
     ],
-    "downloadCount": 537,
+    "downloadCount": 556,
     "isAiAssisted": "False"
   },
   {
@@ -20835,6 +21284,15 @@
     "artifacts": [
       {
         "fileName": "PlayableVehicles.dll",
+        "version": "1.1.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/Rap3/NuclearOption-PlayableVehicles/releases/download/v1.1.2/PlayableVehicles.dll",
+        "hash": "sha256:ef411ea5c2d5401c3dbd035d9319a31f546d542b8e1bb0a43fcd974717448fae"
+      },
+      {
+        "fileName": "PlayableVehicles.dll",
         "version": "1.1.1",
         "category": "release",
         "type": "plugin",
@@ -20879,7 +21337,7 @@
         "hash": "sha256:33d5363ba6f8329c9a809c900595c7c5e178e85e25fe615d9b6ca625e957cff4"
       }
     ],
-    "downloadCount": 2119,
+    "downloadCount": 2572,
     "isAiAssisted": "False"
   },
   {
@@ -20984,7 +21442,7 @@
         }
       }
     ],
-    "downloadCount": 2330,
+    "downloadCount": 2428,
     "isAiAssisted": "False"
   },
   {
@@ -21122,7 +21580,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 12359,
+    "downloadCount": 12441,
     "isAiAssisted": "False"
   },
   {
@@ -21161,7 +21619,7 @@
         "hash": "sha256:08dd8400304cc5b6d18ee26611879a39f89709e3140f2dc28f6528008ad38ea2"
       }
     ],
-    "downloadCount": 888,
+    "downloadCount": 914,
     "isAiAssisted": "False"
   },
   {
@@ -21208,7 +21666,7 @@
         "hash": "sha256:990fb5a50eaabe43659331c93a0d0d6e3b4fb1e0b5e07de355aa28a7102aebe1"
       }
     ],
-    "downloadCount": 628,
+    "downloadCount": 682,
     "isAiAssisted": "False"
   },
   {
@@ -21236,6 +21694,24 @@
     "autoUpdateArtifacts": "True",
     "isAiAssisted": "True",
     "artifacts": [
+      {
+        "fileName": "FS12-Revoker-FCS-1.3.1.zip",
+        "version": "1.3.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-12-Revoker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Revoker/releases/download/v1.3.1/FS12-Revoker-FCS-1.3.1.zip",
+        "hash": "sha256:8596fd5e98ed21fe630a87d966fbf6f9a4bc7f3dc3dfa39b544306453eb8956c"
+      },
+      {
+        "fileName": "FS12-Revoker-FCS-1.2.0.zip",
+        "version": "1.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-12-Revoker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Revoker/releases/download/v1.2.0/FS12-Revoker-FCS-1.2.0.zip",
+        "hash": "sha256:8e1af0f0df1bb72a7c1cf4adaaeae9560d4e494fceb90e410db3f1407c8a4428"
+      },
       {
         "fileName": "FS12-Revoker-FCS-1.0.0.zip",
         "version": "1.0.0",
@@ -21265,7 +21741,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 406
+    "downloadCount": 770
   },
   {
     "id": "RITA_RVWS",
@@ -21330,7 +21806,7 @@
         ]
       }
     ],
-    "downloadCount": 3243,
+    "downloadCount": 3295,
     "isClientOrServer": "Client",
     "imageUrl": "https://raw.githubusercontent.com/muhimin01/no-rita-rvws/refs/heads/main/RITA_icon.webp",
     "imageHash": "8856b86dd147008bf6589ceee72bcb092c64e61db742d6a1b671ecdd7d0ef2eb",
@@ -21403,7 +21879,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 145796,
+    "downloadCount": 146068,
     "isClientOrServer": "Client",
     "isAiAssisted": "False"
   },
@@ -21448,7 +21924,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 31,
+    "downloadCount": 47,
     "isAiAssisted": "False"
   },
   {
@@ -21505,7 +21981,7 @@
         ]
       }
     ],
-    "downloadCount": 2687,
+    "downloadCount": 3016,
     "isAiAssisted": "False"
   },
   {
@@ -21664,7 +22140,7 @@
         ]
       }
     ],
-    "downloadCount": 1273,
+    "downloadCount": 1384,
     "isAiAssisted": "False"
   },
   {
@@ -21706,7 +22182,7 @@
         "hash": "sha256:a1038722ff26f04ba99bf56151892e123370f73ecbc8ae2967d6887dae8617f9"
       }
     ],
-    "downloadCount": 4668,
+    "downloadCount": 4766,
     "isAiAssisted": "False"
   },
   {
@@ -21750,7 +22226,7 @@
         "hash": "sha256:81a7192c8b138162096000b2d6608eb089316eca2fafc29cb350f00d1ead84ea"
       }
     ],
-    "downloadCount": 782,
+    "downloadCount": 817,
     "isAiAssisted": "False"
   },
   {
@@ -21845,7 +22321,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 1914,
+    "downloadCount": 1960,
     "isAiAssisted": "False"
   },
   {
@@ -21911,7 +22387,7 @@
         ]
       }
     ],
-    "downloadCount": 8384,
+    "downloadCount": 8829,
     "isAiAssisted": "False"
   },
   {
@@ -21978,7 +22454,7 @@
         ]
       }
     ],
-    "downloadCount": 3964,
+    "downloadCount": 5591,
     "isAiAssisted": "False"
   },
   {
@@ -22029,7 +22505,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/SolarUI.png",
     "imageHash": "cc068f1a83fcfc9e0fcdef28b8d1acd26521476f347317b66292a71910b2913a",
-    "downloadCount": 436,
+    "downloadCount": 473,
     "isAiAssisted": "False"
   },
   {
@@ -22065,7 +22541,7 @@
         "hash": "sha256:de848f759b6490454c0fb1a279d25497a881b7831874350947e26a734372552e"
       }
     ],
-    "downloadCount": 138,
+    "downloadCount": 170,
     "isAiAssisted": "False"
   },
   {
@@ -22107,8 +22583,66 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
       }
     ],
-    "downloadCount": 819,
+    "downloadCount": 842,
     "isAiAssisted": "False"
+  },
+  {
+    "id": "Su30_VXN.FCS",
+    "displayName": "Better FBW for Su-30VXN Flanker",
+    "description": "Replaces the Su-30VXN Gandiva's fly-by-wire with a much better modern flight control system, using similar control laws as other FCS mods. The FCS allows carefree handling and full authority control across the entire envelop, even for easy post stall maneuvering. The FCS is also higly resistance to departure on damaged airframe, asymmetric loadout compensation, fuel balancing for asymmetric loadout, VMC protection with an engine out. Multiplayer: the flight-model changes only apply when the host also runs the mod and has enabled it (HostAllowFcs / HostLockVariant); otherwise everyone flies the Su-30VXN with its own fly-by-wire. The optional dev plugin (separate release asset) exposes the tuning settings.",
+    "tags": [
+      "mod",
+      "QoL",
+      "aircraft",
+      "flight-control"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/duythinh2022-ui/Better-FBW-for-SU-30VXN-Flanker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-SU-30VXN"
+      }
+    ],
+    "authors": [
+      "duythinh2022-ui"
+    ],
+    "isClientOrServer": "Both",
+    "githubOwner": "duythinh2022-ui",
+    "githubRepoName": "Better-FBW-for-SU-30VXN-Flanker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-SU-30VXN",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "artifacts": [
+      {
+        "fileName": "Flanker-Su30-VXN-FCS-0.5.7.zip",
+        "version": "0.5.7",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-SU-30VXN-Flanker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-SU-30VXN/releases/download/v0.5.7/Flanker-Su30-VXN-FCS-0.5.7.zip",
+        "hash": "sha256:8c1ea220e34cc28aed230ea7666f211abe78b4f455639eff10db35f86dca3125",
+        "dependencies": [
+          {
+            "id": "Solar_Su30VXN",
+            "version": "1.0.1"
+          }
+        ]
+      },
+      {
+        "fileName": "Flanker-Su30-VXN-FCS-0.5.6.zip",
+        "version": "0.5.6",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-SU-30VXN-Flanker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-SU-30VXN/releases/download/v0.5.6/Flanker-Su30-VXN-FCS-0.5.6.zip",
+        "hash": "sha256:2ead3b8296acfedf7d515da7bd69d535b877c8deead795ada8e222677b55dd25",
+        "dependencies": [
+          {
+            "id": "Solar_Su30VXN",
+            "version": "1.0.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 57
   },
   {
     "id": "TarantulaTiltSensitivity",
@@ -22141,7 +22675,7 @@
         "hash": "sha256:b1fb596a4a883aa1bfdb616bed0210c9c3c44d4d771601db5120e0c600010051"
       }
     ],
-    "downloadCount": 674,
+    "downloadCount": 696,
     "isAiAssisted": "False"
   },
   {
@@ -22180,7 +22714,7 @@
         ]
       }
     ],
-    "downloadCount": 695,
+    "downloadCount": 706,
     "isAiAssisted": "False"
   },
   {
@@ -22213,8 +22747,81 @@
         "hash": null
       }
     ],
-    "downloadCount": 6522,
+    "downloadCount": 6559,
     "isAiAssisted": "False"
+  },
+  {
+    "id": "Ternion_FS3.FCS",
+    "displayName": "Better FBW for FS-3 Ternion",
+    "description": "Replaces the FS-3 Ternion's fly-by-wire with a much better modern flight control system, using similar control laws as other FCS mods. The FCS allows carefree handling and full authority control across the entire envelop, even for easy post stall maneuvering. The FCS is also higly resistance to departure on damaged airframe, asymmetric loadout compensation, fuel balancing for asymmetric loadout, VMC protection with an engine out. Multiplayer: the flight-model changes only apply when the host also runs the mod and has enabled it (HostAllowFcs / HostLockVariant); otherwise everyone flies the Ternion with its own fly-by-wire. The optional dev plugin (separate release asset) exposes the tuning settings.",
+    "tags": [
+      "mod",
+      "QoL",
+      "aircraft",
+      "flight-control"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion"
+      }
+    ],
+    "authors": [
+      "duythinh2022-ui"
+    ],
+    "isClientOrServer": "Both",
+    "githubOwner": "duythinh2022-ui",
+    "githubRepoName": "Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "artifacts": [
+      {
+        "fileName": "FS3-Ternion-FCS-0.3.2.zip",
+        "version": "0.3.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion/releases/download/v0.3.2/FS3-Ternion-FCS-0.3.2.zip",
+        "hash": "sha256:fae9044e26a0222cc4d4a2c49dad192db52e385ed0d6df19266b528a51842289",
+        "dependencies": [
+          {
+            "id": "blueprinter.ternion",
+            "version": "1.0.1"
+          }
+        ]
+      },
+      {
+        "fileName": "FS3-Ternion-FCS-0.3.0.zip",
+        "version": "0.3.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion/releases/download/v0.3.0/FS3-Ternion-FCS-0.3.0.zip",
+        "hash": "sha256:bc80140235ed35aa00385bef02ad5da7905cbf5abe1c98769a666f1e93cce1a6",
+        "dependencies": [
+          {
+            "id": "blueprinter.ternion",
+            "version": "1.0.1"
+          }
+        ]
+      },
+      {
+        "fileName": "FS3-Ternion-FCS-0.2.0.zip",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion/releases/download/v0.2.0/FS3-Ternion-FCS-0.2.0.zip",
+        "hash": "sha256:ca976dbd7b3361a58ef7559207c3ba317c752a96e47fa3dd070550fda47d04be",
+        "dependencies": [
+          {
+            "id": "blueprinter.ternion",
+            "version": "1.0.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 268
   },
   {
     "id": "TernionVaporTuner",
@@ -22286,7 +22893,7 @@
         ]
       }
     ],
-    "downloadCount": 4367,
+    "downloadCount": 4420,
     "isAiAssisted": "False"
   },
   {
@@ -22434,7 +23041,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 6344,
+    "downloadCount": 6406,
     "isAiAssisted": "False"
   },
   {
@@ -22493,7 +23100,7 @@
         ]
       }
     ],
-    "downloadCount": 2282,
+    "downloadCount": 2418,
     "isAiAssisted": "False"
   },
   {
@@ -22526,7 +23133,7 @@
         "hash": "sha256:17002fd05e3fb01ee703f32d85656e2c06cf63977aa9bf81361ca70d67fa5710"
       }
     ],
-    "downloadCount": 571,
+    "downloadCount": 586,
     "isAiAssisted": "False"
   },
   {
@@ -22576,7 +23183,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 897,
+    "downloadCount": 919,
     "isAiAssisted": "False"
   },
   {
@@ -22633,7 +23240,7 @@
         ]
       }
     ],
-    "downloadCount": 10931,
+    "downloadCount": 11076,
     "isAiAssisted": "False"
   },
   {
@@ -22698,7 +23305,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 9578,
+    "downloadCount": 9626,
     "isAiAssisted": "False"
   },
   {
@@ -22747,7 +23354,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/NuclearPlus.png",
     "imageHash": "a2fe8adf88a226a726616865ba477891e79607637f5e11689464363b79dda53a",
-    "downloadCount": 931,
+    "downloadCount": 976,
     "isAiAssisted": "False"
   },
   {
@@ -22806,7 +23413,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/FuelLeak.png",
     "imageHash": "ba3282a0a0095ba19a08382507e946dbbb703296f191e3250ca1c231ccb3da4c",
-    "downloadCount": 990,
+    "downloadCount": 1022,
     "isAiAssisted": "False"
   },
   {
@@ -22852,8 +23459,86 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/CollimatedHUD.png",
     "imageHash": "a50838ad4f1c39eea75fbde2cb0f6769659dc69c25550478eff20a082e3f4d56",
-    "downloadCount": 1273,
+    "downloadCount": 1345,
     "isAiAssisted": "False"
+  },
+  {
+    "id": "VirtualJoystickToggle",
+    "displayName": "Virtual Joystick Toggle",
+    "description": "Toggles Nuclear Option's built-in Use Virtual Joystick (mouse flight) setting with Mouse 0 or any configurable keyboard or mouse binding, without opening the settings menu. Changes the game's existing setting; it does not add a new joystick system. Client-side only.",
+    "tags": [
+      "QoL",
+      "Controls",
+      "Input"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/ColeShogun/Virtual-Joystick-Toggle"
+      }
+    ],
+    "authors": [
+      "ColeShogun"
+    ],
+    "isClientOrServer": "Client",
+    "githubOwner": "ColeShogun",
+    "githubRepoName": "Virtual-Joystick-Toggle",
+    "autoUpdateArtifacts": "True",
+    "isAiAssisted": "True",
+    "releaseAssetName": "VirtualJoystickToggle.dll",
+    "artifacts": [
+      {
+        "fileName": "VirtualJoystickToggle.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/ColeShogun/Virtual-Joystick-Toggle/releases/download/v1.0.0/VirtualJoystickToggle.dll",
+        "hash": "sha256:c7dcc472a0265b893cd991c1e7dc69184f262d239b599c4a1c4d6226f912412a"
+      }
+    ],
+    "downloadCount": 15
+  },
+  {
+    "id": "vladzgrid.a37",
+    "displayName": "A-37B Dragonfly Uruguay (Beta)",
+    "description": "Uruguayan A-37B with a dedicated catalog silhouette and 11-zone damage display. Tier 1, $13M. Requires Blueprinter 2.1.1. Multiplayer is not certified.",
+    "tags": [
+      "mod",
+      "aircraft",
+      "blueprinter"
+    ],
+    "urls": [
+      {
+        "url": "https://github.com/Braianvladzgrid/a37b-dragonfly-uruguay-nuclear-option",
+        "name": "info"
+      }
+    ],
+    "authors": [
+      "Braianvladzgrid",
+      "Emmanuel Baranger / helijah (aircraft)",
+      "Bertrand Augras (pilot)"
+    ],
+    "githubOwner": "Braianvladzgrid",
+    "githubRepoName": "a37b-dragonfly-uruguay-nuclear-option",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "A37B_Dragonfly_Uruguay.zip",
+        "version": "0.1.1",
+        "category": "prerelease",
+        "type": "addon",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/Braianvladzgrid/a37b-dragonfly-uruguay-nuclear-option/releases/download/v0.1.1/A37B_Dragonfly_Uruguay.zip",
+        "hash": "sha256:2c77c1f056f192f55472dbc04b12550385cb2d29a1f4a58468ae3064c3674c87",
+        "extends": {
+          "version": "2.1.1",
+          "id": "com.nikkorap.blueprinter"
+        },
+        "isAiAssisted": "True"
+      }
+    ],
+    "downloadCount": 331
   },
   {
     "id": "vladzgrid.f4ephantom",
@@ -22906,7 +23591,7 @@
         }
       }
     ],
-    "downloadCount": 6579,
+    "downloadCount": 6983,
     "isAiAssisted": "False"
   },
   {
@@ -22945,7 +23630,7 @@
         }
       }
     ],
-    "downloadCount": 4281,
+    "downloadCount": 4647,
     "isAiAssisted": "False"
   },
   {
@@ -22977,7 +23662,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 4676,
+    "downloadCount": 4716,
     "isAiAssisted": "False"
   },
   {
@@ -23094,7 +23779,7 @@
         "hash": "sha256:a5ca9f18d2ef36a3729b4a24eafd0d1adf56ba7d8495cbcb929a3413caca9671"
       }
     ],
-    "downloadCount": 4163,
+    "downloadCount": 4243,
     "isAiAssisted": "False"
   },
   {
@@ -23128,7 +23813,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 16406,
+    "downloadCount": 16503,
     "isAiAssisted": "False"
   },
   {
@@ -23197,7 +23882,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1683,
+    "downloadCount": 1709,
     "isAiAssisted": "False"
   },
   {
@@ -23267,7 +23952,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 301,
+    "downloadCount": 327,
     "isAiAssisted": "False"
   }
 ]

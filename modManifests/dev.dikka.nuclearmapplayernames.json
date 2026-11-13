@@ -10,18 +10,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapPlayerNames"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMapPlayerNames"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearMapPlayerNames-v",
@@ -93,6 +93,6 @@
       "hash": "sha256:2aeb1945d4e0cba4b0d0fd41a1221ac00bb3769afb88c1936f2608fc06e44f8e"
     }
   ],
-  "downloadCount": 423,
-  "isAiAssisted": "True"
+  "isAiAssisted": "True",
+  "downloadCount": 480
 }

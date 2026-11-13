@@ -9,18 +9,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapMarkings"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMapMarkings"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearMapMarkings-v",
@@ -47,6 +47,6 @@
       "hash": "sha256:333d318d4c31804a9936e27c1f2cb0f5d2d9d9b96e3c1927c90016d7bfc0ee4b"
     }
   ],
-  "downloadCount": 156,
-  "isAiAssisted": "True"
+  "isAiAssisted": "True",
+  "downloadCount": 232
 }

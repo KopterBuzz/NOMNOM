@@ -1,0 +1,43 @@
+{
+  "id": "NOAirbaseLightsFix",
+  "displayName": "NO Airbase Lights Fix",
+  "description": "Removes the phantom rows of runway lights that appear at night and dawn at every custom-map airbase with NOCustomMaps 1.4.2: the game's light toggle re-enables the hidden donor airbase's lights. Client-side and visual only; it acts only on NOCustomMaps airbases and stands down on newer NOCustomMaps versions until checked. Upstream report: BatongMaster/NOCustomMaps#2.",
+  "tags": [
+    "mod",
+    "Visual",
+    "Map",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/netmaster296/NOAirbaseLightsFix"
+    }
+  ],
+  "authors": [
+    "netmaster296"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "netmaster296",
+  "githubRepoName": "NOAirbaseLightsFix",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "NOAirbaseLightsFix.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/netmaster296/NOAirbaseLightsFix/releases/download/v1.0.0/NOAirbaseLightsFix.dll",
+      "hash": "sha256:c202e1b5fdb73ccc31c1d630c6bba81f431c9f955e4f47462be8c8cbbc094375",
+      "dependencies": [
+        {
+          "id": "NOCustomMaps",
+          "version": "1.4.2"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 8
+}

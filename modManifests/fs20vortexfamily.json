@@ -1,0 +1,41 @@
+{
+  "id": "fs20vortexfamily",
+  "displayName": "FS 20 Vortex Family",
+  "description": "Single-player FS-20A and FS-20C variants alongside the stock B, with a native-style selector, C tailhook and optional shared A/B/C stock in one plugin. C: 110/165 kN; A/C: up to +11 G. Online sessions are blocked.",
+  "authors": [
+    "Jpgamer4045d"
+  ],
+  "tags": [
+    "Aircraft",
+    "Singleplayer"
+  ],
+  "isClientOrServer": "Client",
+  "isAiAssisted": "True",
+  "githubOwner": "jptecr2314",
+  "githubRepoName": "FS-20-Vortex-Family",
+  "autoUpdateArtifacts": "False",
+  "releaseAssetName": "FS-20-Vortex-Family.zip",
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/jptecr2314/FS-20-Vortex-Family"
+    }
+  ],
+  "artifacts": [
+    {
+      "fileName": "FS-20-Vortex-Family.zip",
+      "version": "0.5.10",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ],
+      "downloadUrl": "https://github.com/jptecr2314/FS-20-Vortex-Family/releases/download/v0.5.10/FS-20-Vortex-Family.zip",
+      "hash": "sha256:a51a0166c498626ec3440caf0c672d70c257d9dd710d07c3aa6cd23fd7beaef2"
+    }
+  ]
+}

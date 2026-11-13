@@ -10,18 +10,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMinimap"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearMinimap"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearMinimap-v",
@@ -93,6 +93,6 @@
       "hash": "sha256:fa30cea310f9d715d2c744aa2a75e64ff863b6fe87d4cb9f3fee968bdabc734e"
     }
   ],
-  "downloadCount": 204,
-  "isAiAssisted": "True"
+  "isAiAssisted": "True",
+  "downloadCount": 267
 }

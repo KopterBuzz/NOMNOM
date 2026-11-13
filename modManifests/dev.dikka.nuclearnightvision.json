@@ -10,18 +10,18 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearNightVision"
+      "url": "https://github.com/scramd/nuclear-option-client-mods/tree/main/NuclearNightVision"
     },
     {
       "name": "source",
-      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+      "url": "https://github.com/scramd/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
   "isClientOrServer": "Client",
-  "githubOwner": "dikkadev",
+  "githubOwner": "scramd",
   "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
   "releaseTagPrefix": "NuclearNightVision-v",
@@ -48,6 +48,6 @@
       "hash": "sha256:3a4541abe89cefc406ebbe4ec4a26df36b4358ba40365959efb582b14bba7c41"
     }
   ],
-  "downloadCount": 98,
-  "isAiAssisted": "True"
+  "isAiAssisted": "True",
+  "downloadCount": 160
 }

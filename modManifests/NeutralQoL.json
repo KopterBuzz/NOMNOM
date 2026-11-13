@@ -25,7 +25,7 @@
       "version": "0.18.3",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34.1",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/DevHrytsan/NeutralQoL/releases/download/v0.18.3/NeutralQoL.zip",
       "hash": "sha256:a762498297d95d1892ffd31b28522318b458395002fe58743a1ee097f18179ba"
     },
@@ -66,6 +66,6 @@
       "hash": "sha256:a31b7b53a21f76c4d98beaa09759a8c3fbf5b59629e49350bc442b9d34d24952"
     }
   ],
-  "downloadCount": 414,
+  "downloadCount": 549,
   "isAiAssisted": "False"
 }

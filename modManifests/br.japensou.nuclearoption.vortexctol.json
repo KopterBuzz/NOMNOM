@@ -1,0 +1,56 @@
+{
+  "id": "br.japensou.nuclearoption.vortexctol",
+  "displayName": "FS 20 Vortex Family (legacy update bridge)",
+  "description": "Update bridge for existing FS-20 installations. Update this installed entry, launch the game once, close it, then refresh NOMM to migrate to fs20vortexfamily. For new installations use fs20vortexfamily; do not install both. Same single-player plugin; online sessions are blocked.",
+  "authors": [
+    "Jpgamer4045d"
+  ],
+  "tags": [
+    "Aircraft",
+    "Singleplayer"
+  ],
+  "isClientOrServer": "Client",
+  "isAiAssisted": "True",
+  "githubOwner": "jptecr2314",
+  "githubRepoName": "FS-20-Vortex-Family",
+  "autoUpdateArtifacts": "False",
+  "releaseAssetName": "FS-20-Vortex-Family.zip",
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/jptecr2314/FS-20-Vortex-Family"
+    }
+  ],
+  "artifacts": [
+    {
+      "fileName": "FS-20-Vortex-Family.zip",
+      "version": "0.5.10",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ],
+      "downloadUrl": "https://github.com/jptecr2314/FS-20-Vortex-Family/releases/download/v0.5.10/FS-20-Vortex-Family.zip",
+      "hash": "sha256:a51a0166c498626ec3440caf0c672d70c257d9dd710d07c3aa6cd23fd7beaef2"
+    },
+    {
+      "fileName": "FS-20-Vortex-Family.zip",
+      "version": "0.5.8",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ],
+      "downloadUrl": "https://github.com/jptecr2314/FS-20-Vortex-Family/releases/download/v0.5.8/FS-20-Vortex-Family.zip",
+      "hash": "sha256:1c7297371a19d84e031d69ea3cc602c1b87215138e9b4a3a5a871d4b9ac6d5a0"
+    }
+  ]
+}

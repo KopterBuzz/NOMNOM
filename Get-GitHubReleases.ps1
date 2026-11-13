@@ -26,6 +26,7 @@ function Get-GitHubReleases {
     
     if ($Token) {
         $params.Headers['Authorization'] = "Bearer $Token"
+        $params['PreserveAuthorizationOnRedirect'] = $true
     }
     
     try {
