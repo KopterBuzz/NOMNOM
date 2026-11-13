@@ -24,6 +24,15 @@
   "artifacts": [
     {
       "fileName": "AceCombatReloads.dll",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Dandy-Yak/Ace-Combat-Style-Reloads-For-Nuclear-Option/releases/download/1.2.1/AceCombatReloads.dll",
+      "hash": "sha256:da7bf776eb143b99b6b3bb288e4d64f35386871fc6ce0252b61ae9de010d57e0"
+    },
+    {
+      "fileName": "AceCombatReloads.dll",
       "version": "1.2.0",
       "category": "release",
       "type": "plugin",
@@ -32,5 +41,5 @@
       "hash": "sha256:f41a51c3597f1b465d4c1c0f2fb2cab0481478754953deeb8971faf57666acc7"
     }
   ],
-  "downloadCount": 100
+  "downloadCount": 114
 }

@@ -23,6 +23,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Ifrit-KR67-FCS-1.3.0.zip",
+      "version": "1.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-KR-67-Ifrit.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Ifrit/releases/download/v1.3.0/Ifrit-KR67-FCS-1.3.0.zip",
+      "hash": "sha256:97f85a94df9caf41a2ecbd3acc2e357705e028b19e39f498732e342e2e9d2dc9"
+    },
+    {
       "fileName": "Ifrit-KR67-FCS-1.2.0.zip",
       "version": "1.2.0",
       "category": "release",
@@ -114,6 +123,6 @@
       "dependencies": []
     }
   ],
-  "downloadCount": 2083,
+  "downloadCount": 2141,
   "isAiAssisted": "True"
 }
