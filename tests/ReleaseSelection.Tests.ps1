@@ -112,7 +112,7 @@ foreach ($field in @('releaseTagPrefix', 'releaseAssetName')) {
 # Only the GitHub provider is replaced, so tests never call the network or edit the catalog.
 $sandbox = Join-Path ([IO.Path]::GetTempPath()) ('nomnom-release-tests-' + [guid]::NewGuid())
 New-Item -ItemType Directory -Path (Join-Path $sandbox 'test') | Out-Null
-foreach ($file in @('Update-ModArtifact.ps1', 'Get-ModReleaseArtifact.ps1')) {
+foreach ($file in @('Update-ModArtifact.ps1', 'Get-ModReleaseArtifact.ps1', 'Validate-JsonContent.ps1')) {
     Copy-Item (Join-Path $repo $file) $sandbox
 }
 @'
@@ -137,6 +137,26 @@ function Invoke-FixtureUpdater($Mod, [object[]]$Releases, [bool]$FailFetch = $fa
     } finally {
         Pop-Location
     }
+}
+
+function Invoke-FixtureValidator($Mod, [object[]]$Catalog, [string]$RelativePath) {
+    $path = Join-Path $sandbox $RelativePath
+    New-Item -ItemType Directory -Path (Split-Path $path -Parent) -Force | Out-Null
+    # Relations are covered separately; keep these fixtures focused on IDs.
+    foreach ($artifact in $Mod.artifacts) {
+        $artifact.dependencies = @()
+        $artifact.incompatibilities = @()
+        $artifact.extends = $null
+    }
+    $Mod | ConvertTo-Json -Depth 100 | Set-Content -LiteralPath $path -Encoding utf8NoBOM
+    ConvertTo-Json -InputObject $Catalog -Depth 100 | Set-Content (Join-Path $sandbox 'catalog.json') -Encoding utf8NoBOM
+    Push-Location $sandbox
+    try {
+        $escapedPath = $RelativePath.Replace("'", "''")
+        $command = '$map = (Get-Content ./catalog.json -Raw | ConvertFrom-Json) | Group-Object id -AsHashTable; & ./Validate-JsonContent.ps1 -Path ''' + $escapedPath + ''' -ModManifestHashTable $map'
+        $output = & (Join-Path $PSHOME 'pwsh') -NoProfile -Command $command 2>&1
+        return $LASTEXITCODE
+    } finally { Pop-Location }
 }
 
 try {
@@ -221,6 +241,14 @@ try {
     Assert-Equal 0 $emptyResult.downloadCount 'successful empty release list is a real zero'
     Assert-Equal $disabled.artifacts $emptyResult.artifacts 'successful empty release list preserves manual artifacts'
     Assert-Equal @('1.2.1') @((Invoke-FixtureUpdater $units @()).artifacts.version) 'no releases preserves existing artifacts'
+
+    $catalog = @([PSCustomObject]@{id = 'Existing'})
+    Assert-Equal 0 (Invoke-FixtureValidator (New-Mod 'NewMod' '1.0.0') $catalog 'modManifests/NewMod.json') 'new unique catalog ID is accepted'
+    Assert-Equal 0 (Invoke-FixtureValidator (New-Mod 'Existing' '2.0.0') $catalog 'modManifests/Existing.json') 'existing mod may update its own canonical manifest'
+    Assert-Equal 1 (Invoke-FixtureValidator (New-Mod 'Existing' '2.0.0') $catalog 'other/Existing.json') 'existing ID in another file is rejected'
+    Assert-Equal 1 (Invoke-FixtureValidator (New-Mod 'existing' '2.0.0') $catalog 'modManifests/existing.json') 'case-variant duplicate ID is rejected'
+    Assert-Equal 1 (Invoke-FixtureValidator (New-Mod 'Existing' '2.0.0') $catalog 'modManifests/existing.json') 'case-variant duplicate filename is rejected'
+    Assert-Equal 1 (Invoke-FixtureValidator (New-Mod 'Existing' '2.0.0') @($catalog[0], $catalog[0]) 'modManifests/Existing.json') 'already duplicated catalog ID is rejected'
 } finally {
     $tempRoot = [IO.Path]::GetFullPath([IO.Path]::GetTempPath()).TrimEnd([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar)
     $resolvedSandbox = [IO.Path]::GetFullPath($sandbox)

@@ -10,4 +10,6 @@ No module installation, GitHub token or network access is required. The tests co
 
 Manual-release manifests refresh `downloadCount` without adopting releases or changing artifact order, URLs, hashes or dependencies. Integration checks cover disabled/missing auto-update flags, absent counters, empty artifact lists, successful empty release results and failed GitHub requests. A failed fetch preserves the previous count instead of replacing it with zero.
 
+Catalog validation also accepts an existing mod updating its own canonical manifest while rejecting duplicate IDs in another file, case-variant IDs/filenames and an already duplicated catalog entry.
+
 Updater integration checks run in temporary directories with a fixture-backed GitHub provider. They do not change `modManifests/` or the compiled catalog. The temporary directories are removed afterwards. The suite throws on a failed assertion and returns a nonzero process exit code.
