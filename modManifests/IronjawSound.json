@@ -37,7 +37,7 @@
       "dependencies": [
         {
           "id": "NOMapLoader",
-          "version": "1.0.5"
+          "version": "1.0.6"
         }
       ]
     },
@@ -147,6 +147,6 @@
       ]
     }
   ],
-  "downloadCount": 6683,
+  "downloadCount": 6863,
   "isAiAssisted": "False"
 }
