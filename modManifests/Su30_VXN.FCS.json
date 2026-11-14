@@ -34,7 +34,7 @@
       "dependencies": [
         {
           "id": "Solar_Su30VXN",
-          "version": "1.0.1"
+          "version": "1.0.1.1"
         }
       ]
     },
@@ -69,5 +69,5 @@
       ]
     }
   ],
-  "downloadCount": 285
+  "downloadCount": 293
 }

@@ -24,6 +24,25 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "SolarSu30_1.0.1.1.dll",
+      "version": "1.0.1.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/KyleisRed/Su-30VXN-Gandiva/releases/download/v1.0.1.1/SolarSu30_1.0.1.1.dll",
+      "hash": "sha256:d9b9a91e6ee8213e9d99bff35fbf542c50aca509e0e8057a73aeb1fd6dd727fa",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.1.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
       "fileName": "SolarSu30_1.0.1.dll",
       "version": "1.0.1",
       "category": "release",
@@ -62,6 +81,6 @@
       ]
     }
   ],
-  "downloadCount": 6291,
+  "downloadCount": 6360,
   "isAiAssisted": "False"
 }
