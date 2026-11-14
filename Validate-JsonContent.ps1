@@ -79,7 +79,23 @@ function Validate-IdAlreadyExists
     Param($id)
     $check = $ModManifestHashTable["$id"]
     if ($check){
-        return $false
+        # An existing ID may update its own canonical manifest. A different
+        # path, case-variant ID/file or an already duplicated catalog entry
+        # must still fail uniqueness validation.
+        if (@($check).Count -ne 1 -or ![string]::Equals([string]$check[0].id, [string]$id, [StringComparison]::Ordinal)) {
+            return $false
+        }
+        $file = Get-Item -LiteralPath $Path
+        if (![string]::Equals($file.Name, "$id.json", [StringComparison]::Ordinal)) {
+            return $false
+        }
+        $expectedPath = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot "modManifests/$id.json"))
+        $actualPath = [IO.Path]::GetFullPath($file.FullName)
+        $comparison = [StringComparison]::Ordinal
+        if ([Environment]::OSVersion.Platform -eq [PlatformID]::Win32NT) {
+            $comparison = [StringComparison]::OrdinalIgnoreCase
+        }
+        return [string]::Equals($expectedPath, $actualPath, $comparison)
     }
     return $true
 }

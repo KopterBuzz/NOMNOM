@@ -38,6 +38,7 @@ function New-Mod([string]$Id, [string]$Version) {
         displayName = $Id
         description = 'Release selector test fixture'
         authors = @('Example Author')
+        isAiAssisted = 'False'
         urls = @(@{ name = 'info'; url = 'https://example.com' })
         githubOwner = 'example-author'
         githubRepoName = 'shared-releases'
@@ -111,19 +112,23 @@ foreach ($field in @('releaseTagPrefix', 'releaseAssetName')) {
 # Only the GitHub provider is replaced, so tests never call the network or edit the catalog.
 $sandbox = Join-Path ([IO.Path]::GetTempPath()) ('nomnom-release-tests-' + [guid]::NewGuid())
 New-Item -ItemType Directory -Path (Join-Path $sandbox 'test') | Out-Null
-foreach ($file in @('Update-ModArtifact.ps1', 'Get-ModReleaseArtifact.ps1')) {
+foreach ($file in @('Update-ModArtifact.ps1', 'Get-ModReleaseArtifact.ps1', 'Validate-JsonContent.ps1')) {
     Copy-Item (Join-Path $repo $file) $sandbox
 }
 @'
 function Get-GitHubReleases {
     param($Owner, $Repository, $Token)
+    if (Test-Path (Join-Path $PSScriptRoot 'fail-fetch')) { throw 'Fixture GitHub failure' }
     Get-Content (Join-Path $PSScriptRoot 'releases.json') -Raw | ConvertFrom-Json
 }
 '@ | Set-Content (Join-Path $sandbox 'Get-GitHubReleases.ps1') -Encoding utf8NoBOM
 
-function Invoke-FixtureUpdater($Mod, [object[]]$Releases) {
+function Invoke-FixtureUpdater($Mod, [object[]]$Releases, [bool]$FailFetch = $false) {
     $Mod | ConvertTo-Json -Depth 100 | Set-Content (Join-Path $sandbox 'input.json') -Encoding utf8NoBOM
     ConvertTo-Json -InputObject $Releases -Depth 100 | Set-Content (Join-Path $sandbox 'releases.json') -Encoding utf8NoBOM
+    $failureFile = Join-Path $sandbox 'fail-fetch'
+    if ($FailFetch) { Set-Content -LiteralPath $failureFile -Value 'fixture' }
+    elseif (Test-Path -LiteralPath $failureFile) { Remove-Item -LiteralPath $failureFile }
     Push-Location $sandbox
     try {
         $output = & (Join-Path $PSHOME 'pwsh') -NoProfile -Command '$ErrorActionPreference = "Stop"; & ./Update-ModArtifact.ps1 -modPath ./input.json -gitHubToken "fixture" -test $true' 2>&1
@@ -132,6 +137,26 @@ function Invoke-FixtureUpdater($Mod, [object[]]$Releases) {
     } finally {
         Pop-Location
     }
+}
+
+function Invoke-FixtureValidator($Mod, [object[]]$Catalog, [string]$RelativePath) {
+    $path = Join-Path $sandbox $RelativePath
+    New-Item -ItemType Directory -Path (Split-Path $path -Parent) -Force | Out-Null
+    # Relations are covered separately; keep these fixtures focused on IDs.
+    foreach ($artifact in $Mod.artifacts) {
+        $artifact.dependencies = @()
+        $artifact.incompatibilities = @()
+        $artifact.extends = $null
+    }
+    $Mod | ConvertTo-Json -Depth 100 | Set-Content -LiteralPath $path -Encoding utf8NoBOM
+    ConvertTo-Json -InputObject $Catalog -Depth 100 | Set-Content (Join-Path $sandbox 'catalog.json') -Encoding utf8NoBOM
+    Push-Location $sandbox
+    try {
+        $escapedPath = $RelativePath.Replace("'", "''")
+        $command = '$map = (Get-Content ./catalog.json -Raw | ConvertFrom-Json) | Group-Object id -AsHashTable; & ./Validate-JsonContent.ps1 -Path ''' + $escapedPath + ''' -ModManifestHashTable $map'
+        $output = & (Join-Path $PSHOME 'pwsh') -NoProfile -Command $command 2>&1
+        return $LASTEXITCODE
+    } finally { Pop-Location }
 }
 
 try {
@@ -173,10 +198,67 @@ try {
 
     $disabled = New-Mod 'Disabled' '1.0.0'
     $disabled.autoUpdateArtifacts = 'False'
-    Assert-Equal $disabled (Invoke-FixtureUpdater $disabled $releases) 'manual manifests remain untouched'
+    $disabled | Add-Member releaseTagPrefix 'NuclearUnits-v'
+    $disabled | Add-Member releaseAssetName 'NuclearUnits.zip'
+    $disabled | Add-Member downloadCount 99
+    $olderArtifact = $disabled.artifacts[0] | ConvertTo-Json -Depth 100 | ConvertFrom-Json
+    $olderArtifact.version = '0.9.0'
+    $disabled.artifacts = @($olderArtifact, $disabled.artifacts[0])
+    $updatedDisabled = Invoke-FixtureUpdater $disabled $releases
+    Assert-Equal 8 $updatedDisabled.downloadCount 'manual release mode refreshes only matching asset download counts'
+    Assert-Equal $disabled.artifacts $updatedDisabled.artifacts 'manual releases preserve versions, order, URLs, hashes and dependencies'
+    $expectedManual = $disabled | ConvertTo-Json -Depth 100 | ConvertFrom-Json
+    $expectedManual.downloadCount = 8
+    Assert-Equal $expectedManual $updatedDisabled 'manual release mode changes only downloadCount'
+
+    $missingCount = New-Mod 'MissingCounter' '1.0.0'
+    $missingCount.autoUpdateArtifacts = 'False'
+    $updatedMissing = Invoke-FixtureUpdater $missingCount @((New-Release 'v9.0.0' @((New-Asset 'package.zip' 12))))
+    Assert-Equal 12 $updatedMissing.downloadCount 'manual manifest gets its missing downloadCount'
+    Assert-Equal $missingCount.artifacts $updatedMissing.artifacts 'newer release is not adopted in manual mode'
+    Assert-Equal 'False' $updatedMissing.autoUpdateArtifacts 'manual release flag remains disabled'
+
+    $emptyManual = New-Mod 'EmptyManual' '1.0.0'
+    $emptyManual.autoUpdateArtifacts = 'False'
+    $emptyManual.artifacts = @()
+    $updatedEmpty = Invoke-FixtureUpdater $emptyManual @((New-Release 'v9.0.0' @((New-Asset 'package.zip' 4))))
+    Assert-Equal @() $updatedEmpty.artifacts 'manual manifest with no artifacts does not acquire a release'
+    Assert-Equal 4 $updatedEmpty.downloadCount 'manual manifest can count releases without adopting them'
+
+    $noFlag = New-Mod 'NoFlag' '1.0.0'
+    $noFlag.PSObject.Properties.Remove('autoUpdateArtifacts')
+    $updatedNoFlag = Invoke-FixtureUpdater $noFlag @((New-Release 'v2.0.0' @((New-Asset 'package.zip' 3))))
+    Assert-Equal $noFlag.artifacts $updatedNoFlag.artifacts 'missing opt-in flag does not enable release updates'
+    Assert-Equal 3 $updatedNoFlag.downloadCount 'missing opt-in flag does not block download statistics'
+
+    Assert-Equal $disabled (Invoke-FixtureUpdater $disabled @() $true) 'failed fetch preserves manual release metadata and previous count'
+    Assert-Equal $missingCount (Invoke-FixtureUpdater $missingCount @() $true) 'failed fetch does not invent a zero for an unknown count'
+    $knownAutomatic = $units | ConvertTo-Json -Depth 100 | ConvertFrom-Json
+    $knownAutomatic | Add-Member downloadCount 88
+    Assert-Equal $knownAutomatic (Invoke-FixtureUpdater $knownAutomatic @() $true) 'failed fetch preserves automatic release metadata and previous count'
+
+    $emptyResult = Invoke-FixtureUpdater $disabled @()
+    Assert-Equal 0 $emptyResult.downloadCount 'successful empty release list is a real zero'
+    Assert-Equal $disabled.artifacts $emptyResult.artifacts 'successful empty release list preserves manual artifacts'
     Assert-Equal @('1.2.1') @((Invoke-FixtureUpdater $units @()).artifacts.version) 'no releases preserves existing artifacts'
+
+    $catalog = @([PSCustomObject]@{id = 'Existing'})
+    Assert-Equal 0 (Invoke-FixtureValidator (New-Mod 'NewMod' '1.0.0') $catalog 'modManifests/NewMod.json') 'new unique catalog ID is accepted'
+    Assert-Equal 0 (Invoke-FixtureValidator (New-Mod 'Existing' '2.0.0') $catalog 'modManifests/Existing.json') 'existing mod may update its own canonical manifest'
+    Assert-Equal 1 (Invoke-FixtureValidator (New-Mod 'Existing' '2.0.0') $catalog 'other/Existing.json') 'existing ID in another file is rejected'
+    Assert-Equal 1 (Invoke-FixtureValidator (New-Mod 'existing' '2.0.0') $catalog 'modManifests/existing.json') 'case-variant duplicate ID is rejected'
+    Assert-Equal 1 (Invoke-FixtureValidator (New-Mod 'Existing' '2.0.0') $catalog 'modManifests/existing.json') 'case-variant duplicate filename is rejected'
+    Assert-Equal 1 (Invoke-FixtureValidator (New-Mod 'Existing' '2.0.0') @($catalog[0], $catalog[0]) 'modManifests/Existing.json') 'already duplicated catalog ID is rejected'
 } finally {
-    Remove-Item $sandbox -Recurse -Force
+    $tempRoot = [IO.Path]::GetFullPath([IO.Path]::GetTempPath()).TrimEnd([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar)
+    $resolvedSandbox = [IO.Path]::GetFullPath($sandbox)
+    if ([IO.Path]::GetDirectoryName($resolvedSandbox) -ne $tempRoot -or [IO.Path]::GetFileName($resolvedSandbox) -notlike 'nomnom-release-tests-*') {
+        throw "Refusing to remove an unexpected test directory: $resolvedSandbox"
+    }
+    Remove-Item -LiteralPath $resolvedSandbox -Recurse -Force
 }
 
 Write-Host "$script:checks release selection checks passed."
+# Expected failing child-process cases must not become GitHub's final native
+# exit code after every assertion has passed.
+exit 0

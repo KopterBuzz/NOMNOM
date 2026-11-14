@@ -1,15 +1,16 @@
 {
   "id": "fs20vortexfamily",
   "displayName": "FS 20 Vortex Family",
-  "description": "Single-player FS-20A and FS-20C variants alongside the stock B, with a native-style selector, C tailhook and optional shared A/B/C stock in one plugin. C: 110/165 kN; A/C: up to +11 G. Online sessions are blocked.",
+  "description": "FS-20 A/B/C/T family based on 6.0.7, with the integrated-delta VTOL T and opt-in matching-install multiplayer. Host and every client need the same build; native authentication and host-owned stock/flap policy are retained. Includes remote C/T slats, hook and measured vapor presentation. Experimental: real two-installation flight validation is pending. FS-20NA is not included.",
   "authors": [
     "Jpgamer4045d"
   ],
   "tags": [
     "Aircraft",
-    "Singleplayer"
+    "Singleplayer",
+    "Multiplayer"
   ],
-  "isClientOrServer": "Client",
+  "isClientOrServer": "Both",
   "isAiAssisted": "True",
   "githubOwner": "jptecr2314",
   "githubRepoName": "FS-20-Vortex-Family",
@@ -22,6 +23,21 @@
     }
   ],
   "artifacts": [
+    {
+      "fileName": "FS-20-Vortex-Family.zip",
+      "version": "0.6.8",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ],
+      "downloadUrl": "https://github.com/jptecr2314/FS-20-Vortex-Family/releases/download/v0.6.8/FS-20-Vortex-Family.zip",
+      "hash": "sha256:96fe813346e0528ad7472eedda9079132f05e15d1a71993aad493f9da83adc44"
+    },
     {
       "fileName": "FS-20-Vortex-Family.zip",
       "version": "0.5.10",
@@ -37,5 +53,6 @@
       "downloadUrl": "https://github.com/jptecr2314/FS-20-Vortex-Family/releases/download/v0.5.10/FS-20-Vortex-Family.zip",
       "hash": "sha256:a51a0166c498626ec3440caf0c672d70c257d9dd710d07c3aa6cd23fd7beaef2"
     }
-  ]
+  ],
+  "downloadCount": 622
 }
