@@ -31,6 +31,15 @@
   "artifacts": [
     {
       "fileName": "NuclearSpectator.zip",
+      "version": "0.1.14",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/scramd/nuclear-option-client-mods/releases/download/NuclearSpectator-v0.1.14/NuclearSpectator.zip",
+      "hash": "sha256:ff026f1b275578f55e3bcc554d0906c96815f598dc4453ab4f9accc207aa8422"
+    },
+    {
+      "fileName": "NuclearSpectator.zip",
       "version": "0.1.13",
       "category": "release",
       "type": "plugin",
@@ -49,5 +58,5 @@
     }
   ],
   "isAiAssisted": "True",
-  "downloadCount": 104
+  "downloadCount": 115
 }
