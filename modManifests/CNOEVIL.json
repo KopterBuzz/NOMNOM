@@ -1,0 +1,38 @@
+{
+  "id": "CNOEVIL",
+  "displayName": "CNO-EVIL",
+  "description": "An overhaul mod for systems related to sensors, ISR, EW, weapons, avionics, and AI behavior. In vanilla, everyone sees everything. With CNO-EVIL, your faction knows only what its sensors actually find.",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/croezus/CNO-EVIL/blob/main/Guide/CNO-EVIL-Pilot-Manual.pdf"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/channels/1566773809032331327/1568241834164097024"
+    }
+  ],
+  "authors": [
+    "croezus"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "croezus",
+  "githubRepoName": "CNO-EVIL",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "CNO-EVIL-NOMM.zip",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "CNO-EVIL-NOMM.zip",
+      "version": "1.1.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/croezus/CNO-EVIL/releases/download/v1.1.6/CNO-EVIL-NOMM.zip",
+      "hash": "sha256:d3ee7cf5ad244ee6545df1d87ac2f3e410193c7dee660e575580c60b4b0230e8"
+    }
+  ]
+}
