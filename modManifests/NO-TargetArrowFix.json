@@ -1,0 +1,37 @@
+{
+  "id": "NO-TargetArrowFix",
+  "displayName": "Target Arrow Fix",
+  "description": "The arrow to an off-screen target points the right way again, also when the target is behind you. In the base game a target 135° to your left-rear often gets its arrow on the right edge. Fixes the airbase markers pinned to the screen edge too. Client-side HUD change only.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/GeraldHofbauerWeb/NO-TargetArrowFix"
+    }
+  ],
+  "authors": [
+    "Gerry3010"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "GeraldHofbauerWeb",
+  "githubRepoName": "NO-TargetArrowFix",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "NO-TargetArrowFix-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/GeraldHofbauerWeb/NO-TargetArrowFix/releases/download/v1.0.0/NO-TargetArrowFix-1.0.0.zip",
+      "hash": "sha256:9fb9ff53466d2a667698f56c1bc44b9c3306271a85540692c99d118144347417",
+      "dependencies": [],
+      "incompatibilities": []
+    }
+  ]
+}
