@@ -1,0 +1,39 @@
+{
+  "id": "HeritagePairs",
+  "displayName": "Heritage Pairs",
+  "description": "Six new flyable aircraft in three pairs, a historical aircraft and its rebuild with the game's 2080s technology: B-25H Mitchell and GA-25X, Hawker Nimrod Mk I and FD-32 Nimrod, B-17G Flying Fortress and MSB-17. Own models, cockpits with working instruments and screens, flight and damage models, BDF and PALA liveries, stock weapons plus a few period guns. Needs Blueprinter; every player in a lobby and the host are expected to need the mod (multiplayer untested). Made with AI assistance (see the README).",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/riseofthewolfremake-lgtm/HeritagePairs-NuclearOption/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "riseofthewolfremake-lgtm"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "riseofthewolfremake-lgtm",
+  "githubRepoName": "HeritagePairs-NuclearOption",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "HeritagePairs_1.9.10.zip",
+      "version": "1.9.10",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/riseofthewolfremake-lgtm/HeritagePairs-NuclearOption/releases/download/v1.9.10/HeritagePairs_1.9.10.zip",
+      "hash": "sha256:1eda2cab98f8ea4d1ec9d58eb0ba6799b3d07bb0f8bd78bdba3fd93094fde8be",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.1.1"
+      }
+    }
+  ]
+}
