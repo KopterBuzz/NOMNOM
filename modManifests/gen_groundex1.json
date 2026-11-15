@@ -1,0 +1,45 @@
+{
+  "id": "gen_groundex1",
+  "displayName": "Gen's GroundEx1 Vol. 1",
+  "description": "This mod adds a super heavy ground vehicle called the Antlion SPRG, a giant 8 wheeled behemoth with a 155mm railgun",
+  "tags": [
+    "mod",
+    "Vehicle",
+    "blueprinter",
+    "gen"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/GeneralSkyrat/Gen-s-GroundEx-Vol.-1"
+    }
+  ],
+  "authors": [
+    "General",
+    "faith"
+  ],
+  "githubOwner": "GeneralSkyrat",
+  "githubRepoName": "gen-s-GroundEx-Vol.-1",
+  "autoUpdateArtifacts": "True",
+  "aiAssisted: "false",
+  "artifacts": [
+    {
+      "fileName": "General's GroundEx1_1.0.1.nobp",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/GeneralSkyrat/Gen-s-GroundEx-Vol.-1/releases/download/v1.0.1/General.s.GroundEx1_1.0.1.nobp",
+      "hash": "sha256:02730092ff62c54b46944b345f14315347145fcfd6efee71f469ab14c23b3120",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.1.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    
