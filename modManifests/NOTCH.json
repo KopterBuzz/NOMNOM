@@ -16,6 +16,7 @@
     "skyraze"
   ],
   "isClientOrServer": "Both",
+  "isAiAssisted": "True",
   "githubOwner": "skyraze",
   "githubRepoName": "NOTCH-ModFileCheck",
   "autoUpdateArtifacts": "True",
