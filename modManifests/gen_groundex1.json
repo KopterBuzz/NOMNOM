@@ -21,7 +21,7 @@
   "githubOwner": "GeneralSkyrat",
   "githubRepoName": "gen-s-GroundEx-Vol.-1",
   "autoUpdateArtifacts": "True",
-  "aiAssisted: "false",
+  "isAiAssisted": "False",
   "artifacts": [
     {
       "fileName": "General's GroundEx1_1.0.1.nobp",
@@ -41,5 +41,6 @@
           "version": "2.1.1"
         }
       ]
-    },
-    
+    }
+  ]
+}
