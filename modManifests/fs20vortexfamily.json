@@ -69,6 +69,6 @@
       "hash": "sha256:a51a0166c498626ec3440caf0c672d70c257d9dd710d07c3aa6cd23fd7beaef2"
     }
   ],
-  "downloadCount": 0,
-  "releaseTagPrefix": "fs20-v"
+  "releaseTagPrefix": "fs20-v",
+  "downloadCount": 42
 }
