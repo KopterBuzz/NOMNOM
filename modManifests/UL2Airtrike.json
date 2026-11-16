@@ -1,0 +1,30 @@
+{
+  "id": "UL2Airtrike",
+  "displayName": "UL-2 Airtrike",
+  "description": "A light armed gyrocopter: two crew plus a door gunner kit (Machine Gunner, Grenadier or Spotter), a nose laser designator, light rockets and missiles, two bundled missions and faction liveries.",
+  "tags": ["mod", "Aircraft", "blueprinter"],
+  "urls": [
+    { "name": "info", "url": "https://github.com/NicksSoftwareFun/Nuclear-Option-UL2-Airtrike" }
+  ],
+  "authors": ["NicksSoftwareFun"],
+  "isClientOrServer": "Both",
+  "githubOwner": "NicksSoftwareFun",
+  "githubRepoName": "Nuclear-Option-UL2-Airtrike",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseAssetName": "UL2Airtrike.dll",
+  "artifacts": [
+    {
+      "fileName": "UL2Airtrike.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NicksSoftwareFun/Nuclear-Option-UL2-Airtrike/releases/download/v1.0.0/UL2Airtrike.dll",
+      "hash": "sha256:4DF8B82DD67B169754509BBAF69BC9F9E0628B5A33511C0FC16C3EC46A67BCCE",
+      "dependencies": [
+        { "id": "com.nikkorap.blueprinter", "version": "2.1.1" }
+      ]
+    }
+  ]
+}
