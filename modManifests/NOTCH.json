@@ -1,0 +1,34 @@
+{
+  "id": "NOTCH",
+  "displayName": "N.O.T.C.H",
+  "description": "Nuclear Option Transponder Check Handshake. Lets a server check which mods its players have, and warn or refuse when they don't match. Needed on the server and on every player's game. Beta.",
+  "tags": [
+    "Server",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/skyraze/NOTCH-ModFileCheck"
+    }
+  ],
+  "authors": [
+    "skyraze"
+  ],
+  "isClientOrServer": "Both",
+  "isAiAssisted": "True",
+  "githubOwner": "skyraze",
+  "githubRepoName": "NOTCH-ModFileCheck",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOTCH.dll",
+      "version": "0.11.3",
+      "category": "Pre-Release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/skyraze/NOTCH-ModFileCheck/releases/download/v0.11.3/NOTCH.dll",
+      "hash": "sha256:31df11fc9393423ae952cddb640b8355dd2bad4b8bb714b01d9a2a4685239089"
+    }
+  ]
+}
