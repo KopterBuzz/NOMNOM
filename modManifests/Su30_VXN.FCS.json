@@ -24,6 +24,21 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
+      "fileName": "Flanker-Su30-VXN-FCS-0.6.2.zip",
+      "version": "0.6.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-SU-30VXN-Flanker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-SU-30VXN/releases/download/v0.6.2/Flanker-Su30-VXN-FCS-0.6.2.zip",
+      "hash": "sha256:05836d994c0005d41fd88ed7d905e54f75c6c6498fef9105396a49a99932c011",
+      "dependencies": [
+        {
+          "id": "Solar_Su30VXN",
+          "version": "1.0.1.1"
+        }
+      ]
+    },
+    {
       "fileName": "Flanker-Su30-VXN-FCS-0.6.0.zip",
       "version": "0.6.0",
       "category": "release",
@@ -69,5 +84,5 @@
       ]
     }
   ],
-  "downloadCount": 581
+  "downloadCount": 624
 }
