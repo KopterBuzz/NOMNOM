@@ -24,6 +24,21 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
+      "fileName": "FS3-Ternion-FCS-0.4.2.zip",
+      "version": "0.4.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-3-Ternion.-Advanced-Flight-Control-System-for-Ternion/releases/download/v0.4.2/FS3-Ternion-FCS-0.4.2.zip",
+      "hash": "sha256:16ad202816b073c018623d1ccdb0f3a6a8bf72b1fb1ab5a5a99a4c07511cb912",
+      "dependencies": [
+        {
+          "id": "blueprinter.ternion",
+          "version": "1.0.1"
+        }
+      ]
+    },
+    {
       "fileName": "FS3-Ternion-FCS-0.4.0.zip",
       "version": "0.4.0",
       "category": "release",
@@ -84,5 +99,5 @@
       ]
     }
   ],
-  "downloadCount": 759
+  "downloadCount": 791
 }
