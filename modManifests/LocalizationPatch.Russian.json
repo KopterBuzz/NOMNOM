@@ -1,7 +1,7 @@
 {
   "id": "LocalizationPatch.Russian",
   "displayName": "Russian Localization Patch",
-  "description": "Russian (Русский) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+  "description": "Russian (Русский) translation for Nuclear Option 0.34.6. Translates UI, encyclopedia, briefings, hints, tooltips and modded equipment descriptions — 4,343 entries. Actively maintained continuation of 9138noms' Russian patch.",
   "tags": [
     "mod",
     "Localization"
@@ -9,16 +9,48 @@
   "urls": [
     {
       "name": "info",
+      "url": "https://github.com/teberrian-source/NuclearOption-Rus"
+    },
+    {
+      "name": "original",
       "url": "https://github.com/9138noms/NuclearOption-RussianPatch"
     }
   ],
   "authors": [
-    "9138noms"
+    "9138noms",
+    "teberrian-source"
   ],
-  "githubOwner": "9138noms",
-  "githubRepoName": "NuclearOption-RussianPatch",
+  "githubOwner": "teberrian-source",
+  "githubRepoName": "NuclearOption-Rus",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "NuclearOption-Rus-v3.3.3.zip",
+      "version": "3.3.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/teberrian-source/NuclearOption-Rus/releases/download/v3.3.3/NuclearOption-Rus-v3.3.3.zip",
+      "hash": "sha256:395d7a317f7774f7e28ea6ae71756fa79acceb4dbbb6386e691db3ca9e13d344",
+      "incompatibilities": [
+        {
+          "id": "LocalizationPatch.Korean",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
+      ]
+    },
     {
       "fileName": "LocalizationPatch_ru.zip",
       "version": "3.5.1",
@@ -507,5 +539,5 @@
     }
   ],
   "downloadCount": 1781,
-  "isAiAssisted": "False"
+  "isAiAssisted": "True"
 }
