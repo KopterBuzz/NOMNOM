@@ -23,6 +23,25 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
+      "fileName": "TaigaArsenal_1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/IornMan1213/TaigaArsenal-NuclearOption/releases/download/v1.0.1/TaigaArsenal_1.0.1.zip",
+      "hash": "sha256:99ba4828fe430e2cc3118f15991abe37af2d2c7bf1b6c42cc55480c229be85c1",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.1.1"
+      },
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
       "fileName": "TaigaArsenal_1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -42,5 +61,5 @@
       ]
     }
   ],
-  "downloadCount": 24
+  "downloadCount": 55
 }
