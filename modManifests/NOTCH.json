@@ -23,6 +23,15 @@
   "artifacts": [
     {
       "fileName": "NOTCH.dll",
+      "version": "0.12.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/skyraze/NOTCH-ModFileCheck/releases/download/v0.12.0/NOTCH.dll",
+      "hash": "sha256:e5c0e27528996abb1803cfd36c37ed3695599bd90fc9704601c0c218f940747b"
+    },
+    {
+      "fileName": "NOTCH.dll",
       "version": "0.11.3",
       "category": "Pre-Release",
       "type": "plugin",
@@ -30,5 +39,6 @@
       "downloadUrl": "https://github.com/skyraze/NOTCH-ModFileCheck/releases/download/v0.11.3/NOTCH.dll",
       "hash": "sha256:31df11fc9393423ae952cddb640b8355dd2bad4b8bb714b01d9a2a4685239089"
     }
-  ]
+  ],
+  "downloadCount": 3
 }
