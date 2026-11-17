@@ -1,0 +1,37 @@
+{
+  "id": "NO-RevokerECR",
+  "displayName": "EA-12 Revoker ECR",
+  "description": "Adds an electronic warfare and recon variant of the FS-12 Revoker available at rank 4.",
+  "tags": [
+    "mod",
+    "Aircraft"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/GeraldHofbauerWeb/NO-RevokerECR"
+    }
+  ],
+  "authors": [
+    "Gerry3010",
+    "Seb"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "GeraldHofbauerWeb",
+  "githubRepoName": "NO-RevokerECR",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "NO-RevokerECR-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/GeraldHofbauerWeb/NO-RevokerECR/releases/download/v1.0.0/NO-RevokerECR-1.0.0.zip",
+      "hash": "sha256:09a6b6a419d6fc4e6f7c676d0fe496fac398bd839a3f2a8c66ff923b411ea516",
+      "dependencies": [],
+      "incompatibilities": []
+    }
+  ]
+}
