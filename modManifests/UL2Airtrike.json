@@ -25,6 +25,21 @@
   "artifacts": [
     {
       "fileName": "UL2Airtrike.dll",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/NicksSoftwareFun/Nuclear-Option-UL2-Airtrike/releases/download/v1.1.1/UL2Airtrike.dll",
+      "hash": "sha256:dafd5c22c71377d9c32ef2e00b941947df8450e036e0c831c1ba4dd426789878",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "fileName": "UL2Airtrike.dll",
       "version": "1.1.0",
       "category": "release",
       "type": "plugin",
@@ -54,5 +69,5 @@
       ]
     }
   ],
-  "downloadCount": 711
+  "downloadCount": 838
 }
