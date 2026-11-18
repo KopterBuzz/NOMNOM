@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "1509_PalaFighter1_1.0.2.nobp",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/phoenix15099/KR-33/releases/download/V1.0.2/1509_PalaFighter1_1.0.2.nobp",
+      "hash": "sha256:8abf5a283498e329a82e5cbeb61105869538fda737be7caec3092a36f8a77b99",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
       "fileName": "1509_PalaFighter1_1.0.1.nobp",
       "version": "1.0.1",
       "category": "release",
@@ -51,6 +64,6 @@
       }
     }
   ],
-  "downloadCount": 14343,
+  "downloadCount": 14412,
   "isAiAssisted": "False"
 }
