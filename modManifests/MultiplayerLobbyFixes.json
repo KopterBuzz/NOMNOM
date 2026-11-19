@@ -30,6 +30,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "com.kerbiter.multiplayerlobbyfixes_v0.3.0.zip",
+      "version": "0.3.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/Metadorius/MultiplayerLobbyFixes/releases/download/v0.3.0/com.kerbiter.multiplayerlobbyfixes_v0.3.0.zip",
+      "hash": "sha256:42cf6abfe1f089b26c5c25c08d3ed3f5aba722d675ec52a9f186ee0eb2768d3b"
+    },
+    {
       "fileName": "com.kerbiter.multiplayerlobbyfixes_v0.2.0.zip",
       "version": "0.2.0",
       "category": "preRelease",
@@ -52,6 +61,6 @@
   ],
   "imageUrl": "https://raw.githubusercontent.com/Metadorius/MultiplayerLobbyFixes/e56bbb61957a50018e9244196918bb340b1c86da/icon.png",
   "imageHash": "53b31b20ec71865ae2647606a80e093ab05d89d94c062ac35135aeb1a3e048c2",
-  "downloadCount": 410,
+  "downloadCount": 414,
   "isAiAssisted": "False"
 }
