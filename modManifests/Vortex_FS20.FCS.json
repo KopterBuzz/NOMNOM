@@ -1,0 +1,46 @@
+{
+  "id": "Vortex_FS20.FCS",
+  "displayName": "Better FBW for FS-20 Vortex",
+  "description": "Replaces the stock FS-20 Vortex's fly-by-wire with a modern flight control system, using the same control laws as my other FCS mods, plus F-35B-style STOVL control laws. CTOL: carefree handling and full authority control across the entire envelope, high resistance to departure on a damaged airframe, asymmetric loadout compensation and fuel balancing. STOVL: speed-lever throttle with a zero-ground-speed detent, translational rate command in the hover (released stick holds the spot and the height), limits based on the authority the jet has, lift-fan thrust vanes, and a weapon release guard for asymmetric loads. Multiplayer: the flight-model changes only apply when the host also runs the mod and has enabled it (HostAllowFcs / HostLockVariant); otherwise everyone flies the stock Vortex. Not compatible with the FS-20 Vortex Family mod. The optional dev plugin (separate release asset) exposes the tuning settings.",
+  "tags": [
+    "mod",
+    "QoL",
+    "aircraft",
+    "flight-control"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/duythinh2022-ui/Advanced-Flight-Controls-System-for-FS-20-Vortex-Nuclear-Option/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "duythinh2022-ui"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "duythinh2022-ui",
+  "githubRepoName": "Advanced-Flight-Controls-System-for-FS-20-Vortex-Nuclear-Option",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "FS20-Vortex-FCS-0.5.10.zip",
+      "version": "0.5.10",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Advanced-Flight-Controls-System-for-FS-20-Vortex-Nuclear-Option/releases/download/v0.5.10/FS20-Vortex-FCS-0.5.10.zip",
+      "hash": "sha256:abc638ea7e0e5aae8a3e6477376561d5499533b82459879ce0d8a70c578249cd",
+      "incompatibilities": [
+        {
+          "id": "fs20vortexfamily",
+          "version": "0.7.1"
+        },
+        {
+          "id": "br.japensou.nuclearoption.vortexctol",
+          "version": "0.5.10"
+        }
+      ]
+    }
+  ]
+}
