@@ -27,13 +27,13 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
-      "fileName": "DarkSkies-FactionGate-1.2.5.zip",
-      "version": "1.2.5",
+      "fileName": "DarkSkies-FactionGate-1.2.6.zip",
+      "version": "1.2.6",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/datfacesoldier95/DarkSkies-FactionGate/releases/download/v1.2.5/DarkSkies-FactionGate-1.2.5.zip",
-      "hash": "sha256:8ce3cf944d72b1439aecf94d24ec62208c7fd88ef3c76fda59e45bbf2bff98e0",
+      "downloadUrl": "https://github.com/datfacesoldier95/DarkSkies-FactionGate/releases/download/v1.2.6/DarkSkies-FactionGate-1.2.6.zip",
+      "hash": "",
       "dependencies": [
         {
           "id": "BepInEx.ConfigurationManager",
