@@ -1,7 +1,7 @@
 {
   "id": "com.darkskies.factiongate",
   "displayName": "DarkSkies FactionGate",
-  "description": "Host remaps Boscali/Primeva join-screen names and flags, and enforces per-faction workshop skin profiles. Host F1 config syncs to joiners over Steam NetworkingMessages (flags, names, skin allowlists; AI liveries included when a profile is enabled).",
+  "description": "Host remaps Boscali/Primeva names + flags (F1) and syncs to joiners over Steam. Pick from hundreds of real and fictional factions/flags across map, aircraft selection, and join screens. Per-faction Steam Workshop skin allowlists lock players and AI to host-assigned liveries (e.g. UK vs Russia with RAF/Russian skins).",
   "tags": [
     "Utility",
     "QoL",
