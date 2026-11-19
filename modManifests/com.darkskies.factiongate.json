@@ -33,7 +33,7 @@
       "type": "plugin",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/datfacesoldier95/DarkSkies-FactionGate/releases/download/v1.2.6/DarkSkies-FactionGate-1.2.6.zip",
-      "hash": "",
+      "hash": "sha256:687571114115362cc40dde6dddb50715d480c8c7b98216790b6405465a169ba3",
       "dependencies": [
         {
           "id": "BepInEx.ConfigurationManager",
