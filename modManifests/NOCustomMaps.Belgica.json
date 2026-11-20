@@ -1,0 +1,43 @@
+{
+  "id": "NOCustomMaps.Belgica",
+  "displayName": "Belgica",
+  "description": "Belgium at true scale, a 200 km square from the coast at Ostend to Leuven and Namur, with French Flanders, Hainaut and the south of Zeeland and North Brabant: real terrain, towns, roads and 10 airfields. A map for NOCustomMaps, made with Open Skies. The Fault Line campaign (5 missions) is on the Steam Workshop. The host and every player need the same version.",
+  "tags": [
+    "Terrain",
+    "Map"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/therealabradolf/nuclear-option-belgica"
+    },
+    {
+      "name": "Steam Workshop missions",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843138468"
+    }
+  ],
+  "authors": [
+    "the_real_abradolf"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "therealabradolf",
+  "githubRepoName": "nuclear-option-belgica",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseAssetName": "belgica.zip",
+  "artifacts": [
+    {
+      "fileName": "belgica.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/therealabradolf/nuclear-option-belgica/releases/download/v1.0.0/belgica.zip",
+      "hash": "sha256:cd408415bb41cf6dd9161b61f302d7ed1f3ddc0199576650421aacc2647e5e64",
+      "extends": {
+        "id": "NOCustomMaps",
+        "version": "1.4.2"
+      }
+    }
+  ]
+}
