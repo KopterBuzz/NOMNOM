@@ -34,7 +34,7 @@
       "version": "0.3.1",
       "category": "preRelease",
       "type": "plugin",
-      "gameVersion": "0.34.1",
+      "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/Metadorius/MapMouseSelect/releases/download/v0.3.1/com.kerbiter.mapmouseselect_v0.3.1.zip",
       "hash": "sha256:407404d3ae77eeaecc94c5b8b5219936fb23eca1910163779ebfae25a29ed23e"
     },
@@ -52,6 +52,6 @@
   ],
   "imageUrl": "https://raw.githubusercontent.com/Metadorius/MapMouseSelect/6e08c30fd6d5315d6ce84650c2f91956e2cb7ab7/docs/media/icon.png",
   "imageHash": "adfedc00aa6e4f1a3f1ed94552dcc9298de1dc2e6663cbd82718a104899352b1",
-  "downloadCount": 883,
+  "downloadCount": 894,
   "isAiAssisted": "False"
 }
