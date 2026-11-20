@@ -25,6 +25,21 @@
   "artifacts": [
     {
       "fileName": "ArcadeCam.dll",
+      "version": "1.14",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/deworadityapanji-ai/ArcadeCam/releases/download/1.14/ArcadeCam.dll",
+      "hash": "sha256:54686a46961dc81f3003a4488e4c74d1d46fda10b022cf2034ebae47399a1cce",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "ArcadeCam.dll",
       "version": "1.13.0",
       "category": "release",
       "type": "plugin",
@@ -40,5 +55,5 @@
     }
   ],
   "isAiAssisted": "True",
-  "downloadCount": 613
+  "downloadCount": 617
 }
