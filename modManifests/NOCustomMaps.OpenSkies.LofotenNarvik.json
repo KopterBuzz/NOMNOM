@@ -1,7 +1,7 @@
 {
   "id": "NOCustomMaps.OpenSkies.LofotenNarvik",
   "displayName": "Lofoten and Narvik (Open Skies)",
-  "description": "The real Lofoten and Narvik at true scale, a 261 km square from Bodø and the Lofoten wall in the south-west to Andøya and Bardufoss in the north-east, with real terrain, sea floor, roads and 4 airfields. A map for NOCustomMaps; its missions (free flight, a main battle, a strike and PvP escalation) are on the Steam Workshop. The host and every player need the same version. Part of Open Skies.",
+  "description": "The real Lofoten and Narvik at true scale, a 261 km square from Bodø and the Lofoten wall in the south-west to Andøya and Bardufoss in the north-east, with real terrain, sea floor, roads and 4 airfields. A map for NOCustomMaps; its missions (free flight, a main battle, a strike and PvP escalation) are on the Steam Workshop. The host and every player need the same version. Part of Open Skies. If the download does not finish, get lofoten.zip from the info page in your browser and unzip it into BepInEx/plugins/NOCustomMaps/maps.",
   "tags": [
     "Terrain",
     "Map"
@@ -10,6 +10,10 @@
     {
       "name": "info",
       "url": "https://github.com/metasprojects/open-skies-releases"
+    },
+    {
+      "name": "Steam Workshop missions",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835758544"
     }
   ],
   "authors": [

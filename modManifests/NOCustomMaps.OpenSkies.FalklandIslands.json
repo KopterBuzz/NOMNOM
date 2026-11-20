@@ -1,7 +1,7 @@
 {
   "id": "NOCustomMaps.OpenSkies.FalklandIslands",
   "displayName": "Falkland Islands (Open Skies)",
-  "description": "The real Falkland Islands at true scale, a 261 km square from Jason Islands and West Point Island in the north-west to Beauchene Island and the open South Atlantic south of Lafonia, with real terrain, sea floor, roads and 2 airfields. A map for NOCustomMaps; its missions (free flight, a main battle, a strike and PvP escalation) are on the Steam Workshop. The host and every player need the same version. Part of Open Skies.",
+  "description": "The real Falkland Islands at true scale, a 261 km square from Jason Islands and West Point Island in the north-west to Beauchene Island and the open South Atlantic south of Lafonia, with real terrain, sea floor, roads and 2 airfields. A map for NOCustomMaps; its missions (free flight, a main battle, a strike and PvP escalation) are on the Steam Workshop. The host and every player need the same version. Part of Open Skies. If the download does not finish, get falklands.zip from the info page in your browser and unzip it into BepInEx/plugins/NOCustomMaps/maps.",
   "tags": [
     "Terrain",
     "Map"
@@ -10,6 +10,10 @@
     {
       "name": "info",
       "url": "https://github.com/metasprojects/open-skies-releases"
+    },
+    {
+      "name": "Steam Workshop missions",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835758544"
     }
   ],
   "authors": [
