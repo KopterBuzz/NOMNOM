@@ -20,6 +20,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "CI-23.Camel_1.3.0.nobp",
+      "version": "1.3.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BirreD/CI-23_Camel/releases/download/1.3.0/CI-23.Camel_1.3.0.nobp",
+      "hash": "sha256:39f694c493b9dc0ed0cbd31bec697875d12bea9072381fcafad405c3a9a11dce",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.0.1"
+      }
+    },
+    {
       "fileName": "CI-23.Camel_1.2.2.nobp",
       "version": "1.2.2",
       "category": "release",
@@ -46,6 +59,6 @@
       }
     }
   ],
-  "downloadCount": 7137,
+  "downloadCount": 7198,
   "isAiAssisted": "False"
 }
