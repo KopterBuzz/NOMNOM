@@ -1,0 +1,45 @@
+﻿{
+  "id": "com.darkskies.factiongate",
+  "displayName": "DarkSkies FactionGate",
+  "description": "Host remaps Boscali/Primeva names + flags (F1) and syncs to joiners over Steam. Pick from hundreds of real and fictional factions/flags across map, aircraft selection, and join screens. Per-faction Steam Workshop skin allowlists lock players and AI to host-assigned liveries (e.g. UK vs Russia with RAF/Russian skins).",
+  "tags": [
+    "Utility",
+    "QoL",
+    "Server"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/datfacesoldier95/DarkSkies-FactionGate"
+    },
+    {
+      "name": "download",
+      "url": "https://github.com/datfacesoldier95/DarkSkies-FactionGate/releases/latest"
+    }
+  ],
+  "authors": [
+    "DarkSkies"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "datfacesoldier95",
+  "githubRepoName": "DarkSkies-FactionGate",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "DarkSkies-FactionGate-1.2.6.zip",
+      "version": "1.2.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/datfacesoldier95/DarkSkies-FactionGate/releases/download/v1.2.6/DarkSkies-FactionGate-1.2.6.zip",
+      "hash": "sha256:687571114115362cc40dde6dddb50715d480c8c7b98216790b6405465a169ba3",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}
