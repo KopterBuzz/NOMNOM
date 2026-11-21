@@ -24,6 +24,25 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
+      "fileName": "FS20-Vortex-FCS-0.6.10.zip",
+      "version": "0.6.10",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Advanced-Flight-Controls-System-for-FS-20-Vortex-Nuclear-Option/releases/download/v0.6.10/FS20-Vortex-FCS-0.6.10.zip",
+      "hash": "sha256:3243e3b8386c2e3c3a435508f8477861f003e58c8a280e3e2c5897a19a5bc0fc",
+      "incompatibilities": [
+        {
+          "id": "fs20vortexfamily",
+          "version": "0.7.1"
+        },
+        {
+          "id": "br.japensou.nuclearoption.vortexctol",
+          "version": "0.5.10"
+        }
+      ]
+    },
+    {
       "fileName": "FS20-Vortex-FCS-0.6.6.zip",
       "version": "0.6.6",
       "category": "release",
@@ -43,5 +62,5 @@
       ]
     }
   ],
-  "downloadCount": 89
+  "downloadCount": 124
 }
