@@ -1,5 +1,5 @@
 {
-  "id" : "byt0rpilot.CCIPNukeArm",
+  "id": "byt0rpilot.CCIPNukeArm",
   "displayName": "CCIP Nuke Arm Info",
   "description": "A simple QoL mod that provides nuke arming information on the CCIP so that you can stratonuke more effectively!",
   "tags": [
@@ -19,10 +19,8 @@
     "byt[0]rpilot"
   ],
   "isClientOrServer": "Client",
-  
   "imageUrl": "https://raw.githubusercontent.com/the-cat-d/CCIPNukeArm/refs/heads/master/Assets/modIcon.png",
   "imageHash": "c848bfad2de7868be0103ff006215d23ba361a86bd928d2363d21f01486561cd",
-  
   "githubOwner": "the-cat-d",
   "githubRepoName": "CCIPNukeArm",
   "autoUpdateArtifacts": "True",
@@ -35,7 +33,8 @@
       "gameVersion": "0.34.6",
       "version": "1.0.0",
       "category": "release",
-      "hash" : "sha256:6212e8d17a925ceb4c08c44aa45aa3293bc75a6867c57cb3ae6f99f167e09df4"
+      "hash": "sha256:6212e8d17a925ceb4c08c44aa45aa3293bc75a6867c57cb3ae6f99f167e09df4"
     }
-  ]
+  ],
+  "downloadCount": 29
 }
