@@ -26,6 +26,7 @@
   "githubOwner": "the-cat-d",
   "githubRepoName": "CCIPNukeArm",
   "autoUpdateArtifacts": "True",
+  "isAiAssisted": "False",
   "artifacts": [
     {
       "type": "plugin",
