@@ -23,6 +23,15 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
+      "fileName": "NO-RevokerECR-1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/GeraldHofbauerWeb/NO-RevokerECR/releases/download/v1.0.1/NO-RevokerECR-1.0.1.zip",
+      "hash": "sha256:b2e22561cd410380a54baa8a8111ca815f988bbc581f34359383cc965fa0a923"
+    },
+    {
       "fileName": "NO-RevokerECR-1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -34,5 +43,7 @@
       "incompatibilities": []
     }
   ],
-  "downloadCount": 127
+  "downloadCount": 167,
+  "imageUrl": "https://raw.githubusercontent.com/GeraldHofbauerWeb/NO-RevokerECR/86de143519181ac753a2f69380724a2c4a2bd86e/docs/images/ea12-icon.png",
+  "imageHash": "e5ffb22c2299c2280f0060049ccf2d1017a9c8aae1e7f0c68d90c5e4fe31b8b1"
 }
