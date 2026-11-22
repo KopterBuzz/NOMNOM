@@ -28,6 +28,15 @@
       "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/Dandy-Yak/Non-Critical-Damage-For-Nuclear-Option/releases/download/1.25.0/NonCriticalDamage.dll",
       "hash": "sha256:081847fbf01e49ca2117de3e8543255a63f3cb92cdd6e6fdab30022add176ac8"
+    },
+    {
+      "fileName": "NonCriticalDamage.dll",
+      "version": "1.26.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Dandy-Yak/Non-Critical-Damage-For-Nuclear-Option/releases/download/1.26.0/NonCriticalDamage.dll",
+      "hash": "sha256:b2e0cec81a9588cddeef5f10d27ac4a33187c79921d694b98e2278d5965a6a33"
     }
   ]
 }
