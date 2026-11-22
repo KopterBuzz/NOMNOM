@@ -25,6 +25,21 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
+      "fileName": "AceOption-1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Thabuki/NO-AceOption/releases/download/v1.1.0/AceOption-1.1.0.zip",
+      "hash": "sha256:c5e6d2e7bd9032e2b31e956d0e6eed562e4442fad723457f1066a32cad72c511",
+      "incompatibilities": [
+        {
+          "id": "ChaseCamPlus",
+          "version": "2.0.0"
+        }
+      ]
+    },
+    {
       "fileName": "AceOption-1.0.2.zip",
       "version": "1.0.2",
       "category": "release",
@@ -70,5 +85,5 @@
       ]
     }
   ],
-  "downloadCount": 159
+  "downloadCount": 168
 }
