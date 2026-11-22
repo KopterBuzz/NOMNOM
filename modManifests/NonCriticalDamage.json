@@ -1,7 +1,7 @@
 {
   "id": "NonCriticalDamage",
   "displayName": "Non-Critical Damage",
-  "description": "Player aircraft take a fraction of normal damage, so they survive several hits; nuclear blasts still kill. Designed for Ace Combat Reloads. Host and clients need the mod.",
+  "description": "Player aircraft take a fraction of normal damage, so they survive several hits; nuclear blasts still kill. Designed for use alongside Ace Combat Reloads, but is not a requirement. Host and clients need the mod.",
   "tags": [
     "Gameplay"
   ],
