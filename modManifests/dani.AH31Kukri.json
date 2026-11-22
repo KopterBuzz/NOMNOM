@@ -23,6 +23,15 @@
   "artifacts": [
     {
       "fileName": "dani.AH31Kukri.dll",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/kingwixly/AH-31-Kukri/releases/download/1.1.1/dani.AH31Kukri.dll",
+      "hash": "sha256:724d7e00994a229fd12c23951d84caf9ee9bbd338cdff994277160ce80bd7bbf"
+    },
+    {
+      "fileName": "dani.AH31Kukri.dll",
       "version": "1.1.0",
       "category": "release",
       "type": "plugin",
@@ -58,6 +67,6 @@
       "hash": "sha256:1a396e7c9474a7b20333e1b1efb0c34eacedff9b57923ce6e67e680aac6cb014"
     }
   ],
-  "downloadCount": 12691,
+  "downloadCount": 12711,
   "isAiAssisted": "False"
 }

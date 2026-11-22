@@ -32,7 +32,7 @@
       "dependencies": [
         {
           "id": "com.nikkorap.blueprinter",
-          "version": "2.1.1"
+          "version": "2.1.2"
         }
       ]
     },
@@ -82,6 +82,6 @@
       ]
     }
   ],
-  "downloadCount": 8096,
+  "downloadCount": 8163,
   "isAiAssisted": "False"
 }

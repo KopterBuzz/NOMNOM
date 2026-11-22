@@ -19,8 +19,6 @@
     "byt[0]rpilot"
   ],
   "isClientOrServer": "Client",
-  "imageUrl": "https://raw.githubusercontent.com/the-cat-d/CCIPNukeArm/refs/heads/master/Assets/modIcon.png",
-  "imageHash": "c848bfad2de7868be0103ff006215d23ba361a86bd928d2363d21f01486561cd",
   "githubOwner": "the-cat-d",
   "githubRepoName": "CCIPNukeArm",
   "autoUpdateArtifacts": "True",
@@ -36,5 +34,7 @@
       "hash": "sha256:6212e8d17a925ceb4c08c44aa45aa3293bc75a6867c57cb3ae6f99f167e09df4"
     }
   ],
-  "downloadCount": 66
+  "downloadCount": 72,
+  "imageUrl": "https://raw.githubusercontent.com/the-cat-d/CCIPNukeArm/refs/heads/master/Assets/modIcon.png",
+  "imageHash": "5e0881ced4b17bc76493d89ed3703a5606dd2ef261f50faa5b4d3ddb8ee43bc2"
 }

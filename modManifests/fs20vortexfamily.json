@@ -34,7 +34,7 @@
       "dependencies": [
         {
           "id": "com.nikkorap.blueprinter",
-          "version": "2.1.1"
+          "version": "2.1.2"
         }
       ]
     },
@@ -100,5 +100,5 @@
     }
   ],
   "releaseTagPrefix": "fs20-v",
-  "downloadCount": 2187
+  "downloadCount": 2201
 }

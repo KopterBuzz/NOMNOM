@@ -24,6 +24,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Blueprinter_2.1.2.dll",
+      "version": "2.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-Releases/releases/download/2.1.2/Blueprinter_2.1.2.dll",
+      "hash": "sha256:2313a784cf0c9696755f7750fcb5b84595e2d73b74860563d54368e61c03dade"
+    },
+    {
       "fileName": "Blueprinter_2.1.1.dll",
       "version": "2.1.1",
       "category": "release",
@@ -114,6 +123,6 @@
       "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
     }
   ],
-  "downloadCount": 122079,
+  "downloadCount": 122125,
   "isAiAssisted": "False"
 }
