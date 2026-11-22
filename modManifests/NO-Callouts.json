@@ -1,0 +1,43 @@
+{
+  "id": "NO-Callouts",
+  "displayName": "AI Callouts",
+  "description": "Your side's AI aircraft call their missile shots and kills in the chat (FOX 1/2/3, MAGNUM, SPLASH), and your AI Medusa reports new enemy aircraft with BRAA and new radars with their grid cell. Type picture in the chat to list what your side sees. Client-side only: the mod watches and changes nothing about the AI.",
+  "tags": [
+    "mod",
+    "QoL",
+    "Flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/GeraldHofbauerWeb/NO-Callouts"
+    }
+  ],
+  "authors": [
+    "Gerry3010",
+    "Seb"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "GeraldHofbauerWeb",
+  "githubRepoName": "NO-Callouts",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "NO-Callouts-0.4.0.zip",
+      "version": "0.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/GeraldHofbauerWeb/NO-Callouts/releases/download/v0.4.0/NO-Callouts-0.4.0.zip",
+      "hash": "sha256:b90a11b3fc839fa5bb14780e7ab5630365d0ba57e2b7dbfb972533bd9b040f6b",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ],
+      "incompatibilities": []
+    }
+  ]
+}
