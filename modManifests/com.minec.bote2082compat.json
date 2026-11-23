@@ -1,0 +1,59 @@
+{
+  "id": "com.minec.bote2082compat",
+  "displayName": "Boscali Ocean Training Exercise - 2082 Compat",
+  "description": "Compatibility Pack between BOTE and Expansion 2082. Adds the Nekton, Mohawk, Atrox, and Kairos, as well as the R6 and Axiom to the Dynamo, Annex, and Hyperion.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/MinecrackTyler/Bote2082/blob/main/README.md"
+    },
+    {
+      "name": "2082 discord",
+      "url": "https://discord.gg/qqMwyr2qxR"
+    }
+  ],
+  "authors": [
+    "minecracktyler",
+    "nikkorap",
+    "draken",
+    "combat",
+    "medusa",
+    "offiry",
+    "many others!"
+  ],
+  "githubOwner": "MinecrackTyler",
+  "githubRepoName": "Bote2082",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Bote2082Compat_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/MinecrackTyler/Bote2082/releases/download/v1.0.0/Bote2082Compat_1.0.0.dll",
+      "hash": "sha256:b9dc309b59cd775201afc726b54ddba84ad1392433155c466619ffa38620c559",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "2.1.2"
+      },
+      "dependencies": [
+        {
+          "id": "bote",
+          "version": "1.5.5"
+        },
+        {
+          "id": "p2082.expansion82",
+          "version": "1.0.2"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 0,
+  "isAiAssisted": "False"
+}
