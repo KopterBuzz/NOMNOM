@@ -65,7 +65,7 @@
         }
       }
     ],
-    "downloadCount": 18715,
+    "downloadCount": 18819,
     "isAiAssisted": "False"
   },
   {
@@ -144,7 +144,7 @@
         }
       }
     ],
-    "downloadCount": 14222,
+    "downloadCount": 14238,
     "isAiAssisted": "False"
   },
   {
@@ -187,7 +187,7 @@
         }
       }
     ],
-    "downloadCount": 10096,
+    "downloadCount": 10101,
     "isAiAssisted": "False"
   },
   {
@@ -268,7 +268,7 @@
         ]
       }
     ],
-    "downloadCount": 3426
+    "downloadCount": 3450
   },
   {
     "id": "AceCombatReloads",
@@ -322,7 +322,7 @@
         "hash": "sha256:f41a51c3597f1b465d4c1c0f2fb2cab0481478754953deeb8971faf57666acc7"
       }
     ],
-    "downloadCount": 485
+    "downloadCount": 489
   },
   {
     "id": "AceOption",
@@ -411,7 +411,7 @@
         ]
       }
     ],
-    "downloadCount": 168
+    "downloadCount": 177
   },
   {
     "id": "AGR31Tenpin",
@@ -602,7 +602,7 @@
         ]
       }
     ],
-    "downloadCount": 17540,
+    "downloadCount": 17564,
     "isAiAssisted": "False"
   },
   {
@@ -636,7 +636,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 9858,
+    "downloadCount": 9862,
     "isAiAssisted": "False"
   },
   {
@@ -738,7 +738,7 @@
         "hash": "bbcffdcba57d78f653a3f979ccf6c5280fc57501e8d314d032f7ea1a5ab50e9f"
       }
     ],
-    "downloadCount": 2931,
+    "downloadCount": 2933,
     "isAiAssisted": "False"
   },
   {
@@ -817,7 +817,7 @@
         ]
       }
     ],
-    "downloadCount": 5976,
+    "downloadCount": 5992,
     "isAiAssisted": "False"
   },
   {
@@ -932,7 +932,7 @@
         ]
       }
     ],
-    "downloadCount": 1663,
+    "downloadCount": 1672,
     "isAiAssisted": "False"
   },
   {
@@ -973,7 +973,7 @@
           },
           {
             "id": "bote",
-            "version": "1.5.4"
+            "version": "1.5.5"
           }
         ]
       },
@@ -1107,7 +1107,7 @@
         ]
       }
     ],
-    "downloadCount": 519,
+    "downloadCount": 524,
     "isAiAssisted": "False"
   },
   {
@@ -1150,7 +1150,7 @@
         ]
       }
     ],
-    "downloadCount": 2867,
+    "downloadCount": 2874,
     "isAiAssisted": "False"
   },
   {
@@ -1210,7 +1210,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 907
+    "downloadCount": 920
   },
   {
     "id": "Aryx_F22E_StrikeRaptor.FCS",
@@ -1612,7 +1612,7 @@
         ]
       }
     ],
-    "downloadCount": 14314,
+    "downloadCount": 14369,
     "isAiAssisted": "True"
   },
   {
@@ -1994,7 +1994,7 @@
         }
       }
     ],
-    "downloadCount": 126454,
+    "downloadCount": 126499,
     "isAiAssisted": "False"
   },
   {
@@ -2103,7 +2103,7 @@
         }
       }
     ],
-    "downloadCount": 37273,
+    "downloadCount": 37332,
     "isAiAssisted": "False"
   },
   {
@@ -2290,7 +2290,7 @@
         }
       }
     ],
-    "downloadCount": 92849,
+    "downloadCount": 92893,
     "isAiAssisted": "False"
   },
   {
@@ -2568,7 +2568,7 @@
         }
       }
     ],
-    "downloadCount": 97428,
+    "downloadCount": 97476,
     "isAiAssisted": "False"
   },
   {
@@ -2963,7 +2963,7 @@
         }
       }
     ],
-    "downloadCount": 146120,
+    "downloadCount": 146292,
     "isAiAssisted": "False"
   },
   {
@@ -3098,7 +3098,7 @@
         }
       }
     ],
-    "downloadCount": 55507,
+    "downloadCount": 55543,
     "isAiAssisted": "False"
   },
   {
@@ -3181,7 +3181,7 @@
         }
       }
     ],
-    "downloadCount": 43062,
+    "downloadCount": 43088,
     "isAiAssisted": "False"
   },
   {
@@ -3264,7 +3264,7 @@
         }
       }
     ],
-    "downloadCount": 33707,
+    "downloadCount": 33752,
     "isAiAssisted": "False"
   },
   {
@@ -3464,7 +3464,7 @@
         }
       }
     ],
-    "downloadCount": 94549,
+    "downloadCount": 94595,
     "isAiAssisted": "False"
   },
   {
@@ -3742,7 +3742,7 @@
         }
       }
     ],
-    "downloadCount": 69906,
+    "downloadCount": 70006,
     "isAiAssisted": "False"
   },
   {
@@ -3794,7 +3794,7 @@
         }
       }
     ],
-    "downloadCount": 5569,
+    "downloadCount": 5576,
     "isAiAssisted": "False"
   },
   {
@@ -3878,7 +3878,7 @@
         ]
       }
     ],
-    "downloadCount": 7990,
+    "downloadCount": 8014,
     "isAiAssisted": "False"
   },
   {
@@ -3965,7 +3965,7 @@
         ]
       }
     ],
-    "downloadCount": 8610,
+    "downloadCount": 8693,
     "isAiAssisted": "False"
   },
   {
@@ -4007,7 +4007,7 @@
         ]
       }
     ],
-    "downloadCount": 1131,
+    "downloadCount": 1134,
     "imageUrl": "https://raw.githubusercontent.com/mosdef31/NO-Bay-Doors/main/images/baydoors_icon_512.png",
     "imageHash": "e1176dd966942df347c6a1724f351eac7114295a9bfe3e05fc3dd2bcd245d293",
     "isAiAssisted": "False"
@@ -4042,7 +4042,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4410,
+    "downloadCount": 4411,
     "isAiAssisted": "False"
   },
   {
@@ -4208,7 +4208,7 @@
         }
       }
     ],
-    "downloadCount": 8199,
+    "downloadCount": 8208,
     "isAiAssisted": "False"
   },
   {
@@ -4372,7 +4372,7 @@
         ]
       }
     ],
-    "downloadCount": 22415,
+    "downloadCount": 22464,
     "imageUrl": "https://raw.githubusercontent.com/blacknight2u/nuclear-option-f117/cceb334cf031e52d9bce063043d6e1da6191b268/Store/F117A-Nighthawk-NOMM.png",
     "imageHash": "174ed28bfccdf5aeb623940144b9f2c3763305f86088256fed9abf89a34f5728",
     "isAiAssisted": "False"
@@ -4526,7 +4526,7 @@
         }
       }
     ],
-    "downloadCount": 55538,
+    "downloadCount": 55567,
     "isAiAssisted": "False"
   },
   {
@@ -4581,7 +4581,7 @@
         }
       }
     ],
-    "downloadCount": 32861,
+    "downloadCount": 32893,
     "isClientOrServer": "Both",
     "isAiAssisted": "False"
   },
@@ -4617,6 +4617,19 @@
     "githubRepoName": "BoscaliOceanTrainingExercise",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "Bote_1.5.5.dll",
+        "version": "1.5.5",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.34.2",
+        "downloadUrl": "https://github.com/MinecrackTyler/BoscaliOceanTrainingExercise/releases/download/v1.5.5/Bote_1.5.5.dll",
+        "hash": "sha256:c588769542e2773cf96475eea5ede9b31f74796b50e23513065a50a66c619078",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.17"
+        }
+      },
       {
         "fileName": "Bote_1.5.4.dll",
         "version": "1.5.4",
@@ -4800,7 +4813,7 @@
         }
       }
     ],
-    "downloadCount": 61491,
+    "downloadCount": 61558,
     "isAiAssisted": "False"
   },
   {
@@ -4949,7 +4962,7 @@
         }
       }
     ],
-    "downloadCount": 2763,
+    "downloadCount": 2767,
     "isAiAssisted": "False"
   },
   {
@@ -4988,7 +5001,7 @@
         "hash": "sha256:6212e8d17a925ceb4c08c44aa45aa3293bc75a6867c57cb3ae6f99f167e09df4"
       }
     ],
-    "downloadCount": 99,
+    "downloadCount": 114,
     "imageUrl": "https://raw.githubusercontent.com/the-cat-d/CCIPNukeArm/refs/heads/master/Assets/modIcon.png",
     "imageHash": "5e0881ced4b17bc76493d89ed3703a5606dd2ef261f50faa5b4d3ddb8ee43bc2"
   },
@@ -5024,7 +5037,7 @@
         "hash": "sha256:6dee4b2501f10dc0339f4e3aa577341c5bb12aebe858a173c1f5333984949f94"
       }
     ],
-    "downloadCount": 997,
+    "downloadCount": 998,
     "isAiAssisted": "False"
   },
   {
@@ -5098,7 +5111,7 @@
         "hash": "sha256:3097cf591bfeea1099ff3a5e2bb61ed64a88a4221174d2f80e8a9d6705edeff4"
       }
     ],
-    "downloadCount": 2392,
+    "downloadCount": 2403,
     "isAiAssisted": "False"
   },
   {
@@ -5174,7 +5187,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2889,
+    "downloadCount": 2890,
     "isAiAssisted": "False"
   },
   {
@@ -5210,7 +5223,7 @@
         "hash": "sha256:259cd6f69804b68691e20a4e41800db32c5f4daab85e44358b25b0c1221672cf"
       }
     ],
-    "downloadCount": 1003,
+    "downloadCount": 1004,
     "isAiAssisted": "False"
   },
   {
@@ -5245,7 +5258,7 @@
         "hash": "sha256:aae68ea57f93cfe6046ccc954fa8ff7e35f0c364dcb541d14da24299130c8863"
       }
     ],
-    "downloadCount": 2345,
+    "downloadCount": 2351,
     "isAiAssisted": "False"
   },
   {
@@ -5392,7 +5405,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 2665,
+    "downloadCount": 2666,
     "isAiAssisted": "False"
   },
   {
@@ -5489,7 +5502,7 @@
         "hash": "sha256:08b7cd5ce9a8688de7c3acc4832288a03f4f654de405aadf204283fb03ef75b1"
       }
     ],
-    "downloadCount": 1759,
+    "downloadCount": 1761,
     "isAiAssisted": "False"
   },
   {
@@ -5553,7 +5566,7 @@
         }
       }
     ],
-    "downloadCount": 8188,
+    "downloadCount": 8249,
     "isAiAssisted": "False"
   },
   {
@@ -5612,7 +5625,7 @@
         ]
       }
     ],
-    "downloadCount": 1879,
+    "downloadCount": 1886,
     "isAiAssisted": "False"
   },
   {
@@ -5652,7 +5665,7 @@
         "hash": "sha256:d3ee7cf5ad244ee6545df1d87ac2f3e410193c7dee660e575580c60b4b0230e8"
       }
     ],
-    "downloadCount": 171
+    "downloadCount": 172
   },
   {
     "id": "com.basicGrowl",
@@ -5736,7 +5749,7 @@
         "hash": "sha256:837dfb023b5ba23d8ac9683ec23b03b3d6a7d35c3e2c4ed97ac9cd9187baca13"
       }
     ],
-    "downloadCount": 6245,
+    "downloadCount": 6248,
     "isAiAssisted": "False"
   },
   {
@@ -5847,7 +5860,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 996,
+    "downloadCount": 1003,
     "imageUrl": "https://raw.githubusercontent.com/Big-LouDE/NOTacMap/63b7a4b1dde6dca567f041b475d57cd90fcdfcc9/thunderstore/icon.png",
     "imageHash": "35a9158bc20b9daec9481fc6b623b9456ce7bd34e7be6e605eacc251c2a71359",
     "isAiAssisted": "False"
@@ -5911,7 +5924,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 1035,
+    "downloadCount": 1038,
     "isAiAssisted": "False"
   },
   {
@@ -6084,7 +6097,7 @@
         "hash": "sha256:4b4211b339eda6c48142bcf9c190ed322acf3cfe2fefdfa3898af379e82dbd47"
       }
     ],
-    "downloadCount": 4975,
+    "downloadCount": 4981,
     "imageUrl": "https://raw.githubusercontent.com/NORehabRocket/NORS---Nuclear-Option-Radio-System/refs/heads/main/icon.png",
     "imageHash": "ea6fda81798f846fbadea9cb6dc55b305277a4418686006cba39100476597a94",
     "isAiAssisted": "False"
@@ -6200,7 +6213,7 @@
         "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
       }
     ],
-    "downloadCount": 5063,
+    "downloadCount": 5066,
     "isAiAssisted": "False"
   },
   {
@@ -6342,7 +6355,7 @@
         ]
       }
     ],
-    "downloadCount": 3033,
+    "downloadCount": 3035,
     "isAiAssisted": "False"
   },
   {
@@ -6413,7 +6426,7 @@
         ]
       }
     ],
-    "downloadCount": 7280,
+    "downloadCount": 7282,
     "isAiAssisted": "False"
   },
   {
@@ -6456,7 +6469,7 @@
         "hash": "sha256:24b75fbcd9b8e930f3edfde6879549d72d90b9083d7a386a9305d4c3e9dc6635"
       }
     ],
-    "downloadCount": 1975,
+    "downloadCount": 1977,
     "isAiAssisted": "False"
   },
   {
@@ -6622,7 +6635,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 4006,
+    "downloadCount": 4009,
     "isAiAssisted": "False"
   },
   {
@@ -6681,7 +6694,7 @@
         ]
       }
     ],
-    "downloadCount": 224
+    "downloadCount": 225
   },
   {
     "id": "com.minec.CameraImprovements",
@@ -6714,7 +6727,7 @@
         "hash": "sha256:ceca2a5c7c816187da113d34dd6d07c2903ddedac0f5f8deefd03388d916b5ef"
       }
     ],
-    "downloadCount": 356,
+    "downloadCount": 358,
     "isAiAssisted": "False"
   },
   {
@@ -6764,7 +6777,7 @@
         ]
       }
     ],
-    "downloadCount": 230,
+    "downloadCount": 231,
     "isAiAssisted": "False"
   },
   {
@@ -6882,7 +6895,7 @@
         ]
       }
     ],
-    "downloadCount": 6484,
+    "downloadCount": 6491,
     "isAiAssisted": "False"
   },
   {
@@ -6959,7 +6972,7 @@
         ]
       }
     ],
-    "downloadCount": 5978,
+    "downloadCount": 5985,
     "isAiAssisted": "False"
   },
   {
@@ -7051,7 +7064,7 @@
         ]
       }
     ],
-    "downloadCount": 9482,
+    "downloadCount": 9494,
     "isAiAssisted": "False"
   },
   {
@@ -7158,7 +7171,7 @@
         ]
       }
     ],
-    "downloadCount": 10329,
+    "downloadCount": 10338,
     "isAiAssisted": "False"
   },
   {
@@ -7286,7 +7299,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 123490,
+    "downloadCount": 123818,
     "isAiAssisted": "False"
   },
   {
@@ -7390,7 +7403,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 5779,
+    "downloadCount": 5789,
     "isAiAssisted": "False"
   },
   {
@@ -7430,7 +7443,7 @@
         ]
       }
     ],
-    "downloadCount": 1638,
+    "downloadCount": 1640,
     "isAiAssisted": "False"
   },
   {
@@ -7472,7 +7485,7 @@
         "hash": "sha256:9306a73e73b2376b69096bc7bbad5b0a81e605f104a10c96755735e0c38bd919"
       }
     ],
-    "downloadCount": 4153,
+    "downloadCount": 4161,
     "isAiAssisted": "False"
   },
   {
@@ -7544,7 +7557,7 @@
         "hash": "sha256:1a396e7c9474a7b20333e1b1efb0c34eacedff9b57923ce6e67e680aac6cb014"
       }
     ],
-    "downloadCount": 13569,
+    "downloadCount": 13762,
     "isAiAssisted": "False"
   },
   {
@@ -7582,7 +7595,7 @@
         }
       }
     ],
-    "downloadCount": 3918,
+    "downloadCount": 3929,
     "isAiAssisted": "False"
   },
   {
@@ -7670,7 +7683,7 @@
         "hash": "sha256:0511ebb64fd6da8fef8780c4dcd81d8b9bc7e54d203ac55503b0813fe22c022b"
       }
     ],
-    "downloadCount": 163,
+    "downloadCount": 165,
     "isAiAssisted": "True"
   },
   {
@@ -7847,7 +7860,7 @@
         "hash": "sha256:e6ae546f635beb2e37b8b2fc6e193689eb39cb13c46d8a1861f6e6ed0cd637bd"
       }
     ],
-    "downloadCount": 2291,
+    "downloadCount": 2295,
     "isAiAssisted": "True"
   },
   {
@@ -7936,7 +7949,7 @@
         "hash": "sha256:7735bd4cda0cd26193a39b7e7bef67eb83ab4eaedec36eef452a56f640bdbd16"
       }
     ],
-    "downloadCount": 698,
+    "downloadCount": 701,
     "isAiAssisted": "True"
   },
   {
@@ -8050,7 +8063,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 438
+    "downloadCount": 444
   },
   {
     "id": "dev.dikka.nuclearmappan",
@@ -8093,7 +8106,7 @@
         "hash": "sha256:57ed0c2c3a0577d437f3de4cebc859ed4d81f856e5c49935037e780d2b103d98"
       }
     ],
-    "downloadCount": 83
+    "downloadCount": 85
   },
   {
     "id": "dev.dikka.nuclearmapplayernames",
@@ -8191,7 +8204,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 635
+    "downloadCount": 639
   },
   {
     "id": "dev.dikka.nuclearmaptrails",
@@ -8288,7 +8301,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 359
+    "downloadCount": 365
   },
   {
     "id": "dev.dikka.nuclearmfdweapons",
@@ -8377,7 +8390,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 593
+    "downloadCount": 595
   },
   {
     "id": "dev.dikka.nuclearminimap",
@@ -8475,7 +8488,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 410
+    "downloadCount": 414
   },
   {
     "id": "dev.dikka.nuclearnightvision",
@@ -8528,7 +8541,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 270
+    "downloadCount": 273
   },
   {
     "id": "dev.dikka.nuclearsatellitemap",
@@ -8580,7 +8593,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 474
+    "downloadCount": 487
   },
   {
     "id": "dev.dikka.nuclearsounds",
@@ -8659,7 +8672,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 478
+    "downloadCount": 482
   },
   {
     "id": "dev.dikka.nuclearspectator",
@@ -8721,7 +8734,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 205
+    "downloadCount": 209
   },
   {
     "id": "dev.dikka.nucleartargeting",
@@ -8809,7 +8822,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 267
+    "downloadCount": 271
   },
   {
     "id": "dev.dikka.nucleartrackage",
@@ -8897,7 +8910,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 904
+    "downloadCount": 907
   },
   {
     "id": "dev.dikka.nuclearunits",
@@ -8985,7 +8998,7 @@
       }
     ],
     "isAiAssisted": "True",
-    "downloadCount": 382
+    "downloadCount": 384
   },
   {
     "id": "F16VaporTuner",
@@ -9029,7 +9042,7 @@
         ]
       }
     ],
-    "downloadCount": 17754,
+    "downloadCount": 17762,
     "isAiAssisted": "False"
   },
   {
@@ -9080,7 +9093,7 @@
         }
       }
     ],
-    "downloadCount": 3393,
+    "downloadCount": 3399,
     "isAiAssisted": "False"
   },
   {
@@ -9139,7 +9152,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 19552,
+    "downloadCount": 19561,
     "isAiAssisted": "False"
   },
   {
@@ -9244,7 +9257,7 @@
       }
     ],
     "releaseTagPrefix": "fs20-v",
-    "downloadCount": 2290
+    "downloadCount": 2304
   },
   {
     "id": "FS41JammingPod",
@@ -9290,7 +9303,7 @@
         ]
       }
     ],
-    "downloadCount": 1995,
+    "downloadCount": 2001,
     "isAiAssisted": "False"
   },
   {
@@ -9395,7 +9408,7 @@
         "hash": "sha256:4f8491978cc99c9bdd0c5be8a2e351613f8f0e34887c3954b852ef536ca00676"
       }
     ],
-    "downloadCount": 13536,
+    "downloadCount": 13544,
     "isAiAssisted": "False"
   },
   {
@@ -9520,7 +9533,7 @@
         ]
       }
     ],
-    "downloadCount": 418
+    "downloadCount": 421
   },
   {
     "id": "GroundControlRts",
@@ -9607,7 +9620,7 @@
         ]
       }
     ],
-    "downloadCount": 6404,
+    "downloadCount": 6410,
     "isAiAssisted": "False"
   },
   {
@@ -9703,7 +9716,7 @@
         }
       }
     ],
-    "downloadCount": 2014,
+    "downloadCount": 2020,
     "isAiAssisted": "False"
   },
   {
@@ -9831,7 +9844,7 @@
         }
       }
     ],
-    "downloadCount": 2683
+    "downloadCount": 2710
   },
   {
     "id": "highfleet_ru_voice",
@@ -9969,7 +9982,7 @@
         "hash": "sha256:f6414b84d1df84c691cdb80fa9db75cce592e066d66fe807e9e379f36449c5fe"
       }
     ],
-    "downloadCount": 4358,
+    "downloadCount": 4359,
     "isAiAssisted": "False"
   },
   {
@@ -10026,7 +10039,7 @@
         ]
       }
     ],
-    "downloadCount": 2041,
+    "downloadCount": 2048,
     "isAiAssisted": "False"
   },
   {
@@ -10151,7 +10164,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3619,
+    "downloadCount": 3621,
     "isAiAssisted": "False"
   },
   {
@@ -10257,7 +10270,7 @@
         "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
       }
     ],
-    "downloadCount": 2988,
+    "downloadCount": 2994,
     "isAiAssisted": "False"
   },
   {
@@ -10394,7 +10407,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 3419,
+    "downloadCount": 3433,
     "isAiAssisted": "True"
   },
   {
@@ -10546,7 +10559,7 @@
         ]
       }
     ],
-    "downloadCount": 9088,
+    "downloadCount": 9114,
     "isAiAssisted": "False"
   },
   {
@@ -10580,7 +10593,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 794,
+    "downloadCount": 796,
     "isAiAssisted": "False"
   },
   {
@@ -10623,7 +10636,7 @@
         }
       }
     ],
-    "downloadCount": 1869,
+    "downloadCount": 1871,
     "isAiAssisted": "False"
   },
   {
@@ -10680,7 +10693,7 @@
         }
       }
     ],
-    "downloadCount": 3767,
+    "downloadCount": 3770,
     "isAiAssisted": "False"
   },
   {
@@ -10743,7 +10756,7 @@
         "hash": "sha256:571ad2daa961de9cdd9c56df23a983369ed06423452306433c410ddb331e8b50"
       }
     ],
-    "downloadCount": 11345,
+    "downloadCount": 11355,
     "isAiAssisted": "False"
   },
   {
@@ -10823,7 +10836,7 @@
         }
       }
     ],
-    "downloadCount": 46560,
+    "downloadCount": 46578,
     "isAiAssisted": "False"
   },
   {
@@ -10865,7 +10878,7 @@
         ]
       }
     ],
-    "downloadCount": 1924,
+    "downloadCount": 1927,
     "isAiAssisted": "False"
   },
   {
@@ -10988,7 +11001,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 17180,
+    "downloadCount": 17189,
     "isAiAssisted": "False"
   },
   {
@@ -11022,7 +11035,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 8396,
+    "downloadCount": 8400,
     "isAiAssisted": "False"
   },
   {
@@ -11055,7 +11068,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 13404,
+    "downloadCount": 13411,
     "isAiAssisted": "False"
   },
   {
@@ -11089,7 +11102,7 @@
         "hash": "sha256:b0605039b15a30db94fd09db162d37bad009981e363dcde84fcb67d6fbfa35b8"
       }
     ],
-    "downloadCount": 301,
+    "downloadCount": 303,
     "isAiAssisted": "False"
   },
   {
@@ -11123,7 +11136,7 @@
         "hash": "sha256:3632f0ebf44e752a506526c95b5cd244356abce8318cb6868f925755b5c08f81"
       }
     ],
-    "downloadCount": 3906,
+    "downloadCount": 3909,
     "isAiAssisted": "False"
   },
   {
@@ -11285,7 +11298,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 10768,
+    "downloadCount": 10775,
     "isAiAssisted": "False"
   },
   {
@@ -13280,7 +13293,7 @@
         ]
       }
     ],
-    "downloadCount": 331,
+    "downloadCount": 332,
     "isAiAssisted": "False"
   },
   {
@@ -13421,7 +13434,7 @@
         "hash": "sha256:E78F676FA04AB9F3E4338ACC760AAC99A05E7192098715B3C5D18A29A73B4C15"
       }
     ],
-    "downloadCount": 8638,
+    "downloadCount": 8661,
     "isAiAssisted": "False"
   },
   {
@@ -13453,7 +13466,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 3181,
+    "downloadCount": 3182,
     "isAiAssisted": "False"
   },
   {
@@ -13510,7 +13523,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/Metadorius/MapMouseSelect/6e08c30fd6d5315d6ce84650c2f91956e2cb7ab7/docs/media/icon.png",
     "imageHash": "adfedc00aa6e4f1a3f1ed94552dcc9298de1dc2e6663cbd82718a104899352b1",
-    "downloadCount": 965,
+    "downloadCount": 966,
     "isAiAssisted": "False"
   },
   {
@@ -13657,7 +13670,7 @@
         ]
       }
     ],
-    "downloadCount": 15016,
+    "downloadCount": 15032,
     "isAiAssisted": "False"
   },
   {
@@ -13993,7 +14006,7 @@
         }
       }
     ],
-    "downloadCount": 24482,
+    "downloadCount": 24520,
     "isAiAssisted": "False"
   },
   {
@@ -14085,7 +14098,7 @@
         }
       }
     ],
-    "downloadCount": 12279,
+    "downloadCount": 12305,
     "isAiAssisted": "False"
   },
   {
@@ -14137,7 +14150,7 @@
         "hash": "sha256:0ece977a524ed76bf99b79704e661fdf9f3dea74cddcaafa9e558d36b0640c56"
       }
     ],
-    "downloadCount": 8960,
+    "downloadCount": 8974,
     "isClientOrServer": "Both",
     "isAiAssisted": "False"
   },
@@ -14238,7 +14251,7 @@
         ]
       }
     ],
-    "downloadCount": 2240,
+    "downloadCount": 2243,
     "isClientOrServer": "Client",
     "isAiAssisted": "False"
   },
@@ -14291,7 +14304,7 @@
         "hash": "sha256:d2d6b04918625ad889134c850969e917b24ed32dbce47da645fbbe1e74489419"
       }
     ],
-    "downloadCount": 1404,
+    "downloadCount": 1405,
     "isAiAssisted": "False"
   },
   {
@@ -14497,7 +14510,7 @@
         "hash": "sha256:25710f1307ccff0a3238adf5921ddb5f99229722141d1cdd275d368077908784"
       }
     ],
-    "downloadCount": 18298,
+    "downloadCount": 18332,
     "isAiAssisted": "False"
   },
   {
@@ -14563,7 +14576,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/Metadorius/MultiplayerLobbyFixes/e56bbb61957a50018e9244196918bb340b1c86da/icon.png",
     "imageHash": "53b31b20ec71865ae2647606a80e093ab05d89d94c062ac35135aeb1a3e048c2",
-    "downloadCount": 530,
+    "downloadCount": 533,
     "isAiAssisted": "False"
   },
   {
@@ -14838,7 +14851,7 @@
         ]
       }
     ],
-    "downloadCount": 2084,
+    "downloadCount": 2089,
     "isAiAssisted": "False"
   },
   {
@@ -14881,7 +14894,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 5452,
+    "downloadCount": 5454,
     "isAiAssisted": "False"
   },
   {
@@ -14956,7 +14969,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 787,
+    "downloadCount": 788,
     "isAiAssisted": "False"
   },
   {
@@ -15074,7 +15087,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 8117,
+    "downloadCount": 8120,
     "isAiAssisted": "False"
   },
   {
@@ -15260,7 +15273,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 11023,
+    "downloadCount": 11027,
     "isAiAssisted": "False"
   },
   {
@@ -15340,7 +15353,7 @@
         "hash": "sha256:a31b7b53a21f76c4d98beaa09759a8c3fbf5b59629e49350bc442b9d34d24952"
       }
     ],
-    "downloadCount": 852,
+    "downloadCount": 858,
     "isAiAssisted": "False"
   },
   {
@@ -15567,7 +15580,7 @@
         ]
       }
     ],
-    "downloadCount": 1347,
+    "downloadCount": 1350,
     "isAiAssisted": "False"
   },
   {
@@ -15763,7 +15776,7 @@
         ]
       }
     ],
-    "downloadCount": 24596,
+    "downloadCount": 24605,
     "isAiAssisted": "False"
   },
   {
@@ -16199,7 +16212,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 44797,
+    "downloadCount": 44814,
     "isAiAssisted": "False"
   },
   {
@@ -16272,7 +16285,7 @@
         ]
       }
     ],
-    "downloadCount": 2201,
+    "downloadCount": 2202,
     "isAiAssisted": "False"
   },
   {
@@ -16320,7 +16333,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 324,
+    "downloadCount": 350,
     "imageUrl": "https://raw.githubusercontent.com/GeraldHofbauerWeb/NO-RevokerECR/86de143519181ac753a2f69380724a2c4a2bd86e/docs/images/ea12-icon.png",
     "imageHash": "e5ffb22c2299c2280f0060049ccf2d1017a9c8aae1e7f0c68d90c5e4fe31b8b1"
   },
@@ -16360,7 +16373,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 61
+    "downloadCount": 62
   },
   {
     "id": "NoAbsoluteZoom",
@@ -16398,7 +16411,7 @@
         "hash": "sha256:8f669bef6cce12b4bbc45621e19a9d064469e05c1bfc2eb4c874a06da4343e1c"
       }
     ],
-    "downloadCount": 217,
+    "downloadCount": 218,
     "isAiAssisted": "False"
   },
   {
@@ -16436,7 +16449,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 152
+    "downloadCount": 154
   },
   {
     "id": "NOAirbaseLightsFix",
@@ -16479,7 +16492,7 @@
         ]
       }
     ],
-    "downloadCount": 126
+    "downloadCount": 127
   },
   {
     "id": "NOBlackBox",
@@ -16566,7 +16579,7 @@
     "imageUrl": "https://www.tacview.net/img/ico-tacview.png",
     "imageHash": "ce9298cdcef30b7694a2dcc58bc50222b9b41954da553ff6588133964df605fa",
     "isClientOrServer": "Both",
-    "downloadCount": 7764,
+    "downloadCount": 7765,
     "isAiAssisted": "False"
   },
   {
@@ -16604,7 +16617,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 102
+    "downloadCount": 105
   },
   {
     "id": "NOCobra",
@@ -16655,7 +16668,7 @@
         "hash": "sha256:f26f4b2da6f8ecfa0e5c383ee2ac26c7bb8cdf793e12446612d34521f3442418"
       }
     ],
-    "downloadCount": 1207,
+    "downloadCount": 1209,
     "isAiAssisted": "False"
   },
   {
@@ -16833,7 +16846,7 @@
         "hash": "sha256:0d65fdb6fb55601346750c0e9251bcd14e52a631bf4fa540aba835d781401d74"
       }
     ],
-    "downloadCount": 2360,
+    "downloadCount": 2362,
     "isAiAssisted": "False"
   },
   {
@@ -16997,7 +17010,7 @@
         }
       }
     ],
-    "downloadCount": 141
+    "downloadCount": 147
   },
   {
     "id": "NOCustomMaps.CascadiaFalling",
@@ -17045,7 +17058,7 @@
         ]
       }
     ],
-    "downloadCount": 5915,
+    "downloadCount": 5937,
     "isAiAssisted": "True"
   },
   {
@@ -17116,7 +17129,7 @@
         "hash": "sha256:dcad92ae51da5b46f38e709c81d07a8f448b2f08243a78b3814a28e137238af7"
       }
     ],
-    "downloadCount": 16216,
+    "downloadCount": 16254,
     "isAiAssisted": "False"
   },
   {
@@ -17162,7 +17175,7 @@
         }
       }
     ],
-    "downloadCount": 1506
+    "downloadCount": 1514
   },
   {
     "id": "NOCustomMaps.OpenSkies.KoreanPeninsula",
@@ -17207,7 +17220,7 @@
         }
       }
     ],
-    "downloadCount": 2446
+    "downloadCount": 2462
   },
   {
     "id": "NOCustomMaps.OpenSkies.LofotenNarvik",
@@ -17252,7 +17265,7 @@
         }
       }
     ],
-    "downloadCount": 1558
+    "downloadCount": 1565
   },
   {
     "id": "NOCustomMaps.OpenSkies.StraitOfHormuz",
@@ -17297,7 +17310,7 @@
         }
       }
     ],
-    "downloadCount": 2147
+    "downloadCount": 2161
   },
   {
     "id": "NOCustomMaps.OpenSkies.TaiwanStrait",
@@ -17342,7 +17355,7 @@
         }
       }
     ],
-    "downloadCount": 1629
+    "downloadCount": 1638
   },
   {
     "id": "NOCustomMaps.SwissAlps",
@@ -17406,7 +17419,7 @@
         }
       }
     ],
-    "downloadCount": 17210,
+    "downloadCount": 17244,
     "isAiAssisted": "False"
   },
   {
@@ -17550,7 +17563,7 @@
         ]
       }
     ],
-    "downloadCount": 5248,
+    "downloadCount": 5251,
     "isAiAssisted": "False"
   },
   {
@@ -17588,7 +17601,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 2830,
+    "downloadCount": 2843,
     "isAiAssisted": "True"
   },
   {
@@ -17625,7 +17638,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 481,
+    "downloadCount": 484,
     "isAiAssisted": "False"
   },
   {
@@ -17668,7 +17681,7 @@
         ]
       }
     ],
-    "downloadCount": 110
+    "downloadCount": 113
   },
   {
     "id": "NOLiveryPlus",
@@ -17789,7 +17802,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 7783,
+    "downloadCount": 7824,
     "isAiAssisted": "False"
   },
   {
@@ -17851,7 +17864,7 @@
         "hash": "sha256:d7aba3f84cd835eaa5a84ff1e1fd4b068b32c4f5d6742051bdba99c7d57428e7"
       }
     ],
-    "downloadCount": 1382,
+    "downloadCount": 1388,
     "isAiAssisted": "False"
   },
   {
@@ -17914,7 +17927,7 @@
         "hash": "sha256:626645001525a51f2ae93e44af573e4960eb400726c468cc9a5b508eb972a96c"
       }
     ],
-    "downloadCount": 773,
+    "downloadCount": 778,
     "isAiAssisted": "False"
   },
   {
@@ -17974,7 +17987,7 @@
         "hash": "sha256:f160d8464641126ce271ce594fa1176267f0b72d35b2f9f5989915bfb5467cd7"
       }
     ],
-    "downloadCount": 770,
+    "downloadCount": 774,
     "isAiAssisted": "False"
   },
   {
@@ -18018,7 +18031,7 @@
         "hash": "sha256:b2a46d825f3c3d16fa2d08759e1a76ca05d999ca8999cf58de444e01db6bc7bb"
       }
     ],
-    "downloadCount": 405,
+    "downloadCount": 406,
     "isAiAssisted": "False"
   },
   {
@@ -18122,7 +18135,7 @@
         "hash": "sha256:7e32a546b4ce21d698d23aa54ff872e825e655da65513926d6e6930de7b89c99"
       }
     ],
-    "downloadCount": 3449,
+    "downloadCount": 3458,
     "isAiAssisted": "False"
   },
   {
@@ -18157,7 +18170,7 @@
         "hash": "sha256:8b0e872ccc584840c971255cd849c08d347a86d762d88058592c38243767bfd2"
       }
     ],
-    "downloadCount": 928,
+    "downloadCount": 934,
     "isAiAssisted": "False"
   },
   {
@@ -18213,7 +18226,7 @@
         "hash": "sha256:7f4094305adf9fda13233bfb021a706413a50c174a0c7f49d17af5ac58ebfe31"
       }
     ],
-    "downloadCount": 1215,
+    "downloadCount": 1217,
     "isClientOrServer": "Both",
     "isAiAssisted": "False"
   },
@@ -18260,7 +18273,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 438,
+    "downloadCount": 440,
     "isAiAssisted": "False"
   },
   {
@@ -18349,7 +18362,7 @@
         "hash": "sha256:5b2f92e108a326c96f66b54da1b2c3e89c62e9ec7738a9c1167d9100821ba87e"
       }
     ],
-    "downloadCount": 461,
+    "downloadCount": 462,
     "isAiAssisted": "False"
   },
   {
@@ -18486,7 +18499,7 @@
         "hash": "sha256:6180d1c9e760b145d5570edca4fa6f06b45c87b7cb0244a0a69d17c6fbeb4301"
       }
     ],
-    "downloadCount": 1996
+    "downloadCount": 2002
   },
   {
     "id": "NOWinWingBridge",
@@ -18715,7 +18728,7 @@
         ]
       }
     ],
-    "downloadCount": 24466,
+    "downloadCount": 24474,
     "isAiAssisted": "False"
   },
   {
@@ -20029,7 +20042,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/roke77/NOXMFD/main/docs/images/icon.png",
     "imageHash": "c8cbf823cb5147537769080ef8753109bf1bac3515d17d1c70af68c336294de0",
-    "downloadCount": 11208,
+    "downloadCount": 11219,
     "isAiAssisted": "False"
   },
   {
@@ -20144,7 +20157,7 @@
         "hash": "sha256:2408fe71dbf38ec325cc22feec1a75b59849bd29933a4e6131df62273f4a950e"
       }
     ],
-    "downloadCount": 4679,
+    "downloadCount": 4682,
     "isAiAssisted": "False"
   },
   {
@@ -20383,7 +20396,7 @@
         ]
       }
     ],
-    "downloadCount": 7740,
+    "downloadCount": 7743,
     "isAiAssisted": "False"
   },
   {
@@ -20429,7 +20442,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 1557,
+    "downloadCount": 1559,
     "isAiAssisted": "False"
   },
   {
@@ -20566,7 +20579,7 @@
         ]
       }
     ],
-    "downloadCount": 1362,
+    "downloadCount": 1364,
     "isAiAssisted": "False"
   },
   {
@@ -20605,7 +20618,7 @@
         ]
       }
     ],
-    "downloadCount": 3300,
+    "downloadCount": 3301,
     "isAiAssisted": "False"
   },
   {
@@ -20739,7 +20752,7 @@
         "hash": "sha256:b57ff0cae168fccb1b6e927d4b9bc2681f244b70c5c6e40b28d6d01eb82d3011"
       }
     ],
-    "downloadCount": 758,
+    "downloadCount": 760,
     "isAiAssisted": "False"
   },
   {
@@ -20948,7 +20961,7 @@
         "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
       }
     ],
-    "downloadCount": 47663,
+    "downloadCount": 47747,
     "isAiAssisted": "False"
   },
   {
@@ -21045,7 +21058,7 @@
         "hash": "sha256:99df596c3eee73e57024d7848e31271a5e4f6cac5b512af77541f0865b6da752"
       }
     ],
-    "downloadCount": 1680,
+    "downloadCount": 1684,
     "isAiAssisted": "False"
   },
   {
@@ -21131,7 +21144,7 @@
         ]
       }
     ],
-    "downloadCount": 4326,
+    "downloadCount": 4329,
     "isAiAssisted": "False"
   },
   {
@@ -21318,7 +21331,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 3892,
+    "downloadCount": 3902,
     "isAiAssisted": "False"
   },
   {
@@ -21457,7 +21470,7 @@
         "hash": "sha256:9829adb5135f08d0b129453cb685628a7def130371f8f9770f5d3baf28feb66e"
       }
     ],
-    "downloadCount": 13323,
+    "downloadCount": 13328,
     "isAiAssisted": "False"
   },
   {
@@ -21493,7 +21506,7 @@
         "hash": "sha256:295535c345327aaf3f4a9e91ff51f635ef3a4bda8b4ffcf1337841e32b718ee4"
       }
     ],
-    "downloadCount": 327,
+    "downloadCount": 328,
     "isAiAssisted": "False"
   },
   {
@@ -21727,7 +21740,7 @@
         "hash": "sha256:5dcac9d50851f22d7921835771cb415b66160d7c669a033331fcc5f5ee5e419b"
       }
     ],
-    "downloadCount": 628,
+    "downloadCount": 629,
     "isAiAssisted": "False"
   },
   {
@@ -21819,6 +21832,15 @@
     "artifacts": [
       {
         "fileName": "p2082.expansion82.dll",
+        "version": "1.0.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.34.6",
+        "downloadUrl": "https://github.com/kingwixly/Expansion2082/releases/download/1.0.2/p2082.expansion82.dll",
+        "hash": "sha256:87f3d528d9add4c87b46dbc7db37af6270e9dbdd05d3722f7c27d4bea88fdfab"
+      },
+      {
+        "fileName": "p2082.expansion82.dll",
         "version": "1.0.1",
         "category": "release",
         "type": "plugin",
@@ -21837,7 +21859,7 @@
       }
     ],
     "isAiAssisted": "False",
-    "downloadCount": 4342
+    "downloadCount": 4389
   },
   {
     "id": "P220Primrose",
@@ -21895,7 +21917,7 @@
         ]
       }
     ],
-    "downloadCount": 4214
+    "downloadCount": 4243
   },
   {
     "id": "Pauel3312.NOKillWeapons",
@@ -21955,7 +21977,7 @@
         "hash": "sha256:b8899af8d033a66218213b8a041f3d6ca5eddcb21e6617205822eab7cbdd477e"
       }
     ],
-    "downloadCount": 3727,
+    "downloadCount": 3731,
     "isAiAssisted": "False"
   },
   {
@@ -22016,7 +22038,7 @@
         "hash": "sha256:5a0d349411bfc2eccffdf0cfa29d82c2563766f52da82326a56ab9d639322af4"
       }
     ],
-    "downloadCount": 3546,
+    "downloadCount": 3548,
     "isAiAssisted": "False"
   },
   {
@@ -22131,7 +22153,7 @@
         "hash": "sha256:141f8733266f619096b85699271f673c1afc0404d30912d3c25817f2c9b22756"
       }
     ],
-    "downloadCount": 3087,
+    "downloadCount": 3096,
     "isAiAssisted": "False"
   },
   {
@@ -22204,7 +22226,7 @@
         ]
       }
     ],
-    "downloadCount": 14778,
+    "downloadCount": 14818,
     "isAiAssisted": "False"
   },
   {
@@ -22265,7 +22287,7 @@
         ]
       }
     ],
-    "downloadCount": 2766,
+    "downloadCount": 2775,
     "isAiAssisted": "False"
   },
   {
@@ -22427,7 +22449,7 @@
         "hash": "sha256:33d5363ba6f8329c9a809c900595c7c5e178e85e25fe615d9b6ca625e957cff4"
       }
     ],
-    "downloadCount": 3742,
+    "downloadCount": 3765,
     "isAiAssisted": "False"
   },
   {
@@ -22532,7 +22554,7 @@
         }
       }
     ],
-    "downloadCount": 2813,
+    "downloadCount": 2820,
     "isAiAssisted": "False"
   },
   {
@@ -22670,7 +22692,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 12868,
+    "downloadCount": 12872,
     "isAiAssisted": "False"
   },
   {
@@ -22709,7 +22731,7 @@
         "hash": "sha256:08dd8400304cc5b6d18ee26611879a39f89709e3140f2dc28f6528008ad38ea2"
       }
     ],
-    "downloadCount": 1001,
+    "downloadCount": 1003,
     "isAiAssisted": "False"
   },
   {
@@ -22756,7 +22778,7 @@
         "hash": "sha256:990fb5a50eaabe43659331c93a0d0d6e3b4fb1e0b5e07de355aa28a7102aebe1"
       }
     ],
-    "downloadCount": 822,
+    "downloadCount": 825,
     "isAiAssisted": "False"
   },
   {
@@ -22858,7 +22880,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 2037
+    "downloadCount": 2049
   },
   {
     "id": "RITA_RVWS",
@@ -22996,7 +23018,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 147379,
+    "downloadCount": 147392,
     "isClientOrServer": "Client",
     "isAiAssisted": "False"
   },
@@ -23041,7 +23063,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 78,
+    "downloadCount": 79,
     "isAiAssisted": "False"
   },
   {
@@ -23098,7 +23120,7 @@
         ]
       }
     ],
-    "downloadCount": 3910,
+    "downloadCount": 3924,
     "isAiAssisted": "False"
   },
   {
@@ -23257,7 +23279,7 @@
         ]
       }
     ],
-    "downloadCount": 1660,
+    "downloadCount": 1667,
     "isAiAssisted": "False"
   },
   {
@@ -23299,7 +23321,7 @@
         "hash": "sha256:a1038722ff26f04ba99bf56151892e123370f73ecbc8ae2967d6887dae8617f9"
       }
     ],
-    "downloadCount": 5064,
+    "downloadCount": 5071,
     "isAiAssisted": "False"
   },
   {
@@ -23343,7 +23365,7 @@
         "hash": "sha256:81a7192c8b138162096000b2d6608eb089316eca2fafc29cb350f00d1ead84ea"
       }
     ],
-    "downloadCount": 924,
+    "downloadCount": 928,
     "isAiAssisted": "False"
   },
   {
@@ -23504,7 +23526,7 @@
         ]
       }
     ],
-    "downloadCount": 10688,
+    "downloadCount": 10711,
     "isAiAssisted": "False"
   },
   {
@@ -23641,7 +23663,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/SolarUI.png",
     "imageHash": "cc068f1a83fcfc9e0fcdef28b8d1acd26521476f347317b66292a71910b2913a",
-    "downloadCount": 565,
+    "downloadCount": 569,
     "isAiAssisted": "False"
   },
   {
@@ -23677,7 +23699,7 @@
         "hash": "sha256:de848f759b6490454c0fb1a279d25497a881b7831874350947e26a734372552e"
       }
     ],
-    "downloadCount": 312,
+    "downloadCount": 313,
     "isAiAssisted": "False"
   },
   {
@@ -23719,7 +23741,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
       }
     ],
-    "downloadCount": 874,
+    "downloadCount": 875,
     "isAiAssisted": "False"
   },
   {
@@ -23823,7 +23845,7 @@
         ]
       }
     ],
-    "downloadCount": 1642
+    "downloadCount": 1667
   },
   {
     "id": "TaigaArsenal",
@@ -23888,7 +23910,7 @@
         ]
       }
     ],
-    "downloadCount": 425
+    "downloadCount": 432
   },
   {
     "id": "TarantulaTiltSensitivity",
@@ -23921,7 +23943,7 @@
         "hash": "sha256:b1fb596a4a883aa1bfdb616bed0210c9c3c44d4d771601db5120e0c600010051"
       }
     ],
-    "downloadCount": 754,
+    "downloadCount": 755,
     "isAiAssisted": "False"
   },
   {
@@ -23993,7 +24015,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 6763,
+    "downloadCount": 6764,
     "isAiAssisted": "False"
   },
   {
@@ -24097,7 +24119,7 @@
         ]
       }
     ],
-    "downloadCount": 1320
+    "downloadCount": 1334
   },
   {
     "id": "TernionVaporTuner",
@@ -24169,7 +24191,7 @@
         ]
       }
     ],
-    "downloadCount": 4580,
+    "downloadCount": 4581,
     "isAiAssisted": "False"
   },
   {
@@ -24317,7 +24339,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 6600,
+    "downloadCount": 6602,
     "isAiAssisted": "False"
   },
   {
@@ -24376,7 +24398,7 @@
         ]
       }
     ],
-    "downloadCount": 2886,
+    "downloadCount": 2891,
     "isAiAssisted": "False"
   },
   {
@@ -24450,7 +24472,7 @@
         ]
       }
     ],
-    "downloadCount": 2411
+    "downloadCount": 2444
   },
   {
     "id": "UndelayedThrottle",
@@ -24482,7 +24504,7 @@
         "hash": "sha256:17002fd05e3fb01ee703f32d85656e2c06cf63977aa9bf81361ca70d67fa5710"
       }
     ],
-    "downloadCount": 625,
+    "downloadCount": 627,
     "isAiAssisted": "False"
   },
   {
@@ -24589,7 +24611,7 @@
         ]
       }
     ],
-    "downloadCount": 11558,
+    "downloadCount": 11562,
     "isAiAssisted": "False"
   },
   {
@@ -24654,7 +24676,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 9880,
+    "downloadCount": 9884,
     "isAiAssisted": "False"
   },
   {
@@ -24703,7 +24725,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/NuclearPlus.png",
     "imageHash": "a2fe8adf88a226a726616865ba477891e79607637f5e11689464363b79dda53a",
-    "downloadCount": 1171,
+    "downloadCount": 1174,
     "isAiAssisted": "False"
   },
   {
@@ -24808,7 +24830,7 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/SolarDyn/Assets/refs/heads/main/icon/CollimatedHUD.png",
     "imageHash": "a50838ad4f1c39eea75fbde2cb0f6769659dc69c25550478eff20a082e3f4d56",
-    "downloadCount": 1621,
+    "downloadCount": 1624,
     "isAiAssisted": "False"
   },
   {
@@ -24887,7 +24909,7 @@
         "isAiAssisted": "True"
       }
     ],
-    "downloadCount": 1707
+    "downloadCount": 1718
   },
   {
     "id": "vladzgrid.f4ephantom",
@@ -24940,7 +24962,7 @@
         }
       }
     ],
-    "downloadCount": 8620,
+    "downloadCount": 8640,
     "isAiAssisted": "False"
   },
   {
@@ -24979,7 +25001,7 @@
         }
       }
     ],
-    "downloadCount": 6118,
+    "downloadCount": 6140,
     "isAiAssisted": "False"
   },
   {
@@ -25046,7 +25068,7 @@
         ]
       }
     ],
-    "downloadCount": 243
+    "downloadCount": 253
   },
   {
     "id": "WeatherController",
@@ -25077,7 +25099,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 4879,
+    "downloadCount": 4880,
     "isAiAssisted": "False"
   },
   {
@@ -25194,7 +25216,7 @@
         "hash": "sha256:a5ca9f18d2ef36a3729b4a24eafd0d1adf56ba7d8495cbcb929a3413caca9671"
       }
     ],
-    "downloadCount": 4587,
+    "downloadCount": 4597,
     "isAiAssisted": "False"
   },
   {
@@ -25228,7 +25250,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 16920,
+    "downloadCount": 16930,
     "isAiAssisted": "False"
   },
   {

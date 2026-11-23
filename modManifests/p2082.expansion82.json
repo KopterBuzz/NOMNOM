@@ -25,6 +25,15 @@
   "artifacts": [
     {
       "fileName": "p2082.expansion82.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/kingwixly/Expansion2082/releases/download/1.0.2/p2082.expansion82.dll",
+      "hash": "sha256:87f3d528d9add4c87b46dbc7db37af6270e9dbdd05d3722f7c27d4bea88fdfab"
+    },
+    {
+      "fileName": "p2082.expansion82.dll",
       "version": "1.0.1",
       "category": "release",
       "type": "plugin",
@@ -43,5 +52,5 @@
     }
   ],
   "isAiAssisted": "False",
-  "downloadCount": 4342
+  "downloadCount": 4389
 }
