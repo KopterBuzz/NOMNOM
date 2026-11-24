@@ -1,7 +1,7 @@
 {
   "id": "GroundControlFactions",
   "displayName": "Ground Control Factions",
-  "description": "Up to ten factions in one match. Set the Factions slider (2 to 10) on Customize Mission or in the mission editor; each extra faction gets its own HQ, funds, bases and stock AI army. Works on its own, and with Ground Control (RTS) when both are installed.",
+  "description": "Up to ten factions in one match. Set the Factions slider (2 to 10) on Customize Mission or in the mission editor; Works on its own, and with Ground Control (RTS) (Recomended GC RTS for better AI).",
   "tags": [
     "Gameplay",
     "Multiplayer"
