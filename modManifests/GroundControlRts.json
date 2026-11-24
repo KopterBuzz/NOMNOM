@@ -24,6 +24,21 @@
   "artifacts": [
     {
       "fileName": "GroundControlRts.zip",
+      "version": "1.0.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/simonsimme/Ground-Controll-RTS/releases/download/1.0.0.4/GroundControlRts.zip",
+      "hash": "sha256:d0a0aa6d04085cdb797368a68838d37c73e96e9aba6c5c454b0b76f025b707cc",
+      "incompatibilities": [
+        {
+          "id": "NuclearOptionCommander",
+          "version": "0.1.2.0"
+        }
+      ]
+    },
+    {
+      "fileName": "GroundControlRts.zip",
       "version": "1.0.0.3",
       "category": "release",
       "type": "plugin",
@@ -83,6 +98,6 @@
       ]
     }
   ],
-  "downloadCount": 6513,
+  "downloadCount": 6565,
   "isAiAssisted": "False"
 }
