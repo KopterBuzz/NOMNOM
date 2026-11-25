@@ -24,6 +24,15 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
+      "fileName": "FS12-Revoker-FCS-1.8.5.zip",
+      "version": "1.8.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/duythinh2022-ui/Better-FBW-for-FS-12-Revoker.-Advanced-Flight-Control-System-for-stock-Nuclear-Option-Revoker/releases/download/v1.8.5/FS12-Revoker-FCS-1.8.5.zip",
+      "hash": "sha256:75f75991e4433ccb0e5902fc096978d61a43d0886b809fe79e5662af03dff718"
+    },
+    {
       "fileName": "FS12-Revoker-FCS-1.6.0.zip",
       "version": "1.6.0",
       "category": "release",
@@ -106,5 +115,5 @@
       "dependencies": []
     }
   ],
-  "downloadCount": 2131
+  "downloadCount": 2199
 }
