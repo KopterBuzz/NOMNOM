@@ -25,6 +25,21 @@
   "artifacts": [
     {
       "fileName": "FS-20-Vortex-Family.zip",
+      "version": "0.7.3",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/jptecr2314/FS-20-Vortex-Family/releases/download/fs20-v0.7.3/FS-20-Vortex-Family.zip",
+      "hash": "sha256:4647366886dc3a368cb26a3a2ee020f582d2d553100e593c266f5868cc304e36",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.2"
+        }
+      ]
+    },
+    {
+      "fileName": "FS-20-Vortex-Family.zip",
       "version": "0.7.2",
       "category": "preRelease",
       "type": "plugin",
@@ -115,5 +130,5 @@
     }
   ],
   "releaseTagPrefix": "fs20-v",
-  "downloadCount": 2888
+  "downloadCount": 3077
 }
