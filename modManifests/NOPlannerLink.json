@@ -1,13 +1,24 @@
 {
   "id": "NOPlannerLink",
   "displayName": "NO Planner Link",
-  "description": "Streams your game to the NO Mission Planner web map (nuclear-planner.vercel.app): your aircraft, your team (green), friendly and enemy units live, and destroyed targets disappear from the plan. Read-only; shows only what your faction knows unless the host enables 'Everything'.",
-  "tags": ["QoL", "Utility"],
-  "urls": [
-    { "name": "info", "url": "https://github.com/Baeloha/NOPlannerLink" },
-    { "name": "planner", "url": "https://nuclear-planner.vercel.app" }
+  "description": "Streams your game to the NO Mission Planner web map (nuclear-planner.vercel.app): your aircraft, your team (green), friendly and enemy units live, your locked targets, enemy radars painting you, and destroyed targets disappear from the plan. Read-only; shows only what your side has detected unless the host enables 'Everything'.",
+  "tags": [
+    "QoL",
+    "Utility"
   ],
-  "authors": ["Baeloha"],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Baeloha/NOPlannerLink"
+    },
+    {
+      "name": "planner",
+      "url": "https://nuclear-planner.vercel.app"
+    }
+  ],
+  "authors": [
+    "Baeloha"
+  ],
   "isClientOrServer": "Both",
   "githubOwner": "Baeloha",
   "githubRepoName": "NOPlannerLink",
@@ -23,6 +34,17 @@
       "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/Baeloha/NOPlannerLink/releases/download/v1.0.0/NOPlannerLink.dll",
       "hash": "sha256:d36a2750cb9faf5a63b62415964e6a5da8505cc817554ab2a26cda822d7763f7",
+      "dependencies": [],
+      "incompatibilities": []
+    },
+    {
+      "fileName": "NOPlannerLink.dll",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Baeloha/NOPlannerLink/releases/download/v1.1.0/NOPlannerLink.dll",
+      "hash": "sha256:43d9d04361eb4b19e01cd5ba5c423ef3d726284742376a729040a24897ba50d6",
       "dependencies": [],
       "incompatibilities": []
     }
