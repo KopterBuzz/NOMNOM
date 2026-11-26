@@ -1,0 +1,30 @@
+{
+  "id": "NOPlannerLink",
+  "displayName": "NO Planner Link",
+  "description": "Streams your game to the NO Mission Planner web map (nuclear-planner.vercel.app): your aircraft, your team (green), friendly and enemy units live, and destroyed targets disappear from the plan. Read-only; shows only what your faction knows unless the host enables 'Everything'.",
+  "tags": ["QoL", "Utility"],
+  "urls": [
+    { "name": "info", "url": "https://github.com/Baeloha/NOPlannerLink" },
+    { "name": "planner", "url": "https://nuclear-planner.vercel.app" }
+  ],
+  "authors": ["Baeloha"],
+  "isClientOrServer": "Both",
+  "githubOwner": "Baeloha",
+  "githubRepoName": "NOPlannerLink",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseAssetName": "NOPlannerLink.dll",
+  "artifacts": [
+    {
+      "fileName": "NOPlannerLink.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Baeloha/NOPlannerLink/releases/download/v1.0.0/NOPlannerLink.dll",
+      "hash": "sha256:d36a2750cb9faf5a63b62415964e6a5da8505cc817554ab2a26cda822d7763f7",
+      "dependencies": [],
+      "incompatibilities": []
+    }
+  ]
+}
