@@ -1,7 +1,7 @@
 {
   "id": "NOPlannerLink",
   "displayName": "NO Planner Link",
-  "description": "Streams your game to the NO Mission Planner web map (nuclear-planner.vercel.app): your aircraft, your team (green), friendly and enemy units live, your locked targets, enemy radars painting you, and destroyed targets disappear from the plan. Read-only; shows only what your side has detected unless the host enables 'Everything'.",
+  "description": "Streams your game to the NO Mission Planner web map (nuclear-planner.vercel.app): your aircraft, your team (green), friendly and enemy units live, your targets, radars painting you, missiles coming at you, jamming, and destroyed targets disappear from the plan. In Detected mode you can pick targets for your own aircraft from the planner. Shows only what your side has detected unless the host enables 'Everything'.",
   "tags": [
     "QoL",
     "Utility"
@@ -45,6 +45,17 @@
       "gameVersion": "0.34.6",
       "downloadUrl": "https://github.com/Baeloha/NOPlannerLink/releases/download/v1.1.0/NOPlannerLink.dll",
       "hash": "sha256:43d9d04361eb4b19e01cd5ba5c423ef3d726284742376a729040a24897ba50d6",
+      "dependencies": [],
+      "incompatibilities": []
+    },
+    {
+      "fileName": "NOPlannerLink.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Baeloha/NOPlannerLink/releases/download/v1.2.0/NOPlannerLink.dll",
+      "hash": "sha256:15deb5d2e0f382f7f3b55ff92f22491a146d8015d32702e54192154b9e1d80e7",
       "dependencies": [],
       "incompatibilities": []
     }
