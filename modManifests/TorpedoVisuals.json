@@ -1,0 +1,42 @@
+{
+  "id": "TorpedoVisuals",
+  "displayName": "Torpedo Visuals",
+  "description": "Dedicated low-poly models, textures and weapon icons for the four torpedoes of the Torpedo mod, replacing the stock missile models they borrow. Purely cosmetic and client-side.",
+  "tags": [
+    "mod",
+    "visual",
+    "weapon"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/worldfish5212-design/NuclearOption-TorpedoVisuals"
+    }
+  ],
+  "authors": [
+    "worldfish5212-design"
+  ],
+  "githubOwner": "worldfish5212-design",
+  "githubRepoName": "NuclearOption-TorpedoVisuals",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "TorpedoVisuals.zip",
+  "isAiAssisted": "True",
+  "isClientOrServer": "Client",
+  "artifacts": [
+    {
+      "fileName": "TorpedoVisuals.zip",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/worldfish5212-design/NuclearOption-TorpedoVisuals/releases/download/v2.0.0/TorpedoVisuals.zip",
+      "hash": "sha256:87c5841110fac21e8158d566566360a93652ee2a3f9f51c142a834b7c409960e",
+      "dependencies": [
+        {
+          "id": "neutral.torpedo",
+          "version": "1.1.2"
+        }
+      ]
+    }
+  ]
+}
