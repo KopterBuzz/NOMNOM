@@ -1,7 +1,7 @@
 {
   "id": "NOPlannerLink",
   "displayName": "NO Planner Link",
-  "description": "Streams your game to the NO Mission Planner web map (nuclear-planner.vercel.app): your aircraft, your team (green), friendly and enemy units live, your targets, radars painting you, missiles coming at you, jamming, and destroyed targets disappear from the plan. Load the running mission straight into the planner; in Detected mode you can pick targets for your own aircraft from the planner. Shows only what your side has detected unless the host enables 'Everything'.",
+  "description": "Streams your game to the NO Mission Planner web map (nuclear-planner.vercel.app): your aircraft, your team (green), friendly and enemy units live, your targets, radars painting you, missiles coming at you, jamming, and destroyed targets disappear from the plan. Load the running mission straight into the planner, and see your planned routes and notes on the in-game map; in Detected mode you can pick targets for your own aircraft from the planner. Shows only what your side has detected unless the host enables 'Everything'.",
   "tags": [
     "QoL",
     "Utility"
