@@ -24,13 +24,13 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
-      "fileName": "GroundControlRtsExpanded-v0.1.1.zip",
-      "version": "0.1.1",
+      "fileName": "GroundControlRtsExpanded-v0.1.2.zip",
+      "version": "0.1.2",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.34.6",
-      "downloadUrl": "https://github.com/ericogamo/GroundControlRtsExpanded/releases/download/v0.1.1/GroundControlRtsExpanded-v0.1.1.zip",
-      "hash": "sha256:6a1b7f978d5aee8afc0ec5a787b28d290a013ef50208de24ea70b5d745a8eb2b",
+      "downloadUrl": "https://github.com/ericogamo/GroundControlRtsExpanded/releases/download/v0.1.2/GroundControlRtsExpanded-v0.1.2.zip",
+      "hash": "sha256:add8c4c41645c15d6c075e2ef134aae9f46993a547f2d127ec1eb0eb9ddc16ff",
       "dependencies": [
         {
           "id": "GroundControlRts",
