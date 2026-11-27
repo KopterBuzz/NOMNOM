@@ -22,6 +22,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Centurion-v0.2.0-nomm.zip",
+      "version": "0.2.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/MRB-100-Centurion/releases/download/v0.2.0/Centurion-v0.2.0-nomm.zip",
+      "hash": "sha256:9668e7f97dae7ac282f10a3566621dfabedb77300b49f014eba577bafa27f89c",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.2"
+        }
+      ]
+    },
+    {
       "fileName": "Centurion-v0.1.3-nomm.zip",
       "version": "0.1.3",
       "category": "preRelease",
@@ -37,6 +52,6 @@
       ]
     }
   ],
-  "downloadCount": 8556,
+  "downloadCount": 8597,
   "isAiAssisted": "False"
 }
