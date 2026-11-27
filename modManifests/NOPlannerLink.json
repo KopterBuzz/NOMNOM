@@ -69,6 +69,17 @@
       "hash": "sha256:d03269b9dd4625bf8eaf52d92eb98dfdb6c72d799b65d5b1e30681b1de0ffd82",
       "dependencies": [],
       "incompatibilities": []
+    },
+    {
+      "fileName": "NOPlannerLink.dll",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/Baeloha/NOPlannerLink/releases/download/v1.4.0/NOPlannerLink.dll",
+      "hash": "sha256:8279b41f2294022fcc47f0e0f5bc3fb5b5a8ed3611798b97c8830c79c0539233",
+      "dependencies": [],
+      "incompatibilities": []
     }
   ]
 }
