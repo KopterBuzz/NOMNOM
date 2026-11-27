@@ -24,13 +24,13 @@
   "isAiAssisted": "True",
   "artifacts": [
     {
-      "fileName": "MDSFramework-v0.1.1.zip",
-      "version": "0.1.1",
+      "fileName": "MDSFramework-v0.1.2.zip",
+      "version": "0.1.2",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.34.6",
-      "downloadUrl": "https://github.com/ericogamo/MDSFramework/releases/download/v0.1.1/MDSFramework-v0.1.1.zip",
-      "hash": "sha256:915da300eead3acabdb650fcbcd29aa2bf16521ef9ad7cadbf24bcc7edec16c7",
+      "downloadUrl": "https://github.com/ericogamo/MDSFramework/releases/download/v0.1.2/MDSFramework-v0.1.2.zip",
+      "hash": "sha256:f6ba47586ddd9eb0e78b4f1248d55d238a7674760fc92396daae915bfbc0ecd4",
       "dependencies": [],
       "incompatibilities": []
     }
