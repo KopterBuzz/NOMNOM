@@ -22,6 +22,36 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Icarus-v0.4.2-nomm.zip",
+      "version": "0.4.2",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/F-204-Icarus-II/releases/download/v0.4.2/Icarus-v0.4.2-nomm.zip",
+      "hash": "sha256:f32df50c39ad24132ae25236e936f787029db0eed666e822e7357ccc335f4554",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.2"
+        }
+      ]
+    },
+    {
+      "fileName": "Icarus-v0.4.1-nomm.zip",
+      "version": "0.4.1",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/F-204-Icarus-II/releases/download/v0.4.1/Icarus-v0.4.1-nomm.zip",
+      "hash": "sha256:823f2bdf92afbb3c9422f85b61e6a5099de2050d9fcd633dac3a275a5a624c1a",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "2.1.2"
+        }
+      ]
+    },
+    {
       "fileName": "Icarus-v0.4.0-nomm.zip",
       "version": "0.4.0",
       "category": "preRelease",
@@ -82,6 +112,6 @@
       ]
     }
   ],
-  "downloadCount": 10454,
+  "downloadCount": 10573,
   "isAiAssisted": "False"
 }
