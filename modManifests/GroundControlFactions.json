@@ -1,0 +1,36 @@
+{
+  "id": "GroundControlFactions",
+  "displayName": "Ground Control Factions",
+  "description": "Up to ten factions in one match. Set the Factions slider (2 to 10) on Customize Mission or in the mission editor; Works on its own, and with Ground Control (RTS) (Recomended GC RTS for better AI).",
+  "tags": [
+    "Gameplay",
+    "Multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/simonsimme/Ground-Control-Factions"
+    }
+  ],
+  "authors": [
+    "simonsimme"
+  ],
+  "isClientOrServer": "Both",
+  "imageUrl": "https://raw.githubusercontent.com/simonsimme/Ground-Control-Factions/75ae3bbe234417e2b664ec15548e4cdaa69af191/icon.png",
+  "imageHash": "50a6c1cc0c05e22a3459f809f3049dfbd6675716bd5661be2de9ea8c25c3a163",
+  "githubOwner": "simonsimme",
+  "githubRepoName": "Ground-Control-Factions",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "GroundControlFactions.zip",
+      "version": "1.0.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/simonsimme/Ground-Control-Factions/releases/download/1.0.0.4/GroundControlFactions.zip",
+      "hash": "sha256:7c3c76ced3ce13ce8a2552ae81605226bf04a4df55cbaee82bd23a54c92b1648"
+    }
+  ],
+  "isAiAssisted": "False"
+}
