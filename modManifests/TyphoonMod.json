@@ -1,7 +1,7 @@
 {
   "id": "TyphoonMod",
   "displayName": "EF-2000 Typhoon FGR.6",
-  "description": "Turns the FS-12 Revoker into a Eurofighter Typhoon: a complete new exterior and a fully modelled, working cockpit with seven live displays, 89 backlit key legends, 26 moving surfaces, a weapon bay with rotary launcher and its own engine sounds. Flight performance, weapons and damage are the Revoker's own, unchanged. Other players see the Typhoon only if they have the mod too. Large download (about 600 MB) and about 1.1 GB of video memory.",
+  "description": "Turns the FS-12 Revoker into a Eurofighter Typhoon: a complete new exterior and a fully modelled, working cockpit with seven live displays, 89 backlit key legends, 26 moving surfaces and a weapon bay with rotary launcher. Flight performance, weapons, damage and sounds are the Revoker's own, unchanged. Other players see the Typhoon only if they have the mod too. Large download (about 600 MB) and about 1.1 GB of video memory.",
   "tags": [
     "mod",
     "aircraft",
@@ -25,12 +25,12 @@
   "artifacts": [
     {
       "fileName": "TyphoonMod.zip",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.34.6",
-      "downloadUrl": "https://github.com/Ed0xP/TyphoonFGR6-NuclearOption-Mod-WIP/releases/download/v1.0.0/TyphoonMod.zip",
-      "hash": "sha256:2c430c93a9bcc099db82fff62569c2c63b59ee3692c7527ef2e8d4c16b4f694a",
+      "downloadUrl": "https://github.com/Ed0xP/TyphoonFGR6-NuclearOption-Mod-WIP/releases/download/v1.0.1/TyphoonMod.zip",
+      "hash": "sha256:a6461196ecfb1265509ce01cccb91aff4cb4d4a5d489978561b4871112fea730",
       "dependencies": []
     }
   ]
