@@ -1,0 +1,43 @@
+{
+  "id": "GroundControlRtsExpanded",
+  "displayName": "Ground Control RTS Expanded",
+  "description": "Gameplay, AI commander, air-defence station, supply logistics, ABM, road & performance expansion addon for Ground Control (RTS), with optional MDSFramework & VanguardDefence integration.",
+  "tags": [
+    "mod",
+    "Gameplay",
+    "Multiplayer",
+    "AI"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ericogamo/GroundControlRtsExpanded"
+    }
+  ],
+  "authors": [
+    "ericogamo"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "ericogamo",
+  "githubRepoName": "GroundControlRtsExpanded",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "GroundControlRtsExpanded-v0.1.2.zip",
+      "version": "0.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ericogamo/GroundControlRtsExpanded/releases/download/v0.1.2/GroundControlRtsExpanded-v0.1.2.zip",
+      "hash": "sha256:add8c4c41645c15d6c075e2ef134aae9f46993a547f2d127ec1eb0eb9ddc16ff",
+      "dependencies": [
+        {
+          "id": "GroundControlRts",
+          "version": "1.0.0.4"
+        }
+      ],
+      "incompatibilities": []
+    }
+  ]
+}

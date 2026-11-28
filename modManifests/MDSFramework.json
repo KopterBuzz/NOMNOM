@@ -1,0 +1,38 @@
+{
+  "id": "MDSFramework",
+  "displayName": "MDS Framework",
+  "description": "Modular Defence System framework for Nuclear Option (BepInEx 5): custom GLB 3D units & missiles, AESA/ELINT/Home-on-Jam sensor networks, smart WTA (HEL laser, 35mm AHEAD, SAM/VLS), and airdrop/sling logistics.",
+  "tags": [
+    "mod",
+    "Framework",
+    "Gameplay",
+    "Multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ericogamo/MDSFramework"
+    }
+  ],
+  "authors": [
+    "ericogamo"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "ericogamo",
+  "githubRepoName": "MDSFramework",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "artifacts": [
+    {
+      "fileName": "MDSFramework-v0.1.2.zip",
+      "version": "0.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/ericogamo/MDSFramework/releases/download/v0.1.2/MDSFramework-v0.1.2.zip",
+      "hash": "sha256:f6ba47586ddd9eb0e78b4f1248d55d238a7674760fc92396daae915bfbc0ecd4",
+      "dependencies": [],
+      "incompatibilities": []
+    }
+  ]
+}
