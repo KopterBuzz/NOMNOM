@@ -1,0 +1,32 @@
+{
+  "id": "NOAcesHigh",
+  "displayName": "NO Aces High",
+  "description": "Enemy ace squadrons in the spirit of Ace Combat and Project Wingman. Make enough noise and the enemy sends its best after you: a named squadron with an emblem, a cinematic intro and title card, radio chatter and music, flown by aces who use post-stall manoeuvres, jam, go dark, beam missiles and fire back over the shoulder. Threat gauge and squadron health bars on the HUD, a record with kill markings and medals, and handmade squadrons with your own emblems, music, voice lines, liveries and loadouts. UI Plus is recommended for the HUD integration.",
+  "tags": ["mod", "Gameplay", "AI", "multiplayer", "HUD"],
+  "urls": [
+    { "name": "info", "url": "https://github.com/MusketGolfer/NO-Aces-High" },
+    { "name": "squadron guide", "url": "https://github.com/MusketGolfer/NO-Aces-High/blob/main/Squadrons/README.md" }
+  ],
+  "authors": ["MusketGolfer"],
+  "isClientOrServer": "Both",
+  "githubOwner": "MusketGolfer",
+  "githubRepoName": "NO-Aces-High",
+  "autoUpdateArtifacts": "True",
+  "isAiAssisted": "True",
+  "releaseTagPrefix": "v",
+  "releaseAssetName": "NOAcesHigh-nomm.zip",
+  "artifacts": [
+    {
+      "fileName": "NOAcesHigh-nomm.zip",
+      "version": "1.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.6",
+      "downloadUrl": "https://github.com/MusketGolfer/NO-Aces-High/releases/download/v1.2.1/NOAcesHigh-nomm.zip",
+      "hash": "sha256:cfd68291ba02b0e7d51c80b92a65fc713617d9c712975fa76bf85179213bcb87",
+      "dependencies": [
+        { "id": "BepInEx.ConfigurationManager", "version": "18.4.1" }
+      ]
+    }
+  ]
+}
